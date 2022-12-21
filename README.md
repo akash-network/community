@@ -7,6 +7,8 @@ This is the starting point for joining and contributing to building Akash Networ
 ## Community Groups
 The Akash Network community groups are insipired by the [Kubernetes project](https://github.com/kubernetes/community) and currently consist of the following groups. As our community evolves, we will consider changing this structure as needed. All groups listed below or open to anyone interested in participating in them, except "Commitees" that have preassigned members.
 
+    ![Screen Shot 2022-12-20 at 5 04 31 PM](https://user-images.githubusercontent.com/19495789/208796888-97f9ee41-f8dc-4a85-86ed-b93dba98f238.png)
+
 ### Special Interest Groups (SIGs)
 SIGs are vertically specialized community groups that are working on foundational elements of Akash Network on implementing and supporting products that are defined by the working groups or by smaller feature ideas. **SIGs may generally be involved in both defining (spec’ing) as well as building specific products and features. SIGs are persistent groups in that they exist forever.**
 
@@ -21,8 +23,6 @@ Committees are named sets of people that are chartered to take on sensitive topi
 
 - #### Steering Commitee
     The Steeting Commitee is a special SIG that periodically evaluates the list of projects, prioritizes/ adds/ removes items from them and decides which SIG or WG is best suited to tackle it. The Steering committee also regularly meets to incorporate learnings to improve how the Akash Network community operates and performs conflict resolution as necessary
-    
-    ![Screen Shot 2022-12-20 at 5 04 31 PM](https://user-images.githubusercontent.com/19495789/208796888-97f9ee41-f8dc-4a85-86ed-b93dba98f238.png)
 
 
 ### Examples
