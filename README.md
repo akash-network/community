@@ -2,7 +2,7 @@
 
 Welcome to the Akash Network community!
 
-This is the starting point for joining and contributing to building Akash Network - like committing code, writing docs, testing product features & reporting bugs, organizing meetups, suggesting ideas for new features etc.
+This is the starting point for joining and contributing to building Akash Network - committing code, writing docs, testing product features & reporting bugs, organizing meetups, suggesting ideas for new features etc.
 
 ## Community Groups
 The Akash Network community groups are insipired by the [Kubernetes project](https://github.com/kubernetes/community) and currently consist of the following groups. As our community evolves, we will consider changing this structure as needed. All groups listed below or open to anyone interested in participating in them, except "Commitees" that have preassigned members.
@@ -19,7 +19,7 @@ WGs are horizontally aligned community groups that are pursuing significantly la
 ### User Groups (UGs)
 UGs are for facilitating open communication and discovery of topics that may end up in WGs or SIGs. These may also be groups discussing broad use cases like ML/ AI or Big Data. Lastly, these may be things that we don’t prioritize for product development based on our current strategy but still things that people want to discuss.
 
-### Commitees 
+### Committees 
 Committees are named sets of people that are chartered to take on sensitive topics. This group is encouraged to be as open as possible while achieving its mission but, because of the nature of the topics discussed, private communications are allowed. Examples of committees include the steering committee and things like security or code of conduct.
 
 - #### Steering Commitee
