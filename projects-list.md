@@ -56,5 +56,5 @@ A project may be in one of these states. Note that every project does NOT have t
 | implementation | Actual work to bring the thing to life is happening (code being written, event being organized, docs site being updated) | |
 | beta | The project is in beta test phase (where/ when applicable) - typically for products/ features | |
 | release | The product/ feature has been released to everyone (general availability) | |
-| blocked/ stalled | The project is blocked or stalled because of some reason (documented) | |
+| blocked | The project is blocked or stalled because of some reason (documented) | |
 | abandoned | The project has been cancelled because no one is willing to shepherd it | |
