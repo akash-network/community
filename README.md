@@ -5,7 +5,7 @@ Welcome to the Akash Network community!
 This is the starting point for joining and contributing to building Akash Network - like committing code, writing docs, testing product features & reporting bugs, organizing meetups, suggesting ideas for new features etc.
 
 ## Community Groups
-The Akash Network community groups are insipired by the [Kubernetes project](https://github.com/kubernetes/community) and currently consists of the following groups. As our community evolves, we will consider changing this structure as needed. All groups listed below or open to anyone interested in participating in them, except "Commitees" that have preassigned members.
+The Akash Network community groups are insipired by the [Kubernetes project](https://github.com/kubernetes/community) and currently consist of the following groups. As our community evolves, we will consider changing this structure as needed. All groups listed below or open to anyone interested in participating in them, except "Commitees" that have preassigned members.
 
 ### Special Interest Groups (SIGs)
 SIGs are vertically specialized community groups that are working on foundational elements of Akash Network on implementing and supporting products that are defined by the working groups or by smaller feature ideas. **SIGs may generally be involved in both defining (spec’ing) as well as building specific products and features. SIGs are persistent groups in that they exist forever.**
@@ -21,6 +21,9 @@ Committees are named sets of people that are chartered to take on sensitive topi
 
 - #### Steering Commitee
     The Steeting Commitee is a special SIG that periodically evaluates the list of projects, prioritizes/ adds/ removes items from them and decides which SIG or WG is best suited to tackle it. The Steering committee also regularly meets to incorporate learnings to improve how the Akash Network community operates and performs conflict resolution as necessary
+    
+    ![Screen Shot 2022-12-20 at 5 04 31 PM](https://user-images.githubusercontent.com/19495789/208796888-97f9ee41-f8dc-4a85-86ed-b93dba98f238.png)
+
 
 ### Examples
 - A “GPU-WG” that works on end to end execution of what it will take for Akash Network to support GPUs. This may include specifications for changes to Deployments (SDL) and Providers, deciding on what vendors and models of GPUs fit with our customer use cases, figure out the best partnerships for sourcing GPU inventory for those models, decide whether we need to solve bandwidth pricing, running alpha/ beta testing etc.  The GPU-WGs work will potentially result in multiple projects being created for the “Providers-SIG”, the “Deployments-SIG”, the “Economics-SIG” and so on, who will define a lower level spec for their specific area (based on the overall high level spec defined by the GPU-SIG), and implement it.
@@ -30,3 +33,4 @@ Committees are named sets of people that are chartered to take on sensitive topi
 - Projects like the “provider microservices split” do not require a working group as they only pertain to the providers code base and as such are just handled by the “Provider-SIG” and does not require a working group.
 
 - Support for Authorized Spend in Console would just be handled by the “Clients-SIG” and does not need a dedicated work group.
+
