@@ -45,3 +45,10 @@ Joining the mailing list for the group will typically add invites for the follow
 
 ## PRDs and other documentation
 - PRD
+
+
+## Related SIGs
+
+- sig-provider
+- sig-clients
+- sig-deployments
