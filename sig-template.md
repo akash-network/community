@@ -1,4 +1,4 @@
-#Akash Network \<insert SIG name\> Special Interest Group (SIG)
+# Akash Network \<insert SIG name\> Special Interest Group (SIG)
 
 \<add description of the sig. what does it cover etc>
 
