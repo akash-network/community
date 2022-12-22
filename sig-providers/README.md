@@ -1,4 +1,4 @@
-#Akash Network Providers Special Interest Group (SIG)
+# Akash Network Providers Special Interest Group (SIG)
 
 Provider SIG covers everything pertinent to Providers on Akash Network. This includes provider core software features, bug fixes, releases, monitoring, profitability calculation, content moderation, inventory and sourcing, partnerships/ integrations, analytics and more.
 
