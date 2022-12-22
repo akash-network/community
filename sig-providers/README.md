@@ -7,13 +7,13 @@ TBD
 
 ## Leadership
 
-- ### Product Leads
+- ### Product Lead(s)
 
 
-- ### Tech Leads
+- ### Tech Lead(s)
 
 
-- ### Project Managers
+- ### Project Manager(s)
 
 ## Contact
 
