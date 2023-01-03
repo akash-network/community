@@ -12,7 +12,7 @@ TBD
 
 ## Contacts
 
-- Discord (add link)
+- [Discord](https://discord.com/channels/747885925232672829/1050127979302359190/1052613008720936982)
 - Mail list (add link)
 
 ## Goals
