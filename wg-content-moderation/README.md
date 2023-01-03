@@ -4,7 +4,7 @@ Provide short summary that describes the overall mission and what is covered.
 
 ## Meetings
 
-TBD
+BiWeekly On Wednesdays at 9am Pacific. Next meeting 2023, January 11
 
 ## Leads
 
