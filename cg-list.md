@@ -41,3 +41,13 @@ Inactive groups are moved to akash-network/community/archive and groups without 
 | Name | Topic | Location | 
 | ---- | ----- | ----- |
 | PoW-Mining | Running minng workloads on Akash | Discord |
+
+## Steering Committee (SC)
+
+The Steering Commitee is initially comprised of the following members who have the most familiarity with Akash Network
+
+- Adam Bozanich, Overclock Labs
+- Anil Murty, Overclock Labs
+- Greg Osuri, Overclock Labs
+- Max, Cloudmos
+- Scott Caruthers, Overclock Labs
