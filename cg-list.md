@@ -48,6 +48,6 @@ The Steering Commitee is initially comprised of the following members who have t
 
 - Adam Bozanich, Overclock Labs
 - Anil Murty, Overclock Labs
+- Artur Troian, Overclock Labs
 - Greg Osuri, Overclock Labs
-- Max, Cloudmos
 - Scott Caruthers, Overclock Labs
