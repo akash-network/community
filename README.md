@@ -4,12 +4,23 @@ Welcome to the Akash Network community!
 
 This is the starting point for joining and contributing to building Akash Network - committing code, writing docs, testing product features & reporting bugs, organizing meetups, suggesting ideas for new features etc.
 
-## Getting Started
+## Getting Acquainted
 
 - To learn about the types of community groups read the rest of this document
 - To see a full list of current Akash Network community groups, see [community/cg-list](cg-list.md)
 - To learn about our product strategy & prioritization framework, see [community/product-strategy](product-strategy.md)
 - To see a list of projects being worked on or under consideration see [community/project-list](projects-list.md)
+
+## Getting started with contributing
+
+The Akash Network community welcomes contributions from community members at various levels of technical ability and familiarity with Akash. If you are interested in contributing to the project, please read through the "Getting Acquainted" section first, join our discord server and then refer to the below table, based on what you think your skillset is
+
+| Your background | Suggested starting point for contribution |
+| --- | --- |
+| Non-technical, Never used Akash | [Review docs](https://docs.akash.network/) and attempt deploying a tetris game on Akash. Suggest any changes or improvements to the documentation by filing an issue in [sig-documentation](sig-documentation)|
+| Frontend (node, JS) developer, Never used Akash | [Review docs](https://docs.akash.network/) and deploy an application. Review code base for Akash Console or Cloudmos Deploy, set up local environment. Review open issues for either project, choose something (like a simple bug fix) that interests you and add a comment or submit a PR for review |
+| Backend (Go) developer, Never used Akash | [Review docs](https://docs.akash.network/) and deploy an application on Akash using CLI. Review code base for Akash CLI and Provider Services, set up local development environment. Review open issues for either code base and comment on potential solution to any problem and/ or submit PR for review. |
+| Technical developer, Already building on Akash | Considering joining one of our [SIGs](cg-list.md), [WGs](cg-list.md) or suggesting a new prjoject to add to our [list of projects](projects-list.md) |
 
 ## Community Groups
 
