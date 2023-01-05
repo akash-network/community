@@ -15,7 +15,7 @@ These are all the projects that are currently in some state ranging from "ideati
 | Certification Program | edu-cert-prgm | Define, build and finalize Akash Network Certification Program  | sig-edu | implementation |
 | Console General Availability | console-ga | Releasing Console for General Availability | sig-clients | implementation |
 | Docs site migration | docs-site-migration | Migrating the documentation site from gitbooks to something automatable (Hugo?) | sig-docs | spec-definition |
-| Console Authorized Spend Support | console-authz | Supporting Authorized Spend (AuthZ) in Akash Console | sig-clients | spec-definition |
+| [Console Authorized Spend Support](https://github.com/akash-network/community/blob/main/sig-clients/akash-console/prd-authorized-spend.md) | console-authz | Supporting Authorized Spend (AuthZ) in Akash Console | sig-clients | spec-definition |
 | Client Libraries | client-libs |  Libraries for deploying on Akash programmatically using various programming languages  | sig-clients | spec-definition |
 | GPU Support | gpu | Everything related to supporting, launching and growing GPUs on Akash  | [wg-gpu]([url](https://github.com/akash-network/community/tree/main/wg-gpu)) | spec-definition |
 | Provider Attributes | provider-attr | Defining an attribute schema for providers and getting providers to incorporate it  | [sig-providers]([url](https://github.com/akash-network/community/tree/main/sig-providers)) | spec-definition |

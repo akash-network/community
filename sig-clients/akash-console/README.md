@@ -15,4 +15,4 @@ Akash Console is a Web based UI tool for deploying workloads on to Akash Network
 - Discord
 
 ## PRDs
-
+- [Authorized Spend in Akash Console](prd-authorized-spend.md)
