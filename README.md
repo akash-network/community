@@ -20,7 +20,7 @@ The Akash Network community welcomes contributions from community members at var
 | Non-technical, Never used Akash | [Review docs](https://docs.akash.network/) and attempt deploying a tetris game on Akash. Suggest any changes or improvements to the documentation by filing an issue in [sig-documentation](sig-documentation)|
 | Frontend (node, JS) developer, Never used Akash | [Review docs](https://docs.akash.network/) and deploy an application. Review code base for Akash Console or Cloudmos Deploy, set up local environment. Review open issues for either project, choose something (like a simple bug fix) that interests you and add a comment or submit a PR for review |
 | Backend (Go) developer, Never used Akash | [Review docs](https://docs.akash.network/) and deploy an application on Akash using CLI. Review code base for Akash CLI and Provider Services, set up local development environment. Review open issues for either code base and comment on potential solution to any problem and/ or submit PR for review. |
-| Technical developer, Already building on Akash | Considering joining one of our [SIGs](cg-list.md), [WGs](cg-list.md) or suggesting a new prjoject to add to our [list of projects](projects-list.md) |
+| Technical developer, Already building on Akash | Considering joining one of our [SIGs](cg-list.md), [WGs](cg-list.md) and writing a spec for our of the projects in the list or suggest a new prjoject to add to the [list of projects](projects-list.md) |
 
 ## Community Groups
 
