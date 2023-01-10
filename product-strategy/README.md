@@ -1,3 +1,9 @@
+---
+title: "Product Strategy"
+date: 2023-1-09T00:19:20-08:00
+weight: 10
+---
+
 # Akash Network Product Strategy & Execution
 
 ## Summary

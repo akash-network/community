@@ -1,3 +1,8 @@
+---
+title: "GPU Working Group"
+date: 2023-1-09T00:19:20-08:00
+---
+
 # Akash Network GPU Working Group
 
 This working group is dedicated to figuring out everything that needs to happen for Akash to offer GPUs on its provider network. This includes coming up with specifications for provider, deployments, clients, inventory sourcing, understanding application needs, integrations with partners etc.

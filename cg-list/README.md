@@ -1,4 +1,11 @@
+---
+title: "Current Groups"
+date: 2023-1-09T00:19:20-08:00
+weight: 20
+---
+
 # Akash Network Community Groups (CGs)
+
 This page lists all the Community Groups (active and inactive) working on projects related to Akash Network. For an understanding of the various types of CGs (SIG, WG, UG, SC) and how they relate to each other see [akash-network/community](https://github.com/akash-network/community). 
 
 This SIG, WG and UG lists are expected to change over time with groups being added and archived as needed. To understand the charter, roadmap and other details for a specific group, visit the repository for the group by clicking on the name of the specific group below. Clicking the label for a group filters down all open issues related to the specific SIG.
