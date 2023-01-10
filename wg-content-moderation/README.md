@@ -1,3 +1,8 @@
+---
+title: "Content Moderation Working Group"
+date: 2023-1-09T00:19:20-08:00
+---
+
 # Akash Network - Content Moderation Working Group
 
 Provide short summary that describes the overall mission and what is covered.

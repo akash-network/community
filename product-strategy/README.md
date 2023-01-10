@@ -1,3 +1,9 @@
+---
+title: "Product Strategy"
+date: 2023-1-09T00:19:20-08:00
+weight: 10
+---
+
 # Akash Network Product Strategy & Execution
 
 ## Summary
@@ -90,7 +96,7 @@ AL/ ML applications represent a huge growth area for cloud services in the next 
 
 Akash Network’s execution framework uses a community based development model that borrows a lot of the principles from the way the open source [Kubernetes project](https://github.com/kubernetes/community) operates . In general our execution framework, includes the following:
 
-- Different groups of community members that work on projects that advance Akash Networks’ mission. This is documented in [Community Groups](https://github.com/akash-network/community/blob/main/cg-list.md)
+- Different groups of community members that work on projects that advance Akash Networks’ mission. This is documented in [Community Groups](../cg-list)
 - A prioritized pipeline of ideas/ projects we would like built, bucketed by - themes. This is kept up to date on a regular (weekly/monthly) basis. This is outlined in Projects
 - Documented places to discuss/ publish/ comment/ review/ approve the specifications for each projects listed in #1 above. This is outlined in Data Organization and Repositories
 - States that a given project can be in. Outlined in Project States

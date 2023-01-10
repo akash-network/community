@@ -1,3 +1,8 @@
+---
+title: "Analytics Special Interest Group"
+date: 2023-1-09T00:19:20-08:00
+---
+
 # Akash Network - Analytics Special Interest Group (SIG)
 
 \<add description of the sig. what does it cover etc>
