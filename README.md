@@ -26,7 +26,7 @@ The Akash Network community welcomes contributions from community members at var
 
 The Akash Network community groups are insipired by the [Kubernetes project](https://github.com/kubernetes/community) and currently consist of the following groups. As our community evolves, we will consider changing this structure as needed. All groups listed below or open to anyone interested in participating in them, except "Commitees" that have preassigned members.
 
-![Community Groups Block Diagram](cg-block-diagram.png)
+![Community Groups Block Diagram](akash-community-groups-block-diagram.png)
 
 ### Special Interest Groups (SIGs)
 
