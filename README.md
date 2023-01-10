@@ -7,9 +7,9 @@ This is the starting point for joining and contributing to building Akash Networ
 ## Getting Acquainted
 
 - To learn about the types of community groups read the rest of this document
-- To see a full list of current Akash Network community groups, see [community/cg-list](cg-list.md)
-- To learn about our product strategy & prioritization framework, see [community/product-strategy](product-strategy.md)
-- To see a list of projects being worked on or under consideration see [community/project-list](projects-list.md)
+- To see a full list of current Akash Network community groups, see [community/cg-list](cg-list)
+- To learn about our product strategy & prioritization framework, see [community/product-strategy](product-strategy)
+- To see a list of projects being worked on or under consideration see [community/project-list](projects-list)
 
 ## Getting started with contributing
 
