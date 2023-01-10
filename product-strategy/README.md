@@ -97,7 +97,7 @@ AL/ ML applications represent a huge growth area for cloud services in the next 
 Akash Network’s execution framework uses a community based development model that borrows a lot of the principles from the way the open source [Kubernetes project](https://github.com/kubernetes/community) operates . In general our execution framework, includes the following:
 
 - Different groups of community members that work on projects that advance Akash Networks’ mission. This is documented in [Community Groups](../cg-list)
-- A prioritized pipeline of ideas/ projects we would like built, bucketed by - themes. This is kept up to date on a regular (weekly/monthly) basis. This is outlined in Projects
+- A prioritized pipeline of ideas/ projects we would like built, bucketed by - themes. This is kept up to date on a regular (weekly/monthly) basis. This is outlined in the [Projects List](../projects-list/README.md)
 - Documented places to discuss/ publish/ comment/ review/ approve the specifications for each projects listed in #1 above. This is outlined in Data Organization and Repositories
-- States that a given project can be in. Outlined in Project States
+- States that a given project can be in. Outlined in [Project States](../projects-list/README.md)
 - Meetings to regularly discuss prioritization of list of projects and meetings with individual project teams to make sure each project moves forward. Meetings page and notes will be documented in Github as noted in Data Organization and Repositories.
