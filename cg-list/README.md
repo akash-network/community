@@ -21,7 +21,7 @@ Inactive groups are moved to akash-network/community/archive and groups without 
 | Analytics | sig-analytics | | Discord | |
 | Blockchain | sig-chain | | Discord | |
 | Clients | sig-clients | | Discord | |
-| Comunity | sig-community | | Discord | |
+| Community | sig-community | | Discord | |
 | Deployments | sig-deployments | | Discord | |
 | Documentation | sig-docs | | Discord | |
 | Economics | sig-economics | | Discord | |
