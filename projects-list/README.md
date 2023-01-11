@@ -22,7 +22,7 @@ These are all the projects that are currently in some state ranging from "ideati
 | Console General Availability | console-ga | Releasing Console for General Availability | sig-clients | implementation |
 | Docs site migration | docs-site-migration | Migrating the documentation site from gitbooks to something automatable (Hugo?) | sig-docs | spec-definition |
 | [Console Authorized Spend Support](../sig-clients/akash-console/prd-authorized-spend.md) | console-authz | Supporting Authorized Spend (AuthZ) in Akash Console | sig-clients | spec-definition |
-| Client Libraries | client-libs |  Libraries for deploying on Akash programmatically using various programming languages  | sig-clients | spec-definition |
+| [Client Libraries](https://github.com/akash-network/community/blob/main/sig-clients/client-libraries/prd.md) | client-libs |  Libraries for deploying on Akash programmatically using various programming languages  | sig-clients | spec-definition |
 | GPU Support | gpu | Everything related to supporting, launching and growing GPUs on Akash  | [wg-gpu](../wg-gpu) | spec-definition |
 | Provider Attributes | provider-attr | Defining an attribute schema for providers and getting providers to incorporate it  | [wg-provider-attributes](../wg-provider-attributes/README.md) | spec-definition |
 | Economics 2.0 | econ-2.0 | Redesigning Akash Network's economics model to have fine grained take rates to fund product development and sustainability of the chain  | sig-economics | spec-definition |
