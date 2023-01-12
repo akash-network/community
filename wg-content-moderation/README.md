@@ -10,7 +10,7 @@ gives providers control over the applications that run on their systems.
 
 ## Meetings
 
-[BiWeekly On Wednesdays at 9am Pacific. Next meeting 2023, January 25]
+BiWeekly On Wednesdays at 9am Pacific. Next meeting 2023, January 25
 
 ## Leads
 
@@ -21,7 +21,7 @@ gives providers control over the applications that run on their systems.
 
 ## Contacts
 
-- [Discord](https://discord.com/channels/747885925232672829/1050127979302359190/1052613008720936982)
+- [Discord channel](https://discord.com/channels/747885925232672829/1050127979302359190/1052613008720936982)
 
 ## Goals
 
@@ -38,3 +38,6 @@ gives providers control over the applications that run on their systems.
 - [Management API](management-api.md)
 
 ## Related SIGs
+
+* [sig-providers](https://github.com/akash-network/community/tree/main/sig-providers)
+* [sig-deployments](https://github.com/akash-network/community/tree/main/sig-deployments)
