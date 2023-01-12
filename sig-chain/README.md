@@ -27,5 +27,5 @@ date: 2023-1-09T00:19:20-08:00
 
 ## Sub Projects, Repositories & Relevant Work Groups
 
-The following are projects and work-groups that \<sig-name\> participates in or contributes to (ToDo: Add links when available)
+The following are projects and work-groups that sig-chain participates in or contributes to (ToDo: Add links when available)
 
