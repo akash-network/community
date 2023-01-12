@@ -63,4 +63,4 @@ To see a list of projects being worked on or under consideration see [community/
 
 - Projects like the “provider microservices split” do not require a working group as they only pertain to the provider's code base and, as such, are just handled by the “sig-provider.”
 
-- Support for Authorized Spend in Console would be handled by the “Clients-SIG” and does not need a dedicated work group.
+- Support for Authorized Spend in Console would be handled by the “sig-clients” and does not need a dedicated work group.
