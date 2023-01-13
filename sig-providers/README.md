@@ -8,7 +8,8 @@ date: 2023-1-09T00:19:20-08:00
 Provider SIG covers everything pertinent to Providers on Akash Network. This includes provider core software features, bug fixes, releases, monitoring, profitability calculation, content moderation, inventory and sourcing, partnerships/ integrations, analytics and more.
 
 ## Meetings
-TBD
+
+[4th Wednesday of every month](https://calendar.google.com/calendar/u/0?cid=Y18yNWU1ZTM3NDhlNGM0YWI3YTU1ZjQxZmJjNWViZWJjYzBhMDNiNDBmYjAyODc4NWYxNDE1OWJmYWViZWExMmUyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
 ## Leadership
 
@@ -22,8 +23,7 @@ TBD
 
 ## Contact
 
-- Discord Server
-- Mail List
+- [Discord Server](https://discord.com/channels/747885925232672829/1062750618713862275/1063150051590947010)
 
 ## Projects, Repositories & Relevant Work Groups
 
