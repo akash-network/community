@@ -1,8 +1,172 @@
 # **Requirements Specification**
 
-## **Version 1.1-RC**
+## **Version 1.1**
 
-## January 11, 2023
+## October 25, 2022
+
+Requirements for Akash Network Client Libraries
+
+# Executive Summary
+
+## Project Overview
+
+Client libraries allow developers to interact with remote services through a defined interface using their preferred
+programming languages. They can also help abstract the complexity associated with communication protocols used by those
+remote services. Client libraries work as enablers for developers to build on existing systems while maintaining a
+common interface across clients.
+
+For Akash, having client libraries would make building in the ecosystem more accessible and simple. By providing the
+same interface across implementations developers wouldn’t need to relearn concepts to interact with the network while
+still being able to develop in different programming languages.
+
+## Purpose and Scope of this Specification
+
+Requirements specification for Akash Network Client Libraries:
+
+### In scope
+
+This document addresses requirements related to Akash Network Client Libraries:
+
+* Create deployments
+* Update deployments
+* Close deployments
+* List/read deployments
+* List bids
+* Create leases
+* Send manifest
+
+These requirements are for each of these supported programming languages:
+
+* Javascript
+* Go
+* Python
+* Java
+* C#
+
+### Out of Scope
+
+All the other programming languages
+
+## Product/Service Description
+
+Client libraries for the Akash Network will enable developers to build on top of Akash with their favorite developer
+programming stacks, including but not limited to;
+
+* Javascript
+* Go
+* Python
+* Java
+* C#
+
+### Product Context
+
+The client libraries will be used by developers to build new tools that integrate with the Akash Network.
+
+## User Characteristics
+
+General customer profiles for each type of user who will be using the libraries are:
+
+* Developer - Develop systems and applications using the client libraries
+
+## Assumptions
+
+Operating systems agnostic, this assumes the developer has access to the Internet.
+
+It is also assumed the developer has access to a valid and funded wallet for development.
+
+## Dependencies
+
+* A working Akash wallet with AKT
+* The dependencies related to the specific programming language to be used.
+
+# Requirements
+
+## Functional Requirements
+
+The following table is a tabulation for the requirements.
+
+<table>
+  <tr>
+   <td><strong>Req#</strong></td>
+   <td><strong>Requirement</strong></td>
+   <td><strong>Comments</strong></td>
+   <td><strong>Priority</strong></td>
+   <td><strong>Date Rvwd</strong></td>
+   <td><strong>SME Reviewed / Approved</strong></td>
+  </tr>
+  <tr>
+   <td>R_01</td>
+   <td>Create deployment</td>
+   <td>Create a deployment based on an SDL file. Request through RPC.</td>
+   <td>1</td>
+   <td></td>
+   <td></td>
+  </tr>
+  <tr>
+   <td>R_02</td>
+   <td>Close deployment</td>
+   <td>Close a deployment. Request through RPC</td>
+   <td>1</td>
+   <td></td>
+   <td></td>
+  </tr>
+  <tr>
+   <td>R_03</td>
+   <td>List deployments</td>
+   <td>List all deployments matching the filters with consideration for page limits. Request through REST.</td>
+   <td>1</td>
+   <td></td>
+   <td></td>
+  </tr>
+  <tr>
+   <td>R_04</td>
+   <td>Get deployment</td>
+   <td>Request through REST.</td>
+   <td>1</td>
+   <td></td>
+   <td></td>
+  </tr>
+  <tr>
+   <td>R_05</td>
+   <td>List bids</td>
+   <td>Get the list of bids based on a set of filters. Request through REST.</td>
+   <td>1</td>
+   <td></td>
+   <td></td>
+  </tr>
+  <tr>
+   <td>R_06</td>
+   <td>Create lease</td>
+   <td>Request through RPC.</td>
+   <td>1</td>
+   <td></td>
+   <td></td>
+  </tr>
+  <tr>
+   <td>R_07</td>
+   <td>Get lease</td>
+   <td>Get information regarding a lease such as its status. Request through REST.</td>
+   <td>1</td>
+   <td></td>
+   <td></td>
+  </tr>
+  <tr>
+   <td>R_08</td>
+   <td>Send manifest</td>
+   <td>Request through RPC.</td>
+   <td>1</td>
+   <td></td>
+   <td></td>
+  </tr>
+    <tr>
+   <td>R_09</td>
+   <td>Update deployment</td>
+   <td>Update a deployment based on an SDL file. Request through RPC.</td>
+   <td>1</td>
+   <td></td>
+   <td></td>
+  </tr>
+</table>
 
 Extending requirements for Akash Network Client Libraries.
 Requirements stated bellow is an addendum to version 1.0.
@@ -342,220 +506,6 @@ Client library has deep knowledge of the error types/models and which one of tho
 retries. That close bound, also empowers the library to be better positioned to make opinionated decisions on
 how long to retry and when a circuit breaker should be open/closed.
 
-## **Version 1.0**
-
-## October 25, 2022
-
-Requirements for Akash Network Client Libraries
-
-# Executive Summary
-
-## Project Overview
-
-Client libraries allow developers to interact with remote services through a defined interface using their preferred
-programming languages. They can also help abstract the complexity associated with communication protocols used by those
-remote services. Client libraries work as enablers for developers to build on existing systems while maintaining a
-common interface across clients.
-
-For Akash, having client libraries would make building in the ecosystem more accessible and simple. By providing the
-same interface across implementations developers wouldn’t need to relearn concepts to interact with the network while
-still being able to develop in different programming languages.
-
-## Purpose and Scope of this Specification
-
-Requirements specification for Akash Network Client Libraries:
-
-### In scope
-
-This document addresses requirements related to Akash Network Client Libraries:
-
-* Create deployments
-* Update deployments
-* Close deployments
-* List/read deployments
-* List bids
-* Create leases
-* Send manifest
-
-These requirements are for each of these supported programming languages:
-
-* Javascript
-* Go
-* Python
-* Java
-* C#
-
-### Out of Scope
-
-All the other programming languages
-
-## Product/Service Description
-
-Client libraries for the Akash Network will enable developers to build on top of Akash with their favorite developer
-programming stacks, including but not limited to;
-
-* Javascript
-* Go
-* Python
-* Java
-* C#
-
-### Product Context
-
-The client libraries will be used by developers to build new tools that integrate with the Akash Network.
-
-## User Characteristics
-
-General customer profiles for each type of user who will be using the libraries are:
-
-* Developer - Develop systems and applications using the client libraries
-
-## Assumptions
-
-Operating systems agnostic, this assumes the developer has access to the Internet.
-
-It is also assumed the developer has access to a valid and funded wallet for development.
-
-## Dependencies
-
-* A working Akash wallet with AKT
-* The dependencies related to the specific programming language to be used.
-
-# Requirements
-
-## Functional Requirements
-
-The following table is a tabulation for the requirements.
-
-<table>
-  <tr>
-   <td><strong>Req#</strong>
-   </td>
-   <td><strong>Requirement</strong>
-   </td>
-   <td><strong>Comments</strong>
-   </td>
-   <td><strong>Priority</strong>
-   </td>
-   <td><strong>Date Rvwd</strong>
-   </td>
-   <td><strong>SME Reviewed / Approved</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>R_01
-   </td>
-   <td>Create deployment
-   </td>
-   <td>Create a deployment based on an SDL file. Request through RPC.
-   </td>
-   <td>1
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>R_02
-   </td>
-   <td>Close deployment
-   </td>
-   <td>Close a deployment. Request through RPC
-   </td>
-   <td>1
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>R_03
-   </td>
-   <td>List deployments
-   </td>
-   <td>List all deployments matching the filters with consideration for page limits. Request through REST.
-   </td>
-   <td>1
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>R_04
-   </td>
-   <td>Get deployment
-   </td>
-   <td>Request through REST.
-   </td>
-   <td>1
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>R_05
-   </td>
-   <td>List bids
-   </td>
-   <td>Get the list of bids based on a set of filters. Request through REST.
-   </td>
-   <td>1
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>R_06
-   </td>
-   <td>Create lease
-   </td>
-   <td>Request through RPC.
-   </td>
-   <td>1
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>R_07
-   </td>
-   <td>Get lease
-   </td>
-   <td>Get information regarding a lease such as its status. Request through REST.
-   </td>
-   <td>1
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>R_08
-   </td>
-   <td>Send manifest
-   </td>
-   <td>Request through RPC.
-   </td>
-   <td>1
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
-
 ## Usability
 
 ### Learnability
@@ -611,20 +561,13 @@ Other requirements that have been deleted or delayed until future phases of the 
 
 <table>
   <tr>
-   <td><strong>Req#</strong>
-   </td>
-   <td><strong>Business Requirement</strong>
-   </td>
-   <td><strong>Status</strong>
-   </td>
-   <td><strong>Comments</strong>
-   </td>
-   <td><strong>Pri</strong>
-   </td>
-   <td><strong>Date Rvwd</strong>
-   </td>
-   <td><strong>SME Reviewed /Approved</strong>
-   </td>
+   <td><strong>Req#</strong></td>
+   <td><strong>Business Requirement</strong></td>
+   <td><strong>Status</strong></td>
+   <td><strong>Comments</strong></td>
+   <td><strong>Pri</strong></td>
+   <td><strong>Date Rvwd</strong></td>
+   <td><strong>SME Reviewed /Approved</strong></td>
   </tr>
 </table>
 
@@ -634,12 +577,9 @@ Include documentation of the approval or confirmation of the requirements here. 
 
 <table>
   <tr>
-   <td><strong>Meeting Date</strong>
-   </td>
-   <td><strong>Attendees (name and role)</strong>
-   </td>
-   <td><strong>Comments</strong>
-   </td>
+   <td><strong>Meeting Date</strong></td>
+   <td><strong>Attendees (name and role)</strong></td>
+   <td><strong>Comments</strong></td>
   </tr>
 </table>
 
