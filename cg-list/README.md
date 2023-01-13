@@ -18,30 +18,30 @@ Inactive groups are moved to akash-network/community/archive and groups without 
 
 | Name | Label | Leads | Contact | Meetings |
 | ---- | ----- | ----- | ------- | -------- |
-| Analytics | sig-analytics | | Discord | |
-| Blockchain | sig-chain | | Discord | |
-| Clients | sig-clients | | Discord | |
-| Community | sig-community | | Discord | |
-| Deployments | sig-deployments | | Discord | |
-| Documentation | sig-docs | | Discord | |
-| Economics | sig-economics | | Discord | |
-| Education | sig-edu | | Discord | |
-| Providers | sig-providers | | Discord | |
-| Network Upgrades | sig-network-upgrades | | Discord | |
-| Operations & Maintenance | sig-ops-maint | | Discord | |
-| Support | sig-support | | Discord | |
+| Analytics | sig-analytics | TBD | Discord | |
+| Blockchain | [sig-chain](https://github.com/akash-network/community/tree/main/sig-chain) | TBD | Discord | |
+| Clients | [sig-clients](https://github.com/akash-network/community/tree/main/sig-clients) | TBD | Discord | |
+| Community | [sig-community](https://github.com/akash-network/community/tree/main/sig-community) | TBD | Discord | |
+| Deployments | [sig-deployments](https://github.com/akash-network/community/tree/main/sig-deployments) | TBD | Discord | |
+| Documentation | [sig-docs](https://github.com/akash-network/community/tree/main/sig-documentation) | TBD | Discord | |
+| Economics | [sig-economics](https://github.com/akash-network/community/tree/main/sig-economics) | TBD | Discord | |
+| Education | [sig-edu](https://github.com/akash-network/community/tree/main/sig-education) | TBD | Discord | |
+| Providers | [sig-providers](https://github.com/akash-network/community/tree/main/sig-providers) | TBD | Discord | |
+| Network Upgrades | [sig-network-upgrades](https://github.com/akash-network/community/tree/main/sig-network-upgrades) | TBD | Discord | |
+| Operations & Maintenance | sig-ops-maint | TBD | Discord | |
+| Support | [sig-support](https://github.com/akash-network/community/tree/main/sig-support) | TBD | Discord | |
 
 
 ## Working Groups (WGs)
 
 | Name | Label | Leads | Contact | Meetings |
 | ---- | ----- | ----- | ------- | -------- |
-| Client Libraries | wg-client-libraries | | Discord | |
-| Cloud Parity | wg-cloud-parity | | Discord | |
-| Content Moderation | wg-content-moderation | | Discord | |
-| Machine Learning & AI | wg-ml-ai | | Discord | |
-| Network Upgrades | wg-network-upgrades | | Discord | |
-| Testnets & Sandbox Environments | wg-testnet-sandbox | | Discord | |
+| Client Libraries | wg-client-libraries | TBD | Discord | |
+| Cloud Parity | wg-cloud-parity | TBD | Discord | |
+| Content Moderation | [wg-content-moderation](https://github.com/akash-network/community/tree/main/wg-content-moderation) | TBD | Discord | |
+| Machine Learning & AI | wg-ml-ai | TBD | Discord | |
+| Network Upgrades | wg-network-upgrades | TBD | Discord | |
+| Testnets & Sandbox Environments | wg-testnet-sandbox | TBD | Discord | |
 
 
 ## User Groups (UGs)
