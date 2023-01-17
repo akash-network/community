@@ -5,7 +5,6 @@ date: 2023-1-09T00:19:20-08:00
 
 # Akash Network - Clients Special Interest Group (SIG)
 
-\<add description of the sig. what does it cover etc>
 
 ## Meetings
 
