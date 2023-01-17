@@ -14,9 +14,9 @@ date: 2023-1-09T00:19:20-08:00
 
 - ### Project Leads
 
-Greg Osuri, CEO Overclock Labs
-Adam Bozanich, CTO Overclock Labs
-Cheng Wang, CFO Overclock Labs
+* Greg Osuri, CEO Overclock Labs
+* Adam Bozanich, CTO Overclock Labs
+* Cheng Wang, CFO Overclock Labs
 
 
 
