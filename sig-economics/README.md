@@ -12,13 +12,12 @@ date: 2023-1-09T00:19:20-08:00
 
 ## Leadership
 
-- ### Product Lead(s)
+- ### Project Leads
 
+Greg Osuri, CEO Overclock Labs
+Adam Bozanich, CTO Overclock Labs
+Cheng Wang, CFO Overclock Labs
 
-- ### Tech Lead(s)
-
-
-- ### Project Manager(s)
 
 
 ## Contact
@@ -27,4 +26,4 @@ date: 2023-1-09T00:19:20-08:00
 
 ## Sub Projects, Repositories & Relevant Work Groups
 
-The following are projects and work-groups that \<sig-name\> participates in or contributes to (ToDo: Add links when available)
+The following are projects and work-groups that sig-economics participates in or contributes to:
