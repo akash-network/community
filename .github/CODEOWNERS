@@ -1,0 +1,15 @@
+* @community-global
+
+# Order is important; the last matching pattern takes the most
+
+sig-analytics/ @sig-analytics
+sig-chain/ @sig-chain
+sig-community/ @sig-community
+sig-clients/ @sig-clients
+sig-deployments/ @sig-deployments
+sig-documentation/ @sig-documentation
+sig-economics/ @sig-economics
+sig-education/ @sig-education
+sig-network-upgrades/ @sig-network-upgrades
+sig-providers/ @sig-providers
+sig-support/ @sig-support
