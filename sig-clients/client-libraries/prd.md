@@ -85,88 +85,17 @@ It is also assumed the developer has access to a valid and funded wallet for dev
 
 The following table is a tabulation for the requirements.
 
-<table>
-  <tr>
-   <td><strong>Req#</strong></td>
-   <td><strong>Requirement</strong></td>
-   <td><strong>Comments</strong></td>
-   <td><strong>Priority</strong></td>
-   <td><strong>Date Rvwd</strong></td>
-   <td><strong>SME Reviewed / Approved</strong></td>
-  </tr>
-  <tr>
-   <td>R_01</td>
-   <td>Create deployment</td>
-   <td>Create a deployment based on an SDL file. Request through RPC.</td>
-   <td>1</td>
-   <td></td>
-   <td></td>
-  </tr>
-  <tr>
-   <td>R_02</td>
-   <td>Close deployment</td>
-   <td>Close a deployment. Request through RPC</td>
-   <td>1</td>
-   <td></td>
-   <td></td>
-  </tr>
-  <tr>
-   <td>R_03</td>
-   <td>List deployments</td>
-   <td>List all deployments matching the filters with consideration for page limits. Request through REST.</td>
-   <td>1</td>
-   <td></td>
-   <td></td>
-  </tr>
-  <tr>
-   <td>R_04</td>
-   <td>Get deployment</td>
-   <td>Request through REST.</td>
-   <td>1</td>
-   <td></td>
-   <td></td>
-  </tr>
-  <tr>
-   <td>R_05</td>
-   <td>List bids</td>
-   <td>Get the list of bids based on a set of filters. Request through REST.</td>
-   <td>1</td>
-   <td></td>
-   <td></td>
-  </tr>
-  <tr>
-   <td>R_06</td>
-   <td>Create lease</td>
-   <td>Request through RPC.</td>
-   <td>1</td>
-   <td></td>
-   <td></td>
-  </tr>
-  <tr>
-   <td>R_07</td>
-   <td>Get lease</td>
-   <td>Get information regarding a lease such as its status. Request through REST.</td>
-   <td>1</td>
-   <td></td>
-   <td></td>
-  </tr>
-  <tr>
-   <td>R_08</td>
-   <td>Send manifest</td>
-   <td>Request through RPC.</td>
-   <td>1</td>
-   <td></td>
-   <td></td>
-  </tr>
-    <tr>
-   <td>R_09</td>
-   <td>Update deployment</td>
-   <td>Update a deployment based on an SDL file. Request through RPC.</td>
-   <td>1</td>
-   <td></td>
-   <td></td>
-  </tr>
-</table>
+|Req#|Requirement|Comments|Priority|Date Rvwd|SME Reviewed / Approved|
+|----|-----------|--------|--------|---------|-----------------------|
+|R_01|Create deployment|Create a deployment based on an SDL file. Request through RPC.|1|||
+|R_02|Close deployment|Close a deployment. Request through RPC|1|||
+|R_03|List deployments|List all deployments matching the filters with consideration for page limits. Request through REST.|1|||
+|R_04|Get deployment|Request through REST.|1|||
+|R_05|List bids|Get the list of bids based on a set of filters. Request through REST.|1|||
+|R_06|Create lease|Request through RPC.|1|||
+|R_07|Get lease|Get information regarding a lease such as its status. Request through REST.|1|||
+|R_08|Send manifest|Request through RPC.|1|||
+|R_09|Update deployment|Update a deployment based on an SDL file. Request through RPC.|1|||
 
 Extending requirements for Akash Network Client Libraries.
 Requirements stated bellow is an addendum to version 1.0.
@@ -197,309 +126,53 @@ Current state doesn't allow the operation. This kind of error should not be retr
 ### Error model
 
 From the current akash SDK, those are the expected errors:
-<table>
-  <thead>
-    <tr>
-      <td>Error</td>
-      <td>Code</td>
-      <td>Description</td>
-      <td>Should Retry</td>
-      <td>Mapped to</td>
-    </tr>
-  </thead>
-  <tr>
-    <td>errInternal</td>
-    <td>1</td>
-    <td>Internal - not supposed to happen</td>
-    <td>Yes</td>
-    <td>AkashNetworkError</td>
-  </tr>
-  <tr>
-    <td>ErrTxDecode</td>
-    <td>2</td>
-    <td>tx parse error</td>
-    <td>Yes</td>
-    <td>AkashNetworkError</td>
-  </tr>
-  <tr>
-    <td>ErrInvalidSequence</td>
-    <td>3</td>
-    <td>invalid sequence</td>
-    <td>Yes</td>
-    <td>?? what is a sequence ??</td>
 
-  </tr>
-  <tr>
-    <td>ErrUnauthorized</td>
-    <td>4</td>
-    <td>unauthorized</td>
-    <td>No</td>
-    <td>AuthError</td>
-  </tr>
-  <tr>
-    <td>ErrInsufficientFunds</td>
-    <td>5</td>
-    <td>Not enough funds</td>
-    <td>No</td>
-    <td>StateError</td>
-  </tr>
-
-  <tr>
-    <td>ErrUnknownRequest</td>
-    <td>6</td>
-    <td>unkown request</td>
-    <td>No</td>
-    <td>BadRequest</td>
-  </tr>
-  <tr>
-    <td>RootCodespace</td>
-    <td>7</td>
-    <td>invalid address</td>
-    <td>No</td>
-    <td>BadRequest</td>
-  </tr>
-  <tr>
-    <td>ErrInvalidPubKey</td>
-    <td>8</td>
-    <td>invalid pubkey</td>
-    <td>No</td>
-    <td>BadRequest</td>
-  </tr>
-  <tr>
-    <td>ErrUnknownAddress</td>
-    <td>9</td>
-    <td>unknown address</td>
-    <td>No</td>
-    <td>BadRequest</td>
-  </tr>
-  <tr>
-    <td>ErrInvalidCoins</td>
-    <td>10</td>
-    <td>invalid coins</td>
-    <td>No</td>
-    <td>BadRequest</td>
-  </tr>
-  <tr>
-    <td>ErrOutOfGas</td>
-    <td>11</td>
-    <td>out of gas</td>
-    <td>No</td>
-    <td>StateError</td>
-  </tr>
-  <tr>
-    <td>ErrMemoTooLarge</td>
-    <td>12</td>
-    <td>memo too large</td>
-    <td>No</td>
-    <td>BadRequest</td>
-  </tr>
-  <tr>
-    <td>ErrInsufficientFee</td>
-    <td>13</td>
-    <td>insufficient fee</td>
-    <td>No</td>
-    <td>StateError</td>
-  </tr>
-  <tr>
-    <td>ErrTooManySignatures</td>
-    <td>14</td>
-    <td>maximum number of signatures exceeded</td>
-    <td>No</td>
-    <td>??</td>
-  </tr>
-  <tr>
-    <td>ErrNoSignatures</td>
-    <td>15</td>
-    <td>no signatures supplied</td>
-    <td>No</td>
-    <td>BadRequest</td>
-  </tr>
-  <tr>
-    <td>ErrJSONMarshal</td>
-    <td>16</td>
-    <td>failed to marshal JSON bytes</td>
-    <td>No</td>
-    <td>BadRequest</td>
-  </tr>
-  <tr>
-    <td>ErrJSONUnmarshal</td>
-    <td>17</td>
-    <td>failed to unmarshal JSON bytes</td>
-    <td>No</td>
-    <td>BadRequest</td>
-  </tr>
-  <tr>
-    <td>ErrInvalidRequest</td>
-    <td>18</td>
-    <td>invalid request</td>
-    <td>No</td>
-    <td>BadRequest</td>
-  </tr>
-  <tr>
-    <td>ErrTxInMempoolCache</td>
-    <td>19</td>
-    <td>tx already in mempool</td>
-    <td>No</td>
-    <td>BadRequest</td>
-  </tr>
-  <tr>
-    <td>ErrMempoolIsFull</td>
-    <td>20</td>
-    <td>mempool is full</td>
-    <td>Yes ??</td>
-    <td>AkashNetworkError ?? </td>
-  </tr>
-  <tr>
-    <td>ErrTxTooLarge</td>
-    <td>21</td>
-    <td>tx too large</td>
-    <td>No</td>
-    <td>BadRequest</td>
-  </tr>
-  <tr>
-    <td>ErrKeyNotFound</td>
-    <td>22</td>
-    <td>key not found</td>
-    <td>No</td>
-    <td>BadRequest</td>
-  </tr>
-  <tr>
-    <td>ErrWrongPassword</td>
-    <td>23</td>
-    <td>invalid account password</td>
-    <td>No</td>
-    <td>AuthError</td>
-  </tr>
-  <tr>
-    <td>ErrorInvalidSigner</td>
-    <td>24</td>
-    <td>tx intended signer does not match the given signer</td>
-    <td>No</td>
-    <td>BadRequest</td>
-  </tr>
-  <tr>
-    <td>ErrorInvalidGasAdjustment</td>
-    <td>25</td>
-    <td>invalid gas adjustment</td>
-    <td>No</td>
-    <td>StateError</td>
-  </tr>
-  <tr>
-    <td>ErrInvalidHeight</td>
-    <td>26</td>
-    <td>--</td>
-    <td>No</td>
-    <td>BadRequest ?? </td>
-  </tr>
-  <tr>
-    <td>ErrInvalidVersion</td>
-    <td>27</td>
-    <td>invalid version</td>
-    <td>No</td>
-    <td>BadRequest</td>
-  </tr>
-  <tr>
-    <td>ErrInvalidChainID</td>
-    <td>28</td>
-    <td>invalid chain-id</td>
-    <td>No</td>
-    <td>BadRequest</td>
-  </tr>
-  <tr>
-    <td>ErrInvalidType</td>
-    <td>29</td>
-    <td>invalid type</td>
-    <td>No</td>
-    <td>BadRequest</td>
-  </tr>
-  <tr>
-    <td>ErrTxTimeoutHeight</td>
-    <td>30</td>
-    <td>tx timeout height</td>
-    <td>No</td>
-    <td>BadRequest</td>
-  </tr>
-  <tr>
-    <td>ErrUnknownExtensionOptions</td>
-    <td>31</td>
-    <td>Unknown extension options</td>
-    <td>No</td>
-    <td>BadRequest</td>
-  </tr>
-  <tr>
-    <td>ErrWrongSequence</td>
-    <td>32</td>
-    <td>incorrect account sequence</td>
-    <td>No</td>
-    <td>BadRequest</td>
-  </tr>
-  <tr>
-    <td>ErrPackAny</td>
-    <td>33</td>
-    <td>failed packing protobuf message to Any</td>
-    <td>No</td>
-    <td>BadRequest</td>
-  </tr>
-  <tr>
-    <td>ErrUnpackAny</td>
-    <td>34</td>
-    <td>failed unpacking protobuf message from Any</td>
-    <td>No</td>
-    <td>BadRequest</td>
-  </tr>
-  <tr>
-    <td>ErrLogic</td>
-    <td>35</td>
-    <td>internal logic error</td>
-    <td>No</td>
-    <td>AkashNetworkError</td>
-  </tr>
-  <tr>
-    <td>ErrConflict</td>
-    <td>36</td>
-    <td>conflict</td>
-    <td>Yes ??</td>
-    <td>BadRequest</td>
-  </tr>
-  <tr>
-    <td>ErrNotSupported</td>
-    <td>37</td>
-    <td>feature not supported</td>
-    <td>No</td>
-    <td>BadRequest</td>
-  </tr>
-  <tr>
-    <td>ErrNotFound</td>
-    <td>38</td>
-    <td>not found</td>
-    <td>No</td>
-    <td>BadRequest</td>
-  </tr>
-  <tr>
-    <td>ErrIO</td>
-    <td>39</td>
-    <td>Internal IO error</td>
-    <td>Yes</td>
-    <td>AkashNetworkError</td>
-  </tr>  
-  <tr>
-    <td>ErrAppConfig</td>
-    <td>40</td>
-    <td>error in app.toml</td>
-    <td>??</td>
-    <td>??</td>
-  </tr>
-  <tr>
-    <td>ErrPanic</td>
-    <td>111222</td>
-    <td>panic</td>
-    <td>Yes</td>
-    <td>AkashNetworkError</td>
-  </tr>
-
-</table>
-
+|Error|Code|Description|Should Retry|Mapped to|
+|-----|----|-----------|------------|---------|
+|errInternal|1|Internal - not supposed to happen|Yes|AkashNetworkError|
+|ErrTxDecode|2|tx parse error|Yes|AkashNetworkError|
+|ErrInvalidSequence|3|invalid sequence|Yes|?? what is a sequence ??|
+|ErrUnauthorized|4|unauthorized|No|AuthError|
+|ErrInsufficientFunds|5|Not enough funds|No|StateError|
+|ErrUnknownRequest|6|unkown request|No|BadRequest|
+|RootCodespace|7|invalid address|No|BadRequest|
+|ErrInvalidPubKey|8|invalid pubkey|No|BadRequest|
+|ErrUnknownAddress|9|unknown address|No|BadRequest|
+|ErrInvalidCoins|10|invalid coins|No|BadRequest|
+|ErrOutOfGas|11|out of gas|No|StateError|
+|ErrMemoTooLarge|12|memo too large|No|BadRequest|
+|ErrInsufficientFee|13|insufficient fee|No|StateError|
+|ErrTooManySignatures|14|maximum number of signatures exceeded|No|??|
+|ErrNoSignatures|15|no signatures supplied|No|BadRequest|
+|ErrJSONMarshal|16|failed to marshal JSON bytes|No|BadRequest|
+|ErrJSONUnmarshal|17|failed to unmarshal JSON bytes|No|BadRequest|
+|ErrInvalidRequest|18|invalid request|No|BadRequest|
+|ErrTxInMempoolCache|19|tx already in mempool|No|BadRequest|
+|ErrMempoolIsFull|20|mempool is full|Yes ??|AkashNetworkError ??|
+|ErrTxTooLarge|21|tx too large|No|BadRequest|
+|ErrKeyNotFound|22|key not found|No|BadRequest|
+|ErrWrongPassword|23|invalid account password|No|AuthError|
+|ErrorInvalidSigner|24|tx intended signer does not match the given signer|No|BadRequest|
+|ErrorInvalidGasAdjustment|25|invalid gas adjustment|No|StateError|
+|ErrInvalidHeight|26|--|No|BadRequest ??|
+|ErrInvalidVersion|27|invalid version|No|BadRequest|
+|ErrInvalidChainID|28|invalid chain-id|No|BadRequest|
+|ErrInvalidType|29|invalid type|No|BadRequest|
+|ErrTxTimeoutHeight|30|tx timeout height|No|BadRequest|
+|ErrUnknownExtensionOptions|31|Unknown extension options|No|BadRequest|
+|ErrWrongSequence|32|incorrect account sequence|No|BadRequest|
+|ErrPackAny|33|failed packing protobuf message to Any|No|BadRequest|
+|ErrUnpackAny|34|failed unpacking protobuf message from Any|No|BadRequest|
+|ErrLogic|35|internal logic error|No|AkashNetworkError|
+|ErrConflict|36|conflict|Yes ??|BadRequest|
+|ErrNotSupported|37|feature not supported|No|BadRequest|
+|ErrNotFound|38|not found|No|BadRequest|
+|ErrIO|39|Internal IO error|Yes|AkashNetworkError|
+|ErrAppConfig|40|error in app.toml|??|??|
+|ErrPanic|111222|panic|Yes|AkashNetworkError|
 [Source code with error reference](https://github.com/cosmos/cosmos-sdk/blob/v0.45.9/types/errors/errors.go)
+
+
 
 ### Retry Policies and circuit breaker
 Client library has deep knowledge of the error types/models and which one of those are good candidates for
@@ -546,7 +219,7 @@ contributions from the open source community.
 
 #### 1. Client-to-Akash Interface
 
-    The client will perform requests to the Akash Network through a REST API and RPC. RPC will be used for everything related to transactions (tx) and the REST API for queries (query).
+The client will perform requests to the Akash Network through a REST API and RPC. RPC will be used for everything related to transactions (tx) and the REST API for queries (query).
 
 ### User Scenarios/Use Cases
 
@@ -559,29 +232,13 @@ system when running on Akash.
 
 Other requirements that have been deleted or delayed until future phases of the system:
 
-<table>
-  <tr>
-   <td><strong>Req#</strong></td>
-   <td><strong>Business Requirement</strong></td>
-   <td><strong>Status</strong></td>
-   <td><strong>Comments</strong></td>
-   <td><strong>Pri</strong></td>
-   <td><strong>Date Rvwd</strong></td>
-   <td><strong>SME Reviewed /Approved</strong></td>
-  </tr>
-</table>
-
+|Req#|Business Requirement|Status|Comments|Pri|Date Rvwd|SME Reviewed /Approved|
+|----|--------------------|------|--------|---|---------|----------------------|
 ## Requirements Confirmation/Stakeholder sign-off
 
 Include documentation of the approval or confirmation of the requirements here. For example:
 
-<table>
-  <tr>
-   <td><strong>Meeting Date</strong></td>
-   <td><strong>Attendees (name and role)</strong></td>
-   <td><strong>Comments</strong></td>
-  </tr>
-</table>
+|Meeting Date|Attendees (name and role)|Comments|
 
 # APPENDIX
 
