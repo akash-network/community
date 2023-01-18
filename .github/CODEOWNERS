@@ -1,6 +1,9 @@
 * @akash-network/community-global
 
 # Order is important; the last matching pattern takes the most
+# all teams including community-global reside under codeowners group.
+# this way only codeowners needs write access to the repo.
+# all nested groups are inheriting access
 
 sig-analytics/ @akash-network/sig-analytics
 sig-chain/ @akash-network/sig-chain
