@@ -8,7 +8,7 @@ date: 2023-1-09T00:19:20-08:00
 
 ## Meetings
 
-Meeting happen every [Third Wednesday of the Month](https://calendar.google.com/calendar/u/0?cid=Y18yNWU1ZTM3NDhlNGM0YWI3YTU1ZjQxZmJjNWViZWJjYzBhMDNiNDBmYjAyODc4NWYxNDE1OWJmYWViZWExMmUyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+Meetings happen every [Third Wednesday of the Month](https://calendar.google.com/calendar/u/0?cid=Y18yNWU1ZTM3NDhlNGM0YWI3YTU1ZjQxZmJjNWViZWJjYzBhMDNiNDBmYjAyODc4NWYxNDE1OWJmYWViZWExMmUyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
 ### Meeting #1 
 
@@ -28,7 +28,7 @@ Meeting happen every [Third Wednesday of the Month](https://calendar.google.com/
 
 ### Project Manager(s)
 
-- Anil Murthy (@anilmurty)
+- Anil Murty (@anilmurty)
 
 ## Contact
 
