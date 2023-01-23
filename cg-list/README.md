@@ -43,6 +43,7 @@ Inactive groups are moved to akash-network/community/archive and groups without 
 | Content Moderation | [wg-content-moderation](https://github.com/akash-network/community/tree/main/wg-content-moderation) | TBD | Discord | [Wednesday, January 25, 2023 9am-10am Pacific](https://meet.google.com/pbk-nyyo-ysp?authuser=0) |
 | Machine Learning & AI | wg-ml-ai | TBD | Discord | |
 | Network Upgrades | wg-network-upgrades | TBD | Discord | |
+| Provider Attributes | wg-provider-attributes | TBD | Discord | |
 | Testnets & Sandbox Environments | wg-testnet-sandbox | TBD | Discord | |
 
 
