@@ -18,11 +18,11 @@ Inactive groups are moved to akash-network/community/archive and groups without 
 ## Special Interest Groups (SIGs)
 
 
-| Name | Label | Leads | Contact | Next Meeting |
+| Name | Label | Leads | Contact | Next Meeting (with meeting link) |
 | ---- | ----- | ----- | ------- | -------- |
-| Analytics | sig-analytics | TBD | Discord | |
-| Blockchain | [sig-chain](https://github.com/akash-network/community/tree/main/sig-chain) | TBD | Discord | |
-| Clients | [sig-clients](https://github.com/akash-network/community/tree/main/sig-clients) | TBD | [Discord](https://discord.com/channels/747885925232672829/1062751273545375774/1065035088267575367) | |
+| Analytics | sig-analytics | TBD | Discord | [Thursday, February 9, 2023 9am-10am pacific time](https://meet.google.com/bdn-nsbh-bea?authuser=0) |
+| Blockchain | [sig-chain](https://github.com/akash-network/community/tree/main/sig-chain) | TBD | Discord | [Tuesday, February 7, 2023 9am-10am pacific time](https://meet.google.com/oxd-hgzz-nwa?authuser=0) |
+| Clients | [sig-clients](https://github.com/akash-network/community/tree/main/sig-clients) | TBD | [Discord](https://discord.com/channels/747885925232672829/1062751273545375774/1065035088267575367) | [Tuesday, February 15, 2023 10:30am-11:30am](https://meet.google.com/vpf-fqts-mux?authuser=0) |
 | Community | [sig-community](https://github.com/akash-network/community/tree/main/sig-community) | TBD | Discord | [Thursday, Feburary 2, 2023 10am-11am pacific time](https://meet.google.com/sqt-uzhf-nba?authuser=0) |
 | Deployments | [sig-deployments](https://github.com/akash-network/community/tree/main/sig-deployments) | TBD | Discord | [Wednesday, February 1, 2023 9am-10am pacific time](https://meet.google.com/eqm-hhuu-mro?authuser=0) |
 | Documentation | [sig-docs](https://github.com/akash-network/community/tree/main/sig-documentation) | TBD | [Discord](https://discord.com/channels/747885925232672829/1062752266991456278/1065672265863286795) | [Tuesday, January 24, 2023 7am-8am pacific time](https://meet.google.com/ifw-mcsu-stt?authuser=0)|
@@ -53,9 +53,7 @@ Inactive groups are moved to akash-network/community/archive and groups without 
 
 ## Steering Committee (SC)
 
-The Steering Commitee is initially comprised of the following members who have the most familiarity with Akash Network. The first Steering Committee kicks off Thursday, January 26, 2023 from 11am-12pm pacific time. 
-
-[Join here](https://meet.google.com/iet-tdcf-ivh?authuser=0)
+The Steering Commitee is initially comprised of the following members who have the most familiarity with Akash Network. The first Steering Committee kicks off Thursday, January 26, 2023 from 11am-12pm pacific time. [Join here.](https://meet.google.com/iet-tdcf-ivh?authuser=0)
 
 - Adam Bozanich, Overclock Labs
 - Anil Murty, Overclock Labs
