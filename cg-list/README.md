@@ -12,33 +12,35 @@ This SIG, WG and UG lists are expected to change over time with groups being add
 
 Inactive groups are moved to akash-network/community/archive and groups without links have not had their charter & details defined yet.
 
+### [Add sig and wg calendar](https://calendar.google.com/calendar/u/0?cid=Y18yNWU1ZTM3NDhlNGM0YWI3YTU1ZjQxZmJjNWViZWJjYzBhMDNiNDBmYjAyODc4NWYxNDE1OWJmYWViZWExMmUyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+
 
 ## Special Interest Groups (SIGs)
 
 
-| Name | Label | Leads | Contact | Meetings |
+| Name | Label | Leads | Contact | Next Meeting |
 | ---- | ----- | ----- | ------- | -------- |
 | Analytics | sig-analytics | TBD | Discord | |
 | Blockchain | [sig-chain](https://github.com/akash-network/community/tree/main/sig-chain) | TBD | Discord | |
-| Clients | [sig-clients](https://github.com/akash-network/community/tree/main/sig-clients) | TBD | Discord | |
-| Community | [sig-community](https://github.com/akash-network/community/tree/main/sig-community) | TBD | Discord | |
-| Deployments | [sig-deployments](https://github.com/akash-network/community/tree/main/sig-deployments) | TBD | Discord | |
-| Documentation | [sig-docs](https://github.com/akash-network/community/tree/main/sig-documentation) | TBD | Discord | |
-| Economics | [sig-economics](https://github.com/akash-network/community/tree/main/sig-economics) | TBD | Discord | |
-| Education | [sig-edu](https://github.com/akash-network/community/tree/main/sig-education) | TBD | Discord | |
-| Providers | [sig-providers](https://github.com/akash-network/community/tree/main/sig-providers) | TBD | Discord | |
+| Clients | [sig-clients](https://github.com/akash-network/community/tree/main/sig-clients) | TBD | [Discord](https://discord.com/channels/747885925232672829/1062751273545375774/1065035088267575367) | |
+| Community | [sig-community](https://github.com/akash-network/community/tree/main/sig-community) | TBD | Discord | [Thursday, Feburary 2, 2023 10am-11am pacific time](https://meet.google.com/sqt-uzhf-nba?authuser=0) |
+| Deployments | [sig-deployments](https://github.com/akash-network/community/tree/main/sig-deployments) | TBD | Discord | [Wednesday, February 1, 2023 9am-10am pacific time](https://meet.google.com/eqm-hhuu-mro?authuser=0) |
+| Documentation | [sig-docs](https://github.com/akash-network/community/tree/main/sig-documentation) | TBD | [Discord](https://discord.com/channels/747885925232672829/1062752266991456278/1065672265863286795) | [Tuesday, January 24, 2023 7am-8am pacific time](https://meet.google.com/ifw-mcsu-stt?authuser=0)|
+| Economics | [sig-economics](https://github.com/akash-network/community/tree/main/sig-economics) | TBD | Discord | [Wednesday, February 1st, 2023 TIME TBD](https://meet.google.com/npx-pnjx-dmq?authuser=0) |
+| Education | [sig-edu](https://github.com/akash-network/community/tree/main/sig-education) | TBD | Discord | [Thursday, Feburary 2, 2023 12pm-1pm pacific time](https://meet.google.com/kfa-hgkb-qrz?authuser=0) |
+| Providers | [sig-providers](https://github.com/akash-network/community/tree/main/sig-providers) | TBD | Discord | [Wednesday, Janaury 25, 2023 8am-9am pacific time](https://meet.google.com/zme-cjbw-xou?authuser=0) |
 | Network Upgrades | [sig-network-upgrades](https://github.com/akash-network/community/tree/main/sig-network-upgrades) | TBD | Discord | |
 | Operations & Maintenance | sig-ops-maint | TBD | Discord | |
-| Support | [sig-support](https://github.com/akash-network/community/tree/main/sig-support) | TBD | Discord | |
+| Support | [sig-support](https://github.com/akash-network/community/tree/main/sig-support) | TBD | [Discord](https://discord.com/channels/747885925232672829/1062751101964779581/1065683574629617774) | [Thursday, January 26, 2023 11am-12pm pacific time](https://meet.google.com/qhe-aayf-yds?authuser=0) |
 
 
 ## Working Groups (WGs)
 
-| Name | Label | Leads | Contact | Meetings |
+| Name | Label | Leads | Contact | Next Meeting |
 | ---- | ----- | ----- | ------- | -------- |
-| Client Libraries | wg-client-libraries | TBD | Discord | |
+| Client Libraries | wg-client-libraries | TBD | [Discord](https://discord.com/channels/747885925232672829/1054846400275431464/1054846858658336798) | |
 | Cloud Parity | wg-cloud-parity | TBD | Discord | |
-| Content Moderation | [wg-content-moderation](https://github.com/akash-network/community/tree/main/wg-content-moderation) | TBD | Discord | |
+| Content Moderation | [wg-content-moderation](https://github.com/akash-network/community/tree/main/wg-content-moderation) | TBD | Discord | [Wednesday, January 25, 2023 9am-10am Pacific](https://meet.google.com/pbk-nyyo-ysp?authuser=0) |
 | Machine Learning & AI | wg-ml-ai | TBD | Discord | |
 | Network Upgrades | wg-network-upgrades | TBD | Discord | |
 | Testnets & Sandbox Environments | wg-testnet-sandbox | TBD | Discord | |
