@@ -56,10 +56,12 @@ Inactive groups are moved to akash-network/community/archive and groups without 
 
 ## Steering Committee (SC)
 
-The Steering Commitee is initially comprised of the following members who have the most familiarity with Akash Network. The first Steering Committee kicks off Thursday, January 26, 2023 from 11am-12pm pacific time. [Join here.](https://meet.google.com/iet-tdcf-ivh?authuser=0)
+The [Steering Commitee](../committee-steering/README.md) is initially comprised of the following members who have the most familiarity with Akash Network. 
 
 - Adam Bozanich, Overclock Labs
 - Anil Murty, Overclock Labs
 - Artur Troian, Overclock Labs
 - Greg Osuri, Overclock Labs
 - Scott Caruthers, Overclock Labs
+
+The Steering Committee meetings kicked off Thursday, January 26, 2023 from 11am-12pm pacific time. To listen in on future commitee meetings [Join here.](https://meet.google.com/iet-tdcf-ivh?authuser=0)
