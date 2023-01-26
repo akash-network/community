@@ -41,9 +41,11 @@ Inactive groups are moved to akash-network/community/archive and groups without 
 | Client Libraries | wg-client-libraries | TBD | [Discord](https://discord.com/channels/747885925232672829/1054846400275431464/1054846858658336798) | |
 | Cloud Parity | wg-cloud-parity | TBD | Discord | |
 | Content Moderation | [wg-content-moderation](https://github.com/akash-network/community/tree/main/wg-content-moderation) | TBD | Discord | [Wednesday, January 25, 2023 9am-10am Pacific](https://meet.google.com/pbk-nyyo-ysp?authuser=0) |
+| GPU Support | wg-gpu | TBD | Discord | |
 | Machine Learning & AI | wg-ml-ai | TBD | Discord | |
 | Network Upgrades | wg-network-upgrades | TBD | Discord | |
 | Provider Attributes | wg-provider-attributes | TBD | Discord | |
+| Provider Services - Microservices Split | wg-provider-microservices | TBD | Discord | |
 | Testnets & Sandbox Environments | wg-testnet-sandbox | TBD | Discord | |
 
 
