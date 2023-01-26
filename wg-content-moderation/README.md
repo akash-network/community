@@ -10,7 +10,7 @@ gives providers control over the applications that run on their systems.
 
 ## Meetings
 
-BiWeekly On Wednesdays at 9am Pacific. Next meeting 2023, January 25
+BiWeekly On Wednesdays at 9am Pacific. Next meeting 2023, February 8th.
 
 ## Leads
 
