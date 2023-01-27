@@ -15,20 +15,8 @@ Joining the mailing list for the group will typically add invites for the follow
 
 ## Leadership
 
-- ### Product Lead(s)
-
-- Name (GH Handle)
-- Name (GH Handle)
-
-- ### Tech Lead(s)
-
-- Name (GH Handle)
-- Name (GH Handle)
-
-- ### Project Manager(s)
-
 - Andreia Rodrigues (@andreia-rodrigues)
-- Name (GH Handle)
+- Denis Lelic (@aktdenis)
 
 ## Contact
 
