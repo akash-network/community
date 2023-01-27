@@ -15,6 +15,8 @@ To be scheduled
 
   - Anil Murty (@anilmurty)
   - Artur Troian (@troian)
+  - Adam Bozanich (@boz)
+  - Greg Osuri (@gosuri)
 
 ## Contacts
 
