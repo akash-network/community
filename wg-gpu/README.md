@@ -8,6 +8,7 @@ date: 2023-1-09T00:19:20-08:00
 This working group is dedicated to figuring out everything that needs to happen for Akash to offer GPUs on its provider network. This includes coming up with specifications for provider, deployments, clients, inventory sourcing, understanding application needs, integrations with partners etc.
 
 ## Meetings
+To be scheduled
 
 
 ## Leads
@@ -38,5 +39,5 @@ This working group is dedicated to figuring out everything that needs to happen 
 ## Related SIGs
 
 - [sig-providers](sig-providers)
-- [sig-clients](sig-clients]
+- [sig-clients](sig-clients)
 - [sig-deployments](sig-deployments)
