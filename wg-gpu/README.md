@@ -12,12 +12,12 @@ This working group is dedicated to figuring out everything that needs to happen 
 
 ## Leads
 
-  - Name (GH Handle)
-  - Name (GH Handle)
+  - Anil Murty (@anilmurty)
+  - Artur Troian (@troian)
 
 ## Contacts
 
-- Discord (add link)
+- [Discord](https://discord.com/channels/747885925232672829/1067981460461588480)
 
 ## Goals
 
@@ -37,6 +37,6 @@ This working group is dedicated to figuring out everything that needs to happen 
 
 ## Related SIGs
 
-- sig-provider
-- sig-clients
-- sig-deployments
+- [sig-providers](sig-providers)
+- [sig-clients](sig-clients]
+- [sig-deployments](sig-deployments)
