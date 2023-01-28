@@ -3,7 +3,7 @@ title: "PRD - GPU Marketplace on Akash"
 date: 2023-1-27T00:21:46-08:00
 ---
 
-#[WIP] PRD - GPU Marketplace on Akash Network
+# [WIP] PRD - GPU Marketplace on Akash Network
 
 Product requirements to allow Akash Network tenants to lease GPU capacity for their deployments and for providers to offer GPU resources through the marketplace. This is a work in progress (WIP)
 
