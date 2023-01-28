@@ -35,7 +35,7 @@ To be scheduled
 
 
 ## PRDs and other documentation
-- PRD
+- [PRD](prd.md)
 
 
 ## Related SIGs
