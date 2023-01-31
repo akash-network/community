@@ -5,7 +5,6 @@ date: 2023-1-09T00:19:20-08:00
 
 # Akash Network - Documentation Special Interest Group (SIG)
 
-Akash Network Documentation is...
 
 The goal of this SIG is to foster a community around the creation and maintenance of top-tier documentation to facilitate the growth of Akash Network by enabling greater understanding and clarity. Effective documentation will cater to the developer and the curious, driving deployemtns on Akash Network as a whole.
 
@@ -21,6 +20,7 @@ The goal of this SIG is to foster a community around the creation and maintenanc
 
 ## Leadership
 
+- Scott Carruthers, Overclock Labs
 
 ## Contact
 
