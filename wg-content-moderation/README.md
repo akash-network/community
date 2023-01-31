@@ -18,6 +18,7 @@ BiWeekly On Wednesdays at 9am Pacific. Next meeting 2023, February 8th.
 - Scott Carruthers (scott@akash.network)
 - Deval Patel (deval@praetorapp.com)
 - Jigar Patel (jigar@praetorapp.com)
+- Anil Murty (anil@akash.network)
 
 ## Contacts
 
@@ -25,15 +26,15 @@ BiWeekly On Wednesdays at 9am Pacific. Next meeting 2023, February 8th.
 
 ## Goals
 
-* Define next iteration of content moderation tooling
-  * [Moderation API](moderation-api.md)
-  * [Management API](management-api.md)
-* Create a long-term roadmap for additional tooling.
-  * [Management API](management-api.md)
+* Agree on problem we are trying to solve with content moderation
+* Brainstorm potential solutions
+* Prioritize solutions based on difficulty
+* Document High level PRD and API Spec(s)
+* Allocate work to Sigs to implement code changes
 
 ## PRDs and other documentation
 
-- [Long-Term Roadmap](provider-content-moderation.md)
+- [PRD & Roadmap](prd.md)
 - [Moderation API](moderation-api.md)
 - [Management API](management-api.md)
 
