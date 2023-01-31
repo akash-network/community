@@ -6,6 +6,18 @@ date: 2023-1-09T00:19:20-08:00
 
 # Akash Network - Clients Special Interest Group (SIG)
 
+Akash Network Clients are software and services that make it easier for tenants of all types to deploy on to Akash Providers. The AKash Network community has built and supports the following deployment clients at this time:
+
+- [Akash Console](akash-console/README.md)
+- [AKash Command Line Interface](akash-cli/README.md)
+- [Client Libraries](client-libraries/README.md) (for various programming languages)
+- [Cloudmos Deploy](cloudmos-deploy/README.md)
+- [Fleek](fleek/README.md)
+- [Spheron](spheron/README.md)
+- [Terraform Provider](terraform-provider/README.md)
+
+The goal of this SIG is to foster a community around each of these clients that is focused on building a roadmap for each client, capturing feedback from users, resolving issues and driving adoption of the clients. Each of these clients cater to specific Akash Network user segments and as such, drive the north star metric of driving deployemtns on Akash Network as a whole.
+
 ## Meetings
 
 Meetings happen every [Third Wednesday of the Month](https://calendar.google.com/calendar/u/0?cid=Y18yNWU1ZTM3NDhlNGM0YWI3YTU1ZjQxZmJjNWViZWJjYzBhMDNiNDBmYjAyODc4NWYxNDE1OWJmYWViZWExMmUyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
@@ -20,15 +32,22 @@ Meetings happen every [Third Wednesday of the Month](https://calendar.google.com
 
 ### Product Lead(s)
 
-- Greg Osuri (@gosuri)
+- Anil Murty, Overclock Labs (@anilmurty) - Akash Console
+- Greg Osuri, Overclock Labs (@gosuri) - Akash CLI
+- Joao Luna, Quasarch (@cloud-j-luna) - Terraform Provider, Client Libraries
+- Maxime Beauchamp, Cloudmos (baktun14) - Cloudmos Deploy
+- Prashant Maurya, Spheron Network () - Spheron
 
 ### Tech Lead(s)
 
-- Joseph Tary (@jtary)
+- Adam Bozanich, Overclock Labs (@boz)
+- Joao Luna, Quasarch (@cloud-j-luna)
+- Joseph Tary, Overclock Labs (@jtary)
+- Maxime Beauchamp, Cloudmos (baktun14)
 
-### Project Manager(s)
+### Program Manager(s)
 
-- Anil Murty (@anilmurty)
+- Tyler Wright (@brewsterdrinkwater)
 
 ## Contact
 
@@ -38,6 +57,4 @@ Meetings happen every [Third Wednesday of the Month](https://calendar.google.com
 
 The following are projects and work-groups that sig-clients participates in or contributes to
 
-- [Cloudmos Deploy](cloudmos-deploy)
-- [Akash Console](cloudmos-deploy)
-- [Client Libraries](client-libraries)
+- [Client Libraries](wg-cllient-libraries)
