@@ -7,7 +7,12 @@ date: 2023-1-09T00:19:20-08:00
 
 ## Meetings
 
-[First Wednesday of the Month](https://calendar.google.com/calendar/u/0?cid=Y18yNWU1ZTM3NDhlNGM0YWI3YTU1ZjQxZmJjNWViZWJjYzBhMDNiNDBmYjAyODc4NWYxNDE1OWJmYWViZWExMmUyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+Meetings happen every [First Wednesday of the Month](https://calendar.google.com/calendar/u/0?cid=Y18yNWU1ZTM3NDhlNGM0YWI3YTU1ZjQxZmJjNWViZWJjYzBhMDNiNDBmYjAyODc4NWYxNDE1OWJmYWViZWExMmUyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+
+| Meeting | Time | Notes | Transcript | Recording
+| --- | --- | --- | --- | --- |
+| #1 | Wednesday, February 1, 2023 10:00 AM PT (Pacific Time) | [Link](meetings/1-2023-02-01.md) | [Link](meetings/1-2023-02-01.md#transcript) | Link
+
 
 ## Leadership
 
