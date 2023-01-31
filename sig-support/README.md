@@ -12,6 +12,12 @@ Defining mechanics of how support works and organizing a distributed support tea
 
 [4th Wednesday of the month at 11am Pacific](https://calendar.google.com/calendar/u/0?cid=Y18yNWU1ZTM3NDhlNGM0YWI3YTU1ZjQxZmJjNWViZWJjYzBhMDNiNDBmYjAyODc4NWYxNDE1OWJmYWViZWExMmUyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
+
+
+| Meeting | Time | Notes | Transcript | Recording
+| --- | --- | --- | --- | --- |
+| #1 | Wed, Jan 25, 2023 11:00 AM PT (Pacific Time) | [Link]() | [Link]() | [Link](https://oeqff22hfuk5ykubxssnw5ldpzdzdeboatqr4fusrsdl6qwmczfa.arweave.net/cSBS60ctFdwqgbyk23VjfkeRkC4E4R4WkoyGv0LMFko)
+
 ## Leadership
 
 - Scott Carruthers, Overclock Labs
