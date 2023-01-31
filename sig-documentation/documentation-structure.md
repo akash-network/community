@@ -14,11 +14,12 @@ Requirements for the Akash Documentation Structure
 
 ## Purpose and Scope of this Specification
 
-Requirements specification for Akash Documentation Structure:
+Requirements specification for Akash Documentation Structure. This specification focuses mostly on developer-oriented documentation.
 
 ### In scope
 
-...
+In-depth blockchain concepts.
+
 
 ### Out of Scope
 
@@ -61,9 +62,20 @@ The following table is a tabulation for the requirements.
 The proposed structure is as follows:
 
 1. Getting Started
-* Setting up the Environment
-* First Deployment
+    * Setting up the Environment
+    * Your First Deployment
 2. Concepts
+    * Akash Network
+    * Providers
+    * Deployments
+    * Bids & Leases
+    * DSEQ, GSEQ & OSEQ
+    * Validator Nodes
+3. Architecture
+    * Overview
+    * Kubernetes & Containers
+    * Akash Node
+    * Akash Provider
 
 ## Usability
 
