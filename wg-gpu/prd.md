@@ -3,7 +3,8 @@ title: "PRD - GPU Marketplace on Akash"
 date: 2023-1-27T00:21:46-08:00
 ---
 
-#[WIP] PRD - GPU Marketplace on Akash Network
+# [WIP] PRD - GPU Marketplace on Akash Network
+
 
 Product requirements to allow Akash Network tenants to lease GPU capacity for their deployments and for providers to offer GPU resources through the marketplace. This is a work in progress (WIP)
 
@@ -22,6 +23,7 @@ In addition to the above strategic goals, Akash Network and its community have s
 
 
 ## Problem Statement
+
 In order for Akash to offer support for GPUs on its marketplace, the following questions need to be answered (decisions need to be made):
 
 ### Provider specific questions/ decisions:
@@ -129,7 +131,8 @@ The segment of users interested in mining cryptocurrencies on Proof-of-Work (PoW
 
 ### Private Container Registry Support
 
-Today Akash does not support deplpoying container images that are stored in provate registries (they need to be publicly accessible). If our primary user segment is ML & AI application developers then this is likely a requirement that we need to satisfy. This effort will be handled by a separate community work group (WG).
+Today Akash does not support deplpoying container images that are stored in private container registries (they need to be publicly accessible). If our primary user segment is ML & AI application developers then this is likely a requirement that we need to satisfy. This effort will be handled by a separate community work group (WG).
+
 
 ### Bandwidth Pricing
 
@@ -139,7 +142,7 @@ ML & AI applications generally require a large data set transfer which seems to 
 The GTM plan for GPUs will need to include:
 1. Partnerships with DC operators for GPU inventory
 2. Enagement with the PoW miner community for testing on mining OSes and sourcing GPU inventory
-3. Partnershup with developer tool companies that make it easy to create a dev environment on GPU hardware (e.g https://brev.dev/)
+3. Partnerships with developer tool companies that make it easy to create a dev environment on GPU hardware (e.g https://brev.dev/)
 4. Parnerships with application developers to understand developer experience and drive adoption
 
 ## Execution Phases
