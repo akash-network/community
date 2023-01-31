@@ -13,10 +13,10 @@ To be scheduled
 
 ## Leads
 
-  - Anil Murty (@anilmurty)
-  - Artur Troian (@troian)
-  - Adam Bozanich (@boz)
-  - Greg Osuri (@gosuri)
+- Anil Murty (@anilmurty)
+- Artur Troian (@troian)
+- Adam Bozanich (@boz)
+- Greg Osuri (@gosuri)
 
 ## Contacts
 
@@ -35,11 +35,12 @@ To be scheduled
 
 
 ## PRDs and other documentation
+
 - [PRD](prd.md)
 
 
 ## Related SIGs
 
-- [sig-providers](sig-providers)
-- [sig-clients](sig-clients)
-- [sig-deployments](sig-deployments)
+- [sig-providers](../sig-providers)
+- [sig-clients](../sig-clients)
+- [sig-deployments](../sig-deployments)
