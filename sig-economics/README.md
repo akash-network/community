@@ -22,7 +22,7 @@ date: 2023-1-09T00:19:20-08:00
 
 ## Contact
 
-- Discord Server (hyperlink it)
+- [Discord Server](https://discord.com/channels/747885925232672829/1062752068907044985/1069627540509036686)
 
 ## Sub Projects, Repositories & Relevant Work Groups
 

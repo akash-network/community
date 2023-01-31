@@ -11,6 +11,12 @@ Provider SIG covers everything pertinent to Providers on Akash Network. This inc
 
 [4th Wednesday of every month](https://calendar.google.com/calendar/u/0?cid=Y18yNWU1ZTM3NDhlNGM0YWI3YTU1ZjQxZmJjNWViZWJjYzBhMDNiNDBmYjAyODc4NWYxNDE1OWJmYWViZWExMmUyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
+
+
+| Meeting | Time | Notes | Transcript | Recording
+| --- | --- | --- | --- | --- |
+| #1 | Wed, Jan 25, 2023 9:00 AM PT (Pacific Time) | [Link]() | [Link]() | [Link](https://ul6obj7t6ueiuh7zjrlxfhr6ybeatjt4iox6mbvwvgzju5rwnwqa.arweave.net/ovzgp_P1CIof-UxXcp4-wEgJpnxDr-YGtqmymnY2baA)
+
 ## Leadership
 
 - ### Product Lead(s)
