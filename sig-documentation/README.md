@@ -14,7 +14,7 @@ date: 2023-1-09T00:19:20-08:00
 
 | Meeting | Time | Notes | Transcript | Recording
 | --- | --- | --- | --- | --- |
-| #1 | Tue, Jan 24, 2023 7:00 AM PT (Pacific Time) | [Link]() | [Link]() | [Link](https://rccf7mccev5vmvdmjyn2hnc5udhro25ayfh5f4oltnmg7dow2ddq.arweave.net/iIRfsEIle1ZUbE4bo7RdoM8Xa6DBT9Lxy5tYb43W0Mc)
+| #1 | Tue, Jan 24, 2023 7:00 AM PT (Pacific Time) | [Link](meetings/001-2023-01-24.md) | [Link](meetings/001-2023-01-24.md#transcript) | [Link](https://rccf7mccev5vmvdmjyn2hnc5udhro25ayfh5f4oltnmg7dow2ddq.arweave.net/iIRfsEIle1ZUbE4bo7RdoM8Xa6DBT9Lxy5tYb43W0Mc)
 
 ## Leadership
 
