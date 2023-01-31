@@ -18,15 +18,15 @@ These are all the projects that are currently in some state ranging from "ideati
 | Project Name | Label | Description | Community Group | State
 | --- | --- | --- | --- | --- |
 | Provider Services Microservices Refactor | provider-svc-split | Splitting Akash Provider Services into microservices so that we’re able to release and maintain software better | [sig-providers](..//sig-providers) | implementation |
-| Certification Program | edu-cert-prgm | Define, build and finalize Akash Network Certification Program  | sig-edu | implementation |
-| Console General Availability | console-ga | Releasing Console for General Availability | sig-clients | implementation |
-| Docs site migration | docs-site-migration | Migrating the documentation site from gitbooks to something automatable (Hugo?) | sig-docs | spec-definition |
-| [Console Authorized Spend Support](../sig-clients/akash-console/prd-authorized-spend.md) | console-authz | Supporting Authorized Spend (AuthZ) in Akash Console | sig-clients | spec-definition |
-| [Client Libraries](https://github.com/akash-network/community/blob/main/sig-clients/client-libraries/prd.md) | client-libs |  Libraries for deploying on Akash programmatically using various programming languages  | sig-clients | spec-definition |
+| Certification Program | edu-cert-prgm | Define, build and finalize Akash Network Certification Program  | [sig-community](https://github.com/akash-network/community/tree/main/sig-community) | implementation |
+| Console General Availability | console-ga | Releasing Console for General Availability | [sig-clients](https://github.com/akash-network/community/tree/main/sig-clients) | implementation |
+| Docs site migration | docs-site-migration | Migrating the documentation site from gitbooks to something automatable (Hugo?) | [sig-docs](https://github.com/akash-network/community/tree/main/sig-documentation) | spec-definition |
+| [Console Authorized Spend Support](../sig-clients/akash-console/prd-authorized-spend.md) | console-authz | Supporting Authorized Spend (AuthZ) in Akash Console | [sig-clients](https://github.com/akash-network/community/tree/main/sig-clients) | spec-definition |
+| [Client Libraries](https://github.com/akash-network/community/blob/main/sig-clients/client-libraries/prd.md) | client-libs |  Libraries for deploying on Akash programmatically using various programming languages  | [sig-clients](https://github.com/akash-network/community/tree/main/sig-clients) | spec-definition |
 | GPU Support | gpu | Everything related to supporting, launching and growing GPUs on Akash  | [wg-gpu](../wg-gpu) | spec-definition |
 | Provider Attributes | provider-attr | Defining an attribute schema for providers and getting providers to incorporate it  | [wg-provider-attributes](../wg-provider-attributes/README.md) | spec-definition |
-| Economics 2.0 | econ-2.0 | Redesigning Akash Network's economics model to have fine grained take rates to fund product development and sustainability of the chain  | sig-economics | spec-definition |
-| Omnibus Maintenance | omnibus-maint | Building new reference SDLs and packages for new chains that we want to support. Building automated testing for the supported omnibus chains  | sig-community | ideation |
+| Economics 2.0 | econ-2.0 | Redesigning Akash Network's economics model to have fine grained take rates to fund product development and sustainability of the chain  | [sig-economics](https://github.com/akash-network/community/tree/main/sig-economics) | spec-definition |
+| Omnibus Maintenance | omnibus-maint | Building new reference SDLs and packages for new chains that we want to support. Building automated testing for the supported omnibus chains  | [sig-community](https://github.com/akash-network/community/tree/main/sig-community) | ideation |
 | Content Moderation | content-mod | Tools and process for ensuring that providers have visibility into workloads running on them and controls to ensure they don’t violate their terms of service  | [sig-providers](../sig-providers) | ideation |
 | Keeping up with Cosmos | cosmos-sync | Things we Akash needs to do to stay in sync with Cosmos (SDK changes etc)  | sig-network-upgrade  |  |
 | Private Image Repository |  | Support for deploying  images hosted in private container registries |  |  |
