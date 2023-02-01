@@ -58,9 +58,9 @@ There are numerous ways to subsidize providers, some considerations are:
 * Incentivize based on amount wokload they host, similar to [Filecoin Plus][filecoin-plus] Program.
 * Use an "exponential discount model" described in Evolution of the Akash Network Token Economics [blog post][akt-evolution].
 
-### Developer Fund
+### Public Goods Fund
 
-We propose a portion of the Tokens from the `Incentive Distribution Pool` be allocated to the Developer Fund to incentivize the growth of the Akash Network. The Developer Fund is a pool of AKT that is distributed to developers who build applications on the Akash Network. The Developer Fund is distributed through on-chain governance.
+We propose a portion of the Tokens from the `Incentive Distribution Pool` be allocated to the Public Goods Fund to incentivize the growth of the Akash Network. The Public Goods Fund is a pool of AKT that is distributed to developers who build applications that grow the Akash Network and its adoption. The Developer Fund is distributed through on-chain governance.
 
 The mechanism for distributing the Developer Fund will be determined by the [Steering Committee][streeing-committee].
 
@@ -68,11 +68,15 @@ The mechanism for distributing the Developer Fund will be determined by the [Ste
 
 A portion of the fees collected is distributed to AKT stakers as a reward for securing the network.
 
+### Community Pool
+
+We propose a portion of the fees collected is distributed to the community pool to be distributed through on-chain governance to grow the community.
+
 ### Burn Remaining Tokens
 
 All the fees denominated in non-AKT tokens are traded for AKT using a decentralized exchange, like [Osmosis][osmosis], and burned along with the AKT in the pool. 
 
-TODO: Gas fees and slipplane are not accounted for in this proposal. We need to determine how to account for these fees.
+TODO: Gas fees and slippage are not accounted for in this proposal. We need to determine how to account for these fees.
 
 ## Calculations
 
