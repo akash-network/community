@@ -15,17 +15,18 @@ Provider SIG covers everything pertinent to Providers on Akash Network. This inc
 
 | Meeting | Time | Notes | Transcript | Recording
 | --- | --- | --- | --- | --- |
-| #1 | Wed, Jan 25, 2023 9:00 AM PT (Pacific Time) | [Link]() | [Link]() | [Link](https://ul6obj7t6ueiuh7zjrlxfhr6ybeatjt4iox6mbvwvgzju5rwnwqa.arweave.net/ovzgp_P1CIof-UxXcp4-wEgJpnxDr-YGtqmymnY2baA)
+| #1 | Wed, Jan 25, 2023 9:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/001-2023-01-25.md) | [Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/001-2023-01-25.md#transcript) | [Link](https://ul6obj7t6ueiuh7zjrlxfhr6ybeatjt4iox6mbvwvgzju5rwnwqa.arweave.net/ovzgp_P1CIof-UxXcp4-wEgJpnxDr-YGtqmymnY2baA)
 
 ## Leadership
 
-- ### Product Lead(s)
+### Product Lead(s)
+
+- Andrey Arapov, Overclock Labs
+- Scott Carruthers, Overclock Labs
+- Jigar Patel, Praetor
 
 
-- ### Tech Lead(s)
-
-
-- ### Project Manager(s)
+### Project Manager(s)
 
 ## Contact
 
