@@ -68,11 +68,15 @@ The mechanism for distributing the Developer Fund will be determined by the [Ste
 
 A portion of the fees collected is distributed to AKT stakers as a reward for securing the network.
 
+### Community Pool
+
+We propose a portion of the fees collected is distributed to the community pool to be distributed through on-chain governance to grow the community.
+
 ### Burn Remaining Tokens
 
 All the fees denominated in non-AKT tokens are traded for AKT using a decentralized exchange, like [Osmosis][osmosis], and burned along with the AKT in the pool. 
 
-TODO: Gas fees and slipplane are not accounted for in this proposal. We need to determine how to account for these fees.
+TODO: Gas fees and slippage are not accounted for in this proposal. We need to determine how to account for these fees.
 
 ## Calculations
 
