@@ -14,7 +14,7 @@ To be scheduled
 ## Lead(s)
 
 - Anil Murty, Overclock Labs (@anilmurty)
-- Jigar Patel, Praetor App ()
+- Jigar Patel, Praetor App (@jigar-arc10)
 - Joao Luna, Quasarch (@cloud-j-luna)
 
 ## Contacts
