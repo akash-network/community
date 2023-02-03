@@ -12,6 +12,10 @@ This working group is dedicated to figuring out everything that needs to happen 
 [First meeting is Tuesday, February 7, 2023 11:00 AM PT (Pacific Time)](https://meet.google.com/ikn-seva-qch?authuser=0)
 
 
+| Meeting | Time | Notes | Transcript | Recording
+| --- | --- | --- | --- | --- |
+| #1 | Tuesday, February 7, 2023 11:00 AM PT (Pacific Time) |  |  |
+
 ## Leads
 
 - Anil Murty (@anilmurty)
