@@ -11,6 +11,11 @@ This working group is responsible for the design, implementation, testing and do
 
 [Tuesday February 7, 2023 01:00 PM PT (Pacific Time)](https://meet.google.com/swo-zrit-ztg?authuser=0)
 
+
+| Meeting | Time | Notes | Transcript | Recording
+| --- | --- | --- | --- | --- |
+| #1 | Tuesday, February 7, 2023 11:00 AM PT (Pacific Time) |  |  |
+
 ## Leads
 
 - João Luna (@cloud-j-luna)
