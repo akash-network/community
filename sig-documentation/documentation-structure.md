@@ -44,8 +44,12 @@ General customer profiles for each type of user who will be using the documentat
 
 ## Assumptions
 
-...
+We assume first time users are not familiar with Akash Network and cryptocurrencies.
+It's also assumed a limited knowledge of cloud/software technologies.
 
+Frequent users are assumed to be looking for quick copy/paste examples and/or quick reference.
+
+Developers are assumed to be looking for client documentation (Java, Go, ...) and/or general documentation.
 ## Dependencies
 
 * A working Akash wallet with AKT
@@ -58,9 +62,9 @@ The following table is a tabulation for the requirements.
 
 |Req#|Requirement|Comments|Priority|Date Rvwd|SME Reviewed / Approved|
 |----|-----------|--------|--------|---------|-----------------------|
+|R_01|Documentation must be available in English|||||
 
 The proposed structure is as follows:
-
 1. Getting Started
     * Setting up the Environment
     * Your First Deployment
@@ -71,14 +75,23 @@ The proposed structure is as follows:
     * Bids & Leases
     * DSEQ, GSEQ & OSEQ
     * Validator Nodes
+    * SDL
 3. Architecture
     * Overview
     * Kubernetes & Containers
     * Akash Node
     * Akash Provider
+4. Guides
+    * Deploy using the CLI
+    * Deploying using Cloudmos
+    * Deploying using Terraform
+5. Developers
+    * _This is the scope of the client libraries documentation_
 
 ## Usability
 
 ### Learnability
 
-...
+The first chapter should allow users to have a running deployment in less than 5 minutes.
+It should also permanently setup the user's environment so that the development environment still works on a full restart.
+This can be achieved by changing the respective environment variables.
