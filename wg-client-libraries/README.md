@@ -14,7 +14,7 @@ This working group is responsible for the design, implementation, testing and do
 
 | Meeting | Time | Notes | Transcript | Recording
 | --- | --- | --- | --- | --- |
-| #1 | Tuesday, February 7, 2023 11:00 AM PT (Pacific Time) |  |  |
+| #1 | Tuesday, February 7, 2023 1:00 PM PT (Pacific Time) |  |  |
 
 ## Leads
 
