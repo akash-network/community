@@ -13,7 +13,7 @@ date: 2023-1-09T00:19:20-08:00
 
 | Meeting | Time | Notes | Transcript | Recording
 | --- | --- | --- | --- | --- |
-| #1 | Tuesday, February 7, 2023 09:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-chain/meetings/001-2023-02-08.md) |  | 
+| #1 | Tuesday, February 7, 2023 09:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-chain/meetings/001-2023-02-08.md) | [Link](https://github.com/akash-network/community/blob/main/sig-chain/meetings/001-2023-02-08.md#transcript) | [Link](https://syav3u2trpuey4ercatgjmfetbsgauto4l6dweuzzeakfcfss5hq.arweave.net/lgFd01OL6ExwkRAmZLCkmGRgUm7i_DsSmckAooiyl08)
 
 ## Leadership
 
