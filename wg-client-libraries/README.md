@@ -14,7 +14,8 @@ This working group is responsible for the design, implementation, testing and do
 
 | Meeting | Time | Notes | Transcript | Recording
 | --- | --- | --- | --- | --- |
-| #1 | Tuesday, February 7, 2023 1:00 PM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/wg-client-libraries/meetings/001-2023-02-07.md#transcript)  | [Link](https://github.com/akash-network/community/blob/main/wg-client-libraries/meetings/001-2023-02-07.md)  | [Link](https://yjnhucpjmpbftxcrx7eozj3vhxpwrbjhqfw3t5a3kluwfsach2rq.arweave.net/wlp6CeljwlncUb_I7Kd1Pd9ohSeBbbn0G1LpYsgCPqM)
+| #1 | Tuesday, February 7, 2023 1:00 PM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/wg-client-libraries/meetings/001-2023-02-07.md)  | [Link](https://github.com/akash-network/community/blob/main/wg-client-libraries/meetings/001-2023-02-07.md#transcript) | [Link](https://yjnhucpjmpbftxcrx7eozj3vhxpwrbjhqfw3t5a3kluwfsach2rq.arweave.net/wlp6CeljwlncUb_I7Kd1Pd9ohSeBbbn0G1LpYsgCPqM)
+
 
 ## Leads
 
