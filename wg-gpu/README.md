@@ -14,7 +14,7 @@ This working group is dedicated to figuring out everything that needs to happen 
 
 | Meeting | Time | Notes | Transcript | Recording
 | --- | --- | --- | --- | --- |
-| #1 | Tuesday, February 7, 2023 11:00 AM PT (Pacific Time) |  |  |
+| #1 | Tuesday, February 7, 2023 11:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/wg-gpu/meetings/001-2023-02-07.md)  | [Link](https://github.com/akash-network/community/blob/main/wg-gpu/meetings/001-2023-02-07.md#transcript)  | [Link](https://ulubxe7s3ulck6gkqezr25x66pfr5qmtphv2usi7aveb2yh5hn6q.arweave.net/ougbk_LdFiV4yoEzHXb-88sewZN566pJHwVIHWD9O30)
 
 ## Leads
 
