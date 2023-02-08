@@ -8,7 +8,7 @@ date: 2023-1-09T00:19:20-08:00
 ## Meetings
 Joining the mailing list for the group will typically add invites for the following meetings to your calendar.
 
-- Next SIG Meeting: Thursday, February 2, 2023 at 8:00am PT (Pacific Time)
+- Next SIG Meeting: Wednesday, February 22, 2023 at 09:30am PT (Pacific Time)
 
 | Meeting | Time | Notes | Transcript | Recording
 | --- | --- | --- | --- | --- |
