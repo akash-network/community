@@ -42,7 +42,7 @@ This working group is dedicated to figuring out everything that needs to happen 
 ## PRDs and other documentation
 
 - [PRD](prd.md)
-
+- [Progress](progress.md)
 
 ## Related SIGs
 
