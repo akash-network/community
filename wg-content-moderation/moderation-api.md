@@ -64,6 +64,10 @@ Filters orders by manifest Hostname.
 
 ### Configuration API
 
+#### `FilterList()`
+
+Return current filters in a paginated response.
+
 #### `FilterAdd(Filter)`
 
 Adds the given filter to the ruleset.
