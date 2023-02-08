@@ -64,23 +64,23 @@ Filters orders by manifest Hostname.
 
 ### Configuration API
 
-#### `FilterAdd(Context,Filter)`
+#### `FilterAdd(Filter)`
 
 Adds the given filter to the ruleset.
 
-#### `FilterRemove(Context,Filter)`
+#### `FilterRemove(Filter)`
 
 Removes the given filter from the ruleset.
 
 ### Filter API
 
-#### `AcceptOrder(Context,Order)`
+#### `AcceptOrder(Order)`
 
 `AcceptOrder()` can be called by the Bid Service before
 placing a bid. It returns `true` if the given order passes all filters,
 otherwise returns `false`.
 
-#### `AcceptManifest(Context,Lease,Manifest)`
+#### `AcceptManifest(Lease,Manifest)`
 
 `AcceptManifest()` can be called by the Manifest Service before
 placing executing a workload. It returns `true` if the given manifest passes all filters,
