@@ -51,7 +51,7 @@ Committees are named sets of people that are chartered to take on sensitive topi
 
 - #### Steering Committee
   
-    The Steering Committee is a special SIG that periodically evaluates the list of projects, prioritizes/adds/removes items and decides which SIG or WG is best suited to tackle the project. The Steering Committee also regularly meets to incorporate learnings to improve how the Akash Network community operates and will perform conflict resolution as necessary.
+    The [Steering Committee](committee-steering/README.md) is a special SIG that periodically evaluates the list of projects, prioritizes/adds/removes items and decides which SIG or WG is best suited to tackle the project. The Steering Committee also regularly meets to incorporate learnings to improve how the Akash Network community operates and will perform conflict resolution as necessary.
 
 ### Examples
 
