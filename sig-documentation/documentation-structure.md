@@ -91,7 +91,7 @@ The proposed structure is as follows:
     * Setting up a Provider with Praetor
     * Enabling monitoring
     * Provider Auditing
-    * Persistent Storage
+    * Enabling Persistent Storage
     * Enabling IP Leasing
 
 ## Usability
