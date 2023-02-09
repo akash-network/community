@@ -8,20 +8,22 @@ date: 2023-1-09T00:19:20-08:00
 ## Meetings
 Joining the mailing list for the group will typically add invites for the following meetings to your calendar.
 
-- Regular SIG Meeting: Monday at 10:30 PT (Pacific Time) (Second Monday of every month). Convert to your timezone.
+- Next SIG Meeting: Wednesday, February 22, 2023 at 09:30am PT (Pacific Time)
 
-- Meeting notes and Agenda.
-- Meeting recordings.
+| Meeting | Time | Notes | Transcript | Recording
+| --- | --- | --- | --- | --- |
+| #1 | Thursday, February 2, 2023 08:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-design/meetings/001-2023-02-02.md) | [Link](https://github.com/akash-network/community/blob/main/sig-design/meetings/001-2023-02-02.md#transcript) | [Link](https://uj3nmvkwwqwjkd3jzkkhbjf3w7rewuvfqrmcdapficmmik4gudzq.arweave.net/onbWVVa0LJUPacqUcKS7t-JLUqWEWCGB5UCYxCuGoPM)
 
 ## Leadership
 
 - Andreia Rodrigues (@andreia-rodrigues)
 - Denis Lelic (@aktdenis)
+- George Pro
+- Joao Luna
 
 ## Contact
 
-- Discord Server [https://discord.gg/akash](https://discord.gg/akash)
-- Mail List (hyperlink it)
+- [Discord Server](https://discord.gg/akash)
 
 ## Sub Projects, Repositories & Relevant Work Groups
 
