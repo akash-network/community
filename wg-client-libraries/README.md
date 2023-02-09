@@ -8,12 +8,19 @@ date: 2023-1-09T00:19:20-08:00
 This working group is responsible for the design, implementation, testing and documentation of the client libraries to interact with the Akash Network.
 
 ## Meetings
-To be scheduled
+
+[Tuesday February 7, 2023 01:00 PM PT (Pacific Time)](https://meet.google.com/swo-zrit-ztg?authuser=0)
+
+
+| Meeting | Time | Notes | Transcript | Recording
+| --- | --- | --- | --- | --- |
+| #1 | Tuesday, February 7, 2023 1:00 PM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/wg-client-libraries/meetings/001-2023-02-07.md)  | [Link](https://github.com/akash-network/community/blob/main/wg-client-libraries/meetings/001-2023-02-07.md#transcript) | [Link](https://yjnhucpjmpbftxcrx7eozj3vhxpwrbjhqfw3t5a3kluwfsach2rq.arweave.net/wlp6CeljwlncUb_I7Kd1Pd9ohSeBbbn0G1LpYsgCPqM)
+
 
 ## Leads
 
 - João Luna (@cloud-j-luna)
-- <Fill with ovrclk leads>
+- Anil Murty, Overclock Labs
 
 ## Contacts
 
