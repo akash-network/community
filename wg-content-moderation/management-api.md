@@ -17,32 +17,54 @@ Provider management APIs will provide additional control on running leases on th
 
 ## Specification
 
-### `LeaseStatus`
+### Lease list (Return array of leases hosted in provider)
+#### `/api/v1/provider/lease/list (Lease List)`
+Return list of lease hosted in the provider
 
-Request: LeaseStatus API should accept DSEQ/GSEQ/OSEQ
-Note: the only provider of that deployment can call this API
+Note: We may need pagination here
+Return fields
+|Field|Description|
+|---|---|
+|`dseq`| DSEQ |
+|`gseq`|GSEQ|
+|`oseq`|oseq|
+|`image_name`|image name for deniel request|
+|`escrow_account.balance` | Escrow account balance|
+|`escrow_account.transferred` | Escrow account transferred|
+|`escrow_account.settled_at` | Escrow account settled at block number|
+|`lease.created_at` | Deployment created at block number|
+|`lease.state` | Deployment current state |
+|`lease.urls` | If deployed on port 80 return urls |
+|`lease.ports` | If deployed on port other than 80 or 443, return host and provider ports |
+|`lease.owner` | Lease owner wallet address |
+|`lease.amount` | Lease price per block |
 
-Response:
+Response will contain `array` of leases of above reponse fields
 
-```
-{
- uris: [
-    .. // array of urls
- ]
- port: '',
-// need to find other lease/deployment details
-}
-```
 
-### `CloseLease`
+### Lease status
+#### `/api/v1/provider/lease/status/?dseq=&gseq= (Lease Status)`
+Find perticular lease status
 
-CloseLease API will accept DSEQ/GSEQ/OSEQ and close the lease/deployment from their provider. Note: Only provider's hosted leases/deployments will be closed.
+Return fields
+|Field|Description|
+|---|---|
+|`dseq`| DSEQ |
+|`gseq`|GSEQ|
+|`oseq`|oseq|
+|`image_name`|image name for deniel request|
+|`escrow_account.balance` | Escrow account balance|
+|`escrow_account.transferred` | Escrow account transferred|
+|`escrow_account.settled_at` | Escrow account settled at block number|
+|`deployment.created_at` | Deployment created at block number|
+|`deployment.state` | Deployment current state |
+|`deployment.urls` | if deployed on port 80 return urls |
+|`deployment.ports` | if deployed on port other than 80 or 443, return host and provider ports |
+|`owner` | lease owner wallet address |
+|`lease.amount` | Lease price per block |
 
-Request: DSEQ/GSEQ/OSEQ
+Response will contain above reponse fields for lease
 
-Response:
-```
-{
-    success: true
-}
-```
+### Close Lease
+#### `/api/v1/provider/lease/close/?dseq=&gseq= (Lease List)`
+This API will close lease on request of provider and settle AKTs.
