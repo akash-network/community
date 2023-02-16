@@ -40,10 +40,12 @@ Inactive groups are moved to akash-network/community/archive and groups without 
 | ---- | ----- | ----- | ------- | -------- |
 | Client Libraries | wg-client-libraries | TBD | [Discord](https://discord.com/channels/747885925232672829/1054846400275431464/1054846858658336798) | |
 | Cloud Parity | wg-cloud-parity | TBD | Discord | |
-| Content Moderation | [wg-content-moderation](https://github.com/akash-network/community/tree/main/wg-content-moderation) | TBD | Discord | [Wednesday, January 25, 2023 9am-10am Pacific](https://meet.google.com/pbk-nyyo-ysp?authuser=0) |
+| Content Moderation | [wg-content-moderation](https://github.com/akash-network/community/tree/main/wg-content-moderation) | Adam Bozanich | [Discord](https://discord.com/channels/747885925232672829/1050127979302359190/1052613008720936982) | [Wednesday, February 8th, 2023 9am-10am Pacific](https://meet.google.com/pbk-nyyo-ysp?authuser=0) |
+| GPU Support | wg-gpu | TBD | Discord | |
 | Machine Learning & AI | wg-ml-ai | TBD | Discord | |
 | Network Upgrades | wg-network-upgrades | TBD | Discord | |
 | Provider Attributes | wg-provider-attributes | TBD | Discord | |
+| Provider Services - Microservices Split | wg-provider-microservices | TBD | Discord | |
 | Testnets & Sandbox Environments | wg-testnet-sandbox | TBD | Discord | |
 
 
@@ -54,10 +56,12 @@ Inactive groups are moved to akash-network/community/archive and groups without 
 
 ## Steering Committee (SC)
 
-The Steering Commitee is initially comprised of the following members who have the most familiarity with Akash Network. The first Steering Committee kicks off Thursday, January 26, 2023 from 11am-12pm pacific time. [Join here.](https://meet.google.com/iet-tdcf-ivh?authuser=0)
+The [Steering Commitee](../committee-steering/README.md) is initially comprised of the following members who have the most familiarity with Akash Network. 
 
 - Adam Bozanich, Overclock Labs
 - Anil Murty, Overclock Labs
 - Artur Troian, Overclock Labs
 - Greg Osuri, Overclock Labs
 - Scott Caruthers, Overclock Labs
+
+The Steering Committee meetings kicked off Thursday, January 26, 2023 from 11am-12pm pacific time. To listen in on future commitee meetings [Join here.](https://meet.google.com/iet-tdcf-ivh?authuser=0)
