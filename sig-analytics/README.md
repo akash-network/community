@@ -16,13 +16,13 @@ Analytics Special Interest Group is dedicated to defining and building tools tha
 
 | Meeting | Time | Notes | Transcript | Recording
 | --- | --- | --- | --- | --- |
-| #1 | Thursday, February 9, 2023 09:00 AM PT (Pacific Time) |  |  | 
+| #1 | Thursday, February 9, 2023 09:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-analytics/meetings/001-2023-02-09.md)  | [Link](https://github.com/akash-network/community/blob/main/sig-analytics/meetings/001-2023-02-09.md#transcript)  | [Link](https://ftbwz3nd2i3gjhmsgiwot2x4mah6mkzvkuztdh3thyaughvd36aq.arweave.net/LMNs7aPSNmSdkjIs6er8YA_mKzVVMzGfcz4BQx6j34E)
 
 
 
 ## Leadership
 
-
+Anil Murty
 
 
 ## Contact
