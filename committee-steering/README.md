@@ -12,11 +12,12 @@ The Steering Committee is a special SIG that periodically evaluates the list of 
 
 Meetings happen every [Last Thursday of the Month](https://calendar.google.com/calendar/u/0?cid=Y18yNWU1ZTM3NDhlNGM0YWI3YTU1ZjQxZmJjNWViZWJjYzBhMDNiNDBmYjAyODc4NWYxNDE1OWJmYWViZWExMmUyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
-### Meeting #1 
+### Meeting Details 
 
 | Time | Notes | Transcript | Recording
 | --- | --- | --- | --- |
 | Thursday, January 28, 2023 11:00 AM PT (Pacific Time) | [Link](meetings/001-2023-01-26.md) | [Link](meetings/001-2023-01-26.md#transcript) | [Link](https://2enqenxqycj4n5z5x5rcir63jecu4gi3bwlznldrswzemmqnanrq.arweave.net/0RsCNvDAk8b3Pb9iJEfbSQVOGRsNl5ascZWyRjINA2M)
+| Thursday, February 28, 2023 11:00 AM PT (Pacific Time) |  |  | 
 
 ### Typical Agenda
 
