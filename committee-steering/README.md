@@ -17,6 +17,7 @@ Meetings happen every [Last Thursday of the Month](https://calendar.google.com/c
 | Time | Notes | Transcript | Recording
 | --- | --- | --- | --- |
 | Thursday, January 28, 2023 11:00 AM PT (Pacific Time) | [Link](meetings/001-2023-01-26.md) | [Link](meetings/001-2023-01-26.md#transcript) | [Link](https://2enqenxqycj4n5z5x5rcir63jecu4gi3bwlznldrswzemmqnanrq.arweave.net/0RsCNvDAk8b3Pb9iJEfbSQVOGRsNl5ascZWyRjINA2M)
+| Thursday, February 23, 2023 11:00 AM PT (Pacific Time) |  |  | 
 
 ### Typical Agenda
 
