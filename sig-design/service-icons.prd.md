@@ -30,32 +30,32 @@ Icons not part of any Akash Network services.
 
 ### Akash Deployment
 Represents a deployment on a single Akash Provider.
-![https://raw.githubusercontent.com/quasarch/assets/ddd59c91c1f83f5858208bda018d196fff329723/akash-services/png/128/akas-deployment-white.png]()
-![https://raw.githubusercontent.com/quasarch/assets/ddd59c91c1f83f5858208bda018d196fff329723/akash-services/png/128/akash-deployment-black.png]()
-![https://raw.githubusercontent.com/quasarch/assets/ddd59c91c1f83f5858208bda018d196fff329723/akash-services/png/128/akash-deployment-red.png]()
+![](https://raw.githubusercontent.com/quasarch/assets/ddd59c91c1f83f5858208bda018d196fff329723/akash-services/png/128/akas-deployment-white.png)
+![](https://raw.githubusercontent.com/quasarch/assets/ddd59c91c1f83f5858208bda018d196fff329723/akash-services/png/128/akash-deployment-black.png)
+![](https://raw.githubusercontent.com/quasarch/assets/ddd59c91c1f83f5858208bda018d196fff329723/akash-services/png/128/akash-deployment-red.png)
 
 ### IP Lease
 Represents the lease of a single IP on an Akash Provider.
-![https://raw.githubusercontent.com/quasarch/assets/ddd59c91c1f83f5858208bda018d196fff329723/akash-services/png/128/ip-leases-white.png]()
-![https://raw.githubusercontent.com/quasarch/assets/ddd59c91c1f83f5858208bda018d196fff329723/akash-services/png/128/ip-leases-black.png]()
-![https://raw.githubusercontent.com/quasarch/assets/ddd59c91c1f83f5858208bda018d196fff329723/akash-services/png/128/ip-leases-red.png]()
+![](https://raw.githubusercontent.com/quasarch/assets/ddd59c91c1f83f5858208bda018d196fff329723/akash-services/png/128/ip-leases-white.png)
+![](https://raw.githubusercontent.com/quasarch/assets/ddd59c91c1f83f5858208bda018d196fff329723/akash-services/png/128/ip-leases-black.png)
+![](https://raw.githubusercontent.com/quasarch/assets/ddd59c91c1f83f5858208bda018d196fff329723/akash-services/png/128/ip-leases-red.png)
 
 ### Persistent Storage
 Represents the persistent storage on an Akash Provider's tenant deployment.
 It's part of an [Akash Deployment](###Akash_Deployment).
-![https://raw.githubusercontent.com/quasarch/assets/ddd59c91c1f83f5858208bda018d196fff329723/akash-services/png/128/persistent-storage-white.png]()
-![https://raw.githubusercontent.com/quasarch/assets/ddd59c91c1f83f5858208bda018d196fff329723/akash-services/png/128/persistent-storage-black.png]()
-![https://raw.githubusercontent.com/quasarch/assets/ddd59c91c1f83f5858208bda018d196fff329723/akash-services/png/128/persistent-storage-red.png]()
+![](https://raw.githubusercontent.com/quasarch/assets/ddd59c91c1f83f5858208bda018d196fff329723/akash-services/png/128/persistent-storage-white.png)
+![](https://raw.githubusercontent.com/quasarch/assets/ddd59c91c1f83f5858208bda018d196fff329723/akash-services/png/128/persistent-storage-black.png)
+![](https://raw.githubusercontent.com/quasarch/assets/ddd59c91c1f83f5858208bda018d196fff329723/akash-services/png/128/persistent-storage-red.png)
 
 ### Cosmos Omnibus
 Represents a single Cosmos Omnibus deployment.
 It's an abstraction on top of an [Akash Deployment](###Akash_Deployment).
-![https://raw.githubusercontent.com/quasarch/assets/ddd59c91c1f83f5858208bda018d196fff329723/akash-services/png/128/omnibus-white.png]()
-![https://raw.githubusercontent.com/quasarch/assets/ddd59c91c1f83f5858208bda018d196fff329723/akash-services/png/128/omnibus-black.png]()
-![https://raw.githubusercontent.com/quasarch/assets/ddd59c91c1f83f5858208bda018d196fff329723/akash-services/png/128/omnibus-red.png]()
+![](https://raw.githubusercontent.com/quasarch/assets/ddd59c91c1f83f5858208bda018d196fff329723/akash-services/png/128/omnibus-white.png)
+![](https://raw.githubusercontent.com/quasarch/assets/ddd59c91c1f83f5858208bda018d196fff329723/akash-services/png/128/omnibus-black.png)
+![](https://raw.githubusercontent.com/quasarch/assets/ddd59c91c1f83f5858208bda018d196fff329723/akash-services/png/128/omnibus-red.png)
 
 ### Cloudmos Alerts
 Represents an alert emmited by Cloudmos configured by the tenant.
-![https://raw.githubusercontent.com/quasarch/assets/ddd59c91c1f83f5858208bda018d196fff329723/akash-services/png/128/alerts-white.png]()
-![https://raw.githubusercontent.com/quasarch/assets/ddd59c91c1f83f5858208bda018d196fff329723/akash-services/png/128/alerts-black.png]()
-![https://raw.githubusercontent.com/quasarch/assets/ddd59c91c1f83f5858208bda018d196fff329723/akash-services/png/128/alerts-red.png]()
+![](https://raw.githubusercontent.com/quasarch/assets/ddd59c91c1f83f5858208bda018d196fff329723/akash-services/png/128/alerts-white.png)()
+![](https://raw.githubusercontent.com/quasarch/assets/ddd59c91c1f83f5858208bda018d196fff329723/akash-services/png/128/alerts-black.png)()
+![](https://raw.githubusercontent.com/quasarch/assets/ddd59c91c1f83f5858208bda018d196fff329723/akash-services/png/128/alerts-red.png)()
