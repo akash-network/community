@@ -27,7 +27,7 @@ Meetings happen every [Third Wednesday of the Month](https://calendar.google.com
 | Meeting | Time | Notes | Transcript | Recording
 | --- | --- | --- | --- | --- |
 | #1 | Wednesday, January 18, 2023 10:30 AM PT (Pacific Time) | [Link](meetings/001-2023-01-19.md) | [Link](meetings/001-2023-01-19.md#transcript) | [Link](https://j62h6g4vuygradhil2eeape3a6ojy6vf2ty2orv66m5f6kprsqja.arweave.net/T7R_G5WmDRAM6F6IQDybB5yceqXU8adGvvM6XynxlBI)
-| #2 | Wednesday, February 15, 2023 10:30 AM PT (Pacific Time) |  | 
+| #2 | Wednesday, February 15, 2023 10:30 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/002-2023-02-15.md)  | [Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/002-2023-02-15.md#transcript) | [Link](https://xq5h5w5nnutwgjjn5bcr2asuge5yukenn3iqjf7xggqqt32sieca.arweave.net/vDp-261tJ2MlLehFHQJUMTuKKI1u0QSX9zGhCe9SQQQ)
 
 ## Leadership
 
