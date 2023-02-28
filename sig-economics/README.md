@@ -1,5 +1,5 @@
 ---
-title: "Economics Special Interest Group"
+title: "Economics Special Interest Group" *test*
 date: 2023-1-09T00:19:20-08:00
 ---
 
