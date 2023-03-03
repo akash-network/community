@@ -16,7 +16,11 @@ The goal of this SIG is to foster a community around the creation and maintenanc
 
 | Meeting | Time | Notes | Transcript | Recording
 | --- | --- | --- | --- | --- |
-| #1 | Tue, Jan 24, 2023 7:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/001-2023-01-24.md) | [Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/001-2023-01-24.md#transcript) | [Link](https://rccf7mccev5vmvdmjyn2hnc5udhro25ayfh5f4oltnmg7dow2ddq.arweave.net/iIRfsEIle1ZUbE4bo7RdoM8Xa6DBT9Lxy5tYb43W0Mc)
+| #1 | Tue, January 24, 2023 7:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/001-2023-01-24.md) | [Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/001-2023-01-24.md#transcript) | [Link](https://rccf7mccev5vmvdmjyn2hnc5udhro25ayfh5f4oltnmg7dow2ddq.arweave.net/iIRfsEIle1ZUbE4bo7RdoM8Xa6DBT9Lxy5tYb43W0Mc)
+| #2 | Tue, February 28, 2023 7:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/002-2023-02-28.md) | coming soon | [Link](https://e2qlbmcrhw44upxtvl43fmnk3wbph47snbug2rpxszhakms63kfq.arweave.net/JqCwsFE9uco-86r5srGq3YLz8_JoaG1F95ZOBTJe2os)
+
+
+
 
 ## Leadership
 
