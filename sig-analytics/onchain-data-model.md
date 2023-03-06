@@ -1,6 +1,6 @@
 # [WIP] Data Model for on Chain Data (Akash Network) Analysis
 
-The goal of this document is to summarizes data requirements for on-chain data, pulled from the Akash Network blockchain, to help answer many of the questions called out in the [PRD](prd.md). There is no specific reference to data store here, as that will be an implementation decision.
+The goal of this document is to summarize data requirements for on-chain data, pulled from the Akash Network blockchain, to help answer many of the questions called out in the [PRD](prd.md). There is no specific reference to data store here, as that will be an implementation decision.
 
 This is a work-in-progress [WIP] that will be fleshed out more as we think through the schema.
 
