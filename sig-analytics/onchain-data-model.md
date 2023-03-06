@@ -14,12 +14,11 @@ The following tables have been identified at this time and connected to the [spe
 |   --        |       --                               |
 | Bids        | 2i                                     |
 | Blocks      | 2j                                     |
-| Deployments | 1a, 1b                                 |
+| Order       | 1a, 1b                                 |
 | Leases      | 1c, 1d                                 |
-| Orders      | 3(a-d)                                 |
 | Providers   | 2(a-h)                                 |
 | Resources   | 3i                                     |
-| Transactions| 2j                                     |
+| Tenants     | 2j                                     |
 
 
 ### Tables Details
@@ -28,55 +27,90 @@ The following tables have been identified at this time and connected to the [spe
 
 The *Bids table* stores data pertaining to bids places on an order by providers of Akash Network.
 
-| Field | Description | Data Type | Example |
-|  --   |     --      |     --    |   --    |
-
+| Field        | Description        | Data Type                | Example               |
+| ------------ | ------------------ | ------------------------ | --------------------- |    
+| id           | PK                 | int                      | 1                     |
+| tenant_id    | FK                 | int                      | 1                     |
+| lease_id     | FK                 | int                      | 1                     |
+| provider_id  | FK                 | int                      | 1                     |
+| amount       | provider bid price | numeric                  | 5                     |
+| denomination | uakt or akt        | varchar(50)              | uakt                  |  
+| created_at   | data creation time | timestamp with time zone | '2021-08-09 13:57:40' |
 
 #### Blocks
 
 The *Blocks table* stores data on the blocks being created on the Akash Network blockchain
 
-| Field | Description | Data Type | Example |
-|  --   |     --      |     --    |   --    |
-
-#### Deployments
-
-The *Deployments table* stores information about deployments started and closed by tenants
-
-| Field | Description | Data Type | Example |
-|  --   |     --      |     --    |   --    |
-
-#### Leases
-
-The *Leases table* maintains a list of all leases active on the Akash Network
-
-| Field | Description | Data Type | Example |
-|  --   |     --      |     --    |   --    |
+| Field           | Description        | Data Type                | Example               |
+| --------------- | ------------------ | ------------------------ | --------------------- |
+| id              | PK                 | int                      | 1                     |
+| block_height    | height of block    | int                      | 1                     |
+| block_timestamp | timestamp of block | timestamp with time zone | '2021-08-09 13:57:40' |
+| created_at      | data creation time | timestamp with time zone | '2021-08-09 13:57:40' |
 
 #### Orders
 
-The *Orders table* contains data on all orders placed on the Akash Network
+The *Orders table* stores information about [MsgCreateDeployment](https://github.com/akash-network/node/blob/11756fd27c3abd88d6f527250b6bfbc8170028cd/x/deployment/types/v1beta2/deploymentmsg.pb.go#L28)
 
-| Field | Description | Data Type | Example |
-|  --   |     --      |     --    |   --    |
+The difference of volume in orders and leases shows how many people began a deployment, but did not accept a bid.
+
+| Field     | Description | Data Type | Example |
+| --------- | ----------- | --------- | ------- |
+| id        | PK          | int       | 1       |
+| tenant_id | FK          | int       | 1       |
+| dseq      |             | int       | 327236  |
+| gseq      |             | int       | 1       |
+| oseq      |             | int       | 1       |
+
+#### Leases
+
+The *Leases table* maintains a list of all leases on the Akash Network
+
+| Field         | Description                     | Data Type                | Example               |
+|  ------------ | ------------------------------- | ------------------------ | --------------------- |
+| id            | PK                              | int                      | 1                     |
+| tenant_id     | FK                              | int                      | 1                     |
+| provider_id   | FK                              | int                      | 1                     |
+| dseq          |                                 | int                      | 342743                |
+| gseq          |                                 | int                      | 1                     |
+| oseq          |                                 | int                      | 1                     |
+| start_height  | start height of lease           | int                      | 743829                |
+| stop_height   | stop height of lease (NULLABLE) | int                      | 834297                |
+| amount        | accepted bid price              | numeric                  | 5                     |
+| denomination  | uakt or akt                     | varchar(50)              | uakt                  |
+| created_at    | data creation time              | timestamp with time zone | '2021-08-09 13:57:40' |
+| updated_at    | time data is updated            | timestamp with time zone | '2021-08-09 13:57:40' |
+    
 
 #### Providers
 
 The *Providers table* contains information relating to all providers (active and inactive) and their attributes
 
-| Field | Description | Data Type | Example |
-|  --   |     --      |     --    |   --    |
+| Field            | Description                | Data Type                | Example                                      |
+| ---------------- | -------------------------- | ------------------------ | -------------------------------------------- |
+| id               | PK                         | int                      | 1                                            |
+| prodiver_address | wallet address of provider | varchar(50)              | akash1qvsus5qg8yhre7k2c78xkkw4nvqqgev7gv6gj6 |
+| created_at       | data creation time         | timestamp with time zone | '2021-08-09 13:57:40'                        |
 
 #### Resources
 
-The *Resources* table stores information about the resources (compute, memory, storage etc) used by a given lease.
+The *Resources table* stores information about the resources (compute, memory, storage etc) used by a given lease or requested by a given order.
 
-| Field | Description | Data Type | Example |
-|  --   |     --      |     --    |   --    |
+| Field         | Description                     | Data Type                | Example               |
+| ------------- | ------------------------------- | ------------------------ | --------------------- |
+| id            | PK                              | int                      | 1                     |
+| lease_id      | FK                              | int                      | 1                     |
+| units_cpu     | cpu units requested             | numeric                  | 6                     |
+| unit_memory   | memory requested (bytes)        | numeric                  | 1000                  |
+| units_storage | storage requested (bytes)       | numeric                  | 1000                  |
+| created_at    | data creation time              | timestamp with time zone | '2021-08-09 13:57:40' |
 
-#### Transactions
+#### Tenants
 
-The Bids table stores data pertaining to bids places on an order by providers of Akash Network.
+The *Tenants table* stores data pertaining to [tenants](http://eng-docs.akash.pub/overview/akash/) on Akash Network.
 
-| Field | Description | Data Type | Example |
-|  --   |     --      |     --    |   --    |
+| Field          | Description           | Data Type                | Example                                      |
+| -------------- | --------------------- | ------------------------ | -------------------------------------------- |
+| id             | PK                    | int                      | 1                                            |
+| tenant_address | tenant wallet address | varchar(50)              | akash1lxh0u07haj646pt9e0l2l4qc3d8htfx5u55rh8 |
+| created_at     | data creation time    | timestamp with time zone | '2021-08-09 13:57:40'                        |
