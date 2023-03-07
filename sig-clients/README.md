@@ -6,7 +6,7 @@ date: 2023-1-09T00:19:20-08:00
 
 # Akash Network - Clients Special Interest Group (SIG)
 
-Akash Network Clients are software and services that make it easier for tenants of all types to deploy on to Akash Providers. The AKash Network community has built and supports the following deployment clients at this time:
+Akash Network Clients are software and services that make it easier for tenants of all types to deploy on to Akash Providers. The Akash Network community has built and supports the following deployment clients at this time:
 
 - [Akash Console](akash-console/README.md)
 - [AKash Command Line Interface](akash-cli/README.md)
