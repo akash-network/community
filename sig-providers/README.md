@@ -16,6 +16,7 @@ Provider SIG covers everything pertinent to Providers on Akash Network. This inc
 | Meeting | Time | Notes | Transcript | Recording
 | --- | --- | --- | --- | --- |
 | #1 | Wed, Jan 25, 2023 9:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/001-2023-01-25.md) | [Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/001-2023-01-25.md#transcript) | [Link](https://ul6obj7t6ueiuh7zjrlxfhr6ybeatjt4iox6mbvwvgzju5rwnwqa.arweave.net/ovzgp_P1CIof-UxXcp4-wEgJpnxDr-YGtqmymnY2baA)
+| #2 | Wed, February 22, 2023 08:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/002-2023-02-22.md) | [Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/002-2023-02-22.md#transcript) | [Link](https://p6g7zknocnrow2tlz4mjj5jdj2kallje75f3l56r4xskcky56llq.arweave.net/f438qa4TYutqa88YlPUjTpQFrST_S7X30eXkoSsd8tc)
 
 ## Leadership
 
@@ -25,8 +26,6 @@ Provider SIG covers everything pertinent to Providers on Akash Network. This inc
 - Scott Carruthers, Overclock Labs
 - Jigar Patel, Praetor
 
-
-### Project Manager(s)
 
 ## Contact
 
