@@ -1,0 +1,401 @@
+wg-akash-website Working Session (2023-03-07 08:34 GMT-8) - 
+
+Attendees
+Denis Lelic, 
+George Pro, 
+Md Shaadman Lodhi, 
+Rodrigo Rochin, 
+Tyler Wright, 
+Zach Horn
+
+Meeting Notes:
+
+The meeting's purpose was to gather feedback on the Akash website. We previously discussed how participants interested in auditing the website should gather a document with all their findings. 
+Denis presented his own suggestions, starting with adding variety and visual interest to the website to keep users engaged. He also suggested adding more spacing to ensure the site "breathes" properly. Denis continued and shared his thinking process:
+User Journey - Where do we want to take the user?
+Informate (new users)
+Stating “What is Akash Network”, Clear value proposition, 
+
+Convince (new and returning users)
+Social proof, Ecosystem, Comparison, Capabilities, 
+
+Educate (new and returning users)
+Learn more (Docs, Guides, Tutorials),  
+
+Action (Deploy) (returning users)
+Get started (Docs, Guides, Tutorials, Meet the tools)
+
+Participate (returning users)
+Join the Community
+Denis suggested that the website should serve as a source of information for new users, with a clear value proposition, and should work on convincing new or returning users to try out the Akash network.. He also suggested adding sections for social proof, ecosystem, price comparison, and capabilities. 
+Denis suggested categorizing feedback as either bug reports or new feature requests. Tyler added to divide those into short or long term. (Same functionality as in sig-support; p1 short term, p2 long term, and a bug needs to be solved right away) 
+Denis shared his design drafts and George Pro stated, he would like to invite someone to help with the implementation (fron-end dev).
+A discussion is formed around;
+-Hompeage:
+Zach added the website should state clearly what the akash network is. How do you use it. (becoming a provider, deploying etc.) And guide users to the various services that are going to fit their use case. There is a number of ways to get started (CLI, Console, Praetor, Cloudmos…) Denis suggested making changes to the homepage, such as breaking the nine features at the bottom of the page into three groups to make the content easier to consume. Denis also suggested improving the footer by adding social media links, FAQs, and resources. 
+Denis presented a couple of design drafts and suggested to replace the current illustrations with the set of illustrations they use for the working groups and SIGs and different social media channels. 
+- Pricing: 
+As opposed to generalization pricing, we could talk about specific services. Example provided from Tyler: If you’re using AWS S3 service here’s how you can swap out and bring Akash into your workflow. What are the things that people can effectively run on Akash right now?
+
+- Ecosystem page: 
+Tyler suggested that the ecosystem page should be focuses around clients. Eg.
+	- Inner Circle ecosystem: tools of Akash - Console, Praetor, Terraform Luna, , also include omnibus, awesome akash repo
+	- Broader Ecosystem: Projects deployed on Akash.  “social proof” to build credibility. We could use quotes from the founders.
+* One thing to consider, are providers part of the ecosystem as well?
+Filtering would help to navigate through projects
+
+Deployed on Akash,
+sub categories:
+- Featured / With a link to read more about a project
+- Show all
+- POS validator
+- Dapps
+- Dev Tools
+- Smart contracts
+- Mining
+- Memes
+- DEFI
+- Nfts
+- Nodes
+- Tesntnets
+- Mainnets
+
+
+Providers,
+- Data Center providers + Capacities
+
+Built on top of Akash
+- Cloudmos
+- Console
+- Praetor
+- Moultrie Audits
+
+- Community: 
+Tyler suggested adding a call to action to have a place for users to submit what they want to build. 
+Adam W, suggested to add Community contributions page. 
+Actions items:
+- create bugs or features (categorize them, short or long term) and submit to Github
+
+
+
+Transcript
+This editable transcript was computer generated and might contain errors. People can also change the text after it was created.
+Denis Lelic: So, hey, everyone. Good to see. Some new faces here. I think Rodrigo you're joining joining for the first time. So, welcome to the Working Group for Akash website. and we have, I hope I'm not missing anyone. George your, your kind of like
+Denis Lelic:  Always with us.
+Denis Lelic:  Today's purpose. Of this meeting is to gather feedback. Last time we discussed like anyone who is willing to participate in auditing the website, you should kind of like gather a document and place everything there.
+Denis Lelic:  So, just to make sure we don't. Duplicate any of the tasks, we can later on merge this document into one. I'm willing to do that and later on. We can just submit this in github. We I suggest we categorize all of the feedback in either bugs or new feature requests. so, if anyone's Want to present their documents or talk about it, you know, feel free. Otherwise, I can just get started.
+Denis Lelic:  So, this was my starting point. For just for guidance, I started off with variety and higher heat. I think that's something we're missing. So
+Denis Lelic:  I built this document just a node for myself as well and it says like Add visual interest and variety with a goal to keep users engaged and interested in the site. And different looking sections will provide us.
+Denis Lelic:  More digestible. Content and just making it easier to consume. And I think we could also add a little bit of spacing here and there just to make sure the site is kind of breathing properly. and, Taking a step back. I was just thinking what, exactly what what exactly we want to do with the website and I thought of like we want to be informed informative for all the new users. So, stating what exactly is Akash network and having some Clear value proposition. The other thing would be to convince. that would be for the new or returning users and we could use sections for
+Denis Lelic:  Like social proof, ecosystem price, comparison, and capabilities. And then the next one is educate. This is this could be like docs guides or tutorials. and, We want to convert the users, let's say sooner, or later. And we want to make them try to deploy something on Akash network, or maybe become a provider, or
+Denis Lelic:  Just get to know the tools different tools from the ecosystem. The next one would be participate and that's something like to join the community. Join different sigs or working groups and so on.
+Denis Lelic:  And what's missing in the existing website? I think we could Have this social proof more prominent, this could be part of the ecosystem. Could be a dedicated showcase within the ecosystem, ecosystem page. Maybe just some quotes from I don't know, maybe some power users or something. That's moving that adds quite a bit of credibility.
+Denis Lelic:  And I'm not sure how are we going to measure success and Because I haven't really had a look. Honestly, if there's like a proper Google Analytics on the website and just to make sure like
+00:05:00
+Denis Lelic:  What part of the website behaves well and what kind of like a dead end and Maybe we can benefit from those stats.
+Denis Lelic:  And then later on, I started the auditing website. And I just went page by page by page and made some notes. What exactly could be improved or added. So we have like global changes which would be, I don't know. Let's let's make the buttons red in our Akash red and minor details like men. You should be centered between the logos and the icons.
+Denis Lelic:  And I think we could also improve our footer. We can add social media. Links there, maybe some FAQs resources.
+Denis Lelic:  That's some real estate there that could be used a little bit better. Then we have the home page.
+Denis Lelic: Again. This is a thing of discussion. Because I think you know, I'm glad Zach is here.
+Denis Lelic:  so we can maybe improve the content side of the website and as well at some Design in there, just to, and those two things should kind of go hand in hand.
+Denis Lelic:  Zach are you there? Yeah, I think you are, okay.
+Denis Lelic: Yeah, the easy changes would be just replacing those illustrations with the one, with the set of illustrations, we're using for everything else like this one here. We have like a set of illustrations for different. Sigs working groups. We use it in social media here and there and we for sure I could use it. On our website, especially in the front front page homepage.
+Denis Lelic:  Then we have at the bottom, we have nine features. What I think that's a lot of content to consume per viewport. So you have nine paragraphs that you have to go through. And I think at least we could break them into three different groups. And I sort them out here. So the first one would be infrastructure and resource management. The other one is security in privacy and the third one blockchained and interoperative deliverability.
+Denis Lelic:  Yeah. And there's like minor details. They're like blog tiles. Could be the same with as the other content above. and, Yeah, that's it from for the for the home page.
+Denis Lelic: yeah, Tyler
+Tyler Wright: I love what you've done here. I think, besides organizing this eventually into github issues for the Akash, uh, website people, which are attach here. We should also do it. I think you mentioned it by bugs and features, which I love. I think we should also do it by like, quick and easy things and then like maybe short term and long term. I think we mentioned that last meeting. You think that you talked about with like changing The icons,…
+Denis Lelic:  Yeah.
+Tyler Wright: UM, or changing some of the colors, I think that we could do or we could figure out how to do like internally by just looking at the code, but some of the other features that we're talking about like a contributions page or some advanced functionality, you might need to find a contributor, that is a little bit more experience.
+Denis Lelic:  Yeah. For some of the, for some of the pages, it's kind of hard to write what exactly would be would work. So I just let me see if I'm looking at the right one. Yeah. I just designed designed it without you know writing like two pages of text. It's I think it's just easier to to see if it works or not. For example, these are the illustrations where the set of illustrations we're using at the moment and just easily replace those.
+00:10:00
+Denis Lelic: and then I was thinking about dividing these nine paragraphs into three groups and just Maybe it's easier. To. Preview at like this, we have three groups and the left part here is sticky and the right one is scrollable. So you can just switch or…
+Tyler Wright: Yeah.
+Denis Lelic: if you scroll through it, you're just gonna scroll through all nine of them. But you know, if you want to like return back, you can just hit the group. And it's, I think it's just kind of like breaks the content into a little bit more digestible chunks.
+Denis Lelic: and then regarding the first, Notes from my Doc. You know, how do we want to? Convince the user for certain, there's like the price comparison. That's I could say like our main hook. And then after that we can just like show other others are using Akash as well. And that's kind of like building our credibility credibility. And like, how do you take advantage of Akash network? How do you use the tools and what are the tools so we can maybe just list the tools here? And I think those are kind of like,
+Denis Lelic:  smaller steps, but I think they would improve. The overall experience especially on the home page.
+Tyler Wright: Yeah. Um I myself have to run soon so I'm going to give some feedback. I think. I agree with a lot of what dentists talking about. Um I don't necessarily love the design of our weave. Um, but I do love the functionality of Without really having to scroll too much,…
+Denis Lelic: You.
+Tyler Wright: you can kind of go through the journey of like discovering, how to you discovering use build and then they have some other features.
+Tyler Wright:  I'm gonna I'll share my screen real fast to kind of show you what I'm talking about.
+Denis Lelic: What? Yeah, one thing maybe Tyler and Frank. I can just interrupt your for a…
+Tyler Wright:  Of course.
+Denis Lelic: We are we're quite limited with. The theme. And The way the website is set up, we're using like Hugo Docs team.
+Tyler Wright: Yeah.
+Denis Lelic: So everything is gonna look like a dog. Page. Unfortunately.
+Tyler Wright: Yeah, no, no. I I think that makes sense. I was just saying from like a journey perspective that maybe our journey has to be like, through school. I just like the functionality of You…
+Denis Lelic:  Yeah.
+Tyler Wright: high up the page, you can get to where you want. So if you want to, you know, read the docs or if you just want to get in a tool and use it right away and then you figure out how it works later, you can get there very, very quickly. So that's just one thing that I thought that they did. Well that again with our current setup. It's no real way to
+Tyler Wright: Get to the I'll get to a deploy tool and start using like Akash. From the home page pretty effectively. So, that's one thing that I think needs to change,…
+Denis Lelic: Yeah. Yeah.
+Tyler Wright: you know, I know that out of Sig Docs and some other CIGS. There's this big effort to like get people to get people using Akash in some way. Quickly as possible. and so I think our homepage has to do a better job of again, this density mentioned like creating that value proposition, but then allowing people to deploy quickly,
+Tyler Wright: One thing I also want to add on is I know when we do comparisons, we're always like AWS. Sure, Google Cloud.
+Denis Lelic: Here. Yeah.
+Tyler Wright: I would love it. Could be more specific because they have a whole suite of tools, right? And when we talk about Akash getting the cloud parity, we're not there yet so I think we need to do a better job of conveying to the user.
+Denis Lelic: Yeah.
+00:15:00
+Tyler Wright: Here's how you can use Akash here if you're using AWS like S3 services here's how you can swap out and bring Akash into your your workflow as opposed to just some generalizing. It's compared to again a whole suite of services. I think I'll be doing better job of telling the story. Um, I think we've also talked about case studies like what are things that people can effectively run on the Akash network right now, and that should be pretty high up on the on the home page. Just like another, like, again, storytelling value value prop point that I don't think that we have currently.
+Denis Lelic: Yeah. I agree.
+Tyler Wright: Um, I again I agree. So I won't the linger, the points about the footer and some of the other things, I think those things need to happen. Um, but more specifically on the community page, I do think there is a again, there's a place also for the contributions. I do think that we should have a call to action on the on the community page,…
+Denis Lelic: Here.
+Tyler Wright: you know, while they are accelerator is in a state hold right now we still want to create some called actions if anybody has a project or anything that they want to build on top of Akash network, we should Have a place for them to submit what they want to build. Obviously, they can participate in six and working groups and come to steering committees, but I do think having something that kind of poses as a Grant's program, it's just like, if you have a great idea, we'll figure out a way to fund it.
+Denis Lelic: If?
+Tyler Wright: You know, I do think it should be a call to action on the community page and then, lastly, Ecosystem page. I like the idea of the ecosystem page, I don't necessarily mind the design. I just don't believe that the ecosystem page doesn't exist today. Makes all that much sense. I think it's more of like here's who's using Akash…
+Denis Lelic: It.
+Tyler Wright: where the ecosystem page should really be focused on like clients.
+Tyler Wright:  things built on top of Akash, you know things that make like using Akash easier and then Um, projects that are using Akash should be, in an area, kind of like Denis, how you said That's like kind of validates, you know, whether being a quote section or something. Like, Are we and other projects? Like we'll just be like use by X companies and, you know, it just shows some legitimacy. I don't think we need to Like I have specific information about like when they tweeted about using us or how they use us, you know. I think that should be it's own area and then again, the ecosystem page should be for cloud most Console pray for terraform. Those kinds of tools that like Will enhance Akash network for users.
+Denis Lelic:  Yeah. Yeah, I agree about the ecosystem because it's like one is projects deployed on Akash and the other ecosystem part would be like all of the projects that are building on top of Akash. So either tools or stuff like that.
+Tyler Wright: Yeah. And we can still reach out to those folks and get quotes from them. Like we've been using a class for a year. We love it. You know we're saving money is the centralized or whatever, whatever that user wants you but wants to say but I think that's different than again an ecosystem page which should be more focused on again, how users can enhance like I think omnibus and awesome Akash should be on the ecosystem page, you know? And kind of these.
+Denis Lelic: Yeah.
+Tyler Wright: Any any other tools that might be created by a community member or elsewhere? They're like all right, this bit engine should be on the ecosystem page,…
+Denis Lelic: Yeah. Agree.
+Tyler Wright: you know? Etc.
+Denis Lelic: I'm glad we are recording this.
+Tyler Wright:  Yeah, exactly.
+Tyler Wright:  Yeah, so those are my like I know some of those are like a longer longer term efforts. I think again Denis said we'll bring this into one document and then maybe we can have like a async meeting or with Kevin another meeting before we turn these in the issues where we just make sure that we have some Oh that consensus on how we want to move forward, some of these things and then we just turn those into issues that we again tag is bugs features and then with long-term or short-term priority.
+Denis Lelic: Yeah, a great.
+00:20:00
+Tyler Wright:  We could use the same functionality that using support. So like P1 could be like, short-term P2 could be long term and then it says Bug needs to be solved right away. It's seven one. And if it's like something more long-term bug, it could be sent to
+Denis Lelic:  Yeah, that's cool.
+Tyler Wright:  Okay. Go ahead, Zach.
+Zach Horn: They're doing construction in my building. So apologies if there's background noise.
+Denis Lelic: Here.
+Zach Horn: Costs super like in a way that's super easy to understand what the network is, how you use it, or do you want to be a provider? Do you want to deploy etc? Etc. And then push people out to the various services that are going to like fit their use case. So if you want to deploy it's like Here's your options. If you want to be a provider, Here's how to get started. But that doesn't seem to be super highlighted on the homepage at the moment. So that's my biggest like contribution here from a messaging standpoint is like How quickly can we get people started? And also how quickly does it. Does it take to understand what the network is. There's lots of features and benefits at the moment, but I think we could do a bit more storytelling Julius. I think was making some of those points as well.
+Denis Lelic: Yeah. what I think the the dark the the button says gets started
+Denis Lelic:  You know, it's a minor thing but maybe it's just view docs so you don't get maybe disappointed.
+Tyler Wright: I would agree with that. Yeah.
+Zach Horn: I agree with that too,…
+Denis Lelic: Because get started it's kind of like,…
+Zach Horn: but I
+Denis Lelic: okay, I'm gonna maybe start to deploy something or just getting the process of you know, getting started.
+Zach Horn:  yeah, totally. I the one point I think could help is that we get people. We I hear what you're saying. It's like we don't want to say get started. Then it just drops you the docs but I think it would be good to have a way to get started quickly. Some of that dovetails with a doc's project that's going on at the moment that will happen in a week or so. But I think there would be it would be a good idea to have a way where you can like one click and like, you're up and running. Whatever that is like, maybe it's a line of code for the CLI or like a more direct link to cloud most or, you know, something like that. But I do like get started. I just think it needs to be more more active.
+Tyler Wright: I regret I agree with you Zach or…
+Denis Lelic: Yeah.
+Tyler Wright: he could even be like a number of ways to get started You know, get started with the CLI. Get started with a couple of different tools and yeah, I think that needs to be more purple. I do have to run but I think George Rodrigo and Zach probably have a lot of feedback on the website so this will be recorded. I took, I started taking some notes. I'm going to add them to a PR and then I think George will follow through with some of the notes after this meeting from this recording,
+Denis Lelic: Yeah, thank you tight.
+Zach Horn:  To.
+Denis Lelic: Zach, you want to go? You want to continue? If…
+Zach Horn: Time. Yeah, I really Just thinking out loud at this…
+Denis Lelic: if you have anything.
+Zach Horn: I agree with, with really everything you said in the first part of the meeting.
+Zach Horn: if I continue to kind of think through this, One piece of like aesthetic design that I see on like some other very like developer focused websites is They'll have a code snippet on the home page. I think this is something we probably want to check in with the technical people around Akash to see if they like if that's legible and understandable to them but like If I think it would be interesting to have whatever piece of code, you could drop into the CLI like truly get up and…
+Denis Lelic: If?
+Zach Horn: running, just super visible on the homepage. Rodrigo, you're definitely more technical than I am. Does that like make sense, you know, is that something we should include?
+Denis Lelic: Are you thinking about, like, having like a CLI window, where you can actually type in
+Zach Horn: No, no like, no, no.
+Rodrigo Rochin: Well that that's…
+Zach Horn: Actual typing functionality. Just like a copy paste, like, code, snippet, you know?
+Rodrigo Rochin: how it makes, it makes sense, Zach didn't,…
+Zach Horn:  Yeah.
+Rodrigo Rochin: it would be great, but I'm not sure it's a single line of code. I mean, maybe it's possible. But I mean, right now, everything one code. Would get you up and…
+Denis Lelic: You.
+Rodrigo Rochin: running, but It's interesting. I mean it would be nice to see something that I've seen it in some website and
+00:25:00
+Zach Horn:  Yeah, totally. That's the thing about Akash as there's so many sides to it. There's no, like, there's no one single get started thing. So I know what you mean. It's like There's no one get started. There's a lot, a lot of different get started.
+Denis Lelic:  Yeah.
+Zach Horn:  But I think I think some of like the homepage storytelling could help with that too. So even if there's no single like get started, A place that we're going to like, drive people to. I'm looking at the homepage right now on my own screen. So we have these three illustrations with the little snippets of text, which I think are good.
+Zach Horn: But to me they're very like features and benefits heavy. So it's like It's what Akash can do. I think the one piece of feedback that I've seen around the community a few times, is it like there should be an easier way to like story, tell what Akash? Like the Why of Akash, you know, and then drop that into like,…
+Denis Lelic: Yeah.
+Zach Horn: okay? So now if you get why Akash is a thing, here's what you can do with it, you know. So it's like you then you can start to segment people by or filter them by. Do you want to deploy? Okay, here's your deploy tools. You want to become a providers. Your provider tools and do it a little bit that way I feel like currently you you land on the homepage you have this get started language drops here but docs Um and then you go down into this little section with the three blurbs and then you go into the section with the nine features and benefits. It just feels like a lot. You know, it's good like the complexity just gets more and more as you go and I do worry that we could lose it…
+Denis Lelic: Agree.
+Zach Horn: because it's just too much.
+Denis Lelic:  Yeah, I think we all share the same thoughts. Around storytelling and the way we serve information.
+Zach Horn:  Yeah, totally.
+Denis Lelic:  You know. one thing is like easy UI polishing, like let's add or replace illustrations, but other thing is You know. Shaping the content and storytelling and wrapping up and like you know, you user interface. So as I said, you know, you should go kind of like hand in hand.
+Denis Lelic: Yeah, but I think we'll get there. We'll get there.
+Zach Horn: Yeah, I think so too. On that second screen, Akash community. You zoom in on that.
+Denis Lelic:  Yeah, this is actually a proposal. just for different parts of Akash community, you know, adding illustrations and Providing some higher, he adding a little bit of space. So it's kind of like Easier to consume, it's more entertaining. You know, because you have something visual as a graphic and then you can read about it and you can those are also action so you can lead the user for to, you know to go to any of these specific subpages of Akash community.
+Zach Horn: Yeah, I think that's great. The biggest thing that I think we're running into with the community groups is that, you know, that the SIG and the Working Group format is obviously how these things work, but I think the more we surface that stuff, I think it's just confusing for people. So splitting it out like this where there's just some easy kind of aesthetic.
+Denis Lelic: You.
+Zach Horn: Categories, you know, where you can, you can dive in and Kind of sort yourself into the categories. I think that's great. Because that's the one thing with the community page currently is that. It's so like it's so text heavy that you end up on this big page and then you have to read the whole thing and it's just a lot. But I think I think that's kind of where we are across the website.
+Denis Lelic:  yeah, you know, just taking those action items out of that text and you know, Adding a graphic, there, adding a button and providing some spacing just for for users to navigate. In a bit easier, fashion.
+Zach Horn: What's a, What's that next page to the right of community?
+Denis Lelic:  This was actually. A dark page. But I think we shut down the, the new docs page, and we just redirected to the old one. But that's, you know, a project on its own.
+Zach Horn: And yeah, totally.
+00:30:00
+Denis Lelic:  You know, and as well here for the for the token page. Just adding some spacing. Providing some graphics. And we can also just play around with the different. sizes of text, for example like, you know, some token metrics
+Zach Horn:  Yeah, definitely.
+Denis Lelic: not just listing them there but, you know, having one Font size, which is a bit more prominent. And another one is just like sporting it. I think that's like easy, easy UI polishing.
+Zach Horn:  Yeah, definitely. I mean the whole like the whole tone of this design about all the really all the designs you have here is that they're clean. They're just a little lighter, you know.
+Zach Horn: Super heavy at the moment.
+Denis Lelic:  Yeah.
+Zach Horn: These are just a little more spread out a little easier to like consume
+Denis Lelic:  maybe if we just go to the community page, So, we can compare.
+Denis Lelic:  Where we at?
+Denis Lelic:  yeah, that's the thing you said like, Maybe this kind of gets lost because I'm not really sure. Should I click on it?
+Zach Horn: Yeah, definitely.
+Denis Lelic:  or it's just
+Zach Horn: Yeah, from a UX standpoint like it, those buttons don't signal to me that there's tons of information behind them,…
+Denis Lelic:  Yeah.
+Zach Horn: you know what I mean? And they're definitely is there's, like, Most of the information is behind that link. But I don't that doesn't, like, visually come across to me on that page. It's like, Yeah, it's colored. So it's probably a link. But there's it doesn't feel like it's drawing you into it. So I feel like people just don't even realize they need to click all the way through to get the info.
+Denis Lelic:  Yeah, I agree.
+Denis Lelic:  This was just my my feeling for for this website.
+Zach Horn: yeah, I think it looks great even if we just move a little bit in this direction, I think We'll we'll see some major improvements.
+Zach Horn: So, to Tyler's point on like next steps and…
+Denis Lelic:  Yeah.
+Zach Horn: phases and all that. What what's like the what's the most immediate next step out of all this? You know? Because some of this is really high level designs that they might take a while but like, What can be done immediately?
+Denis Lelic: Here. I think that's UI polishing like if we're talking about the home page,
+Zach Horn:  Yeah.
+Denis Lelic:  It's just like one second.
+Denis Lelic: Replacing the illustrations. You know, that's easy. We can just do a PR and…
+Zach Horn:  Yeah.
+Denis Lelic: like, Change this illustrations or replace these illustrations illustrations, with the new ones. That's that's easy. And I like replacing stuff if we're talking about like adding a little bit of
+Denis Lelic:  Like new features, for example, this here. That's I think heavier lift.
+Zach Horn: Yeah, the price comparison portal.
+Denis Lelic:  Now, or even this one. Like dividing line paragraphs into something else.
+Zach Horn:  Right.
+Zach Horn:  Right, right? Because we're using the Doc's theme. So you're kind of You're stuck in there.
+Denis Lelic:  Yeah. So yeah.
+Zach Horn: Hey, a design point back up on the, the new graphics on the screen on the right. One thing.
+Denis Lelic:  This one.
+Zach Horn: Yeah, the one thing I like about the current graphics is that, like splash of red Did you like what do you think about that? Is that worth keeping?
+Denis Lelic:  I think that's something we can add easily. For example, like
+Zach Horn:  Yeah.
+Denis Lelic:  You know. What wherever we want to.
+Zach Horn:  Yeah, exactly.
+Denis Lelic:  That's easy.
+Zach Horn: Yeah like that a lot especially because we're so taxed heavy you know and there's not gonna be a ton of color throughout the website.
+Denis Lelic:  Yeah.
+Zach Horn: Just a little splash is kind of nice.
+Denis Lelic:  Yeah. That's easy. I know There were some like, Julius had some talks about changing the illustrations into something else.
+Denis Lelic: but I think at this point,
+Denis Lelic:  I think at this point where we're probably good just gonna stick with these because we have around 250 of these illustrations. and I can always divide one, illustration into Into I don't know, two different ones and in slightly adapt them and then we have like 350 of them. But if we go to, you know, direction where we
+00:35:00
+Denis Lelic: Customize, everything. I think that's going to eat a lot of our resources and
+Denis Lelic:  I'm not really sure if we're willing to do that at this point, you know? Because the turnaround would be much longer I can. For example, this one, this one here is customized and I grabbed three illustrations and put them together and it took me like five minutes.
+Zach Horn:  Yeah.
+Denis Lelic:  But if we do like a custom thing, then we always have to brief someone and wait for a couple of days to get that and I'm not really sure. I, I am, I'm for customer illustrations and custom graphics and stuff like that. But not at this point, if you ask me,
+Zach Horn: Yeah, I agree and especially because the ones on the writer a little more consistent with the other ones we've been using. I like the ones on the left too.
+Denis Lelic:  Yeah.
+Zach Horn: I just want on the right, a little more, like visually consistent.
+Denis Lelic: Yeah, and we have much much more of them.
+Zach Horn:  but, Where do they? Where do they come from? I assume they were like an open source, logo pack or something like that.
+Denis Lelic:  Now, I actually bought the license for like 50 bucks and every month you get 10 new illustrations. Yeah. so,
+Zach Horn:  Oh really. Wow, that's cool.
+Denis Lelic:  I think it's working at the moment.
+Zach Horn:  I do too. Yeah, especially because we're doing these threads on Twitter, the use of two. So it's like people at multiple touch points. To see a different places feels like everything started to like visually come together.
+Denis Lelic: Um, yeah, I agree.
+Denis Lelic:  Just trying to add some color.
+Denis Lelic:  Yeah, we can play around with that. I think that's
+Denis Lelic:  That's easy work.
+Zach Horn: Yeah, most definitely.
+Denis Lelic:  And it looks like this, for example, these are all of the illustrations.
+Zach Horn:  That's cool.
+Denis Lelic:  So, for example, for example, if I want to
+Denis Lelic:  I don't know. Let me see. Like this one.
+Denis Lelic:  It's actually this one.
+Zach Horn:  Of the planets. Yeah.
+Denis Lelic: I took out the planets and I added hands and another planet here. And I think it's just easy.
+Denis Lelic:  To adapt and produce. Graphics. And Fast, fast way.
+Zach Horn:  Yeah. Well, that actually that looks that looks great. even as a custom like Frankenstein of the other graphics, That looks.
+Zach Horn: so for my standpoint, here's my, here's one of my thoughts is if I'm gonna take a stab at rewriting, some of this, copy on the homepage, Are we staying in the same structure? So like is it going to be basically what you have here or some version between what we have? Currently, what you have here? Where there's like three texts, three pieces of text, you know, at the top and…
+Denis Lelic: Yeah, I'm willing to challenge that.
+Zach Horn: then it's gonna go into some minor detail below.
+Zach Horn:  Yeah.
+Denis Lelic: I think, you know, there's always a space for improvement. So, if you have any ideas like beyond this, You go for it.
+Zach Horn:  Yeah, let me, let me put some thoughts forwards it. We can circle back for the next one. But really the way, the one way I might think about it is about if we need to lead people through a story of like what Akash is. Maybe there's more than three. I don't think it'd be way more than three.
+Zach Horn:  But that's just happened out loud still. But that's my one, that's the one place because it's like you introduce someone to akash you introduce how it's structured, you know, as these multiple sides to it and then you start getting into, like, what you can do with it and what you can deploy and all that. you know, here actually that that jog is my memory for another thing for each of those Blur. So like your cloud your business. Super cloud, etc.
+Zach Horn:  What about? What do you think about putting a button below? Those each of those sections? Is that just way too much. Way too many places to click. Because here's what I'm thinking is like if you're leading people through a story about what Akashi is and you talk about, deployments, could you link out right from that text box to deployments or whatever? And then if you do want to providers, can you link out to, you know, here's how you become a provider or whatever.
+00:40:00
+Denis Lelic: I think that's possible and because as you said,…
+Zach Horn:  Okay.
+Denis Lelic: there are many ways to get started So…
+Zach Horn:  Totally.
+Denis Lelic: if we're gonna mention them, then we have to like have a dedicated link for that.
+Zach Horn:  Yeah, because it's like when someone lands on the homepage, like let's say that find Akash for the first time, they click through the link presented with the home page. I do like having a very quick get started option right up top and I don't, I guess that would be deploy is probably Probably the thing you would choose that, you know, becoming a providers a bit more of an evolved process. Deploying is pretty quick. And then you drop down to the second section where it's going to go into the what the network is and explain the different parts of it and then you can branch off from those sections to the various parts. You know, deploying providing validating etc.
+Denis Lelic: Yeah.
+Zach Horn:  What else age? If you scroll down?
+Denis Lelic:  On this one.
+Zach Horn:  But no on your on the new one.
+Denis Lelic:  This is price comparison and like ecosystem like powered by Akash which means a project that are deployed on Akash and Another part of the ecosystems are are tools that are building on top of a couch. So like Prater, cloud, nose, and the rest.
+Zach Horn: Got it. So powered by akashes like people that are Deployed on the network in some way. And then there's like, The sexual take advantage is more, like, tools that are building their ecosystem like partners essentially.
+Denis Lelic:  Yeah.
+Denis Lelic:  But I do agree with Tyler, here, about price comparison, you know? I'm not sure if it's relevant because maybe someone would pay more for a better UX and a broader. Set of services that I don't know, Amazon may be provides.
+Denis Lelic:  So we have to maybe package that in a in a bit different way that it's still serves us.
+Zach Horn: Yeah. well that's that's definitely always been That's the branding struggle with Akash is that like yes AWS is more fully featured but Akash has specific benefits too you know just by the nature being decentralized and…
+Denis Lelic:  Yeah.
+Zach Horn: whatnot so it's an interesting challenge. It's like as price the prices definitely one of the most salient Places where people understand the difference, you know, it's like we're decentralized to pricing is typically more competitive, which usually means it's lower. And I think people feel at the most because it's a super strong pain point, you know, lock-in is another huge pain point. You get started on AWS and then you, you know, getting out as is very expensive.
+Denis Lelic:  Yeah.
+Zach Horn:  I'm with you there. I definitely need to put some thoughts towards that as well.
+Denis Lelic:  Let me see.
+Zach Horn:  Is the vision for that comparison box that you would you type in resources, like you set your, your specifications that it gives you the prices across the different Akash and others.
+Denis Lelic:  Yeah, we We could do that. Like for example, you can add it these And the price could calculate here, but we can also maybe have three buttons which are like small medium large. So it depends on your deployment. Just something that it's Easy to click through and you can easily compare the pricing. When you're, you have like a really large needs or you know,
+Zach Horn: Totally. I, this is probably down the line because it's probably the heavy of a feature that implement but like what about What about types of deployments? You know, so instead of like small medium large, it's like website front end, validator node, etc.
+Denis Lelic:  Yeah, I think that's something Tyler mentioned as well.
+Denis Lelic:  especially the validator nodes and that's something that
+Denis Lelic:  we might attract users.
+Zach Horn:  Yeah, most definitely. I mean we launched that count the the kava campaign this morning, which is mostly rpcs. So that'd be an interesting thing. It's just to be able to scroll through hit RPC and it preloads, you know, whatever, an average RPC knows requires that gives you pricing for it.
+00:45:00
+Denis Lelic:  Yeah. I think we need someone from the Dev side to kind of package these
+Zach Horn: Totally.
+Zach Horn:  Well, cool. I would say, from a high level. I mean, this all looks great. It's, it's all definitely in a proven on the current site, just in terms of like legibility and making things a little lighter, a little easier to consume.
+Denis Lelic:  yeah, I think that's like the low-hanging for
+Zach Horn:  Totally.
+Denis Lelic:  yeah, I hope Tyler save those notes somewhere. I like I like the idea of like, short-term and long term.
+Zach Horn:  Yeah.
+Denis Lelic:  and we discussed both of them, so,
+Zach Horn:  totally, which What were the short-term goals? Just a job down myself?
+Denis Lelic: The. I think that's like the Lola. Low Hanging Fruit is UI polishing, adding spacing changing or adding illustrations in a specific section of the of the website. And long-term would be, for example, like Packaging RPC nodes and comparing what it costs on other. Centralized provider.
+Zach Horn:  Yeah, definitely well because then you get to, you know, you have to update your pricing which is heavy. Unless you're pulling it from somewhere which is probably even heavier to do.
+Denis Lelic:  yeah, one thing I with I think we should do is like, we have Let me see.
+Denis Lelic:  Where is it? Ecosystem. Ecosystem. Now pops up in another window. And basically, you scroll through it here. Ideally would be great if you stay on Akash. Network Page. and then just the slug, which change here like ecosystem.
+Denis Lelic:  And now it's the other way around. Like it's ecosystem data Akash.network. I think there's no need for.
+Zach Horn: Yeah.
+Denis Lelic:  Popping another window, just to showcase the ecosystem.
+Zach Horn: Yeah, totally. Wasn't the history of that was that I think Greg had initially developed it as like a separate thing. So that's why it's on the external page.
+Denis Lelic: Yeah, I think it's airtable. That's why it's here.
+Zach Horn:  I got it.
+Denis Lelic: So we just have to migrate everything to this one.
+Zach Horn:  Yeah, totally.
+Denis Lelic:  Yeah. Okay, anyone else? Rodrigo Jorge.
+Denis Lelic:  You want to add something?
+Rodrigo Rochin: Iron man, how good you?
+Denis Lelic: You can always share your thoughts on discord in the working group channel.
+Rodrigo Rochin: Now, it's always also going to ask about. This page being on air table or something like that. But well, we already talked about in that I was within the other thing you mentioned, they look great.
+Denis Lelic:  Cool. Okay. I think we have a couple of minutes left, so
+Denis Lelic:  If? We covered pretty much everything. We can wrap it up and
+Denis Lelic:  The next action items would be gathering all of these nodes and Categorizing them into either, short-term long-term. And we could do that maybe this week or in the beginning of the next week and Just shaping these prs then. For, for the Github. I think me and Tyler could work on that. Or anyone else if is if you're interested in,
+00:50:00
+George Pro: Yeah, I think I'm interested in this, but
+George Pro:  Hello.
+Denis Lelic:  Yeah, I can hear.
+George Pro:  Okay. and,
+Denis Lelic:  Yeah, I do.
+George Pro:  Hear me now.
+Rodrigo Rochin: And YouTube.
+George Pro:  Coming in. I mean I'm actually asked, you know, I read this one is just designed so I'm thinking of you don't have any difference and guy in this. Working groups who my passionate? Are you going to get your friend and guy from somewhere or some of what happened? You
+Denis Lelic: So you're, I think you're asking about the implementation of everything we discussed.
+George Pro: Yes. Yeah. The implementation.
+George Pro: Yeah, that lady.
+Denis Lelic: so if we are thinking about having a front end engineer to make sure everything we discuss is also implemented and realized
+Denis Lelic:  Do we have someone in mind?
+George Pro: You know, I I have some people in my network by they are not actually here. If you might need someone, now then have to contact them to me. Begin our meeting. focus and…
+Denis Lelic: Yeah.
+George Pro: second time, you see how bad the account going to
+Denis Lelic:  Yeah, that that would be great, you know? Just ask them to. Join our meetings either sick design or working group for the website. Just to get to know them and they get to know Akash and so on. But yeah, we definitely need some front end help with the website.
+George Pro:  Assumara.
+Denis Lelic: Cool. Thanks.
+Denis Lelic:  Okay. I'm gonna stop recording. I just have to find the button.
+Denis Lelic:  So, thanks everyone for participating in today's meeting. I'm looking forward for the next one. I think we have some cool.
+Denis Lelic:  Yes. We have a new question, one second.
+Denis Lelic:  Analyst. I think there's a
+Denis Lelic:  special interest group called Sig Analytics. so, maybe you just join our discord and Let me see. SIG analytics.
+Denis Lelic:  How can I share this? Coupling. Here it is.
+Denis Lelic:  Maybe you just follow this group. And have a look when it's the next meeting. I think it's
+Denis Lelic:  might be this week.
+Denis Lelic:  Like, do you know, maybe Sick analytics is Thursday.
+Zach Horn: Is that this week? I think it is actually. This this website.
+Denis Lelic:  Yeah, here it is.
+Zach Horn: 5pm to 6 pm etc. But definitely feel free to jump into that discord channel and…
+Denis Lelic:  Yeah.
+Zach Horn: ask over there. Definitely, definitely will be folks in there that be happy to answer. See if there's an opening.
+Denis Lelic:  I shared some some links here in the In the messages. So, Please have a look at them and maybe you'll find something.
+George Pro: I think I'm sure this one for under the document side. So if you Deployment Seed, Deployment Group. Last time, I think they were discussing about security.
+Denis Lelic:  Yeah, cool. So sig deployments as well, sig analytics and deployment.
+George Pro:  Yeah.
+Denis Lelic:  Right. Thank you. So, see you guys in the next one.
+Rodrigo Rochin: Thank you guys here.
+George Pro:  All right.
+Denis Lelic: Thank you. Bye-bye.
+Zach Horn: Of.
+Zach Horn:  This.
+Meeting ended after 00:55:32 👋
