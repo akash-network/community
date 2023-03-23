@@ -29,26 +29,26 @@ Deval Patel, Praetor Team (@devalpatel67)
 ## Roadmap
 
 * Content Moderation & Lease Dashboard
-Implement management API in the Akash provider service for content moderation
-Implement management API in Praetor for content moderation
-Implement a lease dashboard in Praetor
-Help providers implement the moderation API in the Akash provider service.
+    * Implement management API in the Akash provider service for content moderation
+    * Implement management API in Praetor for content moderation
+    * Implement a lease dashboard in Praetor
+    * Help providers implement the moderation API in the Akash provider service.
 
 * Helm Upgrade
-Install a new provider with Helm.
-Upgrade existing providers to Helm.
-Provide Praetor functionalities to existing non-Praetor providers.
+    * Install a new provider with Helm.
+    * Upgrade existing providers to Helm.
+    * Provide Praetor functionalities to existing non-Praetor providers.
 
 * Financial Dashboard
-Create a financial dashboard for providers.
-Show current month and upcoming projections based on leases
-Show historic lease financial data
-Process financial data securely using Airflow or integrate with indexers like Cloudmos.
+    * Create a financial dashboard for providers.
+    * Show current month and upcoming projections based on leases
+    * Show historic lease financial data
+    * Process financial data securely using Airflow or integrate with indexers like Cloudmos.
 
 * Existing Provider Feature
-Integrate moderation API to allow providers to ban image-based leases
-Add persistent storage for existing providers using the dashboard
-Support existing EDU program participants and create new curriculums
+    * Integrate moderation API to allow providers to ban image-based leases
+    * Add persistent storage for existing providers using the dashboard
+    * Support existing EDU program participants and create new curriculums
 
 
 ### PRDs
