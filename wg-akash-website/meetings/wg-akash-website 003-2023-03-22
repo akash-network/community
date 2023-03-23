@@ -1,0 +1,485 @@
+
+# **Akash Network - Akash Website Working Group (WG) - Meeting #3**
+
+
+# **Agenda**
+
+* Discuss current [issues](https://github.com/akash-network/website/issues) 
+* Proposals of new issues
+
+
+## **Meeting Details**
+
+* Date: Tuesday, March 22, 2023
+* Time: 08:30 AM PT (Pacific Time)
+* [Recording](https://msoh7rdl57aw7ko2s4xic7lqnqvzurjbtitrtvyibrutuad2abeq.arweave.net/ZJx_xGvvwW-p2pcugX1wbCuaRSGaJxnXCAxpOgB6AEk)
+* [Transcript](https://docs.google.com/document/d/1rcKSVTiDc8F3wev-0IIWC4JhB6ELvSpuVyoGTHtM8G8/edit#)
+
+##  **Participants**
+
+* Denis Lelic
+* Joao Luna
+
+## **Notes**
+
+* Denis presented submitted issues from last sessions and presented new ones.
+* Denis talked and presented drafts for “getting started” and “ecosystem” pages, followed with an open discussion with Joao Luna and both created iterations of the presented draft
+* Joao Luna proposed to have a roadmap for Akash Network (something like the image “Akash Masterplan”)
+* Joao Luna proposed to have a “white paper” on the token page
+
+## **Action Items**
+
+* Denis will continue to submit new issues on github.
+* Denis will continue to work on the “getting started” and “ecosystem” pages.
+* Working group will collectively try to find a front end dev, to help with the implementation of proposed drafts and submitted issues
+
+
+
+
+# **Transcript**
+
+_This editable transcript was computer generated and might contain errors. People can also change the text after it was created._
+
+Joao Luna: and we are just throwing ideas out there.
+
+Denis Lelic: Okay, we're tuning back in. Yeah, but Sorry, I forgot to record a meeting me and Luna. Discussing a couple of things such as having a roadmap on. On a cash website. Something that's already communicated on that image. Akash master plan. So having something like that, on the website would be great. That's Luna's, message. For today.
+
+Denis Lelic:  Yeah. Anything else? Size that.
+
+Joao Luna: I think that's the only thing I've thought about regarding it. The website there's really not Anything else from my end?
+
+Denis Lelic:  Okay. Maybe, I'll just share a couple of things that we discussed in the previous meeting, and To have a look at the first draft. So,
+
+Joao Luna: If?
+
+Denis Lelic:  even me already talked about the Akash ecosystem today, so and we said it would be great if that's part of the website. Not a External link or a link that opens in a new window how to have this seamless experience and to stay on this the same website. We also talked about the akash's Akash. Ecosystem is kind of a complex ecosystem and it's combined out of
+
+Joao Luna: If you.
+
+Denis Lelic:  projects that are using Akash so like being deployed on Akash, It's either like validators frontend, mainnet, test nets, whatever and then we have tools that are built on top of Akash or for Akash network. Next, there's providers that also form the ecosystem and then we have, of course, the community and the community members that are
+
+Denis Lelic:  Contributors and as well. Part of the ecosystem. So, All of these are represented. Here, we have these four pillars of the ecosystem and If a user clicks on one of these, it's like a decision tree. And for example, two tools on Akash takes you to a dedicated page where you can explore tools or I call that community community solutions here, as well. That's something we can work out regarding the wording. It's not finalized, so it's just a proposal. So, we have Cloud, Nodes, Prater console. We have github repos. We have the auditors. we have sphere on here, and those are the projects that are kind of like That are tools.
+
+Denis Lelic: That are leveraging Akash network. And the next one would be deployed on Akash, that's everything. That's Basically deployed on a car. So we have a couple of Categories,…
+
+Joao Luna: Here.
+
+Denis Lelic: here, I like validators tabs, smart contracts, test, nets main nets and so on. and, basically the same structure as for the community solution for tools, it's just presented with
+
+Denis Lelic:  those projects that are deployed on Akash. The next one would be providers.
+
+Denis Lelic:  And we could showcase the providers as well on the community on the ecosystem page. Sorry. We could provide some basics of basic information about the provider and have a dedicated detailed page for for each of the providers. Something that's already.
+
+Denis Lelic:  Being done by the Cloud most team. So, Yeah.
+
+Joao Luna:  Yeah, Prater does it as well.
+
+Joao Luna: So, I think it's
+
+Denis Lelic: So, having a yeah.
+
+Joao Luna:  I think it would it's it's good to have this set.
+
+Denis Lelic: Having a unified dedicated place for providers to either showcase their resources and information.
+
+Denis Lelic:  Because as you said, it's kind of scattered on three different places.
+
+Joao Luna: I do think Prater has a good API on this and they announced that data with a couple more. I think they, for instance, they provide Latitude and Punchitudes Information. If you want to show it on a map, I don't know if it's provided anywhere else, they provide things so we could show. So for instance we could show up time…
+
+00:05:00
+
+Denis Lelic: Here.
+
+Joao Luna: but then we also could show like the the last five minute things. that happened and you can see in real time if a provider is failing or something if it's like something that we want to show you…
+
+Denis Lelic:  Yeah.
+
+Joao Luna: but they do have a lot of information to be I think a good place to to use an ecosystem partner
+
+Denis Lelic:  Is that, is that thing? An open source, open source.
+
+Joao Luna: It spriters API and I'm not sure if it's open source. They, they provide,…
+
+Denis Lelic:  Okay.
+
+Joao Luna: they provide the terraform provider with an API key. To access it but I'm not sure if it's open source.
+
+Denis Lelic:  Okay, cool. That's something I can discuss maybe with them.
+
+Joao Luna: I mean, if not, this is on train data, it's just that they have. A better that source,…
+
+Denis Lelic: Yeah.
+
+Joao Luna: I guess.
+
+Denis Lelic:  Yeah. What do you think about this approach for for the ecosystem page?
+
+Joao Luna: I like it actually like it. A lot, I do. And from a design perspective and because I at first, I was Like not concerned but wondering how how the illustrations would play out in overall design of the products. But here is, this is like a perfect use For those illustrations, and I think it gives it a unique. Look, it's not the standard techie and vibe on things, and This,…
+
+Denis Lelic: Yeah. but,
+
+Joao Luna: this is great. And the structure is easy to navigate, it's awesome.
+
+Denis Lelic:  Cool. Yeah, regarding the illustrations. That something actually, Greg proposed. To have. Something handwritten hands scribbled. So we have this human touch behind the illustration, so
+
+Joao Luna:  Who's who's the illustrator? Is it like some stock images? Or we actually have someone
+
+Denis Lelic:  Yeah. not actually I bought a set of illustrations a while ago, I was looking for a broader broader.
+
+Denis Lelic: Library of illustrations. So we can support many different scenarios and I, some stumble upon this one. So we have, I think around 250 illustrations now. And what's cool about them, we can For example, here, we can always grab one smaller thing for example,…
+
+Joao Luna: From one, yeah.
+
+Denis Lelic: Here's a chess board. I can I can just delete this one. I have a chessboard here. So we have, you know, now it's 250,…
+
+Joao Luna:  Yeah.
+
+Denis Lelic: but it's easy to make like 500 illustrations.
+
+Joao Luna:  Even more. Yeah.
+
+Denis Lelic: So yeah. We needed something that's quick and easy and agile to create. Right away. So we don't have to like order illustrations from an external illustrator and then wait, you know, you usually have to wait, wait for a week or two to get them, so something that's Easy.
+
+Joao Luna: Yeah.
+
+Denis Lelic: Easy to work with.
+
+Joao Luna:  This is great. Yeah.
+
+Denis Lelic: Cool. Another thing we discussed last time was getting started page. so, there's many ways you could you could get started on Akash Network, so, You're either here to learn. Which means you need resources,…
+
+Joao Luna:  If?
+
+Denis Lelic: docs tutorials, guides and stuff like that.
+
+Denis Lelic:  another thing would be you're looking for to contribute or to join the community in any shape or form and then If you want to, like, get your hands dirty, which means you're trying to deploy something or become a provider. So those are four options here, which is basically the same structure as the Akash ecosystem page. Anyway, also serves like this this decision tree. So if you go okay I want to deploy something. Get started. Here are the options for deploying. You can use CLI, you have Akash console, or cloud modes, you can view the docs or you can just launch the Web app. So,
+
+00:10:00
+
+Joao Luna: Okay, great. I would, I don't know if it's of this scope as well but I think, as a A plug to to our work at the terraform provider is also a way to deploy.
+
+Denis Lelic:  Okay, that's great. Thanks for for sharing that. Let me just add that
+
+Joao Luna:  No, I just don't know if it looks good. Okay, yeah. And a new column and you roll.
+
+Denis Lelic:  Yeah. Yeah. So, you said, Tara for
+
+Joao Luna:  Or provider. Yeah. And then you can get, yeah.
+
+Denis Lelic:  Provider.
+
+Denis Lelic:  So, can you view docs?
+
+Joao Luna:  Or maybe, maybe you can just say terraform. I guess it sounds better. It's more perceptible. Yeah.
+
+Denis Lelic: And I guess CLI doesn't have a launch web app. You have to go to the docs and see what's happening there. What about Terraform
+
+Joao Luna:  Yes, docs as well.
+
+Denis Lelic:  Box as well.
+
+Joao Luna:  No Web app.
+
+Denis Lelic: I just thought Arthur joined the meeting…
+
+Joao Luna: And then he left,…
+
+Denis Lelic: but maybe he…
+
+Joao Luna: he got scared.
+
+Denis Lelic: Yeah. Or he said, Oh wait wrong meeting.
+
+Joao Luna:  Wrong meeting.
+
+Denis Lelic: Yeah, sorry, I didn't hear you. Is there an option to launch the Web app or…
+
+Joao Luna: No, no.
+
+Denis Lelic: you can just view the
+
+Joao Luna: Just It's just documentation.
+
+Denis Lelic:  Outer view docs.
+
+Denis Lelic:  I can fix this later all the layouts and stuff. So yeah. Basically if you like deploy, you're presented with these four options.
+
+Denis Lelic:  and, Below this section or this viewport we could we could talk about essentials. What do you need before? You get started, You need a capital wallet, you need an extension and maybe we provide some resources, like Tutorials guides. What it takes to deploy with console cloud, nose, CLI. And we can add
+
+Joao Luna: And if I think I have another one that will come in the next couple weeks, which are the client libraries. They are also a way to deploy. I think they are even better than currently even better than the CLI.
+
+Denis Lelic: For cool. I'll add that client like worries.
+
+Joao Luna: Just like very nice. And they are also only dogs.
+
+Denis Lelic: That's great.
+
+Joao Luna: But they'll be quite a lot,…
+
+Denis Lelic:  Only dog.
+
+Joao Luna: so there's different pint libraries. I don't know what, there's, no specific. I mean, that link could point to the documentation on. The akash stocks, that will be created as well.
+
+Denis Lelic: Cool. Yeah. So we could also say deploying where Client write a libraries.
+
+Joao Luna:  Exactly.
+
+Denis Lelic:  What do you think about this getting started?
+
+Joao Luna: Perfect. It's actually perfect. that's,
+
+Joao Luna: That's perfect.
+
+Denis Lelic: it's like a decision tree,…
+
+Denis Lelic: so you can You can, you know, select and go down the pipeline, whatever you want to do.
+
+Joao Luna: Ly. Yeah.
+
+Joao Luna:  Okay, would we be interested in become a validator as well? Or we just want to focus on The developer experience on this on this section.
+
+Denis Lelic: Yeah, good question. I've actually had for example, join our community. Is become an akash insider or validator. I'm not really sure.
+
+Joao Luna:  Okay.
+
+Denis Lelic: A validated is part of the community. It still…
+
+Joao Luna:  Yeah.
+
+Denis Lelic: but It is, but it, but it could be a dedicated. Thing.
+
+Joao Luna: yeah, but the thing is, I don't think we should give it as much focus as the deploy and provider because those are the what makes Akash Akash, I guess. So the clouds the cloud,…
+
+Denis Lelic:  Yeah.
+
+Joao Luna: it's both sides of the cloud. So the tenant side where you deploy and provider site, where you become a provider adding a validator,…
+
+Denis Lelic: Yeah, that was the idea. Yeah.
+
+Joao Luna: I think, will only add confusion to this page. I'm not sure what I would put it but I guess it's It should be there, but maybe the community is is a good place to be here.
+
+Denis Lelic:  That's why.
+
+Denis Lelic: yeah, that's why that was my thought process like I wasn't really sure…
+
+Joao Luna:  Okay.
+
+Denis Lelic: if it's on the primary level here, or is it on a secondary? And that's why it ended up here, like, join our community, you can become an insider. We can visit Github or Discord, Do I have this click here? No. So I need to add I need to add links here for
+
+00:15:00
+
+Joao Luna:  Telegram as well.
+
+Denis Lelic:  links for socials.
+
+Joao Luna:  Yeah.
+
+Denis Lelic:  And that could be like part of the Github as well. Yeah. So basically, then there are three options Becoming an Akash insider becoming a validator. And this is like Have an idea is basically an accelerator but it's not called accelerator anymore. But
+
+Denis Lelic:  previously, we discussed to have one place where someone a community member or just someone visiting could submit their ideas. Could be in a type form or a dedicated. Site on this website. So, I mean page on this website. So yeah. But that's it regarding this thing. Yeah.
+
+Joao Luna: Okay. I have one question but maybe it's so this this is the are these final finally like are these high fidelity designs or colors? It's it's in black and white on purpose or is that part of the design as well?
+
+Denis Lelic: Yeah. Actually there's
+
+Denis Lelic: now regarding the buttons and the photography and stuff like that, that's, you know, pretty much done because we're just trying to emulate Existing style on the website so we're not inventing anything new and…
+
+Joao Luna: Okay.
+
+Joao Luna:  Okay.
+
+Denis Lelic: we only talked about having a pinch of color here and there.
+
+Joao Luna: Yeah, that's what I was going to say some color. I don't know if the buttons red.
+
+Denis Lelic:  Yeah.
+
+Joao Luna: I'm not the designer. So I might be suggesting something horrible but like our titles read, or the buttons, or just little details in red, I guess makes, Make us a red or…
+
+Denis Lelic:  Yeah.
+
+Joao Luna: pink that color you you chose on the website.
+
+Denis Lelic:  This one.
+
+Joao Luna:  Yes, that's the one. Yeah.
+
+Denis Lelic:  Yeah, that's something we talked about the last time as well. Zach mentioned to add a little bit of color because we already have it in some of the touch points. So that's not a big thing. Okay.
+
+Joao Luna:  Yeah, no. It's I like those patches it. They're perfect.
+
+Denis Lelic:  Yeah, it's the first drive that I was hoping to discuss. Whoever is willing to discuss them, but yeah. Maybe, maybe next time. But I'm glad you're here.
+
+Joao Luna: Alright, I'll try to put in this card. I think more people should see this. Maybe this was because this working group was actually really early. So, maybe most people were not here yet.
+
+Denis Lelic:  Yeah, I think that's the problem as well. I have to mention to Tyler, to put to put this a little bit later on the clock style, Hopefully more people will join. but yeah, as you said I think, you know, Like ecosystem page, and getting started. Are quite important pages. And with kind of help to
+
+Denis Lelic:  It will help with the with adoption, maybe.
+
+Joao Luna: Yeah, clearly. And people can from that starting page that gets started one. We have, we should offer all the solutions. Well, all the paths that we want the users to follow, And I think that's from that sense. It's perfect. As a provider, he goes to get starting, he knows where to go for a tenant, he knows as well. For someone experienced, I just wants to check the resources, they also know where to start. And whoever wants to join the community also another.
+
+Denis Lelic: Yeah.
+
+Joao Luna: So I think that that journey for the user is great. Yeah.
+
+Denis Lelic: Yeah, but I think where we that's for my perspective that was kind of the missing link where we guide the user actually like What do you want to do and then just forming this decision tree. Okay, I want to Be a Provider. Okay, those here are two options. You can build a cloud provider through docs, or you can just use the UI from Prater App. For example. So,
+
+Joao Luna: also, can I because not this, some of these stuff is like goes hand in hand, with what we are working on. On our side, we have a dev working on setting up a provider using TERRAFORM So maybe it can be added to becoming a provider as well.
+
+Denis Lelic: Yeah.
+
+00:20:00
+
+Denis Lelic:  Okay.
+
+Denis Lelic:  With Tara form.
+
+Joao Luna:  Yeah, we will launch. We are what's working on a guide on how to set it up, and then we can create those pages. That, I think it's
+
+Joao Luna:  Okay. Confident bit. Yeah. A cloud provider.
+
+Denis Lelic: Provider. With proform.
+
+Joao Luna:  We'll have documentation on this.
+
+Joao Luna:  Maybe we should have the P with capital letters.
+
+Denis Lelic:  Yeah, I'll get there. Give me a second.
+
+Joao Luna: Yeah, I know. Sorry this is the the side effects of screen sharing,…
+
+Denis Lelic:  where,
+
+Joao Luna: at this for me I'm like, You can do this. To that. Because I'm, I'm reading and you're writing. I get ahead of myself.
+
+Denis Lelic: Yeah.
+
+Denis Lelic:  That's great. I'm actually really happy. You're on this call. So, you know, I always I wasn't really familiar with the terraform stuff. Yeah, so thanks for informing me.
+
+Joao Luna: yeah, I mean Yeah, no, then that that gives me the idea that we should market it more. As well…
+
+Denis Lelic:  Yeah.
+
+Joao Luna: because it has a couple of users, I can check the downloads on the registry because it's I think it's a large portion of usage at least significant portion.
+
+Joao Luna:  Yeah, so we almost have 10K downloads. Over all time.
+
+Denis Lelic: All right, that's great.
+
+Joao Luna:  So, of course, this includes Pipeline runs. But Underlies. It's
+
+Denis Lelic:  That's great.
+
+Denis Lelic:  Just one sec.
+
+Denis Lelic:  Okay, I was thinking it's someone who's trying to join but nothing happened.
+
+Denis Lelic:  Yeah. Those are the two things that were kind of, everyone was missing on the website, how the ecosystem providing a little bit more information and getting started. Basically, to guide, whoever visits the website gets the right information to get started.
+
+Joao Luna: Here.
+
+Denis Lelic:  We also have. One second.
+
+Denis Lelic:  So I can pull this up. We have you can also I'm not really sure but Luna if you have time you can always create a new issue and propose a future or a bug or anything you're missing on the website.
+
+Denis Lelic:  a couple of days ago, actually, five days ago says here,
+
+Denis Lelic:  I proposed a couple of things, which For example, this is a community page redesign. It's it's slightly redesigned. It's just has a little bit more dedicated for each of the sections here, and I'm more prominent. Call to action. If we compare what what's happening at the moment.
+
+Denis Lelic: For example. These three. Are kind of. Lost in the text and maybe it's not that clear enough that this is a clickable thing.
+
+Joao Luna:  Yeah.
+
+Joao Luna:  Yeah.
+
+Denis Lelic: So I was just thinking, adding a little bit, a little bit more space and having a graphic element that's kind of indicating. What's Behind each of these doors.
+
+Joao Luna:  No. Yeah, that's perfect. Yeah.
+
+Denis Lelic: So, Just slightly.
+
+Joao Luna: Yeah, I the only suggesting I would do our ads is just to like try to make the first two texts, a little bit smaller. Not like nothing font size but the content actually smaller if possible. I'll give a suggestion so don't worry about this.
+
+Denis Lelic:  I sure shorter.
+
+Joao Luna: I'll give it. Yeah, sure. Exactly. I'll I can can read about,…
+
+Denis Lelic:  Okay.
+
+Joao Luna: I can read what what's there, and try to suggest something smaller. Just so that because it's looks like a big block of text. And maybe a shorter sentence,…
+
+Denis Lelic: Yeah, maybe yeah.
+
+Joao Luna: our starter description.
+
+Denis Lelic: A shorter version. A shorter version just to have like a little teaser, what's behind this door?
+
+00:25:00
+
+Joao Luna:  Yeah. Yeah.
+
+Denis Lelic: Okay, cool. and also for this part, Now, we have discussions, which are the social links here listed when I was just thinking about having, like a dedicated tile where you click on it.
+
+Denis Lelic:  It would just help like with. Clickability and the User Experience Here, it's not like listed beneath each other.
+
+Denis Lelic:  That's one thing. What was the other? Yeah, this one is like easier. One.
+
+Joao Luna:  Sorry, I have once recall.
+
+Denis Lelic:  Sure.
+
+Denis Lelic: It.
+
+Denis Lelic: and,
+
+Joao Luna: Okay, sorry.
+
+Denis Lelic:  No worries.
+
+Denis Lelic:  Yeah, the other thing would be Replacing those illustrations. These illustrations. With these. And having a centered menu.
+
+Denis Lelic:  On the top. So, it's kind of like, A logo is on the left, these social links on the right and this is kind of balanced in the middle because now it's like a lot of stuff is leaning on the left. That's a minor makeup thing.
+
+Joao Luna: You.
+
+Denis Lelic:  Then there's a bug, there's like illustrations missing on the mobile view. and,
+
+Denis Lelic:  Yeah, that's it. There's also another issue I have to Provide here and which is the Akt token page. So, if we have a look up,
+
+Denis Lelic:  let me just show one.
+
+Denis Lelic:  Token.
+
+Denis Lelic: So, just having the the page a little bit more. Providing a little bit more white space and adding illustrations for each of these paragraphs. And there's also a little bit of makeup stuff here within the UI. Like token metrics.
+
+Joao Luna: Okay.
+
+Denis Lelic: With the numbers a little bit more prominent in center. And the links. And also I was proposing FAQ section. Like because we usually Here and…
+
+Joao Luna:  and,
+
+Denis Lelic: there. See, like people asking what is the Unlock schedule, you know, and And stuff like that. So we can just like Link Provide this link for the token page and kind of bypass those questions because I hear them all the time on the discord.
+
+Joao Luna: Yeah, yeah, I agree have stuff there as well. Like community pool the size of it. And all those metrics.
+
+Denis Lelic:  Yeah. Yeah.
+
+Joao Luna: Yeah, I'll mix makes sense. And we can just suck to redirect them over to this.
+
+Denis Lelic:  Just to have that. Yeah. Just provide a link and please have a look at this thing and that's it.
+
+Joao Luna: We could include the white paper there as well. I know, we are not sharing the first version anymore as far as I know because of the second one coming out. but people also ask for the white paper,
+
+Denis Lelic: Understood. Thanks for the ideas.
+
+Joao Luna:  Always.
+
+Joao Luna:  all right, and it will have work to do then.
+
+Denis Lelic: Yeah. Thanks for joining if you have anything. You want to discuss you can we can talk about it now. Otherwise just let me know on the discord. so, until next time,
+
+Joao Luna:  Cheers. Thank you. Bye.
+
+Denis Lelic:  Thank you. Bye.
+
+Meeting ended after 00:31:30 👋
