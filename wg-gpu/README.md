@@ -9,15 +9,23 @@ This working group is dedicated to figuring out everything that needs to happen 
 
 ## Meetings
 
+[First meeting is Tuesday, February 7, 2023 11:00 AM PT (Pacific Time)](https://meet.google.com/ikn-seva-qch?authuser=0)
+
+
+| Meeting | Time | Notes | Transcript | Recording
+| --- | --- | --- | --- | --- |
+| #1 | Tuesday, February 7, 2023 11:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/wg-gpu/meetings/001-2023-02-07.md)  | [Link](https://github.com/akash-network/community/blob/main/wg-gpu/meetings/001-2023-02-07.md#transcript)  | [Link](https://ulubxe7s3ulck6gkqezr25x66pfr5qmtphv2usi7aveb2yh5hn6q.arweave.net/ougbk_LdFiV4yoEzHXb-88sewZN566pJHwVIHWD9O30)
 
 ## Leads
 
-  - Name (GH Handle)
-  - Name (GH Handle)
+- Anil Murty (@anilmurty)
+- Artur Troian (@troian)
+- Adam Bozanich (@boz)
+- Greg Osuri (@gosuri)
 
 ## Contacts
 
-- Discord (add link)
+- [Discord](https://discord.com/channels/747885925232672829/1067981460461588480)
 
 ## Goals
 
@@ -32,11 +40,12 @@ This working group is dedicated to figuring out everything that needs to happen 
 
 
 ## PRDs and other documentation
-- PRD
 
+- [PRD](prd.md)
+- [Progress](progress.md)
 
 ## Related SIGs
 
-- sig-provider
-- sig-clients
-- sig-deployments
+- [sig-providers](../sig-providers)
+- [sig-clients](../sig-clients)
+- [sig-deployments](../sig-deployments)
