@@ -101,4 +101,29 @@ The UI/ UX design needs address the following things
      b. When viewing deployment list
 
 ## Wireframes
-To Do
+
+Figma reference [here](https://www.figma.com/file/ocroMRprgwaJ1IhzUslvZZ/Akash-Console?node-id=1990-27292&t=eGGBCbSEnrUoeGW7-0). Pasted screenshots below for convenience as well
+
+<p align="center">
+   <img src="Authz-wire-1.png" width="400">
+</p>
+
+<p align="center">
+   <img src="Authz-wire-2.png" width="400">
+</p>
+
+<p align="center">
+   <img src="Authz-wire-3.png" width="400">
+</p>
+
+<p align="center">
+   <img src="Authz-wire-4.png" width="400">
+</p>
+
+<p align="center">
+   <img src="Authz-wire-5.png" width="400">
+</p>
+
+<p align="center">
+   <img src="Authz-wire-6.png" width="400">
+</p>

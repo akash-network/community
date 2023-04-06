@@ -14,11 +14,9 @@ date: 2023-1-09T00:19:20-08:00
 | Meeting | Time | Notes | Transcript | Recording
 | --- | --- | --- | --- | --- |
 | #1 | Tuesday, February 7, 2023 09:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-chain/meetings/001-2023-02-08.md) | [Link](https://github.com/akash-network/community/blob/main/sig-chain/meetings/001-2023-02-08.md#transcript) | [Link](https://syav3u2trpuey4ercatgjmfetbsgauto4l6dweuzzeakfcfss5hq.arweave.net/lgFd01OL6ExwkRAmZLCkmGRgUm7i_DsSmckAooiyl08)
+| #2 | Tuesday, March 7, 2023 09:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-chain/meetings/002-2023-03-07.md) | [Link](https://github.com/akash-network/community/blob/main/sig-chain/meetings/002-2023-03-07.md#transcript) | [Link](https://bnh5kltqeq2lawpenq3kdfi36yt4djl7gnsflaxset6d5jiucouq.arweave.net/C0_VLnAkNLBZ5Gw2oZUb9ifBpX8zZFWC8iT8PqUUE6k)
 
 ## Leadership
-
-
-### Product Lead(s)
 
 - Artur Troian, Overclock Labs
 - Adam Bozanich, Overclock Labs
@@ -32,4 +30,6 @@ date: 2023-1-09T00:19:20-08:00
 ## Sub Projects, Repositories & Relevant Work Groups
 
 The following are projects and work-groups that sig-chain participates in or contributes to (ToDo: Add links when available)
+
+- [Network Upgrade](https://github.com/akash-network/support/issues/73)
 
