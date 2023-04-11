@@ -11,7 +11,8 @@ This SIG (Special Interest Group) is focused on all efforts related to educating
 
 | Meeting | Time | Notes | Transcript | Recording
 | --- | --- | --- | --- | --- |
-| #1 | Tuesday, February 14, 2023 10:00 AM PT (Pacific Time) |   |  |
+| #1 | Tuesday, February 14, 2023 10:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-education/meetings/001-2023-02-14.md)   | [Link](https://github.com/akash-network/community/blob/main/sig-education/meetings/001-2023-02-14.md#transcript)  |
+| #2 | Tuesday, March 14, 2023 10:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-education/meetings/002-2023-03-14.md)   | [Link](https://github.com/akash-network/community/blob/main/sig-education/meetings/002-2023-03-14.md#Transcript)  |
 
 ## Leadership
 
