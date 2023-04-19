@@ -45,6 +45,7 @@ Meetings happen every [Third Wednesday of the Month](https://calendar.google.com
 - Joao Luna, Quasarch (@cloud-j-luna) - Terraform Provider, Client Libraries
 - Maxime Beauchamp, Cloudmos (baktun14) - Cloudmos Deploy
 - Prashant Maurya, Spheron Network () - Spheron
+- Jigar Patel, Praetor (jigar-arc10) - Praetor App
 
 ### Tech Lead(s)
 
@@ -52,6 +53,7 @@ Meetings happen every [Third Wednesday of the Month](https://calendar.google.com
 - Joao Luna, Quasarch (@cloud-j-luna)
 - Joseph Tary, Overclock Labs (@jtary)
 - Maxime Beauchamp, Cloudmos (baktun14)
+- Deval Patel, Praetor (@deval_vora)
 
 ### Program Manager(s)
 
