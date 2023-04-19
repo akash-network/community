@@ -6,7 +6,9 @@ date: 2023-1-09T00:19:20-08:00
 
 # Akash Network - Clients Special Interest Group (SIG)
 
-Akash Network Clients are software and services that make it easier for tenants of all types to deploy on to Akash Providers. The Akash Network community has built and supports the following deployment clients at this time:
+Akash Network Clients are software and services that make it easier for tenants of all types to deploy on to Akash Providers as well as for new provider onboarding. The Akash Network community has built and supports the following deployment & provider onboarding clients at this time:
+
+## Deployment Clients
 
 - [Akash Console](akash-console/README.md)
 - [AKash Command Line Interface](akash-cli/README.md)
@@ -15,6 +17,11 @@ Akash Network Clients are software and services that make it easier for tenants 
 - [Fleek](fleek/README.md)
 - [Spheron](spheron/README.md)
 - [Terraform Provider](terraform-provider/README.md)
+
+## Provider Onboarding Clients
+
+- [Akash Command Line, with Helm Charts](https://docs.akash.network/providers/build-a-cloud-provider)
+- [Praetor App](praetor/README.md)
 
 The goal of this SIG is to foster a community around each of these clients that is focused on building a roadmap for each client, capturing feedback from users, resolving issues and driving adoption of the clients. Each of these clients cater to specific Akash Network user segments and as such, drive the north star metric of driving deployemtns on Akash Network as a whole.
 
@@ -38,6 +45,7 @@ Meetings happen every [Third Wednesday of the Month](https://calendar.google.com
 - Joao Luna, Quasarch (@cloud-j-luna) - Terraform Provider, Client Libraries
 - Maxime Beauchamp, Cloudmos (baktun14) - Cloudmos Deploy
 - Prashant Maurya, Spheron Network () - Spheron
+- Jigar Patel, Praetor (jigar-arc10) - Praetor App
 
 ### Tech Lead(s)
 
@@ -45,6 +53,7 @@ Meetings happen every [Third Wednesday of the Month](https://calendar.google.com
 - Joao Luna, Quasarch (@cloud-j-luna)
 - Joseph Tary, Overclock Labs (@jtary)
 - Maxime Beauchamp, Cloudmos (baktun14)
+- Deval Patel, Praetor (@deval_vora)
 
 ### Program Manager(s)
 
