@@ -15,7 +15,13 @@
 
 Please feel free to add information to this table once you have completed the Provider Onboarding process. The goal is to learn as much as possible about how different Nvidia GPUs respond on the network. Additionally, wg-gpu also hopes to analyze GPU workloads on the Akash Network for benchmarking costs, resources and beyond.
 
-| Provider Name | Kind of GPUs | # of GPUs | Contact 
-| --- | --- | --- | --- |
+| Provider Name | Kind of GPUs | # of GPUs | Contact | Provider Address
+| --- | --- | --- | --- | --- |
 | e.g. COLO | A100 | 1 | TyWright | 
 | LUNA |  | 1 |  | Luna.go#9960
+| shimpa.org | nVidia RTX 3090 | 1 |  | akash143ypn84kuf379tv9wvcxsmamhj83d5pg2rfc8v
+
+
+## References
+
+- [Open Office Hours #1 Video](https://drive.google.com/file/d/1FUsqEd1GVU-23T54LvVRtTZSQ3NP-BvZ/view?usp=share_link)
