@@ -20,6 +20,8 @@ Please feel free to add information to this table once you have completed the Pr
 | e.g. COLO | A100 | 1 | TyWright | 
 | LUNA |  | 1 |  | Luna.go#9960
 | shimpa.org | nVidia RTX 3090 | 1 |  | akash143ypn84kuf379tv9wvcxsmamhj83d5pg2rfc8v
+| shimpa.org | nVidia RTX A2000 | 1 |  | akash143ypn84kuf379tv9wvcxsmamhj83d5pg2rfc8v
+|  | Tesla T4 | 2 |  | 
 
 
 ## References
