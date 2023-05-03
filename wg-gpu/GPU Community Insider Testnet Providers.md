@@ -18,10 +18,12 @@ Please feel free to add information to this table once you have completed the Pr
 | Provider Name | Kind of GPUs | # of GPUs | Contact | Provider Address
 | --- | --- | --- | --- | --- |
 | e.g. COLO | A100 | 1 | TyWright | 
-| LUNA |  | 1 |  | Luna.go#9960
 | shimpa.org | nVidia RTX 3090 | 1 |  | akash143ypn84kuf379tv9wvcxsmamhj83d5pg2rfc8v
 | shimpa.org | nVidia RTX A2000 | 1 |  | akash143ypn84kuf379tv9wvcxsmamhj83d5pg2rfc8v
-|  | Tesla T4 | 2 |  | 
+| akashwebapp.xyz | Tesla T4 | 2 |  |  akash149yu3jzsg6nhkx2p3sjtuns78gqtt7ujlruy3s
+| akashtesting.xyz | A10G | 2 |  |  akash1dd8haxtdxjfykmf8zlflrwyp3frwc5c95z5ff8
+| testnet-02.aksh.pw | RTX A4000 | 1 |  |  akash1lt20m3w722lv7lxjgj9046zaq9krged6hd5dy2
+
 
 
 ## References
