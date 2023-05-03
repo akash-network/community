@@ -1,4 +1,4 @@
-# Client Libraries
+# Praetor - Web UI for Provider Onboarding
 
 [Praetor](https://praetorapp.com) provides an easy way to become a cloud provider for Akash Network. You can become a provider using a simplified UI rather than Command-line Interface. Once you become a cloud provider, and if the deployers choose your provider to deploy their application, they pay you in AKT.
 You can provide a single server or multiple servers using Praetor App. We support the following operating systems - Ubuntu, Debian, and CentOS.
