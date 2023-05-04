@@ -10,14 +10,14 @@ The Steering Committee is a special SIG that periodically evaluates the list of 
 
 ## Meetings
 
-Meetings happen every [Last Thursday of the Month](https://calendar.google.com/calendar/u/0?cid=Y18yNWU1ZTM3NDhlNGM0YWI3YTU1ZjQxZmJjNWViZWJjYzBhMDNiNDBmYjAyODc4NWYxNDE1OWJmYWViZWExMmUyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
-
-### Meeting #1 
+### Meetings usaully happen [on the last Thursday of each Month](https://calendar.google.com/calendar/u/0?cid=Y18yNWU1ZTM3NDhlNGM0YWI3YTU1ZjQxZmJjNWViZWJjYzBhMDNiNDBmYjAyODc4NWYxNDE1OWJmYWViZWExMmUyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
 | Time | Notes | Transcript | Recording
 | --- | --- | --- | --- |
 | Thursday, January 28, 2023 11:00 AM PT (Pacific Time) | [Link](meetings/001-2023-01-26.md) | [Link](meetings/001-2023-01-26.md#transcript) | [Link](https://2enqenxqycj4n5z5x5rcir63jecu4gi3bwlznldrswzemmqnanrq.arweave.net/0RsCNvDAk8b3Pb9iJEfbSQVOGRsNl5ascZWyRjINA2M)
 | Thursday, February 23, 2023 11:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/002-2023-02-23.md) | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/002-2023-02-23.md#transcript) | [Link](https://itizumwznjvmnc76rwwmatmahfdmiu4e62y2cb4yt4fqcvf4dq6q.arweave.net/RNGaMtlqasaL_o2swE2AOUbEU4T2saEHmJ8LAVS8HD0)
+| Tuesday, March 28, 2023 11:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/003-2023-03-28.md) | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/003-2023-03-28.md#transcript) | [Link](https://hnikzwcoj3nzztkcpgmllozmwxt5wl62h7cswhzzylm7ozoiy4za.arweave.net/O1Cs2E5O25zNQnmYtbsstefbL9o_xSsfOcLZ92XIxzI)
+| Thursday, May 04, 2023 11:00 AM PT (Pacific Time) |  |  | 
 
 ### Typical Agenda
 
