@@ -8,7 +8,7 @@ weight: 10
 
 ## Summary
 
-Akash Network and its community are focussed on the long-term goal of building a viable decentralized alternative to the large centralized public clouds. In the short-term, the community is focused on the needs of a subset of public cloud users that we think are most easily accessible to it and building features that make those users successful on Akash Network. Today these user groups are:
+Akash Network and its community are focused on the long-term goal of building a viable decentralized alternative to the large centralized public clouds. In the short-term, the community is focused on the needs of a subset of public cloud users that we think are most easily accessible to it and building features that make those users successful on Akash Network. Today these user groups are:
 
 - Users running nodes in public clouds, for proof-of-stake blockchains.
 - Users hosting websites on public clouds or PaaS solutions (like vercel or netlify) that rely on public clouds, and;
