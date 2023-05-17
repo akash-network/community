@@ -16,8 +16,8 @@ The Akash Hackathon Working Group is responsible for creating a Akash Hackathon 
 
 | Meeting | Time | Notes | Transcript | Recording
 | --- | --- | --- | --- | --- |
-| #1 | Wednesday, February 15, 2023, 11:30 AM PT (Pacific Time) | |  | 
-
+| #1 | Wednesday, February 15, 2023 11:30 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/wg-akash-hackathon/meetings/001-2023-02-15.md)  | [Link](https://github.com/akash-network/community/blob/main/wg-akash-hackathon/meetings/001-2023-02-15.md#Transcript)  | coming soon 
+| #2 | Friday, April 21, 2023 11:30 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/wg-akash-hackathon/meetings/002-2023-04-21.md)  | [Link](https://github.com/akash-network/community/blob/main/wg-akash-hackathon/meetings/002-2023-04-21.md#transcript)  | coming soon 
 
 ## Leads
 
