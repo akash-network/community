@@ -7,7 +7,8 @@ date: 2023-1-09T00:19:20-08:00
 
 ## Meetings
 
-- Meeting time TBD. [Join Discord to stay up to date.](https://discord.com/channels/747885925232672829/1068922143976464395/1068923732099334194)
+### The Second Wednesday of every month at 8am Pacific time. [Join Discord to stay up to date.](https://discord.com/channels/747885925232672829/1068922143976464395/1068923732099334194)
+
 - [Akash Community Group Calendar](https://calendar.google.com/calendar/u/0?cid=Y18yNWU1ZTM3NDhlNGM0YWI3YTU1ZjQxZmJjNWViZWJjYzBhMDNiNDBmYjAyODc4NWYxNDE1OWJmYWViZWExMmUyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
 
