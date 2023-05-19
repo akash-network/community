@@ -79,4 +79,4 @@ The goal of this SIG is to foster a community around each of these clients that 
 
 The following are projects and work-groups that sig-clients participates in or contributes to
 
-- [Client Libraries](wg-client-libraries)
+- [Client Libraries](../wg-client-libraries)
