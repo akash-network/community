@@ -32,10 +32,10 @@ Planned: May 29, 2023 through Jun 16, 2023
   - Provider Setup Task (Advanced)
   - AI Model SDL Builder Task (Intermediate)
 - Timeline & Incentives
-  - This phase will run for 3 weeks
-  - The last week of phase-1 will overlap with phase-2
-  - Incentive for completing task within first 2 weeks will be double that of doing so in the 3rd week (since phase-1 tasks feed into phase-2 so time is of essence)
-  - Incentive amounts will base based on task types
+  - This phase will run for 3 weeks.
+  - The last week of phase-1 will overlap with phase-2.
+  - Incentive for completing a task within first 2 weeks will be double that of doing so in the 3rd week (since phase-1 tasks feed into phase-2 so time is of essence).
+  - Incentive amounts will be based on task types.
 
 ### Phase-2  
 
@@ -65,17 +65,17 @@ There will be 4 task types, of varying incentives based on complexity
 ### Task-Type 1: Provider Setup Task (Advanced)
 
 - Participants would need to setup an Akash provider with:
-  - At least one Nvidia GPU
+  - GPU Providers must contain at least one Nvidia GPU.
   - GPU Providers can be “heterogenous” but GPU provider nodes should be “homegenous”. I.e no mixing of GPU models.
-  - At least 2 vCPUs
+  - GPU Provders at least 2 vCPUs
   - Off chip memory same or greater than the GPU on-chip memory.
   - The GPU should be one of the following Nvidia models: H100s, A100s, T4, V100, A10, A40, P4, K80, 4080s, 4090s, 3080s, 3090s.
   - Optionally (based on special request) RTX 2060, 2070, 2080, 2080Ti, GTX 1030, 1050, 1050Ti, 1060, 1070, 1070Ti, 1080, 1080Ti, 1630, 1650, 1660, 1660Ti.
   - Participants should follow the instructions documented in Akash documentation [here](https://docs.akash.network/other-resources/experimental/testnet/provider-build-with-gpu) for provider setup.
 - Participants can source the GPU from anywhere they like - could be their own, could be from a datacenter, could even be a cloud provider.
-- Participants may set up and manage kubernetes cluster using their preferred method
+- Participants may set up and manage kubernetes cluster using their preferred method.
 - Participants should report status of their efforts (like “done setting up K8s cluster, used my on prem infrastructure” and “provider ready for signing”) so that we can watch progress and benchmark the time it takes for the average user to set up a provider.
-- Participants are encouraged to provide feedback about the overall process (pain points, documentation issues, bugs, ideas for improvement etc)
+- Participants are encouraged to provide feedback about the overall process (pain points, documentation issues, bugs, ideas for improvement etc).
 - **Timeline**: Participants will be given 3 weeks to complete the task but the incentive for completing the task in the 2nd week will be 50% of the max (the first week incentive) and of completing in the 3rd week will be 25% of the max (the first week incentive).
 - **Incentive**: To be communicated soon but it will offset some portion of the cost of running the provider for the duration of the testnet.
 
@@ -98,9 +98,9 @@ There will be 4 task types, of varying incentives based on complexity
   - https://github.com/tensorflow/benchmarks (general framework)
   - https://github.com/tensorflow/benchmarks/tree/master/scripts/tf_cnn_benchmarks (old/ unsupported models but reference for set up)
   - https://github.com/tensorflow/models/tree/master/official (new/ supported models)
-- A task would consist of picking one of the models from https://github.com/tensorflow/models/tree/master/official and running it across multiple GPUs (sheet with combinations TBD)
-- Participants would run an instance of Jupyter Notebook on the specific Akash provider that has the GPU they plan to benchmark and then run the model and dataset using the Jupyter Notebook. Here is the SDL for running a Jupyter notebook https://github.com/akash-network/awesome-akash/blob/master/tensorflow-jupyter-mnist/deploy.yaml
-- Participants would report results in the format specified (TBD)
+- A task would consist of picking one of the models from https://github.com/tensorflow/models/tree/master/official and running it across multiple GPUs (sheet with combinations TBD).
+- Participants would run an instance of Jupyter Notebook on the specific Akash provider that has the GPU they plan to benchmark and then run the model and dataset using the Jupyter Notebook. Here is the SDL for running a [Jupyter notebook](https://github.com/akash-network/awesome-akash/blob/master/tensorflow-jupyter-mnist/deploy.yaml). 
+- Participants would report results in the format specified (TBD).
 - Participants are allowed to deploy a model that has already been tested and reported the maximum number (5) times but we will only award incentives to the first 5 successful, unique tests completed.
 - **Timeline**: Participants will be given 1 week to complete the task.
 - **Incentive**: Participants will receive xx AKT for completing the task and an additional xx AKT for sharing the deployment on social (Twitter, Linkedin and/ or YouTube)
