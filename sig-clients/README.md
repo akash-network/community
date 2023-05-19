@@ -37,7 +37,7 @@ The goal of this SIG is to foster a community around each of these clients that 
 | #2 | Wednesday, February 15, 2023 10:30 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/002-2023-02-15.md)  | [Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/002-2023-02-15.md#transcript) | [Link](https://xq5h5w5nnutwgjjn5bcr2asuge5yukenn3iqjf7xggqqt32sieca.arweave.net/vDp-261tJ2MlLehFHQJUMTuKKI1u0QSX9zGhCe9SQQQ)
 | #3 | Wednesday, March 15, 2023 10:30 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/003-2023-03-15.md)  | [Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/003-2023-03-15.md#transcript) | [Link](https://liubv4bbk44bj6eebql4th7szqza375tjmw5jcajheyvzkiu5m5q.arweave.net/Wiga8CFXOBT4hAwXyZ_yzDIN_7NLLdSICTkxXKkU6zs)
 | #4 | Wednesday, April 19, 2023 10:30 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/004-2023-04-19.md)  | [Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/004-2023-04-19.md#transcript) | [Link](https://flpgrlmt77pkodrrjhytoougl4aowcie2kxsoqy4zk4uavep7e7a.arweave.net/Kt5orZP_3qcOMUnxNzqGXwDrCQTSrydDHMq5QFSP-T4)
-| #5 | Wednesday, May 17, 2023 10:30 AM PT (Pacific Time) |   |  |
+| #5 | Wednesday, May 17, 2023 10:30 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/004-2023-05-17.md) |  |
 | #6 | Wednesday, June 21, 2023 10:30 AM PT (Pacific Time) |   |  |
 | #7 | Wednesday, July 19, 2023 10:30 AM PT (Pacific Time) |   |  |
 | #8 | Wednesday, August 16, 2023 10:30 AM PT (Pacific Time) |   |  |
@@ -79,4 +79,4 @@ The goal of this SIG is to foster a community around each of these clients that 
 
 The following are projects and work-groups that sig-clients participates in or contributes to
 
-- [Client Libraries](wg-cllient-libraries)
+- [Client Libraries](wg-client-libraries)
