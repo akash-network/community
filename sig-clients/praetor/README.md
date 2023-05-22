@@ -51,6 +51,14 @@ Deval Patel, Praetor Team (@devalpatel67)
     * Support existing EDU program participants and create new curriculums
 
 
+### May 17 Update
+* Become Akash provider using a newer and efficient helm method on a single server (New Providers)- Testing - early next week
+* Become Akash provider using a newer and efficient helm method for K8S Kubernetes Build with multiple servers (New Providers) - Testing - early next week
+* GPU support for testnet - In Development - Target Time - early next week
+* Migration for existing praetor providers from custom provider service to helm chart - In Development
+* PRDs for content moderation - In Development 
+
+
 ### PRDs
   * [Working Group - Content Moderation PRDs](../../wg-content-moderation/prd.md)
   * [Management API](../../wg-content-moderation/management-api.md)
