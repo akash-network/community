@@ -6,7 +6,7 @@ date: 2023-1-09T00:19:20-08:00
 # Akash Network - Documentation Special Interest Group (SIG)
 
 
-The goal of this SIG is to foster a community around the creation and maintenance of top-tier documentation to facilitate the growth of Akash Network by enabling greater understanding and clarity. Effective documentation will cater to the developer and the curious, driving deployemtns on Akash Network as a whole.
+The goal of this SIG is to foster a community around the creation and maintenance of top-tier documentation to facilitate the growth of Akash Network by enabling greater understanding and clarity. Effective documentation will cater to the developer and the curious, driving deployemnts on the Akash Network as a whole.
 
 ## Meetings
 
@@ -56,4 +56,5 @@ The goal of this SIG is to foster a community around the creation and maintenanc
 The following are projects and work-groups that sig-docs participates in or contributes to:
 
 - [Docs 2.0](https://github.com/akash-network/community/blob/main/sig-documentation/documentation-structure.md)
+- [Akash Website Working Group]
 
