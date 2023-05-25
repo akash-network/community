@@ -10,14 +10,24 @@ The Steering Committee is a special SIG that periodically evaluates the list of 
 
 ## Meetings
 
-### Meetings usaully happen [on the last Thursday of each Month](https://calendar.google.com/calendar/u/0?cid=Y18yNWU1ZTM3NDhlNGM0YWI3YTU1ZjQxZmJjNWViZWJjYzBhMDNiNDBmYjAyODc4NWYxNDE1OWJmYWViZWExMmUyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+### Meetings usaully happen [on the last Thursday of each Month at 11am Pacific Time](https://calendar.google.com/calendar/u/0?cid=Y18yNWU1ZTM3NDhlNGM0YWI3YTU1ZjQxZmJjNWViZWJjYzBhMDNiNDBmYjAyODc4NWYxNDE1OWJmYWViZWExMmUyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
 | Time | Notes | Transcript | Recording
 | --- | --- | --- | --- |
 | Thursday, January 28, 2023 11:00 AM PT (Pacific Time) | [Link](meetings/001-2023-01-26.md) | [Link](meetings/001-2023-01-26.md#transcript) | [Link](https://2enqenxqycj4n5z5x5rcir63jecu4gi3bwlznldrswzemmqnanrq.arweave.net/0RsCNvDAk8b3Pb9iJEfbSQVOGRsNl5ascZWyRjINA2M)
 | Thursday, February 23, 2023 11:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/002-2023-02-23.md) | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/002-2023-02-23.md#transcript) | [Link](https://itizumwznjvmnc76rwwmatmahfdmiu4e62y2cb4yt4fqcvf4dq6q.arweave.net/RNGaMtlqasaL_o2swE2AOUbEU4T2saEHmJ8LAVS8HD0)
 | Tuesday, March 28, 2023 11:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/003-2023-03-28.md) | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/003-2023-03-28.md#transcript) | [Link](https://hnikzwcoj3nzztkcpgmllozmwxt5wl62h7cswhzzylm7ozoiy4za.arweave.net/O1Cs2E5O25zNQnmYtbsstefbL9o_xSsfOcLZ92XIxzI)
-| Thursday, May 04, 2023 11:00 AM PT (Pacific Time) |  |  | 
+| Thursday, May 04, 2023 11:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/004-2023-05-04.md) | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/004-2023-05-04.md#transcript)  | [Link](https://mxbrl3erpoqav3rftxthzdsonor7b5k25zd3askk3fk5ke26fida.arweave.net/ZcMV7JF7oAruJZ3mfI5Oa6Pw9VruR7BJStlV1RNeKgY) 
+| Thursday, May 25, 2023 11:00 AM PT (Pacific Time) |   |  |
+| Thursday, June 29, 2023 11:00 AM PT (Pacific Time) |   |  |
+| Thursday, July 27, 2023 11:00 AM PT (Pacific Time) |   |  |
+| Thursday, August 31, 2023 11:00 AM PT (Pacific Time) |   |  |
+| Thursday, September 28, 2023 11:00 AM PT (Pacific Time) |   |  |
+| Thursday, October 26, 2024 11:00 AM PT (Pacific Time) |   |  |
+| Thursday, November 30, 2024 11:00 AM PT (Pacific Time) |   |  |
+| Thursday, December 28, 2023 11:00 AM PT (Pacific Time) |   |  |
+| Thursday, January 25, 2024 11:00 AM PT (Pacific Time) |   |  |
+| Thursday, February 29, 2024 11:00 AM PT (Pacific Time) |   |  |
 
 ### Typical Agenda
 
