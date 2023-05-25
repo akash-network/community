@@ -1,6 +1,6 @@
 # Akash Network - Incentivized Testnet for running AI workloads on GPU providers
 
-Tentative Timeline (may be delayed by a week): June 5, 2023 - June 23, 2023 
+Tentative Timeline (may be delayed by a week): June 5, 2023 through June 25, 2023 
 
 ## Goals
 
@@ -14,14 +14,14 @@ Tentative Timeline (may be delayed by a week): June 5, 2023 - June 23, 2023
 
 ## High Level Phased Plan
 
-The high level plan will have 2 phases, with phase-1 tasks setting things up for phase-2 tasks. The phases and tasks are detailed below and the incentives are detailed [here](https://docs.google.com/spreadsheets/d/1z_2Fx6u7U48LrxNj8IaDKjlnp84KOEgMb_hJw-Q1TjQ/edit#gid=2126550797)
+The high level plan will have 2 phases, with phase-1 tasks setting things up for phase-2 tasks. The phases and tasks are detailed below and the incentives are detailed [here](https://docs.google.com/spreadsheets/d/1z_2Fx6u7U48LrxNj8IaDKjlnp84KOEgMb_hJw-Q1TjQ/edit#gid=2126550797).
 
 ### Phase-1
 
-Planned: May 29, 2023 through Jun 16, 2023
+Planned: June 5, 2023 through June 25, 2023
 
 - Technical Level: Advanced
-  - Knowledge of kubernetes, docker containers, and basics of AI model deployment and inference
+  - Knowledge of kubernetes, docker containers, and basics of AI model deployment and inference.
   - Familiarity with Akash will help.
 - Goals:
   - Validate provider setup.
@@ -30,55 +30,56 @@ Planned: May 29, 2023 through Jun 16, 2023
 - Task Types:
   - Provider Setup Task (Advanced) - Task Type 1 below.
   - AI Model SDL Builder Task (Intermediate) - Task Type 2 below.
-  - In addition there will be bonus incentives for sharing your work on Twitter and YouTube as called out in tasks 5 & 6
+  - In addition there will be bonus incentives for sharing your work on Twitter and YouTube as called out in Task Types 5 & 6 below.
 - Timeline & Incentives
-  - This phase will run for 3 weeks
-  - The last week of phase-1 will overlap with phase-2
-  - Incentive for completing tasks earlier will be higher than those for completing them later during the testnet (since phase-1 tasks feed into phase-2, so time is of essence)
-  - Incentive amounts will base based on task types as described below and detailed [here](https://docs.google.com/spreadsheets/d/1z_2Fx6u7U48LrxNj8IaDKjlnp84KOEgMb_hJw-Q1TjQ/edit#gid=2126550797)
+  - This phase will run for 3 weeks.
+  - The last week of phase-1 will overlap with phase-2.
+  - Incentive for completing tasks earlier will be higher than those for completing them later during the testnet (since phase-1 tasks feed into phase-2, so time is of essence).
+  - Incentive amounts will base based on task types as described below and detailed [here](https://docs.google.com/spreadsheets/d/1z_2Fx6u7U48LrxNj8IaDKjlnp84KOEgMb_hJw-Q1TjQ/edit#gid=2126550797).
 
 ### Phase-2  
 
-Planned (may be delayed by a week): June 19, 2023 through June 23, 2023
+Planned (may be delayed by a week): June 19, 2023 through June 25, 2023
 
 - Technical Level: Intermediate to Advanced
-  - Familiarity with AI Model deployment and running inference
+  - Familiarity with AI Model deployment and running inference.
   - Familiarity with deploying workloads with SDL files using Akash Console or Cloudmos or Akash CLI will help.
 - Goals:
-  - Validate SDLs built by community for AI models
-  - Test deployment of AI models on to GPU providers
-  - Test deployment clients (Akash Console, Cloudmos, Akash CLI)
-  - Run and Benchmark GPUs using the Jupyter Notebook + Tensorflow + Standard Models
-  - Benchmark inference time for general AI Models
+  - Validate SDLs built by community for AI models.
+  - Test deployment of AI models on to GPU providers.
+  - Test deployment clients (Akash Console, Cloudmos, Akash CLI).
+  - Run and Benchmark GPUs using the Jupyter Notebook + Tensorflow + Standard Models.
+  - Benchmark inference time for general AI Models.
 - Task Types:
-  - AI Model Deployment Task (Intermediate)
-  - Tensorflow CNN benchmarking Task (Advanced)
-  - In addition there will be bonus incentives for sharing your work on Twitter and YouTube as called out in tasks 5 & 6
-- Timeline & Incentives
-  - This phase will run for 1 week and overlap the last week of phase-1
+  - Tensorflow CNN benchmarking Task (Advanced) - Task Type 3 below.
+  - AI Model Deployment Task (Intermediate) - Task Type 4 below.
+
+  - In addition there will be bonus incentives for sharing your work on Twitter and YouTube as called out in Task Types 5 & 6 below.
+- Timeline & Incentives:
+  - This phase will run for 1 week and overlap the last week of phase-1.
   - Incentives for completing it earlier in the week, will be higher than doing so later in the week.
-  - Specifics of timeline and incentives are called out in the individual tasks and detailed [here](https://docs.google.com/spreadsheets/d/1z_2Fx6u7U48LrxNj8IaDKjlnp84KOEgMb_hJw-Q1TjQ/edit#gid=2126550797)
+  - Specifics of timeline and incentives are called out in the individual tasks and detailed [here](https://docs.google.com/spreadsheets/d/1z_2Fx6u7U48LrxNj8IaDKjlnp84KOEgMb_hJw-Q1TjQ/edit#gid=2126550797).
 
 ## Tasks
 
-There will be 4 task types, of varying incentives based on complexity
+There will be 6 task types, with varying incentives based on the complexity of the task.
 
 ### Task Type 1: Provider Setup Task (Advanced)
 
 - Participants would need to setup an Akash provider with:
-  - At least one Nvidia GPU
+  - At least one Nvidia GPU.
   - GPU Providers can be “heterogenous” but GPU provider nodes should be “homegenous”. I.e no mixing of GPU models.
-  - At least 2 vCPUs
+  - At least 2 vCPUs.
   - Off chip memory same or greater than the GPU on-chip memory.
   - The GPU should be one of the following Nvidia models: H100s, A100s, T4, V100, A10, A40, P4, K80, 4080s, 4090s, 3080s, 3090s.
   - Optionally (based on special request/ approval) RTX 2060, 2070, 2080, 2080Ti, GTX 1030, 1050, 1050Ti, 1060, 1070, 1070Ti, 1080, 1080Ti, 1630, 1650, 1660, 1660Ti.
   - Participants should follow the instructions documented in Akash documentation [here](https://docs.akash.network/other-resources/experimental/testnet/provider-build-with-gpu) for provider setup.
 - Participants can source the GPU from anywhere they like - could be their own, could be from a datacenter, could even be a cloud provider.
-- Participants may set up and manage kubernetes cluster using their preferred method
+- Participants may set up and manage kubernetes cluster using their preferred method.
 - Participants should report status of their efforts (like “done setting up K8s cluster, used my on prem infrastructure” and “provider ready for signing”) so that we can watch progress and benchmark the time it takes for the average user to set up a provider.
-- Participants are encouraged to provide feedback about the overall process (pain points, documentation issues, bugs, ideas for improvement etc)
+- Participants are encouraged to provide feedback about the overall process (pain points, documentation issues, bugs, ideas for improvement etc).
 - **Timeline**: Participants will be given 3 weeks to complete the task but the incentive for completing the task in the 2nd week will be 50% of the max (the first week incentive) and of completing in the 3rd week will be 25% of the max (the first week incentive).
-- **Incentive**: As detailed [here](https://docs.google.com/spreadsheets/d/1z_2Fx6u7U48LrxNj8IaDKjlnp84KOEgMb_hJw-Q1TjQ/edit#gid=2126550797)
+- **Incentive**: As detailed [here](https://docs.google.com/spreadsheets/d/1z_2Fx6u7U48LrxNj8IaDKjlnp84KOEgMb_hJw-Q1TjQ/edit#gid=2126550797).
 
 ### Task Type 2: AI Model SDL Builder Task (Intermediate)
 
@@ -91,7 +92,7 @@ There will be 4 task types, of varying incentives based on complexity
 - Participants are encouraged to build SDLs for AI models from this google sheet that do not already have an SDL yaml file in the awesome-akash repository. If the participant already has a container image for some other AI model, not listed in this sheet, they are welcome to use that as well.
 - Participants must submit a PR into the awesome-akash repository and confirm deployment of the model on any of the available GPU providers and post log output and/ or screen recording of it. Participants are encouraged to share this on social media as well.
 - **Timeline**: Participants will be given 3 weeks to complete the task but the incentive for completing the task in the 2nd week will be 50% of the max (the first week incentive) and of completing in the 3rd week will be 25% of the max (the first week incentive).
-- **Incentive**: As detailed [here](https://docs.google.com/spreadsheets/d/1z_2Fx6u7U48LrxNj8IaDKjlnp84KOEgMb_hJw-Q1TjQ/edit#gid=2126550797)
+- **Incentive**: As detailed [here](https://docs.google.com/spreadsheets/d/1z_2Fx6u7U48LrxNj8IaDKjlnp84KOEgMb_hJw-Q1TjQ/edit#gid=2126550797).
 
 ### Task Type 3: TensorFlow CNN benchmarking Task (Advanced)
 
@@ -113,7 +114,7 @@ There will be 4 task types, of varying incentives based on complexity
 - Participants may use any preferred client (Akash Console, Cloudmos or Akash CLI) to complete the task.
 - Participants are encouraged to share their deployments on Twitter and YouTube and a limited number will receive an incentive as called out in Tasks 5 & 6 below.
 - **Timeline**: Participants will have 1 week to complete the task, in order to be eligible to receive reward, with rewards highest for those completing it on the first day of the week.
-- **Incentive**: As detailed [here](https://docs.google.com/spreadsheets/d/1z_2Fx6u7U48LrxNj8IaDKjlnp84KOEgMb_hJw-Q1TjQ/edit#gid=2126550797)
+- **Incentive**: As detailed [here](https://docs.google.com/spreadsheets/d/1z_2Fx6u7U48LrxNj8IaDKjlnp84KOEgMb_hJw-Q1TjQ/edit#gid=2126550797).
 
 ### Task Type 5: Education Task (Intermediate)
 
@@ -124,7 +125,7 @@ There will be 4 task types, of varying incentives based on complexity
 - Must demonstrate successful completion of the task (start to finish).
 - We will award the first 50 submissions that meet the above criteria. Video quality will be evaluated by the Akash Insider's group and the Overclock Core team, with ultimate discretion resting with the Overclocl Labs core team.
 - **Timeline**: This should be done before the end of the testnet, to be eligible for reward.
-- **Incentive**: As detailed [here](https://docs.google.com/spreadsheets/d/1z_2Fx6u7U48LrxNj8IaDKjlnp84KOEgMb_hJw-Q1TjQ/edit#gid=2126550797)
+- **Incentive**: As detailed [here](https://docs.google.com/spreadsheets/d/1z_2Fx6u7U48LrxNj8IaDKjlnp84KOEgMb_hJw-Q1TjQ/edit#gid=2126550797).
 
 ### Task Type 5: Social Sharing Task (Beginner)
 
