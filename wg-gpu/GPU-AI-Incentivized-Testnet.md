@@ -118,7 +118,7 @@ There will be 6 task types, with varying incentives based on the complexity of t
 
 ### Task Type 5: Education Task (Intermediate)
 
-- Participants who successfully complete any of the other (1-4) task types are encouraged to create an educational video of doing so, for the benefit of others. Doing so will make them eligible for an additional reward.
+- Participants who successfully complete any of the other (1-4) task types are encouraged to create an educational video of doing so, for the benefit of others. Completing this education task will make them eligible for an additional reward.
 - Video content must be in English.
 - Video content must be uploaded to YouTube.
 - Must be 720p quality or higher.
@@ -127,9 +127,9 @@ There will be 6 task types, with varying incentives based on the complexity of t
 - **Timeline**: This should be done before the end of the testnet, to be eligible for reward.
 - **Incentive**: As detailed [here](https://docs.google.com/spreadsheets/d/1z_2Fx6u7U48LrxNj8IaDKjlnp84KOEgMb_hJw-Q1TjQ/edit#gid=2126550797).
 
-### Task Type 5: Social Sharing Task (Beginner)
+### Task Type 6: Social Sharing Task (Beginner)
 
-- Participants who successfully complete any of the other (1-4) task types are encouraged to share their work on Social media (Twitter). Doing so will make them eligible for an additional reward.
+- Participants who successfully complete any of the other (1-4) task types are encouraged to share their work on Social media (Twitter). Completing this social sharing task will make them eligible for an additional reward.
 - Content must be in English.
 - Content must be uploaded shared on Twitter.
 - We will award the first 50 submissions that meet the above criteria. Video quality will be evaluated by the Akash Insider's group and the Overclock Core team, with ultimate discretion resting with the Overclocl Labs core team.
