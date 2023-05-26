@@ -87,8 +87,8 @@ There will be 6 task types, with varying incentives based on the complexity of t
   - https://github.com/akash-network/awesome-akash/tree/master/alpaca-cpp
   - https://github.com/akash-network/awesome-akash/tree/master/ai-chat-app
   - https://github.com/akash-network/awesome-akash/tree/master/stable-diffusion-ui
-- Additional documentation on how to build SDLs is located at https://docs.akash.network/readme/stack-definition-language andhttps://docs.akash.network/other-resources/experimental/testnet/provider-build-with-gpu/gpu-test-deployments#example-gpu-sdl.  
-- Participants are encouraged to deploy some existing SDLs from the awesome-akash repository using any deployment client (Console, Cloudmos or Akash CLI) to familiarize themselves with the process.
+- Additional documentation on how to build SDLs is located at https://docs.akash.network/readme/stack-definition-language and https://docs.akash.network/other-resources/experimental/testnet/provider-build-with-gpu/gpu-test-deployments#example-gpu-sdl.  
+- Participants are encouraged to deploy some existing SDLs from the awesome-akash repository using any deployment client (AKash Console, Cloudmos or Akash CLI) to familiarize themselves with the process.
 - Participants are encouraged to build SDLs for AI models from this google sheet that do not already have an SDL yaml file in the awesome-akash repository. If the participant already has a container image for some other AI model, not listed in this sheet, they are welcome to use that as well.
 - Participants must submit a PR into the awesome-akash repository and confirm deployment of the model on any of the available GPU providers and post log output and/ or screen recording of it. Participants are encouraged to share this on social media as well.
 - **Timeline**: Participants will be given 3 weeks to complete the task but the incentive for completing the task in the 2nd week will be 50% of the max (the first week incentive) and of completing in the 3rd week will be 25% of the max (the first week incentive).
@@ -110,7 +110,7 @@ There will be 6 task types, with varying incentives based on the complexity of t
 ### Task Type 4: AI Model Deployment Task (Intermediate)
 
 - Participants would pick models from the [models google sheet](https://docs.google.com/spreadsheets/d/1szqG16JMhodaKWX7YkT_gLeocgfiglssIsw5Xy-653Q/edit#gid=598527902).
-- For each model, they would attempt to deploy on any/ all available providers and record whether they succeeded or not
+- For each model, they would attempt to deploy on any/ all available providers and record whether they succeeded or not.
 - Participants may use any preferred client (Akash Console, Cloudmos or Akash CLI) to complete the task.
 - Participants are encouraged to share their deployments on Twitter and YouTube and a limited number will receive an incentive as called out in Tasks 5 & 6 below.
 - **Timeline**: Participants will have 1 week to complete the task, in order to be eligible to receive reward, with rewards highest for those completing it on the first day of the week.
@@ -118,12 +118,12 @@ There will be 6 task types, with varying incentives based on the complexity of t
 
 ### Task Type 5: Education Task (Intermediate)
 
-- Participants who successfully complete any of the other (1-4) task types are encouraged to create an educational video of doing so, for the benefit of others. Completing this education task will make them eligible for an additional reward.
+- Participants who successfully complete any of the first four tasks types (Task Type 1 - Task Type 4) are encouraged to create an educational video of themselves doing the respective task type, for the benefit of others. Complete this task to be eligible for an additional reward.
 - Video content must be in English.
 - Video content must be uploaded to YouTube.
 - Must be 720p quality or higher.
 - Must demonstrate successful completion of the task (start to finish).
-- We will award the first 50 submissions that meet the above criteria. Video quality will be evaluated by the Akash Insider's group and the Overclock Core team, with ultimate discretion resting with the Overclocl Labs core team.
+- The first 50 submissions that meet the above criteria will be rewarded. Video quality will be evaluated by the Akash Insider's group and the Overclock Core team, with ultimate discretion resting with the Overclock Labs core team.
 - **Timeline**: This should be done before the end of the testnet, to be eligible for reward.
 - **Incentive**: As detailed [here](https://docs.google.com/spreadsheets/d/1z_2Fx6u7U48LrxNj8IaDKjlnp84KOEgMb_hJw-Q1TjQ/edit#gid=2126550797).
 
@@ -132,4 +132,4 @@ There will be 6 task types, with varying incentives based on the complexity of t
 - Participants who successfully complete any of the other (1-4) task types are encouraged to share their work on Social media (Twitter). Completing this social sharing task will make them eligible for an additional reward.
 - Content must be in English.
 - Content must be uploaded shared on Twitter.
-- We will award the first 50 submissions that meet the above criteria. Video quality will be evaluated by the Akash Insider's group and the Overclock Core team, with ultimate discretion resting with the Overclocl Labs core team.
+- The first 50 submissions that meet the above criteria will be rewarded. Video quality will be evaluated by the Akash Insider's group and the Overclock Core team, with ultimate discretion resting with the Overclock Labs core team.
