@@ -131,5 +131,5 @@ There will be 6 task types, with varying incentives based on the complexity of t
 
 - Participants who successfully complete any of the other (1-4) task types are encouraged to share their work on Social media (Twitter). Completing this social sharing task will make them eligible for an additional reward.
 - Content must be in English.
-- Content must be uploaded shared on Twitter.
+- Content must be shared on Twitter, and must tag @akashnet_.
 - The first 50 submissions that meet the above criteria will be rewarded. Video quality will be evaluated by the Akash Insider's group and the Overclock Core team, with ultimate discretion resting with the Overclock Labs core team.
