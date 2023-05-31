@@ -71,7 +71,7 @@ There will be 6 task types, with varying incentives based on the complexity of t
   - GPU Providers can be “heterogenous” but GPU provider nodes should be “homegenous”. I.e no mixing of GPU models.
   - At least 2 vCPUs.
   - Off chip memory same or greater than the GPU on-chip memory.
-  - The GPU should be one of the following Nvidia models: H100s, A100s, T4, V100, A10, A40, P4, K80, 4080s, 4090s, 3080s, 3090s.
+  - The GPU should be one of the following Nvidia models: H100, A100, V100, P100, A40, A10, P4, K80, T4, 4090, 4080, 3090Ti, 3090, 3080Ti, 3080, 3060Ti.
   - Optionally (based on special request/ approval) RTX 2060, 2070, 2080, 2080Ti, GTX 1030, 1050, 1050Ti, 1060, 1070, 1070Ti, 1080, 1080Ti, 1630, 1650, 1660, 1660Ti.
   - Participants should follow the instructions documented in Akash documentation [here](https://docs.akash.network/other-resources/experimental/testnet/provider-build-with-gpu) for provider setup.
 - Participants can source the GPU from anywhere they like - could be their own, could be from a datacenter, could even be a cloud provider.
