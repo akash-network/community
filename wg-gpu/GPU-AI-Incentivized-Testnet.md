@@ -1,6 +1,6 @@
 # Akash Network - Incentivized Testnet for running AI workloads on GPU providers
 
-Tentative Timeline (may be delayed by a week): June 5, 2023 through June 25, 2023 
+Tentative Timeline (may be delayed by a week): June 12, 2023 through July 3, 2023 
 
 ## Goals
 
@@ -18,7 +18,7 @@ The high level plan will have 2 phases, with phase-1 tasks setting things up for
 
 ### Phase-1
 
-Planned: June 5, 2023 through June 25, 2023
+Planned: June 12, 2023 through July 3, 2023
 
 - Technical Level: Advanced
   - Knowledge of kubernetes, docker containers, and basics of AI model deployment and inference.
@@ -39,7 +39,7 @@ Planned: June 5, 2023 through June 25, 2023
 
 ### Phase-2  
 
-Planned (may be delayed by a week): June 19, 2023 through June 25, 2023
+Planned (may be delayed by a week): June 26, 2023 through July 3, 2023
 
 - Technical Level: Intermediate to Advanced
   - Familiarity with AI Model deployment and running inference.
