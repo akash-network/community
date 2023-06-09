@@ -83,7 +83,7 @@ There will be 6 task types, with varying incentives based on the complexity of t
   - Timestamp of successful build: The time that the form was submitted will be used for this.
 - The Overclock Labs team and Akash community will also verify that the provider was running for the entire duration of the testnet, while determining eligibility for the reward.
 - **Timeline**: Participants will be given 3 weeks to complete the task but the incentive for completing the task in the 2nd week will be 50% of the max (the first week incentive) and of completing in the 3rd week will be 25% of the max (the first week incentive).
-- **Incentive**: As detailed [here](https://docs.google.com/spreadsheets/d/1z_2Fx6u7U48LrxNj8IaDKjlnp84KOEgMb_hJw-Q1TjQ/edit#gid=2126550797).
+- **Incentive**: As detailed [here](https://docs.google.com/spreadsheets/d/1z_2Fx6u7U48LrxNj8IaDKjlnp84KOEgMb_hJw-Q1TjQ/edit#gid=2126550797). Note that Overclock Labs will be incentivizing a total of 30 GPUs of which at least 10 must be "Data Center Grade" GPUs (H100, A100, V100, P100, A40, A10, P4, K80, T4).
 
 ### Task Type 2: AI Model SDL Builder Task (Intermediate)
 
