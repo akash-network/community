@@ -94,14 +94,15 @@ There will be 6 task types, with varying incentives based on the complexity of t
 - **Timeline**: Participants will be given 3 weeks to complete the task but the incentive for completing the task in the 2nd week will be 50% of the max (the first week incentive) and of completing in the 3rd week will be 25% of the max (the first week incentive).
 - **Incentive**: As detailed [here](https://docs.google.com/spreadsheets/d/1z_2Fx6u7U48LrxNj8IaDKjlnp84KOEgMb_hJw-Q1TjQ/edit#gid=2126550797).
 
-### Task Type 3: Pytorch (Torchbench) benchmarking Task (Advanced)
+### Task Type 3: TensorFlow CNN benchmarking Task (Advanced)
 
-- Participants would run Torchbench benchmark tests on Akash GPUs:
-  - https://github.com/pytorch/benchmark/tree/main (general framework).
-  - https://github.com/alexeigor/sd-benchmarks (benchmarks).
-  - https://github.com/pytorch/benchmark/tree/main/torchbenchmark/models (models).
-- A task would consist of picking one of the models from https://github.com/pytorch/benchmark/tree/main/torchbenchmark/models and running it across multiple GPUs (sheet with combinations TBD).
-- SDL for deplying the model will be built in phase-1 of the testnet (e.g https://github.com/akash-network/awesome-akash/issues/387)
+- Participants would run the TensorFlow(TF) benchmark tests on Akash GPUs:
+  - https://github.com/tensorflow/benchmarks (general framework).
+  - https://github.com/tensorflow/benchmarks/tree/master/scripts/tf_cnn_benchmarks (old/ unsupported models but reference for set up).
+  - https://github.com/tensorflow/models/tree/master/official (new/ supported models).
+- A task would consist of picking one of the models from https://github.com/tensorflow/models/tree/master/official and running it across multiple GPUs (sheet with combinations TBD).
+- Participants would run an instance of Jupyter Notebook on the specific Akash provider that has the GPU they plan to benchmark and then run the model and dataset using the Jupyter Notebook. Here is the SDL for running a Jupyter notebook https://github.com/akash-network/awesome-akash/blob/master/tensorflow-jupyter-mnist/deploy.yaml.
+- Participants would report results in the format specified (TBD).
 - Participants are allowed to deploy a model that has already been tested and reported the maximum number (5) times but we will only award incentives to the first 5 successful, unique tests completed.
 - **Timeline**: Participants will have 1 week to complete the task, in order to be eligible to receive reward, with rewards highest for those completing it on the first day of the week.
 - **Incentive**: As detailed [here](https://docs.google.com/spreadsheets/d/1z_2Fx6u7U48LrxNj8IaDKjlnp84KOEgMb_hJw-Q1TjQ/edit#gid=2126550797)
