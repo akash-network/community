@@ -18,7 +18,7 @@ The Steering Committee is a special SIG that periodically evaluates the list of 
 | Thursday, February 23, 2023 11:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/002-2023-02-23.md) | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/002-2023-02-23.md#transcript) | [Link](https://itizumwznjvmnc76rwwmatmahfdmiu4e62y2cb4yt4fqcvf4dq6q.arweave.net/RNGaMtlqasaL_o2swE2AOUbEU4T2saEHmJ8LAVS8HD0)
 | Tuesday, March 28, 2023 11:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/003-2023-03-28.md) | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/003-2023-03-28.md#transcript) | [Link](https://hnikzwcoj3nzztkcpgmllozmwxt5wl62h7cswhzzylm7ozoiy4za.arweave.net/O1Cs2E5O25zNQnmYtbsstefbL9o_xSsfOcLZ92XIxzI)
 | Thursday, May 04, 2023 11:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/004-2023-05-04.md) | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/004-2023-05-04.md#transcript)  | [Link](https://mxbrl3erpoqav3rftxthzdsonor7b5k25zd3askk3fk5ke26fida.arweave.net/ZcMV7JF7oAruJZ3mfI5Oa6Pw9VruR7BJStlV1RNeKgY) 
-| Thursday, May 25, 2023 11:00 AM PT (Pacific Time) |   |  |
+| Thursday, May 25, 2023 11:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/005-2023-05-25.md)   | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/005-2023-05-25.md#transcript) | [Link](https://gx6ojxwsudf2y42om4rpsotbbyd2iluasgkfrudrr4b6ktdirxvq.arweave.net/Nfzk3tKgy6xzTmci-TphDgekLoCRlFjQcY8D5Uxojes)
 | Thursday, June 29, 2023 11:00 AM PT (Pacific Time) |   |  |
 | Thursday, July 27, 2023 11:00 AM PT (Pacific Time) |   |  |
 | Thursday, August 31, 2023 11:00 AM PT (Pacific Time) |   |  |
@@ -33,6 +33,7 @@ The Steering Committee is a special SIG that periodically evaluates the list of 
 
 - Review/ discuss/ address any community feedback, greviances or conflicts
 - Review [projects list](../projects-list/README.md), prioritize/ add/ remove if necessary
+- Review any new [Github Discussions](https://github.com/orgs/akash-network/discussions)
 - Open up to any other questions from the participants
 
 ## Leadership
