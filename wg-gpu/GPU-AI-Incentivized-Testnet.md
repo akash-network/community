@@ -92,14 +92,14 @@ There will be 6 task types, with varying incentives based on the complexity of t
   - https://github.com/akash-network/awesome-akash/tree/master/ai-chat-app
   - https://github.com/akash-network/awesome-akash/tree/master/stable-diffusion-ui
 - Additional documentation on how to build SDLs is located at https://docs.akash.network/readme/stack-definition-language and https://docs.akash.network/other-resources/experimental/testnet/provider-build-with-gpu/gpu-test-deployments#example-gpu-sdl.  
-- Participants are encouraged to deploy some existing SDLs from the awesome-akash repository using any deployment client (AKash Console, Cloudmos or Akash CLI) to familiarize themselves with the process.
-- Participants are encouraged to build SDLs for AI models from this google sheet that do not already have an SDL yaml file in the awesome-akash repository. If the participant already has a container image for some other AI model, not listed in this sheet, they are welcome to use that as well.
+- Participants are encouraged to deploy some existing SDLs from the awesome-akash repository using any deployment client (Akash Console, Cloudmos or Akash CLI) to familiarize themselves with the process.
+- Participants are encouraged to build SDLs for AI models from this google sheet that do not already have an SDL yaml file in the awesome-akash repository. If the participant already has a container image for some other AI model, not listed in this [sheet](https://docs.google.com/spreadsheets/d/1szqG16JMhodaKWX7YkT_gLeocgfiglssIsw5Xy-653Q/edit#gid=598527902), they are welcome to use that as well.
 - Participants must submit a PR into the awesome-akash repository and confirm deployment of the model on any of the available GPU providers and post log output and/ or screen recording of it. Participants are encouraged to share this on social media as well.
 - Participants will be required to submit a typeform form when they complete the challenge. Challenge submission form will require:
-  - Screen shot of successully deploying the SDL on to a provider.
-  - URL of a sample deployment.
+  - Link to PR submitted to awesome-akash repository.
+  - URL that links to a web interface or a CuRL posts of a prompt the AI model will act on.
   - Timestamp of submission: The form submission timestamp will be used for this.
-- **Timeline**: Participants will be given 3 weeks to complete the task but the incentive for completing the task in the 2nd week will be 50% of the max (the first week incentive) and of completing in the 3rd week will be 25% of the max (the first week incentive).
+- **Timeline**: Participants will be given 2 weeks to complete the task but the incentive for completing the task in the 2nd week will be 50% of the max (the first week incentive).
 - **Incentive**: As detailed [here](https://docs.google.com/spreadsheets/d/1z_2Fx6u7U48LrxNj8IaDKjlnp84KOEgMb_hJw-Q1TjQ/edit#gid=2126550797).
 
 ### Task Type 3: TensorFlow CNN benchmarking Task (Advanced)
