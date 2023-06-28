@@ -21,6 +21,7 @@ Please feel free to add information to this table once you have completed the Pr
 | akashwebapp.xyz | Tesla T4 | 2 |  |  akash149yu3jzsg6nhkx2p3sjtuns78gqtt7ujlruy3s
 | akashtesting.xyz | A10G | 2 |  |  akash1dd8haxtdxjfykmf8zlflrwyp3frwc5c95z5ff8
 | testnet-02.aksh.pw | RTX A4000 | 1 |  |  akash1lt20m3w722lv7lxjgj9046zaq9krged6hd5dy2
+| nokx.com.hk | RTX 4090 | 1 | Discord: chrisleunglsn | akash1uuvm9mn3ndp43jrpuphd83xj7va4pcp4csdn2z
 
 
 
