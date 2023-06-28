@@ -1,6 +1,6 @@
 # Akash Network - Incentivized Testnet for running AI workloads on GPU providers
 
-Tentative Timeline (may be delayed by a week): June 12, 2023 through July 3, 2023 
+Tentative Timeline (may be delayed by a week): June 20, 2023 to July 11, 2023 
 
 ## Goals
 
@@ -18,7 +18,7 @@ The high level plan will have 2 phases, with phase-1 tasks setting things up for
 
 ### Phase-1
 
-Planned: June 12, 2023 through July 3, 2023
+Planned: June 20, 2023 to July 11, 2023
 
 - Technical Level: Advanced
   - Knowledge of kubernetes, docker containers, and basics of AI model deployment and inference.
@@ -39,7 +39,7 @@ Planned: June 12, 2023 through July 3, 2023
 
 ### Phase-2  
 
-Planned (may be delayed by a week): June 26, 2023 through July 3, 2023
+Planned (may be delayed by a week): July 5, 2023 to July 11, 2023
 
 - Technical Level: Intermediate to Advanced
   - Familiarity with AI Model deployment and running inference.
@@ -78,8 +78,12 @@ There will be 6 task types, with varying incentives based on the complexity of t
 - Participants may set up and manage kubernetes cluster using their preferred method.
 - Participants should report status of their efforts (like “done setting up K8s cluster, used my on prem infrastructure” and “provider ready for signing”) so that we can watch progress and benchmark the time it takes for the average user to set up a provider.
 - Participants are encouraged to provide feedback about the overall process (pain points, documentation issues, bugs, ideas for improvement etc).
+- Participants will be required to submit a typeform form when they complete the challenge. Challenge submission form will require:
+  - Screen shot of a deployment on the provider and with the logs pane shown in the screen shot.  We will supply a SDL that must be used for this first deployment and that SDL will log their GPU type.
+  - Timestamp of successful build: The time that the form was submitted will be used for this.
+- The Overclock Labs team and Akash community will also verify that the provider was running for the entire duration of the testnet, while determining eligibility for the reward.
 - **Timeline**: Participants will be given 3 weeks to complete the task but the incentive for completing the task in the 2nd week will be 50% of the max (the first week incentive) and of completing in the 3rd week will be 25% of the max (the first week incentive).
-- **Incentive**: As detailed [here](https://docs.google.com/spreadsheets/d/1z_2Fx6u7U48LrxNj8IaDKjlnp84KOEgMb_hJw-Q1TjQ/edit#gid=2126550797).
+- **Incentive**: As detailed [here](https://docs.google.com/spreadsheets/d/1z_2Fx6u7U48LrxNj8IaDKjlnp84KOEgMb_hJw-Q1TjQ/edit#gid=2126550797). Note that Overclock Labs will be incentivizing a total of 30 GPUs of which at least 10 must be "Data Center Grade" GPUs (H100, A100, V100, P100, A40, A10, P4, K80, T4).
 
 ### Task Type 2: AI Model SDL Builder Task (Intermediate)
 
@@ -88,21 +92,30 @@ There will be 6 task types, with varying incentives based on the complexity of t
   - https://github.com/akash-network/awesome-akash/tree/master/ai-chat-app
   - https://github.com/akash-network/awesome-akash/tree/master/stable-diffusion-ui
 - Additional documentation on how to build SDLs is located at https://docs.akash.network/readme/stack-definition-language and https://docs.akash.network/other-resources/experimental/testnet/provider-build-with-gpu/gpu-test-deployments#example-gpu-sdl.  
-- Participants are encouraged to deploy some existing SDLs from the awesome-akash repository using any deployment client (AKash Console, Cloudmos or Akash CLI) to familiarize themselves with the process.
-- Participants are encouraged to build SDLs for AI models from this google sheet that do not already have an SDL yaml file in the awesome-akash repository. If the participant already has a container image for some other AI model, not listed in this sheet, they are welcome to use that as well.
-- Participants must submit a PR into the awesome-akash repository and confirm deployment of the model on any of the available GPU providers and post log output and/ or screen recording of it. Participants are encouraged to share this on social media as well.
-- **Timeline**: Participants will be given 3 weeks to complete the task but the incentive for completing the task in the 2nd week will be 50% of the max (the first week incentive) and of completing in the 3rd week will be 25% of the max (the first week incentive).
+- Participants are encouraged to deploy some existing SDLs from the awesome-akash repository using any deployment client (Akash Console, Cloudmos or Akash CLI) to familiarize themselves with the process.
+- Participants are encouraged to build SDLs for AI models from this google sheet that do not already have an SDL yaml file in the awesome-akash repository. If the participant already has a container image for some other AI model, not listed in this [sheet](https://docs.google.com/spreadsheets/d/1szqG16JMhodaKWX7YkT_gLeocgfiglssIsw5Xy-653Q/edit#gid=598527902), they are welcome to use that as well.
+- Participants must submit a PR into the awesome-akash repository, and confirm deployment of the model on any of the available GPU providers and post log output and/ or screen recording of it. The SDL needs to inlcude a user interace (UI), so once deployed, users can interact with the model. Participants are encouraged to share this on social media as well.
+  - Detailed description including model deployed and requirements for the model.
+  - PR must include a video of a web interface with a prompt that the AI model will act on.
+  - PLEASE TEARDOWN DEPLOYMENT AFTER VIDEO IS CREATED.
+- Participants will be required to submit a typeform form when they complete the challenge. Challenge submission form will require:
+  - Link to PR submitted to awesome-akash repository.
+  - Timestamp of submission: The form submission timestamp will be used for this.
+- **Timeline**: Participants will be given 2 weeks to complete the task but the incentive for completing the task in the 2nd week will be 50% of the max (the first week incentive).
 - **Incentive**: As detailed [here](https://docs.google.com/spreadsheets/d/1z_2Fx6u7U48LrxNj8IaDKjlnp84KOEgMb_hJw-Q1TjQ/edit#gid=2126550797).
 
-### Task Type 3: TensorFlow CNN benchmarking Task (Advanced)
+### Task Type 3: Pytorch/ TensorFlow CNN benchmarking Task (Advanced)
 
-- Participants would run the TensorFlow(TF) benchmark tests on Akash GPUs:
-  - https://github.com/tensorflow/benchmarks (general framework).
-  - https://github.com/tensorflow/benchmarks/tree/master/scripts/tf_cnn_benchmarks (old/ unsupported models but reference for set up).
-  - https://github.com/tensorflow/models/tree/master/official (new/ supported models).
-- A task would consist of picking one of the models from https://github.com/tensorflow/models/tree/master/official and running it across multiple GPUs (sheet with combinations TBD).
-- Participants would run an instance of Jupyter Notebook on the specific Akash provider that has the GPU they plan to benchmark and then run the model and dataset using the Jupyter Notebook. Here is the SDL for running a Jupyter notebook https://github.com/akash-network/awesome-akash/blob/master/tensorflow-jupyter-mnist/deploy.yaml.
-- Participants would report results in the format specified (TBD).
+- Participants would run benchmark tests on Akash GPUs, using either Pytorch or TensorFlow(TF) :
+  - Pytorch Reference:
+    - https://github.com/pytorch/benchmark/tree/main (general framework)
+    - https://github.com/pytorch/benchmark/tree/main/torchbenchmark/models(supported models).
+  - TensorFlow Reference:
+    - https://github.com/tensorflow/benchmarks (general framework).
+    - https://github.com/tensorflow/benchmarks/tree/master/scripts/tf_cnn_benchmarks (old/ unsupported models but reference for set up).
+    - https://github.com/tensorflow/models/tree/master/official (new/ supported models).
+    - A task would consist of picking one of the models from https://github.com/tensorflow/models/tree/master/official and running it across multiple GPUs (sheet with combinations TBD).
+    - Participants would run an instance of Jupyter Notebook on the specific Akash provider that has the GPU they plan to benchmark and then run the model and dataset using the Jupyter Notebook. Here is an SDL for running a Jupyter notebook https://github.com/akash-network/awesome-akash/blob/master/tensorflow-jupyter-mnist/deploy.yaml. We also have another in the works for Pytorch https://github.com/akash-network/awesome-akash/pull/388
 - Participants are allowed to deploy a model that has already been tested and reported the maximum number (5) times but we will only award incentives to the first 5 successful, unique tests completed.
 - **Timeline**: Participants will have 1 week to complete the task, in order to be eligible to receive reward, with rewards highest for those completing it on the first day of the week.
 - **Incentive**: As detailed [here](https://docs.google.com/spreadsheets/d/1z_2Fx6u7U48LrxNj8IaDKjlnp84KOEgMb_hJw-Q1TjQ/edit#gid=2126550797)
@@ -113,6 +126,10 @@ There will be 6 task types, with varying incentives based on the complexity of t
 - For each model, they would attempt to deploy on any/ all available providers and record whether they succeeded or not.
 - Participants may use any preferred client (Akash Console, Cloudmos or Akash CLI) to complete the task.
 - Participants are encouraged to share their deployments on Twitter and YouTube and a limited number will receive an incentive as called out in Tasks 5 & 6 below.
+- Participants will be required to submit a typeform form when they complete the challenge. Challenge submission form will require:
+  - Screen shot of successully deploying the SDL on to a provider.
+  - URL of a sample deployment.
+  - Timestamp of submission: The form submission timestamp will be used for this.
 - **Timeline**: Participants will have 1 week to complete the task, in order to be eligible to receive reward, with rewards highest for those completing it on the first day of the week.
 - **Incentive**: As detailed [here](https://docs.google.com/spreadsheets/d/1z_2Fx6u7U48LrxNj8IaDKjlnp84KOEgMb_hJw-Q1TjQ/edit#gid=2126550797).
 
