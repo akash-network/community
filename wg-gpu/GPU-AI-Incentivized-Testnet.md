@@ -104,7 +104,7 @@ There will be 6 task types, with varying incentives based on the complexity of t
 - **Timeline**: Participants will be given 2 weeks to complete the task but the incentive for completing the task in the 2nd week will be 50% of the max (the first week incentive).
 - **Incentive**: As detailed [here](https://docs.google.com/spreadsheets/d/1z_2Fx6u7U48LrxNj8IaDKjlnp84KOEgMb_hJw-Q1TjQ/edit#gid=2126550797).
 
-### Task Type 3: Pytorch/ TensorFlow CNN benchmarking Task (Advanced)
+### Task Type 3: Pytorch / TensorFlow CNN benchmarking Task (Advanced)
 
 - Participants would run benchmark tests on Akash GPUs, using either Pytorch or TensorFlow(TF) :
   - Pytorch Reference:
@@ -114,23 +114,26 @@ There will be 6 task types, with varying incentives based on the complexity of t
     - https://github.com/tensorflow/benchmarks (general framework).
     - https://github.com/tensorflow/benchmarks/tree/master/scripts/tf_cnn_benchmarks (old/ unsupported models but reference for set up).
     - https://github.com/tensorflow/models/tree/master/official (new/ supported models).
+      
     - A task would consist of picking one of the models from https://github.com/tensorflow/models/tree/master/official and running it across multiple GPUs (sheet with combinations TBD).
     - Participants would run an instance of Jupyter Notebook on the specific Akash provider that has the GPU they plan to benchmark and then run the model and dataset using the Jupyter Notebook. Here is an SDL for running a Jupyter notebook https://github.com/akash-network/awesome-akash/blob/master/tensorflow-jupyter-mnist/deploy.yaml. We also have another in the works for Pytorch https://github.com/akash-network/awesome-akash/pull/388
-- Participants are allowed to deploy a model that has already been tested and reported the maximum number (5) times but we will only award incentives to the first 5 successful, unique tests completed.
-- **Timeline**: Participants will have 1 week to complete the task, in order to be eligible to receive reward, with rewards highest for those completing it on the first day of the week.
+
+- **Timeline**: Participants will have ***6*** days to complete the task, in order to be eligible to receive reward, with rewards highest for those completing it on the first day of the week.
 - **Incentive**: As detailed [here](https://docs.google.com/spreadsheets/d/1z_2Fx6u7U48LrxNj8IaDKjlnp84KOEgMb_hJw-Q1TjQ/edit#gid=2126550797)
+  - Participants are allowed to deploy a model that has already been tested and reported the maximum number (5) times but we will only award incentives to the first 5 successful, unique tests completed.
 
 ### Task Type 4: AI Model Deployment Task (Intermediate)
 
-- Participants would pick models from the [models google sheet](https://docs.google.com/spreadsheets/d/1szqG16JMhodaKWX7YkT_gLeocgfiglssIsw5Xy-653Q/edit#gid=598527902).
-- For each model, they would attempt to deploy on any/ all available providers and record whether they succeeded or not.
+- Participants would pick models from the [awesome-akash]((https://github.com/akash-network/awesome-akash)).
+- For each model, they would attempt to deploy on any ***3*** different available providers.
 - Participants may use any preferred client (Akash Console, Cloudmos or Akash CLI) to complete the task.
 - Participants are encouraged to share their deployments on Twitter and YouTube and a limited number will receive an incentive as called out in Tasks 5 & 6 below.
 - Participants will be required to submit a typeform form when they complete the challenge. Challenge submission form will require:
-  - Screen shot of successully deploying the SDL on to a provider.
-  - URL of a sample deployment.
+  - Screenshots of successully deploying the SDL on to a provider.
+  - DSeqs for each of the deployment.
+  - Deployer wallet address.
   - Timestamp of submission: The form submission timestamp will be used for this.
-- **Timeline**: Participants will have 1 week to complete the task, in order to be eligible to receive reward, with rewards highest for those completing it on the first day of the week.
+- **Timeline**: Participants will have ***6*** days to complete the task, in order to be eligible to receive reward, with rewards highest for those completing it on the first day of the week.
 - **Incentive**: As detailed [here](https://docs.google.com/spreadsheets/d/1z_2Fx6u7U48LrxNj8IaDKjlnp84KOEgMb_hJw-Q1TjQ/edit#gid=2126550797).
 
 ### Task Type 5: Education Task (Intermediate)
