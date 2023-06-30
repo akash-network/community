@@ -124,7 +124,7 @@ There will be 6 task types, with varying incentives based on the complexity of t
 
 ### Task Type 4: AI Model Deployment Task (Intermediate)
 
-- Participants would pick models from the [awesome-akash]((https://github.com/akash-network/awesome-akash)).
+- Participants would pick models from [awesome-akash](https://github.com/akash-network/awesome-akash#ai).
 - For each model, they would attempt to deploy on any ***3*** different available providers.
 - Participants may use any preferred client (Akash Console, Cloudmos or Akash CLI) to complete the task.
 - Participants are encouraged to share their deployments on Twitter and YouTube and a limited number will receive an incentive as called out in Tasks 5 & 6 below.
