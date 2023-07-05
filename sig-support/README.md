@@ -22,11 +22,14 @@ sig-support is responsible for defining mechanics of how support works at Akash 
 | #4 | Wed, March 15, 2023 09:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/004-2023-03-15.md) | [Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/004-2023-03-15.md#transcript)  | [Link](https://tfn3d5ugftenriej2hhfsb7jmvtmnq6x2zubkej4kszlhlfrcewq.arweave.net/mVux9oYsyNigidHOWQfpZWbGw9fWaBURPFSys6yxES0)
 | #5 | Wed, March 29, 2023 09:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/005-2023-03-29.md) | [Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/005-2023-03-29.md#transcript)  | [Link](https://ohlut63mxbhywo3hffma4vvpprc64zcvy5pwno42vcroi3khpv2a.arweave.net/cddJ-2y4T4s7ZylYDlavfEXuZFXHX2a7mqii5G1HfXQ)
 | #6 | Wed, April 12, 2023 09:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/006-2023-04-12.md) | [Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/006-2023-04-12.md#transcript)  | [Link](https://wbwmlab3uqkothktm2o42zqr4abntstjdhvrn7rpbgzygkizl7na.arweave.net/sGzFgDukFOmdU2adzWYR4ALZymkZ6xb-LwmzgykZX9o)
-| #7 | Wed, April 26, 2023 09:00 AM PT (Pacific Time) |  |   | 
+| #7 | Wed, April 26, 2023 09:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/007-2023-04-26.md)  | [Link](   | [Link](https://efvuna3soa42tqhubsb2oafldxil4uuxzqdkb4s7ox4slpwlo4lq.arweave.net/IWtGg3JwOanA9AyDpwCrHdC-UpfMBqDyX3X5Jb7Ldxc)
 | #8 | Wed, May 10, 2023 09:00 AM PT (Pacific Time) |  |   | 
 | #9 | Wed, May 24, 2023 09:00 AM PT (Pacific Time) |  |   | 
 | #10 | Wed, June 07, 2023 09:00 AM PT (Pacific Time) |  |   | 
 | #11 | Wed, June 21, 2023 09:00 AM PT (Pacific Time) |  |   | 
+| #12 | Wed, July 05, 2023 09:00 AM PT (Pacific Time) |  |   |
+| #13 | Wed, July 19, 2023 09:00 AM PT (Pacific Time) |  |   |
+| #14 | Wed, August 02, 2023 09:00 AM PT (Pacific Time) |  |   |
 
 
 
