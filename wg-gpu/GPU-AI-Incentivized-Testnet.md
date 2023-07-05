@@ -107,13 +107,14 @@ There will be 6 task types, with varying incentives based on the complexity of t
 ### Task Type 3: Pytorch / TensorFlow CNN benchmarking Task (Advanced)
 
 - Participants would run benchmark tests on Akash GPUs, using either Pytorch or TensorFlow(TF) :
-  - Pytorch Reference:
+  - ***Pytorch Reference:*** 
     - https://github.com/pytorch/benchmark/tree/main (general framework)
-    - https://github.com/pytorch/benchmark/tree/main/torchbenchmark/models(supported models).
-  - TensorFlow Reference:
+    - https://github.com/pytorch/benchmark/tree/main/torchbenchmark/models (supported models).
+      
+  - ***TensorFlow Reference:***
     - https://github.com/tensorflow/benchmarks (general framework).
-    - https://github.com/tensorflow/benchmarks/tree/master/scripts/tf_cnn_benchmarks (old/ unsupported models but reference for set up).
-    - https://github.com/tensorflow/models/tree/master/official (new/ supported models).
+    - https://github.com/tensorflow/benchmarks/tree/master/scripts/tf_cnn_benchmarks (old / unsupported models but reference for set up).
+    - https://github.com/tensorflow/models/tree/master/official (new / supported models).
       
     - A task would consist of picking one of the models from https://github.com/tensorflow/models/tree/master/official and running it across multiple GPUs (sheet with combinations TBD).
     - Participants would run an instance of Jupyter Notebook on the specific Akash provider that has the GPU they plan to benchmark and then run the model and dataset using the Jupyter Notebook. Here is an SDL for running a Jupyter notebook https://github.com/akash-network/awesome-akash/blob/master/tensorflow-jupyter-mnist/deploy.yaml. We also have another in the works for Pytorch https://github.com/akash-network/awesome-akash/pull/388
