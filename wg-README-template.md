@@ -6,6 +6,11 @@ Provide short summary that describes the overall mission and what is covered.
 
 TBD
 
+| Meeting | Time | Notes | Transcript | Recording
+| --- | --- | --- | --- | --- |
+| #1 | | |  | 
+
+
 ## Leads
 
 TBD
@@ -13,7 +18,7 @@ TBD
 ## Contacts
 
 - Discord (add link)
-- Mail list (add link)
+
 
 ## Goals
 
