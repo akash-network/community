@@ -19,8 +19,8 @@ date: 2023-1-09T00:19:20-08:00
 | #2 | Wednesday, February 22, 2023 08:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-design/meetings/002-2023-02-21.md) | [Link](https://github.com/akash-network/community/blob/main/sig-design/meetings/002-2023-02-21.md#transcript) | [Link](https://e6wptkexnljmfnq6swe4qbbu54assn65grzlurzvpizzlreiro5q.arweave.net/J6z5qJdq0sK2HpWJyAQ07wEpN900crpHNXozlcSIi7s)
 | #3 | Wednesday, March 8, 2023 09:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-design/meetings/003-2023-03-08.md) | [Link](https://github.com/akash-network/community/blob/main/sig-design/meetings/003-2023-03-08.md#transcript) | [Link](https://apru4o53g355qdxpxifh2ejjvopsqlmf5c7zlmnygpqq33vekvya.arweave.net/A-NOO7s2-9gO77oKfREpq58oLYXov5WxuDPhDe6kVXA)
 | #4 | Wednesday, April 12, 2023 09:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-design/meetings/004-2023-04-12.md) | [Link](https://github.com/akash-network/community/blob/main/sig-design/meetings/004-2023-04-12.md#transcript) | [Link](https://6xo72sp45srm3peei2i57kitrya34ftrqffk3irtxgfyxxjhmxbq.arweave.net/9d39Sfzsos28hEaR36kTjgG-FnGBSq2iM7mLi90nZcM)
-| #5 | Wednesday, May 10, 2023 09:00 AM PT (Pacific Time) |  | | 
-| #6 | Wednesday, June 14, 2023 08:00 AM PT (Pacific Time) |  | | 
+| #5 | Wednesday, May 10, 2023 09:00 AM PT (Pacific Time) | No participants | |
+| #6 | Wednesday, June 14, 2023 08:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-design/meetings/006-2023-06-14.md) | [Link](https://github.com/akash-network/community/blob/main/sig-design/meetings/006-2023-06-14.md#transcript) | [Link](https://inlakgk4lzlfmrveddowlqvf3olzpxeklmrjdksle6defao4ehea.arweave.net/Q1YFGVxeVlZGpBjdZcKl25eX3IpbIpGqSyeGQoHcIcg)
 | #7 | Wednesday, July 12, 2023 08:00 AM PT (Pacific Time) |  | | 
 | #8 | Wednesday, August 09, 2023 08:00 AM PT (Pacific Time) |  | | 
 | #9 | Wednesday, September 13, 2023 08:00 AM PT (Pacific Time) |  | | 
