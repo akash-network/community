@@ -15,6 +15,8 @@ Meetings happen every [First Wednesday of the Month](https://calendar.google.com
 | #1 | Wednesday, February 1, 2023 10:00 AM PT (Pacific Time) | [Link](meetings/001-2023-02-01.md) | [Link](meetings/001-2023-02-01.md#transcript) | [Link](https://2fcdf3q4tmqictuygtzlcutkagumlk7z2bayh3ren5x3hbp5el7a.arweave.net/0UQy7hybIIFOmDTysVJqAajFq_nQQYPuJG9vs4X9Iv4)
 | #2 | Wednesday, March 1, 2023 10:00 AM PT (Pacific Time) | [Link](meetings/002-2023-03-01.md) | [Link](meetings/002-2023-03-01.md#transcript) | [Link](https://vuyt47n5ybxp7xreixfqbigow2sl46sfhjtzbvpr4alcorbnimxa.arweave.net/rTE-fb3Abv_eJEXLAKDOtqS-ekU6Z5DV8eAWJ0QtQy4)
 | #3 | Wednesday, April 5, 2023 10:00 AM PT (Pacific Time) | [Link](meetings/003-2023-04-05.md) | [Link](meetings/003-2023-04-05.md#transcript) | [Link](https://3vgsbypnydwrpxofcbsnlhgzej5n3kwevcnd5donrln33vdhbgvq.arweave.net/3U0g4e3A7RfdxRBk1ZzZInrdqsSomj6NzYrbvdRnCas)
+| #4 | Wednesday, May 3, 2023 10:00 AM PT (Pacific Time) | [Link](meetings/004-2023-05-03.md) | [Link](meetings/004-2023-05-03.md#transcript) | [Link](https://hem6lyfjoxtivkxsect54uk3bghvymqqaqdne3vhpikd5tm3zoua.arweave.net/ORnl4Kl15oqq8iCn3lFbCY9cMhAEBtJup3oUPs2by6g)
+| #5 | Wednesday, June 7, 2023 10:00 AM PT (Pacific Time) | [Link](meetings/005-2023-06-07.md) | [Link](meetings/005-2023-06-07.md#transcript) | [Link](https://y4hkhdbthqe7x3vfq3ixuqy4uq4wysrtxetuezbkomacwezpqjgq.arweave.net/xw6jjDM8CfvupYbRekMcpDlsSjO5J0JkKnMAKxMvgk0)
 
 ## Leadership
 

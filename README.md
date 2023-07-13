@@ -3,6 +3,10 @@ title: "Core Community Groups"
 date: 2023-1-09T00:19:20-08:00
 ---
 
+<p align="center">
+  <img src="akash-network-community-git-community.png" style="width:1300px" />
+</p>
+
 # Akash Network Community
 
 Welcome to the Akash Network community!
