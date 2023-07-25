@@ -18,10 +18,10 @@ The goal of this SIG is to foster a community around the creation and maintenanc
 | --- | --- | --- | --- | --- |
 | #1 | Tuesday, January 24, 2023 7:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/001-2023-01-24.md) | [Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/001-2023-01-24.md#transcript) | [Link](https://rccf7mccev5vmvdmjyn2hnc5udhro25ayfh5f4oltnmg7dow2ddq.arweave.net/iIRfsEIle1ZUbE4bo7RdoM8Xa6DBT9Lxy5tYb43W0Mc)
 | #2 | Tuesday, February 28, 2023 7:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/002-2023-02-28.md) | [Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/002-2023-02-28.md#transcript) | [Link](https://e2qlbmcrhw44upxtvl43fmnk3wbph47snbug2rpxszhakms63kfq.arweave.net/JqCwsFE9uco-86r5srGq3YLz8_JoaG1F95ZOBTJe2os)
-| #3 | Tuesday, March 28, 2023 07:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/003-2023-03-28.md)   |  |
+| #3 | Tuesday, March 28, 2023 07:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/003-2023-03-28.md)   | Coming Soon  | Coming Soon
 | #4 | Tuesday, April 25, 2023 07:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/004-2023-04-25.md)   | [Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/004-2023-04-25.md#transcript)  | [Link](https://uufzzfzfy24kacwhpw5bcqsivzc3vul7awuzk7hn6y4a2gnbrola.arweave.net/pQuclyXGuKAKx326EUJIrkW60X8FqZV87fY4DRmhi5Y)
 | #5 | Tuesday, May 23, 2023 07:00 AM PT (Pacific Time) |   |  |
-| #6 | Tuesday, June 27, 2023 07:00 AM PT (Pacific Time) |   |  |
+| #6 | Tuesday, June 27, 2023 07:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/006-2023-06-27.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/006-2023-06-27.md#transcript)  | [Link](https://jqtbpq377livrj4hbk4pw4vv2djrt3gmqxgs5zjwl7djg3lq4f5a.arweave.net/TCYXw3_60Vinhwq4-3K10NMZ7MyFzS7lNl_Gk21w4Xo)
 | #7 | Tuesday, July 25, 2023 07:00 AM PT (Pacific Time) |   |  |
 | #8 | Tuesday, August 22, 2023 07:00 AM PT (Pacific Time) |   |  |
 | #9 | Tuesday, September 26, 2023 07:00 AM PT (Pacific Time) |   |  |
