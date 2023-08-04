@@ -17,19 +17,19 @@ These are all the projects that are currently in some state ranging from "ideati
 
 | Project Name | Label | Description | Community Group | State
 | --- | --- | --- | --- | --- |
-| [Console Authorized Spend Support](../sig-clients/akash-console/prd-authorized-spend.md) | console-authz | Supporting Authorized Spend (AuthZ) in Akash Console | [sig-clients](../sig-clients/README.md) | implementation |
-| [GPU Support](../wg-gpu/prd.md) | gpu | Everything related to supporting, launching and growing GPUs on Akash  | [wg-gpu](../wg-gpu) | implementation |
-| [Client Libraries](https://github.com/akash-network/community/blob/main/sig-clients/client-libraries/prd.md) | client-libs |  Libraries for deploying on Akash programmatically using various programming languages  | [sig-clients](../sig-clients/README.md) | implementation |
-| [Content Moderation](../wg-content-moderation) | content-mod | Tools and process for ensuring that providers have visibility into workloads running on them and controls to ensure they don’t violate their terms of service  | [sig-providers](../sig-providers) | implementation |
-| [Economics 2.0](../sig-economics/akt20-prop) | econ-2.0 | Redesigning Akash Network's economics model to have fine grained take rates to fund product development and sustainability of the chain  | [sig-economics](../sig-economics/README.md) | spec-definition |
+| [GPU Support](../wg-gpu/prd.md) | gpu | Everything related to supporting, launching and growing GPUs on Akash  | [wg-gpu](../wg-gpu) | beta |
+| [Stable payments & Settlement](../sig-economics/stable-payments-and-take-rate.md) | | Ability for tenants to pay for deployments using other cryptocurrencies | [sig-economics](../sig-economics/README.md) | implementation |
+| [Economics 2.0](../sig-economics/akt20-prop) | econ-2.0 | Redesigning Akash Network's economics model to have fine grained take rates to fund product development and sustainability of the chain  | [sig-economics](../sig-economics/README.md) | implementation |
 | Certification Program | edu-cert-prgm | Define, build and finalize Akash Network Certification Program  | [sig-education](../sig-education) | implementation |
 | Event Planning 2023 | | Define purpose, lineups, and attendees (and weight of OCL presence) for events that Akash Network would attend | [sig-community](../sig-community) | Implementation |
 | [Akash Hackathon](https://github.com/orgs/akash-network/discussions/100) | | Define purpose, structure, timelines and outcomes | [sig-community](../sig-community) | Implementation |
 | [Docs site migration](../sig-documentation/documentation-structure.md) | docs-site-migration | Migrating the documentation site from gitbooks to something automatable (Hugo?) | [sig-documentation](../sig-documentation) | implementation |
 | [On-Chain Analytics](../sig-analytics/prd.md) | | Build data pipeline and analysis tool for onchain analytics  | [sig-analytics](../sig-analytics)  | implementation |
+| Provider Attributes | provider-attr | Defining an attribute schema for providers and getting providers to incorporate it  | [wg-provider-attributes](../wg-provider-attributes/README.md) | implementation |
+| [Authorized Spend Management](../sig-clients/akash-console/prd-authorized-spend.md) | authz | Supporting Authorized Spend (AuthZ) in Akash Console | [sig-clients](../sig-clients/README.md) | implementation |
+| [Content Moderation](../wg-content-moderation) | content-mod | Tools and process for ensuring that providers have visibility into workloads running on them and controls to ensure they don’t violate their terms of service  | [sig-providers](../sig-providers) | implementation |
+| [Client Libraries](https://github.com/akash-network/community/blob/main/sig-clients/client-libraries/prd.md) | client-libs |  Libraries for deploying on Akash programmatically using various programming languages  | [sig-clients](../sig-clients/README.md) | implementation |
 | Provider Services Microservices Refactor | provider-svc-split | Splitting Akash Provider Services into microservices so that we’re able to release and maintain software better | [sig-providers](..//sig-providers) | implementation |
-| [Stable payments & Settlement](../sig-economics/stable-payments-and-take-rate.md) | | Ability for tenants to pay for deployments using other cryptocurrencies | [sig-economics](../sig-economics/README.md) | spec-definition |
-| Provider Attributes | provider-attr | Defining an attribute schema for providers and getting providers to incorporate it  | [wg-provider-attributes](../wg-provider-attributes/README.md) | spec-definition |
 | Provider Analytics | | Analytics for providers to understand their profitability and ROI | [sig-analytics](../sig-analytics) | spec-definition |
 | Omnibus Maintenance | omnibus-maint | Building new reference SDLs and packages for new chains that we want to support. Building automated testing for the supported omnibus chains  | [sig-community](../sig-community) | ideation |
 | Keeping up with Cosmos | cosmos-sync | Things we Akash needs to do to stay in sync with Cosmos (SDK changes etc)  | [sig-support](../sig-support)  |  |
@@ -37,9 +37,7 @@ These are all the projects that are currently in some state ranging from "ideati
 | CI/ CD Workflows |  | Things necessary to support CI/ CD style deployments on Akash  | |  |
 | Provider Attribute Auditing |  | Tooling for auditing provider attributes (like memory, CPU, bandwidth, storage and others) through automated testing before a provider is “officially signed” |  |  |
 | Provider Monitoring |  | Hooks for being able to pull infrastructure metrics into tools like Prometheus and Grafana for monitoring and logging |  |  |
-| Provider Onboarding | | Making onboarding of providers as self-service as possible so that we can scale the number of providers on the network into the 100s |  |  |
 | Provider Pricing & Profitability | | Tools for providers to set pricing and calculate profitability before they decide to become an Akash provider |  |  |
-| Pricing Stability | |  Ensuring that the cost of deployments remains the same, even as the cost of the currency fluctuates up and down |  |  |
 | Cloud Parity Foundational Features | | Cross Provider Deployments for High Availability (HA). Load balancers. State Management |  |  |
 | Cloud Parity Reference Applications | |  Building reference applications that mirror the way apps are built in public clouds |  |  |
 | StorJ Integration | | Spec and implement what's needed for users to use StorJ for persistent storage (like S3 or Akash persistent storage) |  |  |
