@@ -11,7 +11,7 @@ Akash Network Clients are software and services that make it easier for tenants 
 ## Deployment Clients
 
 - [Akash Console](akash-console/README.md)
-- [AKash Command Line Interface](akash-cli/README.md)
+- [Akash Command Line Interface](akash-cli/README.md)
 - [Client Libraries](client-libraries/README.md) (for various programming languages)
 - [Cloudmos Deploy](cloudmos-deploy/README.md)
 - [Fleek](fleek/README.md)
@@ -39,7 +39,7 @@ The goal of this SIG is to foster a community around each of these clients that 
 | #4 | Wednesday, April 19, 2023 10:30 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/004-2023-04-19.md)  | [Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/004-2023-04-19.md#transcript) | [Link](https://flpgrlmt77pkodrrjhytoougl4aowcie2kxsoqy4zk4uavep7e7a.arweave.net/Kt5orZP_3qcOMUnxNzqGXwDrCQTSrydDHMq5QFSP-T4)
 | #5 | Wednesday, May 17, 2023 10:30 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/005-2023-05-17.md) | [Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/005-2023-05-17.md#transcript)  | [Link](https://ec54ewcb4dlthczxdq26le66vkbfbawecwztk54vcl4taihf4woa.arweave.net/ILvCWEHg1zOLNxw15ZPeqoJQgsQVszV3lRL5MCDl5Zw)
 | #6 | Wednesday, June 21, 2023 10:30 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/006-2023-06-21.md) | [Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/006-2023-06-21.md#transcript)  | [Link](https://7wma24vbcylbmj2q74v24kte6sy7ysjarnbbgozg7p4yh5gnkiaa.arweave.net/_ZgNcqEWFhYnUP8rripk9LH8SSCLQhM7Jvv5g_TNUgA)
-| #7 | Wednesday, July 19, 2023 10:30 AM PT (Pacific Time) |   |  |
+| #7 | Wednesday, July 19, 2023 10:30 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/007-2023-07-19.md)  |  |
 | #8 | Wednesday, August 16, 2023 10:30 AM PT (Pacific Time) |   |  |
 | #9 | Wednesday, September 20, 2023 10:30 AM PT (Pacific Time) |   |  |
 | #10 | Wednesday, October 18, 2023 10:30 AM PT (Pacific Time) |   |  |
