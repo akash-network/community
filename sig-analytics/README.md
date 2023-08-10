@@ -26,7 +26,7 @@ Analytics Special Interest Group is dedicated to defining and building tools tha
 | #4 | Thursday, May 11, 2023 09:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-analytics/meetings/004-2023-05-11.md) | [Link](https://github.com/akash-network/community/blob/main/sig-analytics/meetings/004-2023-05-11.md#transcript) | [Link](https://lhtkqoy46e7yizt65au5if3whgrq2brswt5jtd3cffrukfetc7rq.arweave.net/WeaoOxzxP4Rmfugp1Bd2OaMNBjK0-pmPYiljRRSTF-M)
 | #5 | Thursday, June 08, 2023 09:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-analytics/meetings/005-2023-06-08.md) | [Link](https://github.com/akash-network/community/blob/main/sig-analytics/meetings/005-2023-06-08.md#transcript) | [Link](https://vgq4z3pl2yzp66ubgyz4e6fm6yqh6shzdo22wkk6tucodjy2n6tq.arweave.net/qaHM7evWMv96gTYzwnis9iB_SPkbtaspXp0E4acab6c)
 | #6 | Thursday, July 13, 2023 09:00 AM PT (Pacific Time) |    |   | 
-| #7 | Thursday, August 10, 2023 09:00 AM PT (Pacific Time) |    |   | 
+| #7 | Thursday, August 10, 2023 09:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-analytics/meetings/007-2023-08-11.md) |   | 
 | #8 | Thursday, September 14, 2023 09:00 AM PT (Pacific Time) |    |   | 
 | #9 | Thursday, October 12, 2023 09:00 AM PT (Pacific Time) |    |   | 
 | #10 | Thursday, November 09, 2023 09:00 AM PT (Pacific Time) |    |   | 
