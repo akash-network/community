@@ -28,13 +28,11 @@ Joining the mailing list for the group will typically add invites for the follow
 
 ## Leads
 
-  - Name (GH Handle)
-  - Name (GH Handle)
+  - Maxime Beauchamp (@baktun14)
 
 ## Contacts
 
-- Discord (add link)
-- Mail list (add link)
+- @baktun14
 
 ## Goals
 
@@ -45,7 +43,11 @@ Joining the mailing list for the group will typically add invites for the follow
 
 
 ## PRDs and other documentation
-- PRD
+The implementation of the provider attribute schema currently resides here:
+- https://github.com/ovrclk/cloudmos-config/blob/main/provider-attributes.md
+- https://github.com/ovrclk/cloudmos-config/blob/main/provider-attributes.json
+
+A form to use this schema has been implemented on Cloudmos in the providers section: https://deploy.cloudmos.io/providers
 
 
 ## Related SIGs
