@@ -25,7 +25,7 @@ This working group is responsible for managing and improving the Akash Network W
 
 ## Contacts
 
-- [Discord]
+- [Discord](https://discord.com/channels/747885925232672829/1111762354242338876/1144276254699298826)
 
 ## Goals
 
