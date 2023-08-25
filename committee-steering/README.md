@@ -20,8 +20,8 @@ The Steering Committee is a special SIG that periodically evaluates the list of 
 | Thursday, May 04, 2023 11:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/004-2023-05-04.md) | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/004-2023-05-04.md#transcript)  | [Link](https://mxbrl3erpoqav3rftxthzdsonor7b5k25zd3askk3fk5ke26fida.arweave.net/ZcMV7JF7oAruJZ3mfI5Oa6Pw9VruR7BJStlV1RNeKgY) 
 | Thursday, May 25, 2023 11:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/005-2023-05-25.md)   | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/005-2023-05-25.md#transcript) | [Link](https://gx6ojxwsudf2y42om4rpsotbbyd2iluasgkfrudrr4b6ktdirxvq.arweave.net/Nfzk3tKgy6xzTmci-TphDgekLoCRlFjQcY8D5Uxojes)
 | Thursday, June 29, 2023 11:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/006-2023-06-25.md)    |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/006-2023-06-29.md#transcript)  | [Link](https://n6o6hg3bmrlh53cz6ykmpokamvnzgusa3vycwvbr4vxmamusuh5q.arweave.net/b53jm2FkVn7sWfYUx7lAZVuTUkDdcCtUMeVuwDKSofs)
-| Thursday, July 27, 2023 11:00 AM PT (Pacific Time) |   |  |
-| Thursday, August 31, 2023 11:00 AM PT (Pacific Time) |   |  |
+| Thursday, July 27, 2023 11:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/007-2023-07-27.md)   |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/007-2023-07-27.md#transcript)  | [Link](https://2uw2d6ylfq3v2btiav5izgx4kvsgcc2s72bb5vvymb5byck4jsca.arweave.net/1S2h-wssN10GaAV6jJr8VWRhC1L-gh7WuGB6HAlcTIQ)
+| Wednesday, August 30, 2023 11:00 AM PT (Pacific Time) |   |  |
 | Thursday, September 28, 2023 11:00 AM PT (Pacific Time) |   |  |
 | Thursday, October 26, 2024 11:00 AM PT (Pacific Time) |   |  |
 | Thursday, November 30, 2024 11:00 AM PT (Pacific Time) |   |  |
