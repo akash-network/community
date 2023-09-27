@@ -19,7 +19,7 @@ date: 2023-1-09T00:19:20-08:00
 | #4 | Tuesday, May 02, 2023 09:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-chain/meetings/004-2023-05-02.md)  | [Link](https://github.com/akash-network/community/blob/main/sig-chain/meetings/004-2023-05-02.md#transcript) | [Link](https://ilt2quvvl4fkghho2kegz6q7vjpgza5dttrdrvswm6v5isdpsoeq.arweave.net/QueoUrVfCqMc7tKIbPofql5sg6Oc4jjWVmer1Ehvk4k)
 | #5 | Tuesday, June 06, 2023 09:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-chain/meetings/004-2023-05-02.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-chain/meetings/004-2023-05-02.md#transcript) | [Link](https://ilt2quvvl4fkghho2kegz6q7vjpgza5dttrdrvswm6v5isdpsoeq.arweave.net/QueoUrVfCqMc7tKIbPofql5sg6Oc4jjWVmer1Ehvk4k)
 | #6 | Tuesday, July 11, 2023 09:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-chain/meetings/006-2023-07-11.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-chain/meetings/006-2023-07-11.md#transcript) | [Link](https://sxisediwxnr2rnn2kq4dte3bkw2p7fsbg5h2fuc3tsrgimbgnfkq.arweave.net/ldEiDRa7Y6i1ulQ4OZNhVbT_lkE3T6LQW5yiZDAmaVU)
-| #7 | Tuesday, August 01, 2023 09:00 AM PT (Pacific Time) |  | | 
+| #7 | Tuesday, August 01, 2023 09:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-chain/meetings/007-2023-08-01.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-chain/meetings/007-2023-08-01.md#transcript) |[Link](https://ublt6v3ytezl3kaq6ygiaz2zk52wxhmp7khokzmiy2ufgjheanpa.arweave.net/oFc_V3iZMr2oEPYMgGdZV3VrnY_6juVliMaoUyTkA14)
 | #8 | Tuesday, September 05, 2023 09:00 AM PT (Pacific Time) |  | | 
 | #9 | Tuesday, October 03, 2023 09:00 AM PT (Pacific Time) |  | | 
 | #10 | Tuesday, November 07, 2023 09:00 AM PT (Pacific Time) |  | | 
@@ -40,5 +40,5 @@ date: 2023-1-09T00:19:20-08:00
 
 The following are projects and work-groups that sig-chain participates in or contributes to (ToDo: Add links when available)
 
-- [Network Upgrade v.0.24.0](https://github.com/akash-network/support/issues/73)
+- [Network Upgrade v.0.24.0](https://github.com/akash-network/support/issues/73) - Successful.
 
