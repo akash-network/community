@@ -10,7 +10,7 @@ sig-support is responsible for defining mechanics of how support works at Akash 
 
 ## Meetings
 
-### [Every other Wednesday at 9am Pacific](https://calendar.google.com/calendar/u/0?cid=Y18yNWU1ZTM3NDhlNGM0YWI3YTU1ZjQxZmJjNWViZWJjYzBhMDNiNDBmYjAyODc4NWYxNDE1OWJmYWViZWExMmUyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+### [Every other Wednesday](https://calendar.google.com/calendar/u/0?cid=Y18yNWU1ZTM3NDhlNGM0YWI3YTU1ZjQxZmJjNWViZWJjYzBhMDNiNDBmYjAyODc4NWYxNDE1OWJmYWViZWExMmUyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
 
 
@@ -32,7 +32,7 @@ sig-support is responsible for defining mechanics of how support works at Akash 
 | #14 | Wed, August 02, 2023 09:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/014-2023-08-02.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/014-2023-08-02.md#transcript)   |[Link](https://6j375fu3vi5nk6lwsh4llsagdgbqs4y3cdcyeksnhmvbcgimvqnq.arweave.net/8nf-lpuqOtV5dpH4tcgGGYMJcxsQxYIqTTsqERkMrBs)
 | #15 | Wed, August 16, 2023 09:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/015-2023-08-16.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/015-2023-08-16.md#transcript)  |[Link](https://vnvl63bhnc5bjxxyfm6zonwlfwgvfdut34tx5mwx7k7rtcloe6fq.arweave.net/q2q_bCdouhTe-Cs9lzbLLY1SjpPfJ36y1_q_GYluJ4s)
 | #16 | Wed, August 30, 2023 07:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/016-2023-08-30.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/016-2023-08-30.md#transcript)   |[Link](https://h74pbkig7ehrbzkxe7njsglonsfukl3b4ft2acgalnjkjavwjipa.arweave.net/P_jwqQb5DxDlVyfamRlubItFL2HhZ6AIwFtSpIK2Sh4)
-| #17 | Wed, September 13, 2023 07:00 AM PT (Pacific Time) |  |   |
+| #17 | Wed, September 13, 2023 07:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/017-2023-09-13.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/017-2023-09-13.md#transcript)   |[Link](https://xq6srn6ahx4vqkqnzhre5fw2vxfxuzroz2avfkvagkimxe5e7uba.arweave.net/vD0ot8A9-VgqDcniTpbarct6Zi7OgVKqoDKQy5Ok_QI)
 | #18 | Wed, September 27, 2023 07:00 AM PT (Pacific Time) |  |   |
 | #19 | Wed, October 11, 2023 07:00 AM PT (Pacific Time) |  |   |
 | #20 | Wed, October 25, 2023 07:00 AM PT (Pacific Time) |  |   |
@@ -50,6 +50,7 @@ sig-support is responsible for defining mechanics of how support works at Akash 
 - Scott Carruthers, Overclock Labs
 - Artur Troian, Overclock Labs
 - Anil Murty, Overclock Labs
+- Tyler Wright, Overclock Labs
 
 
 
