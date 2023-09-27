@@ -10,7 +10,7 @@ sig-support is responsible for defining mechanics of how support works at Akash 
 
 ## Meetings
 
-### [Every other Wednesday at 9am Pacific](https://calendar.google.com/calendar/u/0?cid=Y18yNWU1ZTM3NDhlNGM0YWI3YTU1ZjQxZmJjNWViZWJjYzBhMDNiNDBmYjAyODc4NWYxNDE1OWJmYWViZWExMmUyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+### [Every other Wednesday](https://calendar.google.com/calendar/u/0?cid=Y18yNWU1ZTM3NDhlNGM0YWI3YTU1ZjQxZmJjNWViZWJjYzBhMDNiNDBmYjAyODc4NWYxNDE1OWJmYWViZWExMmUyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
 
 
@@ -50,6 +50,7 @@ sig-support is responsible for defining mechanics of how support works at Akash 
 - Scott Carruthers, Overclock Labs
 - Artur Troian, Overclock Labs
 - Anil Murty, Overclock Labs
+- Tyler Wright, Overclock Labs
 
 
 
