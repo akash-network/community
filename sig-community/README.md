@@ -16,9 +16,15 @@ This SIG (Special Interest Group) is designed for Akash community members to pro
 
 | Meeting | Time | Notes | Transcript | Recording
 | --- | --- | --- | --- | --- |
-| #1 | Thursday, January 31, 2023 11:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/01-2023-01-31.md)  | [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/01-2023-01-31.md#transcript)  | [Link](https://fss4l23i24p6gntryybnqrr5mss4u2bhkutvcdq7avzexqhchida.arweave.net/LKXF62jXH-M2ccYC2EY9ZKXKaCdVJ1EOHwVyS8DiOgY) 
+| #1 | Thursday, January 31, 2023 11:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/01-2023-01-31.md)  | [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/01-2023-01-31.md#transcript)  | [Link](https://fss4l23i24p6gntryybnqrr5mss4u2bhkutvcdq7avzexqhchida.arweave.net/LKXF62jXH-M2ccYC2EY9ZKXKaCdVJ1EOHwVyS8DiOgY)
 | #2 | Tuesday, March 14, 2023 11:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/002-2023-03-14.md)  | [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/002-2023-03-14.md#Transcript)  | Coming soon
 | #3 | Tuesday, April 11, 2023 11:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/003-2023-04-11.md)  | [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/003-2023-04-11.md#Transcript)  | Coming soon
+| #4 | Tuesday, May 09, 2023 11:00 AM PT (Pacific Time) | Coming soon | Coming soon  | Coming soon
+| #5 | Tuesday, June 13, 2023 11:00 AM PT (Pacific Time) | Coming soon | Coming soon  | Coming soon
+| #6| Tuesday, July 11, 2023 11:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/006-2023-07-11.md)  | [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/006-2023-07-11.md#Transcript)  | [Link](https://ldcymjv57vzkxb54husr63qq3saae7qhwos2vcvjoln32ny6cy2q.arweave.net/WMWGJr39cquHvD0lH24Q3IACfgezpaqKqXLbvTceFjU)
+| #7 | Tuesday, August 08, 2023 11:00 AM PT (Pacific Time) | Coming soon | Coming soon  | Coming soon
+
+
 
 ## Leadership
 
