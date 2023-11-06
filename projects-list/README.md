@@ -17,12 +17,13 @@ These are all the projects that are currently in some state ranging from "ideati
 
 | Project Name | Label | Description | Community Group | State
 | --- | --- | --- | --- | --- |
-| [GPU Support](../wg-gpu/prd.md) | gpu | Everything related to supporting, launching and growing GPUs on Akash  | [wg-gpu](../wg-gpu) | beta |
+| [GPU Support](../wg-gpu/prd.md) | gpu | Everything related to supporting, launching and growing GPUs on Akash  | [wg-gpu](../wg-gpu) | released |
 | [Stable payments & Settlement](../sig-economics/stable-payments-and-take-rate.md) | | Ability for tenants to pay for deployments using other cryptocurrencies | [sig-economics](../sig-economics/README.md) | implementation |
-| [Economics 2.0](../sig-economics/akt20-prop) | econ-2.0 | Redesigning Akash Network's economics model to have fine grained take rates to fund product development and sustainability of the chain  | [sig-economics](../sig-economics/README.md) | implementation |
+| [Economics 2.0](../sig-economics/akt20-prop) | econ-2.0 | Redesigning Akash Network's economics model to have fine grained take rates to fund product development and sustainability of the chain  | [sig-economics](../sig-economics/README.md) | released |
+| Akash Website Revamp | | Implement new website with refreshed designs and more maintanable tech stack | [wg-website](../eg-website) | Implementation |
 | Certification Program | edu-cert-prgm | Define, build and finalize Akash Network Certification Program  | [sig-education](../sig-education) | implementation |
 | Event Planning 2023 | | Define purpose, lineups, and attendees (and weight of OCL presence) for events that Akash Network would attend | [sig-community](../sig-community) | Implementation |
-| [Akash Hackathon](https://github.com/orgs/akash-network/discussions/100) | | Define purpose, structure, timelines and outcomes | [sig-community](../sig-community) | Implementation |
+| [Akash Hackathon](https://github.com/orgs/akash-network/discussions/100) | | Define purpose, structure, timelines and outcomes | [sig-community](../sig-community) | released |
 | [Docs site migration](../sig-documentation/documentation-structure.md) | docs-site-migration | Migrating the documentation site from gitbooks to something automatable (Hugo?) | [sig-documentation](../sig-documentation) | implementation |
 | [On-Chain Analytics](../sig-analytics/prd.md) | | Build data pipeline and analysis tool for onchain analytics  | [sig-analytics](../sig-analytics)  | implementation |
 | Provider Attributes | provider-attr | Defining an attribute schema for providers and getting providers to incorporate it  | [wg-provider-attributes](../wg-provider-attributes/README.md) | implementation |
@@ -58,6 +59,6 @@ A project may be in one of these states. Note that every project does NOT have t
 | design | Technical Design is being worked on (typically by SIG(s) )
 | implementation | Actual work to bring the thing to life is happening (code being written, event being organized, docs site being updated) | |
 | beta | The project is in beta test phase (where/ when applicable) - typically for products/ features | |
-| release | The product/ feature has been released to everyone (general availability) | |
+| released | The product/ feature has been released to everyone (general availability) | |
 | blocked | The project is blocked or stalled because of some reason (documented) | |
 | abandoned | The project has been cancelled because no one is willing to shepherd it | |
