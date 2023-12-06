@@ -35,9 +35,9 @@ sig-support is responsible for defining mechanics of how support works at Akash 
 | #17 | Wed, September 13, 2023 07:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/017-2023-09-13.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/017-2023-09-13.md#transcript)   |[Link](https://xq6srn6ahx4vqkqnzhre5fw2vxfxuzroz2avfkvagkimxe5e7uba.arweave.net/vD0ot8A9-VgqDcniTpbarct6Zi7OgVKqoDKQy5Ok_QI)
 | #18 | Wed, September 27, 2023 07:00 AM PT (Pacific Time) |  |   |
 | #19 | Wed, October 11, 2023 07:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/019-2023-10-11.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/019-2023-10-11.md#transcript)   |[Link](https://4bnijv3wt46kxmijhgq67y4tjt55h36c3yz7ubtakslbdyjord2q.arweave.net/4FqE13afPKuxCTmh7-OTTPvT78LeM_oGYFSWEeEuiPU)
-| #20 | Wed, October 25, 2023 07:00 AM PT (Pacific Time) |  |   |
-| #21 | Wed, November 08, 2023 07:00 AM PT (Pacific Time) |  |   |
-| #22 | Wed, November 22, 2023 07:00 AM PT (Pacific Time) |  |   |
+| #20 | Wed, October 25, 2023 07:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/020-2023-10-25.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/020-2023-10-25.md#transcript)   |[Link](https://tiycqjxd7fzfrflpcqvbtv6urvk4vtbljtwr7kfpebsrd2p7hhvq.arweave.net/mjAoJuP5cliVbxQqGdfUjVXKzCtM7R-oryBlEen_Oes)
+| #21 | Wed, November 08, 2023 07:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/021-2023-11-08.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/021-2023-11-08.md#transcript)   |[Link](https://tiycqjxd7fzfrflpcqvbtv6urvk4vtbljtwr7kfpebsrd2p7hhvq.arweave.net/mjAoJuP5cliVbxQqGdfUjVXKzCtM7R-oryBlEen_Oes)
+| #22 | Wed, November 22, 2023 07:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/022-2023-11-22.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/022-2023-11-22.md#transcript)   |[Link](https://l5yeilkhvwmpqetchbk2pax4nxmu6miv23cxy7iszl7nvgbk4lka.arweave.net/X3BELUetmPgSYjhVp4L8bdlPMRXWxXx9Esr-2pgq4tQ)
 | #23 | Wed, December 06, 2023 07:00 AM PT (Pacific Time) |  |   |
 | #24 | Wed, December 20, 2023 07:00 AM PT (Pacific Time) |  |   |
 | #25 | Wed, January 03, 2024 07:00 AM PT (Pacific Time) |  |   |
