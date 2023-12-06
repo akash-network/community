@@ -25,6 +25,12 @@ This working group is responsible for managing and improving the Akash Network W
 | #13 | Thursday, October 19, 2023 06:30 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/013-2023-10-19.md) | [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/013-2023-10-19.md#Transcript)  |[Link](https://s7n2e2tfghnhjtwc3wse3vnami7vmza7npbr65i4orqb3mfmrpba.arweave.net/l9uiamUx2nTOwt2kTdWgYj9WZB9rwx91HHRgHbCsi8I)
 | #14 | Thursday, October 26, 2023 06:30 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/014-2023-10-26.md) | [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/014-2023-10-26.md#Transcript)  |[Link](https://z5ffy5w2liqufhaktycxtjmyyfbrpe5ewae72o7kviwi4eigwrna.arweave.net/z0pcdtpaIUKcCp4FeaWYwUMXk6SwCf076qosjhEGtFo)
 | #15 | Thursday, November 02, 2023 06:30 AM PT (Pacific Time)| Coming soon | Coming soon| Coming Soon
+| #16 | Thursday, November 09, 2023 06:30 AM PT (Pacific Time)| Coming soon | Coming soon| Coming Soon
+| #17 | Thursday, November 16, 2023 06:30 AM PT (Pacific Time)| Coming soon | Coming soon| Coming Soon
+| #18 | Thursday, November 23, 2023 06:30 AM PT (Pacific Time)| Coming soon | Coming soon| Coming Soon
+| #19 | Thursday, November 30, 2023 06:30 AM PT (Pacific Time)| Coming soon | Coming soon| Coming Soon
+| #20 | Thursday, December 07, 2023 06:30 AM PT (Pacific Time)| Coming soon | Coming soon| Coming Soon
+| #21 | Thursday, December 14, 2023 06:30 AM PT (Pacific Time)| Coming soon | Coming soon| Coming Soon
 
 
 ## Leads
@@ -32,6 +38,7 @@ This working group is responsible for managing and improving the Akash Network W
 - Denis Lelic
 - Tyler Wright
 - Zach Horn
+
 
 ## Contacts
 
