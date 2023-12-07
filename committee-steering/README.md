@@ -25,7 +25,7 @@ The Steering Committee is a special SIG that periodically evaluates the list of 
 | Thursday, September 28, 2023 11:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/009-2023-09-28.md)   |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/009-2023-09-28.md#transcript)  |[Link](https://bw2dirmu4darmwcx74o24hzfkjzs7f33grrc5rdihgysff4kxyta.arweave.net/DbQ0RZTgwRZYV_8drh8lUnMvl3s0Yi7EaDmxIpeKviY)
 | Wednesday, November 1, 2023 11:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/010-2023-11-01.md)   |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/010-2023-11-01.md#transcript)  |[Link](https://4yrnmjlm3nco2ccfkbkv67s6cfgvgrge7op5dfwnv6gn46mueqxa.arweave.net/5iLWJWzbRO0IRVBVX35eEU1TRMT7n9GWza-M3nmUJC4)
 | Thursday, December 07, 2023 11:00 AM PT (Pacific Time) |   |  |
-| Thursday, January 11, 2023 11:00 AM PT (Pacific Time) |   |  |
+| Thursday, January 11, 2024 11:00 AM PT (Pacific Time) |   |  |
 | Thursday, January 25, 2024 11:00 AM PT (Pacific Time) |   |  |
 | Thursday, February 29, 2024 11:00 AM PT (Pacific Time) |   |  |
 

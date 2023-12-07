@@ -24,9 +24,9 @@ Provider SIG covers everything pertinent to Providers on Akash Network. This inc
 | #7 | Wednesday, July 26, 2023 08:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/007-2023-07-26.md)   |[Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/007-2023-07-26.md#transcript)  | [Link](https://uhtiiuhhwfdou4iqzzpavcyys5zi7o7zkm4surfahhhqvogmkxia.arweave.net/oeaEUOexRupxEM5eCosYl3KPu_lTOSpEoDnPCrjMVdA)
 | #8 | Wednesday, August 23, 2023 08:00 AM PT (Pacific Time) | Coming Soon   | Coming Soon |[Link](https://nx67v3sczxu3p7okp6c2gjo3npkxrm77kehza2upyyolb3qzi4sq.arweave.net/bf367kLN6bf9yn-FoyXba9V4s_9RD5Bqj8YcsO4ZRyU)
 | #9 | Wednesday, September 27, 2023 08:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/009-2023-09-27.md)   |[Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/009-2023-09-27.md#transcript)  |[Link](https://c5g4xir7o2v6il2syhpnqgaooslncply3whcz64ykkn4anqppzha.arweave.net/F03Loj92q-QvUsHe2BgOdJbRPXjdjiz7mFKbwDYPfk4)
-| #10 | Wednesday, October 25, 2024 08:00 AM PT (Pacific Time) |   |  |
+| #10 | Wednesday, October 25, 2024 08:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/010-2023-10-25.md)   |[Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/010-2023-10-25.md#transcript)  |[Link](https://2aefpzwgiwj6jzkl5fdsn7us3pjprpnpkoqqrrsu6bjaukktnxya.arweave.net/0AhX5sZFk-TlS-lHJv6S29L4va9ToQjGVPBSCilTbfA)
 | #11 | Wednesday, November 22, 2024 08:00 AM PT (Pacific Time) |   |  |
-| #12 | Wednesday, December 27, 2023 08:00 AM PT (Pacific Time) |   |  |
+| #12 | Wednesday, December 13, 2023 08:00 AM PT (Pacific Time) |   |  |
 | #13 | Wednesday, January 24, 2024 08:00 AM PT (Pacific Time) |   |  |
 | #14 | Wednesday, February 28, 2024 08:00 AM PT (Pacific Time) |   |  |
 
