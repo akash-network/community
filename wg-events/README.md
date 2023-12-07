@@ -3,18 +3,24 @@ title: " 2023 Events - Working Group"
 date: 2023-2-10T00:19:20-08:00
 ---
 
-# Akash Network - 2023 Events - WG
+# Akash Network - Events - WG
 
-This working group is to discuss events to attend and ways to encourage community attendance.
+This working group is to discuss events to attend, year by year, and ways to encourage community attendance.
 
-## Meetings
+## wg-events 2023 Meetings
 | Meeting | Time | Notes | Transcript | Recording
 | --- | --- | --- | --- | --- |
 | #1 | Friday, February 17, 2023 10:30 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/wg-events/meetings/wg-events-001-2023-02-17.md) | [Link](https://github.com/akash-network/community/blob/main/wg-events/meetings/wg-events-001-2023-02-17.md#transcript) | Coming Soon
 | #2 | Wednesday April 19, 2023 10:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/wg-events/meetings/wg-events-002-2023-04-14.md) | [Link](https://github.com/akash-network/community/blob/main/wg-events/meetings/wg-events-002-2023-04-14.md#transcript) | Coming Soon
 
 
-## Leads
+## wg-events 2024 Meetings
+| Meeting | Time | Notes | Transcript | Recording
+| --- | --- | --- | --- | --- |
+| #1 |  | |  | Coming Soon
+| #2 |  |  | | Coming Soon
+
+## Lead
 
 Adam Wozney (Overclock Labs)
 
