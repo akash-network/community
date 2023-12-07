@@ -26,8 +26,8 @@ The goal of this SIG is to foster a community around the creation and maintenanc
 | #8 | Tuesday, August 22, 2023 07:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/008-2023-08-22.md)   |[Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/008-2023-08-22.md#transcript)  |[Link](https://53oqqojl3emoys343dhzcfp5hsfmcs2q4r4kiah4wn3wj77pbyta.arweave.net/7t0IOSvZGOxLfNjPkRX9PIrBS1DkeKQA_LN3ZP_vDiY)
 | #9 | Tuesday, September 26, 2023 07:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/008-2023-09-26.md) |  [Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/008-2023-09-26.md#transcript)| [Link](https://dknymsd25d4wo4gbxp6435niarkm3ugz7f6onipsi7r7aoghn72q.arweave.net/GpuGSHro-Wdwwbv9zfWoBFTN0Nn5fOah8kfj8DjHb_U)
 | #10 | Tuesday, October 24, 2024 07:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/010-2023-10-24.md)  | [Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/010-2023-10-24.md#transcript) | [Link](https://j7umqwzmkiglhuckkezav7c2rbh4cirv4d2nrjophespxwsjqtxa.arweave.net/T-jIWyxSDLPQSlEyCvxaiE_BIjXg9Nilzzkk-9pJhO4)
-| #11 | Tuesday, November 28, 2024 07:00 AM PT (Pacific Time) |   |  |
-| #12 | Tuesday, December 26, 2023 07:00 AM PT (Pacific Time) |   |  |
+| #11 | Tuesday, November 28, 2024 07:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/011-2023-11-28.md)   |[Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/011-2023-11-28.md#transcript)  |[Link](https://na7gjhjowrrxc37tzk76rixczxf4st6b3rjpfjrzktiln7yxuckq.arweave.net/aD5knS60Y3Fv88q_6KLizcvJT8HcUvKmOVTQtv8XoJU)
+| #12 | Tuesday, December 19, 2023 07:00 AM PT (Pacific Time) |   |  |
 | #13 | Tuesday, January 23, 2024 07:00 AM PT (Pacific Time) |   |  |
 | #14 | Tuesday, February 27, 2024 07:00 AM PT (Pacific Time) |   |  |
 
