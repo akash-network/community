@@ -47,6 +47,17 @@ The goal of this SIG is to foster a community around each of these clients that 
 | #12 | Wednesday, December 20, 2023 10:30 AM PT (Pacific Time) |   |  |
 | #13 | Wednesday, January 17, 2024 10:30 AM PT (Pacific Time) |   |  |
 | #14 | Wednesday, February 21, 2024 10:30 AM PT (Pacific Time) |   |  |
+| #15| March, 2024 10:30 AM PT (Pacific Time) |  | |
+| #16| April, 2024 10:30 AM PT (Pacific Time) |  | |
+| #17| May, 2024 10:30 AM PT (Pacific Time) |  | |
+| #18| June, 2024 10:30 AM PT (Pacific Time) |  | |
+| #19| July, 2024 10:30 AM PT (Pacific Time) |  | |
+| #20| August, 2024 10:30 AM PT (Pacific Time) |  | |
+| #21| September, 2024 10:30 AM PT (Pacific Time) |  | |
+| #22| October 2024 10:30 AM PT (Pacific Time) |  | |
+| #23| November, 2024 10:30 AM PT (Pacific Time) |  | |
+| #24| December, 2024 10:30 AM PT (Pacific Time) |  | |
+| #25| January, 2025 10:30 AM PT (Pacific Time) |  | |
 
 ## Leadership
 

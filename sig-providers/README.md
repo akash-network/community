@@ -29,6 +29,17 @@ Provider SIG covers everything pertinent to Providers on Akash Network. This inc
 | #12 | Wednesday, December 13, 2023 08:00 AM PT (Pacific Time) |   |  |
 | #13 | Wednesday, January 24, 2024 08:00 AM PT (Pacific Time) |   |  |
 | #14 | Wednesday, February 28, 2024 08:00 AM PT (Pacific Time) |   |  |
+| #15| March, 2024 08:00  AM PT (Pacific Time) |  | |
+| #16| April, 2024 08:00  AM PT (Pacific Time) |  | |
+| #17| May, 2024 08:00  AM PT (Pacific Time) |  | |
+| #18| June, 2024 08:00  AM PT (Pacific Time) |  | |
+| #19| July, 2024 08:00  AM PT (Pacific Time) |  | |
+| #20| August, 2024 08:00  AM PT (Pacific Time) |  | |
+| #21| September, 2024 08:00  AM PT (Pacific Time) |  | |
+| #22| October 2024 08:00  AM PT (Pacific Time) |  | |
+| #23| November, 2024 08:00  AM PT (Pacific Time) |  | |
+| #24| December, 2024 08:00  AM PT (Pacific Time) |  | |
+| #25| January, 2025 08:00  AM PT (Pacific Time) |  | |
 
 ## Leadership
 
