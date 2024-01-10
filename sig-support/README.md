@@ -43,6 +43,11 @@ sig-support is responsible for defining mechanics of how support works at Akash 
 | #25 | Wed, January 03, 2024 07:00 AM PT (Pacific Time) |  |   |
 | #26 | Wed, January 17, 2024 07:00 AM PT (Pacific Time) |  |   |
 | #27 | Wed, January 31, 2024 07:00 AM PT (Pacific Time) |  |   |
+| #25 | Wed, February 07, 2024 07:00 AM PT (Pacific Time) |  |   |
+| #26 | Wed, February 21, 2024 07:00 AM PT (Pacific Time) |  |   |
+| #27 | Wed, February 28, 2024 07:00 AM PT (Pacific Time) |  |   |
+
+
 
 
 ## Leadership

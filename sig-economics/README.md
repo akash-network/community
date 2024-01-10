@@ -22,6 +22,21 @@ Meetings happen every [First Wednesday of the Month](https://calendar.google.com
 | #8 | Wednesday, September 6, 2023 10:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-economics/meetings/008-2023-09-06.md) | [Link](https://github.com/akash-network/community/blob/main/sig-economics/meetings/008-2023-09-06.md#transcript) | [Link](https://nlzzmaec3zpmorkyh3f4w3tep2hy444funhf645cqroo7x4qtusa.arweave.net/avOWAILeXsdFWD7Ly25kfo-Oc4WjTl9zooRc79-QnSQ)
 | #9 | Wednesday, October 4, 2023 10:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-economics/meetings/009-2023-10-04.md) | [Link](https://github.com/akash-network/community/blob/main/sig-economics/meetings/009-2023-10-04.md#transcript) | [Link](https://zq6rzise7b65e5o4uq2t2dgfvdu5fjj4p2aluihozhraqk7eyyca.arweave.net/zD0cokT4fdJ13KQ1PQzFqOnSpTx-gLog7sniCCvkxgQ)
 | #10 | Wednesday, November 1, 2023 10:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-economics/meetings/010-2023-11-01.md) | [Link](https://github.com/akash-network/community/blob/main/sig-economics/meetings/010-2023-11-01.md#transcript) | [Link](https://6cjhlgaiutfckbasf6sqjbypkrhyjgll463t67f7aw3af5gtghea.arweave.net/8JJ1mAikyiUEEi-lBIcPVE-EmWvntz98vwW2AvTTMcg)
+| #11| Wednesday, December 06, 2023 10:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-economics/meetings/011-2023-12-06.md) | [Link](https://github.com/akash-network/community/blob/main/sig-economics/meetings/011-2023-12-06.md#transcript) | [Link](https://czik4rsznmpaxems7ffmui4fiaar7waib6gtwy5jt4pptosygpla.arweave.net/FlCuRllrHguRkvlKyiOFQAEf2AgPjTtjqZ8e-bpYM9Y)
+| #12| Wednesday, January 10, 2024 10:00 AM PT (Pacific Time) |  | |
+| #13| Wednesday, February 07, 2024 10:00 AM PT (Pacific Time) |  | |
+| #14| March, 2024 10:00 AM PT (Pacific Time) |  | |
+| #15| April, 2024 10:00 AM PT (Pacific Time) |  | |
+| #16| May, 2024 10:00 AM PT (Pacific Time) |  | |
+| #17| June, 2024 10:00 AM PT (Pacific Time) |  | |
+| #18| July, 2024 10:00 AM PT (Pacific Time) |  | |
+| #19| August, 2024 10:00 AM PT (Pacific Time) |  | |
+| #20| September, 2024 10:00 AM PT (Pacific Time) |  | |
+| #21| October 2024 10:00 AM PT (Pacific Time) |  | |
+| #22| November, 2024 10:00 AM PT (Pacific Time) |  | |
+| #23| December, 2024 10:00 AM PT (Pacific Time) |  | |
+| #24| January, 2025 10:00 AM PT (Pacific Time) |  | |
+
 
 ## Leadership
 
