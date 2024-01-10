@@ -25,6 +25,20 @@ This SIG (Special Interest Group) is designed for Akash community members to pro
 | #7 | Tuesday, August 08, 2023 11:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/007-2023-08-08.md)  | [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/007-2023-08-08.md#Transcript)  | [Link](https://7zxtouwijc7m4syzoixc4ncvcas5hvm46mka44lzxyyr63zi3f6q.arweave.net/_m83UshIvs5LGXIuLjRVECXT1ZzzFA5xeb4xH28o2X0)
 | #8| Tuesday, October 10, 2023 11:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/008-2023-10-10.md)  | [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/008-2023-10-10.md#Transcript)  | [Link](https://kmbia36nv7zwt7js6cprsuwqgor6bs5wsk3io4h7eswdwldv244q.arweave.net/UwKAb82v82n9MvCfGVLQM6Pgy7aStodw_ySsOyx11zk)
 | #9| Tuesday, November 11, 2023 11:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/009-2023-11-15.md)  | [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/009-2023-11-15.md#Transcript)  | [Link](https://elrhjnozov4zcwv4mcpc7n4za4nyuxelufxrk56hniqprbk3bmka.arweave.net/IuJ0tdl1eZFavGCeL7eZBxuKXIuhbxV3x2og-IVbCxQ)
+| #10| Tuesday, December 12, 2023 11:00 AM PT (Pacific Time) | Coming Soon   |  Coming Soon | Coming Soon
+| #11| Tuesday, January 09, 2024 11:00 AM PT (Pacific Time) | Coming Soon | Coming Soon| Coming Soon
+| #12| Tuesday, February 13, 2024 11:00 AM PT (Pacific Time) |  | |
+| #13| March, 2024 11:00 AM PT (Pacific Time) |  | |
+| #14| April, 2024 11:00 AM PT (Pacific Time) |  | |
+| #15| May, 2024 11:00 AM PT (Pacific Time) |  | |
+| #16| June, 2024 11:00 AM PT (Pacific Time) |  | |
+| #17| July, 2024 11:00 AM PT (Pacific Time) |  | |
+| #18| August, 2024 11:00 AM PT (Pacific Time) |  | |
+| #19| September, 2024 11:00 AM PT (Pacific Time) |  | |
+| #20| October 2024 11:00 AM PT (Pacific Time) |  | |
+| #21| November, 2024 11:00 AM PT (Pacific Time) |  | |
+| #22| December, 2024 11:00 AM PT (Pacific Time) |  | |
+| #23| January, 2025 11:00 AM PT (Pacific Time) |  | |
 
 
 
