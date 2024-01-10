@@ -33,7 +33,7 @@ date: 2023-1-09T00:19:20-08:00
 | #18| July, 2024 09:00 AM PT (Pacific Time) |  | |
 | #19| August, 2024 09:00 AM PT (Pacific Time) |  | |
 | #20| September, 2024 09:00 AM PT (Pacific Time) |  | |
-| #21| Ocotber 2024 09:00 AM PT (Pacific Time) |  | |
+| #21| October 2024 09:00 AM PT (Pacific Time) |  | |
 | #22| November, 2024 09:00 AM PT (Pacific Time) |  | |
 | #23| December, 2024 09:00 AM PT (Pacific Time) |  | |
 | #24| January, 2025 09:00 AM PT (Pacific Time) |  | |

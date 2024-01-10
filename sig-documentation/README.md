@@ -30,6 +30,17 @@ The goal of this SIG is to foster a community around the creation and maintenanc
 | #12 | Tuesday, December 19, 2023 07:00 AM PT (Pacific Time) |   |  |
 | #13 | Tuesday, January 23, 2024 07:00 AM PT (Pacific Time) |   |  |
 | #14 | Tuesday, February 27, 2024 07:00 AM PT (Pacific Time) |   |  |
+| #15| March, 2024 07:00  AM PT (Pacific Time) |  | |
+| #16| April, 2024 07:00  AM PT (Pacific Time) |  | |
+| #17| May, 2024 07:00  AM PT (Pacific Time) |  | |
+| #18| June, 2024 07:00  AM PT (Pacific Time) |  | |
+| #19| July, 2024 07:00  AM PT (Pacific Time) |  | |
+| #20| August, 2024 07:00  AM PT (Pacific Time) |  | |
+| #21| September, 2024 07:00  AM PT (Pacific Time) |  | |
+| #22| October 2024 07:00  AM PT (Pacific Time) |  | |
+| #23| November, 2024 07:00  AM PT (Pacific Time) |  | |
+| #24| December, 2024 07:00  AM PT (Pacific Time) |  | |
+| #25| January, 2025 07:00  AM PT (Pacific Time) |  | |
 
 ### Working Group Sessions for Docs 2.0
 
