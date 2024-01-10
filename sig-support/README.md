@@ -39,10 +39,15 @@ sig-support is responsible for defining mechanics of how support works at Akash 
 | #21 | Wed, November 08, 2023 07:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/021-2023-11-08.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/021-2023-11-08.md#transcript)   |[Link](https://tiycqjxd7fzfrflpcqvbtv6urvk4vtbljtwr7kfpebsrd2p7hhvq.arweave.net/mjAoJuP5cliVbxQqGdfUjVXKzCtM7R-oryBlEen_Oes)
 | #22 | Wed, November 22, 2023 07:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/022-2023-11-22.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/022-2023-11-22.md#transcript)   |[Link](https://l5yeilkhvwmpqetchbk2pax4nxmu6miv23cxy7iszl7nvgbk4lka.arweave.net/X3BELUetmPgSYjhVp4L8bdlPMRXWxXx9Esr-2pgq4tQ)
 | #23 | Wed, December 06, 2023 07:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/023-2023-12-06.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/023-2023-12-06.md#transcript)   |[Link](https://hzvr27yxq5skbo2dwiw6yums3dd4ujzhibdn44zpod5ebxslfinq.arweave.net/PmsdfxeHZKC7Q7It7FGS2MfKJydARt5zL3D6QN5LKhs)
-| #24 | Wed, December 20, 2023 07:00 AM PT (Pacific Time) |  |   |
-| #25 | Wed, January 03, 2024 07:00 AM PT (Pacific Time) |  |   |
+| #24 | Wed, December 20, 2023 07:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/24-2023-12-20.md)|[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/24-2023-12-20.md#transcript)|[Link](https://kesic5sqastbfceerxf7d5zcqcumbjpipfw45q6oxxmcguazpotq.arweave.net/USSBdlAEphKIhI3L8fcigKjApeh5bc7Dzr3YI1AZe6c) 
+| #25 | Wed, January 10, 2024 07:00 AM PT (Pacific Time) |  |   |
 | #26 | Wed, January 17, 2024 07:00 AM PT (Pacific Time) |  |   |
 | #27 | Wed, January 31, 2024 07:00 AM PT (Pacific Time) |  |   |
+| #25 | Wed, February 07, 2024 07:00 AM PT (Pacific Time) |  |   |
+| #26 | Wed, February 21, 2024 07:00 AM PT (Pacific Time) |  |   |
+| #27 | Wed, February 28, 2024 07:00 AM PT (Pacific Time) |  |   |
+
+
 
 
 ## Leadership
