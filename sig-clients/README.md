@@ -40,13 +40,23 @@ The goal of this SIG is to foster a community around each of these clients that 
 | #5 | Wednesday, May 17, 2023 10:30 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/005-2023-05-17.md) | [Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/005-2023-05-17.md#transcript)  | [Link](https://ec54ewcb4dlthczxdq26le66vkbfbawecwztk54vcl4taihf4woa.arweave.net/ILvCWEHg1zOLNxw15ZPeqoJQgsQVszV3lRL5MCDl5Zw)
 | #6 | Wednesday, June 21, 2023 10:30 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/006-2023-06-21.md) | [Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/006-2023-06-21.md#transcript)  | [Link](https://7wma24vbcylbmj2q74v24kte6sy7ysjarnbbgozg7p4yh5gnkiaa.arweave.net/_ZgNcqEWFhYnUP8rripk9LH8SSCLQhM7Jvv5g_TNUgA)
 | #7 | Wednesday, July 19, 2023 10:30 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/007-2023-07-19.md)   |[Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/007-2023-07-19.md#transcript)  |[Link](https://cd6v6hartdyqkeqjzqpcdpxcum2dq6lcytnyrtzvgk7joid44xfq.arweave.net/EP1fHBGY8QUSCcweIb7iozQ4eWLE24jPNTK-lyB85cs)
-| #8 | Wednesday, August 16, 2023 10:30 AM PT (Pacific Time) |   |  |
-| #9 | Wednesday, September 20, 2023 10:30 AM PT (Pacific Time) |   |  |
-| #10 | Wednesday, October 18, 2023 10:30 AM PT (Pacific Time) |   |  |
-| #11 | Wednesday, November 15, 2023 10:30 AM PT (Pacific Time) |   |  |
-| #12 | Wednesday, December 20, 2023 10:30 AM PT (Pacific Time) |   |  |
-| #13 | Wednesday, January 17, 2024 10:30 AM PT (Pacific Time) |   |  |
-| #14 | Wednesday, February 21, 2024 10:30 AM PT (Pacific Time) |   |  |
+| #8 | Wednesday, August 16, 2023 10:30 AM PT (Pacific Time) |Coming Soon   |Coming Soon  |[Link](https://56oikxuxws6ewboifrwsgwvq2da4gzrg23sx7u5bldufgusgpc5q.arweave.net/75yFXpe0vEsFyCxtI1qw0MHDZibW5X_ToVjoU1JGeLs)
+| #9 | Wednesday, September 20, 2023 10:30 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/009-2023-09-20.md)  | [Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/009-2023-09-20.md#transcript)  |[Link](https://hy3zv6e5mxhxnese25p5cupfitg236o6aeivmow6fxfvpnqmjr3q.arweave.net/Pjea-J1lz3aSRNdf0VHlRM2t-d4BEVY63i3LV7YMTHc)
+| #10 | Wednesday, October 18, 2023 10:30 AM PT (Pacific Time) |  [Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/010-2023-10-18.md)  | [Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/010-2023-10-18.md#transcript)  |[Link](https://yofgxnfxaqk4jruuwko7pyrfckw27dtg5thp6c6bv2sfvfq66jla.arweave.net/w4prtLcEFcTGlLKd9-IlEq2vjmbszv8Lwa6kWpYe8lY)
+| #11 | Monday, December 18th, 2023 08:30 AM PT (Pacific Time) |   |  |
+| #12 | Wednesday, January 17, 2024 10:30 AM PT (Pacific Time) |   |  |
+| #13 | Wednesday, February 21, 2024 10:30 AM PT (Pacific Time) |   |  |
+| #14| March, 2024 10:30 AM PT (Pacific Time) |  | |
+| #15| April, 2024 10:30 AM PT (Pacific Time) |  | |
+| #16| May, 2024 10:30 AM PT (Pacific Time) |  | |
+| #17| June, 2024 10:30 AM PT (Pacific Time) |  | |
+| #18| July, 2024 10:30 AM PT (Pacific Time) |  | |
+| #19| August, 2024 10:30 AM PT (Pacific Time) |  | |
+| #20| September, 2024 10:30 AM PT (Pacific Time) |  | |
+| #21| October 2024 10:30 AM PT (Pacific Time) |  | |
+| #22| November, 2024 10:30 AM PT (Pacific Time) |  | |
+| #23| December, 2024 10:30 AM PT (Pacific Time) |  | |
+| #24| January, 2025 10:30 AM PT (Pacific Time) |  | |
 
 ## Leadership
 

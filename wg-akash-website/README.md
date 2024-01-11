@@ -16,23 +16,21 @@ This working group is responsible for managing and improving the Akash Network W
 | #4 | April 18, 2023 08:30 AM PT (Pacific Time)|[Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/004-2023-04-18.md) |[Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/004-2023-04-18.md#transcript) | [Link](https://3lwm6hsjp3oegyqavdltmteedm5byrrbxhmno5tl3o4arp7roqzq.arweave.net/2uzPHkl-3ENiAKjXNkyEGzocRiG52Nd2a9u4CL_xdDM)
 | #5 | Tuesday, May 16, 2023 08:30 AM PT (Pacific Time)|[Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/004-2023-05-16.md) |[Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/005-2023-05-16.md#transcript) | [Link](https://5u5wsfaozhazriqhpayhplg44zbxgqo5nv3qdyfpeimwxwxbsghq.arweave.net/7TtpFA7JwZiiB3gwd6zc5kNzQd1tdwHgryIZa9rhkY8)
 | #6 | Thursday, June 13, 2023 08:30 AM PT (Pacific Time)|[Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/006-2023-06-13.md)  |[Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/006-2023-06-13.md#transcript)  | [Link](https://bud2d33f4pwvvrxcsfyfo227gfhq3pldl5isjs5ld6c362kcakaa.arweave.net/DQeh72Xj7VrG4pFwV2tfMU8NvWNfUSTLqx-Fv2lCAoA)
-| #7 | Tuesday, June 27, 2023 08:30 AM PT (Pacific Time)| Coming Soon  | Coming Soon  | [Link](https://p77yiz5lalar6mgma6moiew6zcw2hpcpz7tvc2oa3q4kr7e3zxda.arweave.net/f_-EZ6sCwR8wzAeY5BLeyK2jvE_P51FpwNw4qPybzcY)
-| #8 | Thursday, August 10, 2023 06:30 AM PT (Pacific Time)| Coming Soon | Coming Soon | [Link](https://s4xeygkmhljsn4hntjfy3iwouyso2x5doxxvvlhvyjfraudrv4aa.arweave.net/ly5MGUw60ybw7ZpLjaLOpiTtX6N171qs9cJLEFBxrwA)
-| #9 | Thursday, August 17, 2023 06:30 AM PT (Pacific Time)|Coming Soon  | Coming Soon  | [Link](https://uqbnueeye424hiv7umqeebeow3umxvbi2beve2moiuelabowtcqq.arweave.net/pALaEJgnNcOiv6MgQgSOtujL1CjQSVJpjkUIsAXWmKE)
-| #10 | Thursday, August 24, 2023 07:30 AM PT (Pacific Time)| Coming Soon  | Coming Soon  |[Link](https://fn5tkawv3bu7oostaqau53jaz55vpz54mm3r7auowlxtxxfmlwga.arweave.net/K3s1AtXYafc6UwQBTu0gz3tX57xjNx-CjrLvO9ysXYw)
-| #11 | Thursday, August 31, 2023 06:30 AM PT (Pacific Time)| ||
-| #12 | Thursday, September 07, 2023 06:30 AM PT (Pacific Time)| ||
-| #13 | Thursday, September 14, 2023 06:30 AM PT (Pacific Time)| ||
-| #14 | Thursday, September 21, 2023 06:30 AM PT (Pacific Time)| ||
-| #15 | Thursday, September 28, 2023 06:30 AM PT (Pacific Time)| ||
-| #16 | Thursday, October 05, 2023 06:30 AM PT (Pacific Time)| ||
-| #17 | Thursday, October 12, 2023 06:30 AM PT (Pacific Time)| ||
-| #18 | Thursday, October 19, 2023 06:30 AM PT (Pacific Time)| ||
-| #19 | Thursday, October 26, 2023 06:30 AM PT (Pacific Time)| ||
-| #20 | Thursday, November 02, 2023 06:30 AM PT (Pacific Time)| ||
-
-
-
+| #7 | Tuesday, June 27, 2023 08:30 AM PT (Pacific Time)| [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/007-2023-06-27.md)  | [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/007-2023-06-27.md#Transcript)  | [Link](https://p77yiz5lalar6mgma6moiew6zcw2hpcpz7tvc2oa3q4kr7e3zxda.arweave.net/f_-EZ6sCwR8wzAeY5BLeyK2jvE_P51FpwNw4qPybzcY)
+| #8 | Thursday, August 10, 2023 06:30 AM PT (Pacific Time)| [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/008-2023-08-10.md) | [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/008-2023-08-10.md#Transcript) | [Link](https://s4xeygkmhljsn4hntjfy3iwouyso2x5doxxvvlhvyjfraudrv4aa.arweave.net/ly5MGUw60ybw7ZpLjaLOpiTtX6N171qs9cJLEFBxrwA)
+| #9 | Thursday, August 17, 2023 06:30 AM PT (Pacific Time)|[Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/009-2023-08-17.md) | [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/009-2023-08-17.md#Transcript)  | [Link](https://uqbnueeye424hiv7umqeebeow3umxvbi2beve2moiuelabowtcqq.arweave.net/pALaEJgnNcOiv6MgQgSOtujL1CjQSVJpjkUIsAXWmKE)
+| #10 | Thursday, August 24, 2023 07:30 AM PT (Pacific Time)| [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/010-2023-08-24.md) | [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/010-2023-08-24.md#Transcript)  |[Link](https://fn5tkawv3bu7oostaqau53jaz55vpz54mm3r7auowlxtxxfmlwga.arweave.net/K3s1AtXYafc6UwQBTu0gz3tX57xjNx-CjrLvO9ysXYw)
+| #11 | Thursday, September 14, 2023 06:30 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/011-2023-09-14.md) | [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/011-2023-09-14.md#Transcript)  |[Link](https://s7n2e2tfghnhjtwc3wse3vnami7vmza7npbr65i4orqb3mfmrpba.arweave.net/l9uiamUx2nTOwt2kTdWgYj9WZB9rwx91HHRgHbCsi8I)
+| #12 | Thursday, October 12, 2023 06:30 AM PT (Pacific Time)| [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/012-2023-10-12.md) |[Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/012-2023-10-12.md#Transcript) | [Link](https://5gn7dg3s3faifxnf6w5uqoabieslbqre2ywps2nyhotoc54tvsiq.arweave.net/6Zvxm3LZQILdpfW7SDgBQSSwwiTWLPlpuDum4XeTrJE) 
+| #13 | Thursday, October 19, 2023 06:30 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/013-2023-10-19.md) | [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/013-2023-10-19.md#Transcript)  |[Link](https://s7n2e2tfghnhjtwc3wse3vnami7vmza7npbr65i4orqb3mfmrpba.arweave.net/l9uiamUx2nTOwt2kTdWgYj9WZB9rwx91HHRgHbCsi8I)
+| #14 | Thursday, October 26, 2023 06:30 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/014-2023-10-26.md) | [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/014-2023-10-26.md#Transcript)  |[Link](https://z5ffy5w2liqufhaktycxtjmyyfbrpe5ewae72o7kviwi4eigwrna.arweave.net/z0pcdtpaIUKcCp4FeaWYwUMXk6SwCf076qosjhEGtFo)
+| #15 | Thursday, November 02, 2023 06:30 AM PT (Pacific Time)| [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/015-2023-11-02.md)| [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/015-2023-11-02.md#Transcript) | [Link](https://5yiuwpekrvtf2cbtg7nlfoox2nccndvl5iydxvqzbv2ppfyomvia.arweave.net/7hFLPIqNZl0IMzfasrnX00QmjqvqMDvWGQ1095cOZVA)
+| #16 | Thursday, November 09, 2023 06:30 AM PT (Pacific Time)| Coming soon | Coming soon| Coming Soon
+| #17 | Thursday, November 16, 2023 06:30 AM PT (Pacific Time)| [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/017-2023-11-16.md) | [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/017-2023-11-16.md#Transcript) | [Link](https://yn2ux6akmd2wog533saw3cl66agmv37r364jgx3n3u5envp6m2iq.arweave.net/w3VL-Apg9Wcbu9yBbYl-8AzK7_HfuJNfbd06RtX-ZpE)
+| #18 | Thursday, November 27, 2023 06:30 AM PT (Pacific Time)| [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/018-2023-11-27.md) | [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/018-2023-11-27.md#Transcript) | [Link](https://svuqqu3fnqzburnqmdfrvy6bsku3fef2uzsbmspouj5mo2r4gjmq.arweave.net/lWkIU2VsMhpFsGDLGuPBkqmykLqmZBZJ7qJ6x2o8Mlk)
+| #19 | Thursday, November 30, 2023 06:30 AM PT (Pacific Time)| [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/019-2023-11-30.md) | [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/019-2023-11-30.md#Transcript) | [Link](https://ljuj3z4qnrttv4kg3z5owik37rofcpakeuwvmpqbiesastrh2coq.arweave.net/Wmid55BsZzrxRt566yFb_FxRPAolLVY-AUEkCU4n0J0) 
+| #20 | Thursday, December 07, 2023 06:30 AM PT (Pacific Time)| [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/020-2023-12-07.md)|[Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/020-2023-12-07.md#Transcript)| [Link](https://bmafqxmmyqqxc65uxwkpgetv4r6yzlx6g3wsfzqqahumvzo4hrmq.arweave.net/CwBYXYzEIXF7tL2U8xJ15H2Mrv427SLmEAHoyuXcPFk) 
+| #21 | Thursday, December 14, 2023 06:30 AM PT (Pacific Time)| Coming soon | Coming soon| Coming Soon
 
 
 ## Leads
@@ -40,6 +38,7 @@ This working group is responsible for managing and improving the Akash Network W
 - Denis Lelic
 - Tyler Wright
 - Zach Horn
+
 
 ## Contacts
 
