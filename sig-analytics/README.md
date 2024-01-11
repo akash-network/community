@@ -10,9 +10,9 @@ Analytics Special Interest Group is dedicated to defining and building tools tha
 
 # Meetings
 
-### Monthly on the second Thursday
+### Every Two Months on the second Thursday
 
-#### Feel free to join every month. See meeting table and calendar for specific times.
+#### Feel free to join every other month. See meeting table and calendar for specific times.
 
 #### [Add the Akash Community Group Calendar](https://calendar.google.com/calendar/u/0?cid=Y18yNWU1ZTM3NDhlNGM0YWI3YTU1ZjQxZmJjNWViZWJjYzBhMDNiNDBmYjAyODc4NWYxNDE1OWJmYWViZWExMmUyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
@@ -29,20 +29,14 @@ Analytics Special Interest Group is dedicated to defining and building tools tha
 | #7 | Thursday, August 10, 2023 09:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-analytics/meetings/007-2023-08-11.md) | [Link](https://github.com/akash-network/community/blob/main/sig-analytics/meetings/007-2023-08-11.md#transcript) |[Link](https://kqbknw24m7hpcjg4hfd2dtg4ozhiqsi4zbjdtjycxw6omyhzvfka.arweave.net/VAKm21xnzvEk3DlHoczcdk6ISRzIUjmnAr285mD5qVQ)
 | #8 | Thursday, September 14, 2023 09:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-analytics/meetings/008-2023-09-14.md)    |[Link](https://github.com/akash-network/community/blob/main/sig-analytics/meetings/008-2023-09-14.md#Transcript)   | [Link](https://t5tmhypnhybd3jpbk3amizf6m2pl66msvvbhlqjyqnynouil4ksa.arweave.net/n2bD4e0-Aj2l4VbAxGS-Zp6_eZKtQnXBOINw11EL4qQ)
 | #9 | Thursday, October 12, 2023 09:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-analytics/meetings/009-2023-10-12.md)    | [Link](https://github.com/akash-network/community/blob/main/sig-analytics/meetings/009-2023-10-12.md#transcript)   | [Link](https://v5ixigio4enkf7qhvlmzfptnlx6zkdite2skrznyil2d3xih6ana.arweave.net/r1F0GQ7hGqL-B6rZkr5tXf2VDRMmpKjluEL0Pd0H8Bo)
-| #10| Thursday, December 14, 2023 09:00 AM PT (Pacific Time) |    |   | 
-| #11| Thursday, January 11, 2024 09:00 AM PT (Pacific Time) |  | |
-| #12| Thursday, February 08, 2024 09:00 AM PT (Pacific Time) |  | |
-| #13| March, 2024 09:00 AM PT (Pacific Time) |  | |
-| #14| April, 2024 09:00 AM PT (Pacific Time) |  | |
-| #15| May, 2024 09:00 AM PT (Pacific Time) |  | |
-| #16| June, 2024 09:00 AM PT (Pacific Time) |  | |
-| #17| July, 2024 09:00 AM PT (Pacific Time) |  | |
-| #18| August, 2024 09:00 AM PT (Pacific Time) |  | |
-| #19| September, 2024 09:00 AM PT (Pacific Time) |  | |
-| #20| October 2024 09:00 AM PT (Pacific Time) |  | |
-| #21| November, 2024 09:00 AM PT (Pacific Time) |  | |
-| #22| December, 2024 09:00 AM PT (Pacific Time) |  | |
-| #23| January, 2025 09:00 AM PT (Pacific Time) |  | |
+| #10| Thursday, December 14, 2023 09:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-analytics/meetings/010-2023-12-14.md)    |[Link](https://github.com/akash-network/community/blob/main/sig-analytics/meetings/010-2023-12-14.md#transcript)   | [Link](https://ek6ahcmxfv2mnwpitrfidefkzfm6razh4zlv7cuowuue5tnrqy4q.arweave.net/IrwDiZctdMbZ6JxKgZCqyVnogyfmV1-KjrUoTs2xhjk)
+| #11| Thursday, February 15, 2024 09:00 AM PT (Pacific Time) |  | |
+| #12| April, 2024 09:00 AM PT (Pacific Time) |  | |
+| #13| June, 2024 09:00 AM PT (Pacific Time) |  | |
+| #14| August, 2024 09:00 AM PT (Pacific Time) |  | |
+| #15| October 2024 09:00 AM PT (Pacific Time) |  | |
+| #16| December, 2024 09:00 AM PT (Pacific Time) |  | |
+
 
 
 
