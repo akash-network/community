@@ -28,8 +28,8 @@ This working group is responsible for managing and improving the Akash Network W
 | #16 | Thursday, November 09, 2023 06:30 AM PT (Pacific Time)| Coming soon | Coming soon| Coming Soon
 | #17 | Thursday, November 16, 2023 06:30 AM PT (Pacific Time)| [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/017-2023-11-16.md) | [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/017-2023-11-16.md#Transcript) | [Link](https://yn2ux6akmd2wog533saw3cl66agmv37r364jgx3n3u5envp6m2iq.arweave.net/w3VL-Apg9Wcbu9yBbYl-8AzK7_HfuJNfbd06RtX-ZpE)
 | #18 | Thursday, November 27, 2023 06:30 AM PT (Pacific Time)| [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/018-2023-11-27.md) | [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/018-2023-11-27.md#Transcript) | [Link](https://svuqqu3fnqzburnqmdfrvy6bsku3fef2uzsbmspouj5mo2r4gjmq.arweave.net/lWkIU2VsMhpFsGDLGuPBkqmykLqmZBZJ7qJ6x2o8Mlk)
-| #19 | Thursday, November 30, 2023 06:30 AM PT (Pacific Time)| Coming soon | Coming soon| Coming Soon
-| #20 | Thursday, December 07, 2023 06:30 AM PT (Pacific Time)| Coming soon | Coming soon| Coming Soon
+| #19 | Thursday, November 30, 2023 06:30 AM PT (Pacific Time)| [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/019-2023-11-30.md) | [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/019-2023-11-30.md#Transcript) | [Link](https://ljuj3z4qnrttv4kg3z5owik37rofcpakeuwvmpqbiesastrh2coq.arweave.net/Wmid55BsZzrxRt566yFb_FxRPAolLVY-AUEkCU4n0J0) 
+| #20 | Thursday, December 07, 2023 06:30 AM PT (Pacific Time)| [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/020-2023-12-07.md)|[Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/020-2023-12-07.md#Transcript)| [Link](https://bmafqxmmyqqxc65uxwkpgetv4r6yzlx6g3wsfzqqahumvzo4hrmq.arweave.net/CwBYXYzEIXF7tL2U8xJ15H2Mrv427SLmEAHoyuXcPFk) 
 | #21 | Thursday, December 14, 2023 06:30 AM PT (Pacific Time)| Coming soon | Coming soon| Coming Soon
 
 

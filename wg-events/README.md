@@ -14,12 +14,12 @@ This working group is to discuss events to attend, year by year, and ways to enc
 | #2 | Wednesday April 19, 2023 10:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/wg-events/meetings/wg-events-002-2023-04-14.md) | [Link](https://github.com/akash-network/community/blob/main/wg-events/meetings/wg-events-002-2023-04-14.md#transcript) | Coming Soon
 
 
+
 ## wg-events 2024 Meetings
 | Meeting | Time | Notes | Transcript | Recording
 | --- | --- | --- | --- | --- |
-| #1 |  | |  | Coming Soon
-| #2 |  |  | | Coming Soon
-
+| #1| Wednesday October 25, 2023 10:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/wg-events/meetings-2024/001-2023-10-25.md) | [Link](https://github.com/akash-network/community/blob/main/wg-events/meetings-2024/001-2023-10-25.md#transcript) | [Link](https://bts4wsldpu6iuvcvdvsbncztc7whshy4izdsugaho3j74nq2pcla.arweave.net/DOXLSWN9PIpUVR1kFoszF-x5HxxGRyoYB3bT_jYaeJY) 
+| #2| Friday November 03, 2023 10:00 AM PT (Pacific Time) |Coming Soon | Coming Soon | Coming Soon
 ## Lead
 
 Adam Wozney (Overclock Labs)
