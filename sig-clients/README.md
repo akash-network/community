@@ -43,7 +43,7 @@ The goal of this SIG is to foster a community around each of these clients that 
 | #8 | Wednesday, August 16, 2023 10:30 AM PT (Pacific Time) |Coming Soon   |Coming Soon  |[Link](https://56oikxuxws6ewboifrwsgwvq2da4gzrg23sx7u5bldufgusgpc5q.arweave.net/75yFXpe0vEsFyCxtI1qw0MHDZibW5X_ToVjoU1JGeLs)
 | #9 | Wednesday, September 20, 2023 10:30 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/009-2023-09-20.md)  | [Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/009-2023-09-20.md#transcript)  |[Link](https://hy3zv6e5mxhxnese25p5cupfitg236o6aeivmow6fxfvpnqmjr3q.arweave.net/Pjea-J1lz3aSRNdf0VHlRM2t-d4BEVY63i3LV7YMTHc)
 | #10 | Wednesday, October 18, 2023 10:30 AM PT (Pacific Time) |  [Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/010-2023-10-18.md)  | [Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/010-2023-10-18.md#transcript)  |[Link](https://yofgxnfxaqk4jruuwko7pyrfckw27dtg5thp6c6bv2sfvfq66jla.arweave.net/w4prtLcEFcTGlLKd9-IlEq2vjmbszv8Lwa6kWpYe8lY)
-| #11 | Monday, December 18th, 2023 08:30 AM PT (Pacific Time) |   |  |
+| #11 | Monday, December 18th, 2023 08:30 AM PT (Pacific Time) |Coming Soon   |Coming Soon  |[Link](https://msr577epylf5qgo6aexm2xbblsreurfi2pgy5ed5ssdw6ztgkxwq.arweave.net/ZKPf_I_Cy9gZ3gEuzVwhXKJKRKjTzY6QfZSHb2ZmVe0)
 | #12 | Wednesday, January 17, 2024 10:30 AM PT (Pacific Time) |   |  |
 | #13 | Wednesday, February 21, 2024 10:30 AM PT (Pacific Time) |   |  |
 | #14| March, 2024 10:30 AM PT (Pacific Time) |  | |
