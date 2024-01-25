@@ -24,23 +24,37 @@ The Steering Committee is a special SIG that periodically evaluates the list of 
 | Wednesday, August 30, 2023 11:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/008-2023-08-30.md)   |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/008-2023-08-30.md#transcript)  |[Link](https://6bmxztaobmi5ox6n3nv5f6hgz7cwn7y7qxkp7ureegcbxswq4yxa.arweave.net/8Fl8zA4LEddfzdtr0vjmz8Vm_x-F1P_SJCGEG8rQ5i4)
 | Thursday, September 28, 2023 11:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/009-2023-09-28.md)   |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/009-2023-09-28.md#transcript)  |[Link](https://bw2dirmu4darmwcx74o24hzfkjzs7f33grrc5rdihgysff4kxyta.arweave.net/DbQ0RZTgwRZYV_8drh8lUnMvl3s0Yi7EaDmxIpeKviY)
 | Wednesday, November 1, 2023 11:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/010-2023-11-01.md)   |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/010-2023-11-01.md#transcript)  |[Link](https://4yrnmjlm3nco2ccfkbkv67s6cfgvgrge7op5dfwnv6gn46mueqxa.arweave.net/5iLWJWzbRO0IRVBVX35eEU1TRMT7n9GWza-M3nmUJC4)
-| Thursday, December 07, 2023 11:00 AM PT (Pacific Time) |   |  |
-| Thursday, January 11, 2024 11:00 AM PT (Pacific Time) |   |  |
+| Thursday, December 07, 2023 11:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/011-2023-12-07.md)   |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/011-2023-12-07.md#transcript)  |[Link](https://k6mud4r2ua6xarj6c5zqtkxw6fzjrvzjzu6eotsyhsmotles2gaq.arweave.net/V5lB8jqgPXBFPhdzCar28XKY1ynNPEdOWDyY6ayS0YE)
 | Thursday, January 25, 2024 11:00 AM PT (Pacific Time) |   |  |
 | Thursday, February 29, 2024 11:00 AM PT (Pacific Time) |   |  |
+| Thursday, March 28, 2024 11:00 AM PT (Pacific Time) |   |  |
+| Thursday, April 25, 2024 11:00 AM PT (Pacific Time) |   |  |
+| Thursday, May 30, 2024 11:00 AM PT (Pacific Time) |   |  |
+| Thursday, June 27, 2024 11:00 AM PT (Pacific Time) |   |  |
+| Thursday, July 25, 2024 11:00 AM PT (Pacific Time) |   |  |
+| Thursday, August 29, 2024 11:00 AM PT (Pacific Time) |   |  |
+| Thursday, September 26, 2024 11:00 AM PT (Pacific Time) |   |  |
+| Thursday, October 31, 2024 11:00 AM PT (Pacific Time) |   |  |
+| Thursday, November 28, 2024 11:00 AM PT (Pacific Time) |   |  |
+| Thursday, December 19, 2024 11:00 AM PT (Pacific Time) |   |  |
 
 ### Typical Agenda
 
 - Review/ discuss/ address any community feedback, greviances or conflicts
 - Review [projects list](../projects-list/README.md), prioritize/ add/ remove if necessary
-- Review any new [Github Discussions](https://github.com/orgs/akash-network/discussions)
+- Review any new [Github Discussions](https://github.com/orgs/akash-network/discussions).
+  - Since we're limited on time, discussion topics and proposals will be chosen based on the following criteria:
+      1. When was the discussion topic created? (older ones that have not been discussed in SC yet get priority)
+      2. Has there been discussions in the specific SIG that it applies to? (for example - incentives in sig-provider, spheron stuff in sig-clients etc). SC shouldn't be spending time on ones that haven't been discussed in the respective sigs.
+      3. What level of engagement has there been on the discussion thread itself? (ones with higher engagement should be prioritized over others).
+      4. Is the champion of the initiative on this call? (not being there to talk about your proposal means we don't spend time on it).
+      5. Is the champion someone who is currently active in the community? (generally priority to people that actively participate in other discussions as well is discord and sig/ wg calls)
 - Open up to any other questions from the participants
 
 ## Leadership
 
 The Steering Commitee is initially comprised of the following members who have the most familiarity with Akash Network but the meetings are public and anyone is welcome to attend and listen-in.
 
-- Adam Bozanich, Overclock Labs
 - Anil Murty, Overclock Labs
 - Artur Troian, Overclock Labs
 - Greg Osuri, Overclock Labs
