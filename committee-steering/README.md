@@ -42,7 +42,13 @@ The Steering Committee is a special SIG that periodically evaluates the list of 
 
 - Review/ discuss/ address any community feedback, greviances or conflicts
 - Review [projects list](../projects-list/README.md), prioritize/ add/ remove if necessary
-- Review any new [Github Discussions](https://github.com/orgs/akash-network/discussions)
+- Review any new [Github Discussions](https://github.com/orgs/akash-network/discussions).
+  - Since we're limited on time, discussion topics and proposals will be chosen based on the following criteria:
+      1. When was the discussion topic created? (older ones that have not been discussed in SC yet get priority)
+      2. Has there been discussions in the specific SIG that it applies to? (for example - incentives in sig-provider, spheron stuff in sig-clients etc). SC shouldn't be spending time on ones that haven't been discussed in the respective sigs.
+      3. What level of engagement has there been on the discussion thread itself? (ones with higher engagement should be prioritized over others).
+      4. Is the champion of the initiative on this call? (not being there to talk about your proposal means we don't spend time on it).
+      5. Is the champion someone who is currently active in the community? (generally priority to people that actively participate in other discussions as well is discord and sig/ wg calls)
 - Open up to any other questions from the participants
 
 ## Leadership
