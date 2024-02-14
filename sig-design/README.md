@@ -28,7 +28,7 @@ date: 2023-1-09T00:19:20-08:00
 | #11 | Wednesday, November 08, 2023 08:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-design/meetings/011-2023-11-08.md) |[Link](https://github.com/akash-network/community/blob/main/sig-design/meetings/011-2023-11-08.md#transcript)| [Link](https://mctlnmdevhysanes52tbok6kbc3mgbsgnn6qemc35xhanfc2x67q.arweave.net/YKa2sGSp8SA0ku6mFyvKCLbDBkZrfQIwW-3OBpRav78)
 | #12| Wednesday, December 13, 2023 08:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-design/meetings/012-2023-12-13.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-design/meetings/012-2023-12-13.md#transcript) | [Link](https://une76rieq3cvbtrnjv3gxaw6kbxaay3tnzqsangya2lfe6ionpva.arweave.net/o0n_RQSGxVDOLU12a4LeUG4AY3NuYSA02AaWUnkOa-o)
 | #13| Wednesday, January 10, 2024 08:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-design/meetings/013-2024-01-10.md) | [Link](https://github.com/akash-network/community/blob/main/sig-design/meetings/013-2024-01-10.md#transcript) | [Link](https://zao4urnjuqb6ncx2vacwjuqiyqnucl2ifcfm33blijhw6v6owzla.arweave.net/yB3KRamkA-aK-qgFZNIIxBtBL0gois3sK0JPb1fOtlY)
-| #14| Wednesday, February 14, 2024 08:00 AM PT (Pacific Time) |  | | 
+| #14| Wednesday, February 21st, 2024 08:00 AM PT (Pacific Time) |  | | 
 | #15| March, 2024 08:00 AM PT (Pacific Time) |  | |
 | #16| April, 2024 08:00 AM PT (Pacific Time) |  | |
 | #17| May, 2024 08:00 AM PT (Pacific Time) |  | |
