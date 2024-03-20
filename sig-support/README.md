@@ -42,11 +42,15 @@ sig-support is responsible for defining mechanics of how support works at Akash 
 | #24 | Wed, December 20, 2023 07:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/24-2023-12-20.md)|[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/24-2023-12-20.md#transcript)|[Link](https://kesic5sqastbfceerxf7d5zcqcumbjpipfw45q6oxxmcguazpotq.arweave.net/USSBdlAEphKIhI3L8fcigKjApeh5bc7Dzr3YI1AZe6c) 
 | #25 | Wed, January 10, 2024 07:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/025-2024-01-10.md) |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/025-2024-01-10.md#transcript) |[Link](https://p263aeernjmdkonkrihc227wya76yjyvivs5pkojdjx63unz4lha.arweave.net/fr2wEJFqWDU5qooOLWv2wD_sJxVFZdepyRpv7dG54s4) 
 | #26 | Wed, January 24, 2024 07:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/026-2024-01-24.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/026-2024-01-24.md#transcript) |[Link](https://47vntytp4ni2s5p2h2qyh5nuqywowtwne2fx4ddudv7iyl3hu5rq.arweave.net/5-rZ4m_jUal1-j6hg_W0hizrTs0mi34MdB1-jC9np2M) 
-| #27 | Wed, February 07, 2024 07:00 AM PT (Pacific Time) |  |   |
-| #25 | Wed, February 21, 2024 07:00 AM PT (Pacific Time) |  |   |
-| #26 | Wed, March 06, 2024 07:00 AM PT (Pacific Time) |  |   |
-| #27 | Wed, March 20, 2024 07:00 AM PT (Pacific Time) |  |   |
-
+| #27 | Wed, February 21, 2024 07:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/027-2024-02-21.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/027-2024-02-21.md#transcript)   |[Link](https://cwya3qcl4ejhb75ct5d4vgcoyhsce46zvv2q42khi6kc76qhsxpq.arweave.net/FbANwEvhEnD_op9HyphOweQic9mtdQ5pR0eUL_oHld8)
+| #28 | Wed, March 06, 2024 07:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/028-2024-03-06.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/028-2024-03-06.md#transcript)   |[Link](https://xut7rmdqwninrlvm75t7cxmmpgrt4tyboramnw3b2rcpaa6gy76a.arweave.net/vSf4sHCzUNiurP9n8V2MeaM-TwF0QMbbYdRE8APGx_w)
+| #29 | Wed, March 20, 2024 08:00 AM PT (Pacific Time) |  |   |
+| #30 | Wed, April 30, 2024 08:00 AM PT (Pacific Time) |  |   |
+| #31 | Wed, April 17, 2024 08:00 AM PT (Pacific Time) |  |   |
+| #32 | Wed, May 01, 2024 08:00 AM PT (Pacific Time) |  |   |
+| #33 | Wed, May 15, 2024 08:00 AM PT (Pacific Time) |  |   |
+| #34 | Wed, May 29, 2024 08:00 AM PT (Pacific Time) |  |   |
+| #35 | Wed, June 12, 2024 08:00 AM PT (Pacific Time) |  |   |
 
 
 
