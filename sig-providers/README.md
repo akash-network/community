@@ -27,9 +27,9 @@ Provider SIG covers everything pertinent to Providers on Akash Network. This inc
 | #10 | Wednesday, October 25, 2024 08:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/010-2023-10-25.md)   |[Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/010-2023-10-25.md#transcript)  |[Link](https://2aefpzwgiwj6jzkl5fdsn7us3pjprpnpkoqqrrsu6bjaukktnxya.arweave.net/0AhX5sZFk-TlS-lHJv6S29L4va9ToQjGVPBSCilTbfA)
 | #11 | Wednesday, November 22, 2024 08:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/011-2023-11-22.md)| [Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/011-2023-11-22.md#transcript)|[Link](https://2ubf2cciht62e3qpxjur4h3ihccbyk6v2hbanktvxq2wcnifp5sa.arweave.net/1QJdCEg8_aJuD7ppHh9oOIQcK9XRwgaqdbw1YTUFf2Q) 
 | #12 | Wednesday, December 13, 2023 08:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/012-2023-12-13.md)|[Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/012-2023-12-13.md#transcript)|[Link](https://ro5kevc2mbgfpzyb7ufa5bor6thecu23sbzrqrham53ivpiljp2q.arweave.net/i7qiVFpgTFfnAf0KDoXR9M5BU1uQcxhE4Gd2ir0LS_U)
-| #13 | Wednesday, January 24, 2024 08:00 AM PT (Pacific Time) |   |  |
-| #14 | Wednesday, February 28, 2024 08:00 AM PT (Pacific Time) |   |  |
-| #15| March, 2024 08:00  AM PT (Pacific Time) |  | |
+| #13 | Wednesday, January 24, 2024 08:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/013-2024-01-24.md)   |[Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/013-2024-01-24.md#transcript)  |[Link](https://7jnmboxzie2zlrw5nrmwu7ddgmzxiaywbjvmbx2xpr5qmfss7s3a.arweave.net/-lrAuvlBNZXG3WxZanxjMzN0AxYKasDfV3x7BhZS_LY)
+| #14 | Wednesday, February 28, 2024 08:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/014-2024-02-28.md)   |[Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/014-2024-02-28.md#transcript)  | Coming Soon
+| #15| March 27, 2024 08:00  AM PT (Pacific Time) |  | |
 | #16| April, 2024 08:00  AM PT (Pacific Time) |  | |
 | #17| May, 2024 08:00  AM PT (Pacific Time) |  | |
 | #18| June, 2024 08:00  AM PT (Pacific Time) |  | |
