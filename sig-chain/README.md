@@ -25,9 +25,9 @@ date: 2023-1-09T00:19:20-08:00
 | #10 | Wednesday, November 08, 2023 09:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-chain/meetings/011-2023-11-08.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-chain/meetings/011-2023-11-08.md#transcript) |[Link](https://sshyyg4r3uoeixzudilhwdkncekgk3yw5m6mulso6foidluersuq.arweave.net/lI-MG5HdHERfNBoWew1NERRlbxbrPMouTvFcga6EjKk)
 | #11| Tuesday, December 05, 2023 09:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-chain/meetings/011-2023-12-05.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-chain/meetings/011-2023-12-05.md#transcript) |[Link](https://ak4u4umlhafhkfu5jjckivcgokrrwkzzitwtwpoy5axl6soc5paq.arweave.net/ArlOUYs4CnUWnUpEpFRGcqMbKzlE7Ts92Oguv0nC68E)
 | #12| Tuesday, January 09, 2024 09:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-chain/meetings/012-2024-01-09.md)|[Link](https://github.com/akash-network/community/blob/main/sig-chain/meetings/012-2024-01-09.md#transcript) |[Link](https://p2eg6ctrzmvcgqmibhpnvtje32gi3rt3nzdyjocfohwt6kiddsma.arweave.net/fohvCnHLKiNBiAne2s0k3oyNxntuR4S4RXHtPykDHJg) 
-| #13| Tuesday, February 06, 2024 09:00 AM PT (Pacific Time) |  | |
-| #14| March, 2024 09:00 AM PT (Pacific Time) |  | |
-| #15| April, 2024 09:00 AM PT (Pacific Time) |  | |
+| #13| Tuesday, February 13, 2024 08:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-chain/meetings/013-2024-02-13.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-chain/meetings/013-2024-02-13.md#transcript) |[Link](https://swcn57cpu3ttvpgaf7e52xsv5wil57wtyredtvnd6bprntawwl3a.arweave.net/lYTe_E-m5zq8wC_J3V5V7ZC-_tPESDnVo_BfFswWsvY)
+| #14| March 12, 2024 08:00 AM PT (Pacific Time) |  | |
+| #15| April 09, 2024 08:00 AM PT (Pacific Time) |  | |
 | #16| May, 2024 09:00 AM PT (Pacific Time) |  | |
 | #17| June, 2024 09:00 AM PT (Pacific Time) |  | |
 | #18| July, 2024 09:00 AM PT (Pacific Time) |  | |
