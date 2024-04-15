@@ -1,15 +1,5 @@
 ---
 name: "[Provider Audit] Template"
-about: This is a template for all Akash Providers looking to be audited. Please fill
-  out all fields below.
-title: ''
-labels: Provider Audit
-assignees: brewsterdrinkwater, andy108369
-
----
-
----
-name: "[Provider Audit] Template"
 about: This is for Akash users interested in having their providers audited by Akash
 title: "[Provider Audit] Template"
 labels: Provider Audit
@@ -18,7 +8,7 @@ assignees: andy108369
 ---
 ## Prerequisite Steps:
 
-### 1. Make sure your provider has community provider attributes:
+### 1. Make sure your provider has community provider attributes and your contact details (email, website):
 
 ```
   Example:
@@ -30,10 +20,13 @@ assignees: andy108369
   value: akash
   - key: tier
   value: community
+  info:
+    email: "<your email>"
+    website: "<your website>"
 
 ```
 
-[Ref documentation:](https://docs.akash.network/providers/akash-audited-attributes#standard-attributes).
+[Ref documentation:](https://akash.network/docs/providers/akash-audites-atributes/#attribute-auditors).
 
 ### 2. Make sure your provider *.ingress resolves to your provider IP (ideally worker node IP)
 ```
@@ -47,12 +40,12 @@ anything.ingress.akash.pro is an alias for nodes.akash.pro.
 nodes.akash.pro has address 65.108.6.185
 ```
 
-- More info on what DNS records should look like are available in the [Akash Documentation here](https://docs.akash.network/providers/build-a-cloud-provider/akash-cloud-provider-build-with-helm-charts/step-5-domain-name-review).
+- More info on what DNS records should look like are available in the [Akash Documentation here](https://akash.network/docs/providers/build-a-cloud-provider/akash-cloud-provider-build-with-helm-charts/#step-5---domain-name-review).
 
 ### 3. Please make sure your Akash provider doesn't block any Akash specific ports.
    
 - If you are using a firewall, please follow this doc:
-https://docs.akash.network/providers/build-a-cloud-provider/akash-cloud-provider-build-with-helm-charts/step-9-firewall-rule-review
+https://akash.network/docs/providers/build-a-cloud-provider/akash-cloud-provider-build-with-helm-charts/#step-11---firewall-rule-review
 - If you are behind NAT, then you need to make sure these ports are open between your provider worker nodes and the internet.
 
 
