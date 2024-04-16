@@ -16,9 +16,10 @@ The working group is created to work on the proposal to see what support is need
 | #4 | Monday, December 04, 2023 06:30 AM PT (Pacific Time)|[Link](https://github.com/akash-network/community/blob/main/wg-zealy/meetings/004-2023-12-04.md)|[Link](https://github.com/akash-network/community/blob/main/wg-zealy/meetings/004-2023-12-04.md#transcript)|[Link](https://sq2ysituuvyyyeuuw7eawkdlbmvqpwtlkqkpogujyh5jfoxexosq.arweave.net/lDWJInSlcYwSlLfICyhrCysH2mtUFPcaicH6krrku6U)
 | #5 | Monday, December 11, 2023 06:30 AM PT (Pacific Time)|[Link](https://github.com/akash-network/community/blob/main/wg-zealy/meetings/005-2023-12-11.md)|[Link](https://github.com/akash-network/community/blob/main/wg-zealy/meetings/005-2023-12-11.md#transcript)|[Link](https://hp5novctzn3y56mrqix5wq3knexy4w24tk2ugahmstq2ofxzp57a.arweave.net/O_rXVFPLd475kYIv20NqaS-OW1yatUMA7JThpxb5f34)
 | #6 | Monday, December 18, 2023 06:30 AM PT (Pacific Time)|[Link](https://github.com/akash-network/community/blob/main/wg-zealy/meetings/006-2023-12-18.md)|[Link](https://github.com/akash-network/community/blob/main/wg-zealy/meetings/006-2023-12-18.md#transcript)|[Link](https://efn65ve3e5sebv7bhpgilvvzv23zx3ln6goskfwwrhj5rsmbludq.arweave.net/IVvu1JsnZEDX4TvMhda5rreb7W3xnSUW1onT2MmBXQc)
-| #7 | Monday, January 15, 2023 06:30 AM PT (Pacific Time)|coming soon| coming soon | Coming soon
-| #8 | Monday, January 22, 2023 06:30 AM PT (Pacific Time)|coming soon| coming soon | Coming soon
-| #9 | Monday, February 05, 2023 06:30 AM PT (Pacific Time)|coming soon| coming soon | Coming soon
+| #7| Monday, January 15, 2023 06:30 AM PT (Pacific Time)|coming soon| coming soon | Coming soon
+| #8 | Monday, January 22, 2023 06:30 AM PT (Pacific Time)|[Link](https://github.com/akash-network/community/blob/main/wg-zealy/meetings/008-2024-01-22.md)| [Link](https://github.com/akash-network/community/blob/main/wg-zealy/meetings/008-2024-01-22.md#transcript) | [Link](https://4dq4pkkqqmljo2ukbfplejfpdjw2itvunyzo3hf24zra73afipwa.arweave.net/4OHHqVCDFpdqiglesiSvGm2kTrRuMu2cuuZiD-wFQ-w)
+| #9 | Monday, February 12, 2023 06:30 AM PT (Pacific Time)|[Link](https://github.com/akash-network/community/blob/main/wg-zealy/meetings/009-2024-02-12.md)| [Link](https://github.com/akash-network/community/blob/main/wg-zealy/meetings/009-2024-02-12.md#transcript) | Coming Soon
+| #10 | Monday, March 03, 2023 06:30 AM PT (Pacific Time)|[Link](https://github.com/akash-network/community/blob/main/wg-zealy/meetings/010-2024-03-18.md)| [Link](https://github.com/akash-network/community/blob/main/wg-zealy/meetings/010-2024-03-18.md#transcript) | Coming Soon
 
 ## Leads
 - Piber Dev
