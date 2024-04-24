@@ -47,7 +47,7 @@ The goal of this SIG is to foster a community around each of these clients that 
 | #12 | Wednesday, January 17, 2024 10:30 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/012-2024-01-17.md)  | [Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/012-2024-01-17.md#transcript) |[Link](https://75iuscsrjioekyahvk6vad3taa5ikpweibvxs2rf4amjvzvj6gfa.arweave.net/_1FJClFKHEVgB6q9UA9zADqFPsRAa3lqJeAYmuap8Yo) 
 | #13 | Thursday, February 22nd, 2024 09:30 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/013-2024-02-22.md)   |[Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/013-2024-02-22.md#transcript)  |[Link](https://x5g5djwxzxixepgqsmxl6rupiipshcicdmq5bf2tjac35fjv5f6q.arweave.net/v03RptfN0XI80JMuv0aPQh8jiQIbIdCXU0gFvpU16X0)
 | #14| March 27th, 2024 09:00 AM PT (Pacific Time) |  | |
-| #15| April, 2024 10:30 AM PT (Pacific Time) |  | |
+| #15| April 24th, 2024 09:00 AM PT (Pacific Time) |  | |
 | #16| May, 2024 10:30 AM PT (Pacific Time) |  | |
 | #17| June, 2024 10:30 AM PT (Pacific Time) |  | |
 | #18| July, 2024 10:30 AM PT (Pacific Time) |  | |
