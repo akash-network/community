@@ -31,7 +31,7 @@ The goal of this SIG is to foster a community around the creation and maintenanc
 | #13 | Tuesday, January 23, 2024 07:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/013-2024-01-23.md)   |[Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/013-2024-01-23.md#transcript)  |[Link](https://ggtsa72sjsvu3yph245qmj6zvpy7uyys7jerkj72heitmyoiv2na.arweave.net/Macgf1JMq03h59c7BifZq_H6YxL6SRUn-jkRNmHIrpo)
 | #14 | Tuesday, February 27, 2024 07:00 AM PT (Pacific Time) |   |  |
 | #15| March, 2024 07:00  AM PT (Pacific Time) |  | |
-| #16| April, 2024 07:00  AM PT (Pacific Time) |  | |
+| #16| April 23, 2024 07:00  AM PT (Pacific Time) |  | |
 | #17| May, 2024 07:00  AM PT (Pacific Time) |  | |
 | #18| June, 2024 07:00  AM PT (Pacific Time) |  | |
 | #19| July, 2024 07:00  AM PT (Pacific Time) |  | |
