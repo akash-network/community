@@ -50,7 +50,9 @@ sig-support is responsible for defining mechanics of how support works at Akash 
 | #32 | Wed, May 01, 2024 08:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/032-2024-05-01.md) | [Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/032-2024-05-01.md#transcript)|[Link](https://fp4bufbowjh5thinihsyy52ddcyesjk2yofv4fgjmrhnkahxg5ua.arweave.net/K_gaFC6yT9mdDUHljHdDGLBJJVrDi14UyWRO1QD3N2g) 
 | #33 | Wed, May 15, 2024 08:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/033-2024-05-15.md)|[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/033-2024-05-15.md#transcript)|[Link](https://qc3gxtikakjsqoqohkver467q5u675nuwy7ovtc6j4ajicy7vwna.arweave.net/gLZrzQoCkyg6DjqqSPPfh2nv9bS2PurMXk8AlAsfrZo)
 | #34 | Wed, May 29, 2024 08:00 AM PT (Pacific Time) |  |   |
-| #35 | Wed, June 12, 2024 08:00 AM PT (Pacific Time) |  |   |
+
+
+
 
 
 
