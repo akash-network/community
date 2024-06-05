@@ -33,7 +33,7 @@ This working group is responsible for managing and improving the Akash Network W
 | #21 | Wednesday, January 03, 2023 06:30 AM PT (Pacific Time)| Coming soon | Coming soon| Coming Soon
 | #22 | Thursday, January 04, 2023 06:30 AM PT (Pacific Time)| [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/022-2024-01-04.md)| [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/022-2024-01-04.md#Transcript)| [Link](https://ebt6smszfxnrsafl35ae3krholqikfmckktlj6rw2tpk26lxcmgq.arweave.net/IGfpMlkt2xkAq99ATaoncuCFFYJSprT6NtTerXl3Ew0)
 | #23 | Friday, January 05, 2023 06:30 AM PT (Pacific Time)| [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/023-2024-01-05.md)| [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/023-2024-01-05.md#Transcript)| [Link](https://5vpr5a76zkbuulfpmj7mtg24vkn6vpli5zlmcvqd3uupea3bxgva.arweave.net/7V8eg_7Kg0osr2J-yZtcqpvqvWjuVsFWA90o8gNhuao)
-
+| #29 | Friday, April 04, 2024 06:30 AM PT (Pacific Time)| [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/029-2024-04-04.md)| [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/029-2024-04-04.md#Transcript)| [Link](https://yiwmcmmelchqik2ii4s7yt2wzvjy55gwxnpe2uekrwv6rv552sgq.arweave.net/wizBMYRYjwQrSEcl_E9WzVOO9Na7Xk1Qio2r6Ne91I0)
 
 ## Leads
 
