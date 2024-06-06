@@ -44,12 +44,12 @@ sig-support is responsible for defining mechanics of how support works at Akash 
 | #26 | Wed, January 24, 2024 07:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/026-2024-01-24.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/026-2024-01-24.md#transcript) |[Link](https://47vntytp4ni2s5p2h2qyh5nuqywowtwne2fx4ddudv7iyl3hu5rq.arweave.net/5-rZ4m_jUal1-j6hg_W0hizrTs0mi34MdB1-jC9np2M) 
 | #27 | Wed, February 21, 2024 07:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/027-2024-02-21.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/027-2024-02-21.md#transcript)   |[Link](https://cwya3qcl4ejhb75ct5d4vgcoyhsce46zvv2q42khi6kc76qhsxpq.arweave.net/FbANwEvhEnD_op9HyphOweQic9mtdQ5pR0eUL_oHld8)
 | #28 | Wed, March 06, 2024 07:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/028-2024-03-06.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/028-2024-03-06.md#transcript)   |[Link](https://xut7rmdqwninrlvm75t7cxmmpgrt4tyboramnw3b2rcpaa6gy76a.arweave.net/vSf4sHCzUNiurP9n8V2MeaM-TwF0QMbbYdRE8APGx_w)
-| #29 | Wed, March 20, 2024 08:00 AM PT (Pacific Time) |  |   |
-| #30 | Wed, April 30, 2024 08:00 AM PT (Pacific Time) |  |   |
-| #31 | Wed, April 17, 2024 08:00 AM PT (Pacific Time) |  |   |
-| #32 | Wed, May 01, 2024 08:00 AM PT (Pacific Time) |  |   |
-| #33 | Wed, May 15, 2024 08:00 AM PT (Pacific Time) |  |   |
-| #34 | Wed, May 29, 2024 08:00 AM PT (Pacific Time) |  |   |
+| #29 | Wed, March 20, 2024 08:00 AM PT (Pacific Time) |Coming Soon  |Coming Soon   |Coming Soon
+| #30 | Wed, April 30, 2024 08:00 AM PT (Pacific Time) |Coming Soon  |Coming Soon   |Coming Soon
+| #31 | Wed, April 17, 2024 08:00 AM PT (Pacific Time) |Coming Soon  |Coming Soon   |Coming Soon
+| #32 | Wed, May 01, 2024 08:00 AM PT (Pacific Time) |[Link](https://www.altcoinbuzz.io/cryptocurrency-news/ionet-airdrops-5-to-strengthen-community/)  |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/032-2024-05-01.md#transcript)   |[Link](https://fp4bufbowjh5thinihsyy52ddcyesjk2yofv4fgjmrhnkahxg5ua.arweave.net/K_gaFC6yT9mdDUHljHdDGLBJJVrDi14UyWRO1QD3N2g)
+| #33 | Wed, May 15, 2024 08:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/033-2024-05-15.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/033-2024-05-15.md#transcript)   |[Link](https://qc3gxtikakjsqoqohkver467q5u675nuwy7ovtc6j4ajicy7vwna.arweave.net/gLZrzQoCkyg6DjqqSPPfh2nv9bS2PurMXk8AlAsfrZo)
+| #34 | Wed, June 05, 2024 08:00 AM PT (Pacific Time) |  |   |
 | #35 | Wed, June 12, 2024 08:00 AM PT (Pacific Time) |  |   |
 
 
