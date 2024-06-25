@@ -15,7 +15,6 @@ Akash Network Clients are software and services that make it easier for tenants 
 - [Client Libraries](client-libraries/README.md) (for various programming languages)
 - [Cloudmos Deploy](cloudmos-deploy/README.md)
 - [Fleek](fleek/README.md)
-- [Spheron](spheron/README.md)
 - [Terraform Provider](terraform-provider/README.md)
 
 ## Provider Onboarding Clients
