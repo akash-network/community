@@ -3,7 +3,7 @@
 # Akash Network Community Pool Spend Reporting
 
 
-### The Community Pool Spend Reporting Repo is an area where individuals share reporting for all intiatives that have used funds from the Akash Community Pool. 
+### The Community Pool Spend Reporting Repo is an area where individuals / team share reports for all proposals that have used funds from the Akash Network community pool.
 
 
 ## Community Pool Reporting Table
