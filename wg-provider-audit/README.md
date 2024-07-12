@@ -15,15 +15,10 @@ This working group is for developing an open source auditor tool for providers. 
 | Meeting | Time | Notes | Transcript | Recording
 | --- | --- | --- | --- | --- |
 | #1 | Wed, Feb 21, 2024 10:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/wg-provider-audit/001-2024-02-21.md) | [Link](https://github.com/akash-network/community/blob/main/wg-provider-audit/001-2024-02-21.md#transcript) | Coming Soon
-| #2 | Wed, March 20, 2024 10:00 AM PT (Pacific Time) | |   |  
-| #3 | Wed, April 17, 2024 10:00 AM PT (Pacific Time) |   |   |  
-| #4 | Wed, May 22, 2024 10:00 AM PT (Pacific Time) |   |   |  
-| #5 | Wed, June 19, 2024 10:00 AM PT (Pacific Time) |   |   |  
-| #6 | Wed, July 17, 2024 10:00 AM PT (Pacific Time) |   |   |  
-| #7 | Wed, August 21, 2024 10:00 AM PT (Pacific Time) |   |   |  
-| #8 | Wed, September 18, 2024 10:00 AM PT (Pacific Time) |   |   |  
-| #9 | Wed, October 16, 2024 10:00 AM PT (Pacific Time) |   |   |  
-| #10 | Wed, November 20, 2024 10:00 AM PT (Pacific Time) |   |   |  
+| #2 | Wed, May 1st, 2024 09:00 AM PT (Pacific Time) | No meeting  | No meeting   | No Meeting
+| #3 | Thursday, June 13, 2024 10:00 AM PT (Pacific Time) |   |   |  
+| #4 | Wed, July 17, 2024 10:00 AM PT (Pacific Time) |   |   |  
+
 
 
 ## Contacts

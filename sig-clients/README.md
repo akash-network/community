@@ -15,7 +15,6 @@ Akash Network Clients are software and services that make it easier for tenants 
 - [Client Libraries](client-libraries/README.md) (for various programming languages)
 - [Cloudmos Deploy](cloudmos-deploy/README.md)
 - [Fleek](fleek/README.md)
-- [Spheron](spheron/README.md)
 - [Terraform Provider](terraform-provider/README.md)
 
 ## Provider Onboarding Clients
@@ -46,17 +45,13 @@ The goal of this SIG is to foster a community around each of these clients that 
 | #11 | Monday, December 18th, 2023 08:30 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/011-2023-12-18.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/011-2023-12-18.md#transcript) |[Link](https://msr577epylf5qgo6aexm2xbblsreurfi2pgy5ed5ssdw6ztgkxwq.arweave.net/ZKPf_I_Cy9gZ3gEuzVwhXKJKRKjTzY6QfZSHb2ZmVe0)
 | #12 | Wednesday, January 17, 2024 10:30 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/012-2024-01-17.md)  | [Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/012-2024-01-17.md#transcript) |[Link](https://75iuscsrjioekyahvk6vad3taa5ikpweibvxs2rf4amjvzvj6gfa.arweave.net/_1FJClFKHEVgB6q9UA9zADqFPsRAa3lqJeAYmuap8Yo) 
 | #13 | Thursday, February 22nd, 2024 09:30 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/013-2024-02-22.md)   |[Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/013-2024-02-22.md#transcript)  |[Link](https://x5g5djwxzxixepgqsmxl6rupiipshcicdmq5bf2tjac35fjv5f6q.arweave.net/v03RptfN0XI80JMuv0aPQh8jiQIbIdCXU0gFvpU16X0)
-| #14| March 27th, 2024 09:00 AM PT (Pacific Time) |  | |
+| #14| March 27th, 2024 09:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/014-2024-03-27.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/014-2024-03-27.md#transcript) | Coming Soon
 | #15| April 24th, 2024 09:00 AM PT (Pacific Time) |  | |
-| #16| May, 2024 10:30 AM PT (Pacific Time) |  | |
-| #17| June, 2024 10:30 AM PT (Pacific Time) |  | |
-| #18| July, 2024 10:30 AM PT (Pacific Time) |  | |
-| #19| August, 2024 10:30 AM PT (Pacific Time) |  | |
-| #20| September, 2024 10:30 AM PT (Pacific Time) |  | |
-| #21| October 2024 10:30 AM PT (Pacific Time) |  | |
-| #22| November, 2024 10:30 AM PT (Pacific Time) |  | |
-| #23| December, 2024 10:30 AM PT (Pacific Time) |  | |
-| #24| January, 2025 10:30 AM PT (Pacific Time) |  | |
+| #16| June 25th, 2024 10:00 AM PT (Pacific Time) |  | |
+| #17| August, 2024 10:30 AM PT (Pacific Time) |  | |
+| #18| October 2024 10:30 AM PT (Pacific Time) |  | |
+| #19| December, 2024 10:30 AM PT (Pacific Time) |  | |
+| #20| January, 2025 10:30 AM PT (Pacific Time) |  | |
 
 ## Leadership
 
@@ -65,9 +60,9 @@ The goal of this SIG is to foster a community around each of these clients that 
 - Anil Murty, Overclock Labs (@anilmurty) - Akash Console
 - Greg Osuri, Overclock Labs (@gosuri) - Akash CLI
 - Joao Luna, Quasarch (@cloud-j-luna) - Terraform Provider, Client Libraries
-- Maxime Beauchamp, Cloudmos (baktun14) - Cloudmos Deploy
-- Prashant Maurya, Spheron Network () - Spheron
-- Jigar Patel, Praetor (jigar-arc10) - Praetor App
+- Maxime Beauchamp, Cloudmos (baktun14) - Akash Console
+- Jigar Patel, Praetor (jigar-arc10) - Akash Console
+- Deval Patel, Praetor - Akash Console
 
 ### Tech Lead(s)
 
