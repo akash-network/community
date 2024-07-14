@@ -31,7 +31,7 @@ Provider SIG covers everything pertinent to Providers on Akash Network. This inc
 | #14 | Wednesday, February 28, 2024 08:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/014-2024-02-28.md)   |[Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/014-2024-02-28.md#transcript)  | Coming Soon
 | #15| March 27, 2024 08:00  AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/015-2024-03-27.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/015-2024-03-27.md#transcript) | Coming Soon
 | #16| April, 2024 08:00  AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/016-2024-04-24.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/016-2024-04-24.md#transcript) | Coming Soon
-| #17| May, 2024 08:00  AM PT (Pacific Time) |  | |
+| #17| May 22, 2024 08:00  AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/017-2024-05-22.md)|[Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/017-2024-05-22.md#transcript) |[Link](https://a6qm5qjrbhmjkmbmsfldmoqzdspsaxypsgfq26wfw6ysnw3xp7cq.arweave.net/B6DOwTEJ2JUwLJFWNjoZHJ8gXw-Riw16xbexJtt3f8U)
 | #18| June 26, 2024 08:00  AM PT (Pacific Time) |  | |
 | #19| July, 2024 08:00  AM PT (Pacific Time) |  | |
 | #20| August, 2024 08:00  AM PT (Pacific Time) |  | |
