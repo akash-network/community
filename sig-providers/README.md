@@ -33,8 +33,8 @@ Provider SIG covers everything pertinent to Providers on Akash Network. This inc
 | #16| April, 2024 08:00  AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/016-2024-04-24.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/016-2024-04-24.md#transcript) | Coming Soon
 | #17| May 22, 2024 08:00  AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/017-2024-05-22.md)|[Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/017-2024-05-22.md#transcript) |[Link](https://a6qm5qjrbhmjkmbmsfldmoqzdspsaxypsgfq26wfw6ysnw3xp7cq.arweave.net/B6DOwTEJ2JUwLJFWNjoZHJ8gXw-Riw16xbexJtt3f8U)
 | #18| June 26, 2024 08:00  AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/018-2024-06-26.md) |[Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/018-2024-06-26.md#transcript)  |Coming Soon
-| #19| July, 2024 08:00  AM PT (Pacific Time) |  | |
-| #20| August, 2024 08:00  AM PT (Pacific Time) |  | |
+| #19| July 24, 2024 08:00  AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/019-2024-07-24.md) | [Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/019-2024-07-24.md#transcript) |[Link](https://aa2i7ytftmtlehngryvt4m6jnaxvu5ku72e34u5akdetalzdimja.arweave.net/ADSP4mWbJrIdpo4rPjPJaC9adVT-ib5ToFDJMC8jQxI) 
+| #20| August 21, 2024 08:00  AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/020-2024-08-21.md) | [Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/020-2024-08-21.md#transcript) |[Link](https://eyppjrj4mhnx5sbrndju5rgjpdcmejx3c76cn4d7isytmkhceq7q.arweave.net/Jh70xTxh237IMWjTTsTJeMTCJvsX_Cbwf0SxNijiJD8) 
 | #21| September, 2024 08:00  AM PT (Pacific Time) |  | |
 | #22| October 2024 08:00  AM PT (Pacific Time) |  | |
 | #23| November, 2024 08:00  AM PT (Pacific Time) |  | |
