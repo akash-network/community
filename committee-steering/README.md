@@ -32,7 +32,7 @@ The Steering Committee is a special SIG that periodically evaluates the list of 
 | Thursday, June 06, 2024 11:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/016-2024-06-06.md)   |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/016-2024-06-06.md#transcript)  |[Link](https://capv32vqn7vrb5u3qvsjn3n6y6swnjkba32ukvydflmqqhrxbswa.arweave.net/EB9d6rBv6xD2m4Vklu2-x6VmpUEG9UVXAyrZCB43DKw)
 | Thursday, June 27, 2024 11:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/017-2024-06-27.md)   |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/017-2024-06-27.md#transcript)  |[Link](https://upv27tytyope2fseqvgnnre2au6nmmo65bs2c2fvuxtohsr5bpjq.arweave.net/o-uvzxPDnk0WRIVM1sSaBTzWMd7oZaFotaXm48o9C9M)
 | Thursday, July 25, 2024 11:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/018-2024-07-25.md)   |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/018-2024-07-25.md#transcript)  |[Link](https://vowukrgkuwsl7fdoune7kqruamcwsbhm7bh4aic6dse6vyussagq.arweave.net/q61FRMqlpL-UbqNJ9UI0AwVpBOz4T8AgXhyJ6uKSkA0)
-| Thursday, August 29, 2024 11:00 AM PT (Pacific Time) |   |  |
+| Thursday, August 29, 2024 11:00 AM PT (Pacific Time) |   |  |[Link](https://7rl44hv4pys2lipofrsxd22xmnvysihwvhfn3lttrx6w47u67w5q.arweave.net/_FfOHrx-JaWh7ixlcetXY2uJIPapyt2uc439bn6e_bs)
 | Thursday, September 26, 2024 11:00 AM PT (Pacific Time) |   |  |
 | Thursday, October 31, 2024 11:00 AM PT (Pacific Time) |   |  |
 | Thursday, November 28, 2024 11:00 AM PT (Pacific Time) |   |  |
