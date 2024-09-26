@@ -12,9 +12,9 @@ This working group is responsible for managing and improving the Akash youtube C
 
 | Meeting | Time | Notes | Transcript | Recording
 | --- | --- | --- | --- | --- |
-| #1 | Tuesday, July 23, 2024 08:00 AM PT (Pacific Time)| Coming Soon | Coming Soon 
-| #2 | Tuesday, July 30, 2024 8:00 AM PT (Pacific Time) | Coming Soon | Coming Soon  | coming soon 
-| #3 | Tuesday, August 6, 2024 8:00 AM PT (Pacific Time) | Coming Soon | Coming Soon  | coming soon 
+| #1 | Tuesday, July 23, 2024 08:00 AM PT (Pacific Time)| [Link](https://github.com/akash-network/community/blob/main/wg-Akash-youtube/meetings/001-2024-07-23.md) | [Link](https://github.com/akash-network/community/blob/main/wg-Akash-youtube/meetings/001-2024-07-23.md#transcript)  | Coming Soon
+| #2 | Tuesday, July 30, 2024 8:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/wg-Akash-youtube/meetings/002-2024-07-30.md) | [Link](https://github.com/akash-network/community/blob/main/wg-Akash-youtube/meetings/002-2024-07-30.md#transcript)  | coming soon 
+| #3 | Tuesday, August 6, 2024 8:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/wg-Akash-youtube/meetings/003-2024-08-06.md)  | [Link](https://github.com/akash-network/community/blob/main/wg-Akash-youtube/meetings/003-2024-08-06.md#transcript)  | coming soon 
 
 
 
