@@ -26,7 +26,7 @@ assignees: andy108369
 
 ```
 
-[Ref documentation:](https://akash.network/docs/providers/akash-audites-atributes/#attribute-auditors).
+[Ref documentation:](https://akash.network/docs/providers/audited-attributes/#attribute-auditors).
 
 ### 2. Make sure your provider *.ingress resolves to your provider IP (ideally worker node IP)
 ```
