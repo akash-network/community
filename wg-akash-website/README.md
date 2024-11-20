@@ -38,8 +38,11 @@ This working group is responsible for managing and improving the Akash Network W
 | #31 | Thursday, June 13, 2024 06:30 AM PT (Pacific Time)| [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/031-2024-06-13.md)| [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/031-2024-06-13.md#Transcript)| [Link](https://urav5nq4ipj2qxxrryzspu67zqhcsvxc7iuv6mk7wkniixznkkmq.arweave.net/pEFethxD06he8Y4zJ9PfzA4pVuL6KV8xX7KahF8tUpk)
 | #32 | Thursday, July 25, 2024 06:30 AM PT (Pacific Time)| [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/032-2024-07-25.md)| [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/032-2024-07-25.md#:~:text=Recording-,Transcript,-Participants)| [Link](https://j3ixq4a45f2dpivp7gmzyecplzctrglme5j4ea2dfvbvad2dsfma.arweave.net/TtF4cBzpdDeir_mZnBBPXkU4mWwnU8IDQy1DUA9DkVg)
 | #33 | Thursday, August 8, 2024 06:30 AM PT (Pacific Time)| [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/033-2024-08-08.md)| [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/033-2024-08-08.md#Transcript)| [Link](https://liyj2hy26ggvtqigr7b753rkz3eo7aigtfbxwzn7cw5yabkrdtvq.arweave.net/WjCdHxrxjVnBBo_D_u4qzsjvgQaZQ3tlvxW7gAVRHOs)
-## Leads
+| #34 | Thursday, August 22, 2024 06:30 AM PT (Pacific Time)| Coming Soon| Coming Soon| Coming Soon
+| #35 | Thursday, September 5, 2024 06:30 AM PT (Pacific Time)| Coming Soon| Coming Soon| Coming Soon
+| #36 | Thursday, September 19, 2024 06:30 AM PT (Pacific Time)| [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/036-2024-09-19.md)| [Link](https://github.com/akash-network/community/blob/main/wg-akash-website/meetings/036-2024-09-19.md#Transcript)| [Link](https://xizhkq2uh33ndaz2rdywz6karsqwbjimryjtoztgkypczywuaz5q.arweave.net/ujJ1Q1Q-9tGDOojxbPlAjKFgpQyOEzdmZlYeLOLUBns)
 
+## Leads
 - Denis Lelic
 - Tyler Wright
 - Zach Horn
