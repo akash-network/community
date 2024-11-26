@@ -15,6 +15,11 @@ This working group is responsible for managing and improving the Akash youtube C
 | #1 | Tuesday, July 23, 2024 08:00 AM PT (Pacific Time)| [Link](https://github.com/akash-network/community/blob/main/wg-Akash-youtube/meetings/001-2024-07-23.md) | [Link](https://github.com/akash-network/community/blob/main/wg-Akash-youtube/meetings/001-2024-07-23.md#transcript)  | Coming Soon
 | #2 | Tuesday, July 30, 2024 8:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/wg-Akash-youtube/meetings/002-2024-07-30.md) | [Link](https://github.com/akash-network/community/blob/main/wg-Akash-youtube/meetings/002-2024-07-30.md#transcript)  | coming soon 
 | #3 | Tuesday, August 6, 2024 8:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/wg-Akash-youtube/meetings/003-2024-08-06.md)  | [Link](https://github.com/akash-network/community/blob/main/wg-Akash-youtube/meetings/003-2024-08-06.md#transcript)  | coming soon 
+| #4 | Tuesday, August 13, 2024 8:00 AM PT (Pacific Time) | coming soon | coming soon | coming soon 
+| #5 | Tuesday, August 20, 2024 8:00 AM PT (Pacific Time) | coming soon | coming soon | coming soon 
+| #6 | Tuesday, September 3, 2024 8:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/wg-Akash-youtube/meetings/006-2024-09-03.md)  | [Link](https://github.com/akash-network/community/blob/main/wg-Akash-youtube/meetings/006-2024-09-03.md#transcript)  | [Link](https://57ao2jjfdga5witta4xaimiflj3cnwrmdmvrtxwhsdckbzyxy2kq.arweave.net/78DtJSUZgdsicwcuBDEFWnYm2iwbKxnex5DEoOcXxpU)
+| #7 | Tuesday, September 17, 2024 8:00 AM PT (Pacific Time) | coming soon | coming soon | coming soon 
+| #8 | Tuesday, October 1, 2024 8:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/wg-Akash-youtube/meetings/008-2024-10-01.md)  | [Link](https://github.com/akash-network/community/blob/main/wg-Akash-youtube/meetings/008-2024-10-01.md#transcript)  | [Link](https://pdul7rir4hfznhgpmdrmuzxiourbbjkehk343j7ssvg2ei2ywjya.arweave.net/eOi_xRHhy5acz2DiymbodSIQpUQ6t82n8pVNoiNYsnA) 
 
 
 
