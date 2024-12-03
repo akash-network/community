@@ -33,8 +33,8 @@ Meetings happen every [First Wednesday of the Month](https://calendar.google.com
 | #19| August 07, 2024 10:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-economics/meetings/018-2024-08-07.md) | [Link](https://github.com/akash-network/community/blob/main/sig-economics/meetings/018-2024-08-07.md#transcript) |[Link](https://qextbwdkzexp6rjoxd43vbxe4gmojck4wartnjykb3lsjbwtoemq.arweave.net/gS8w2GrJLv9FLrj5uobk4ZjkiVywIzanCg7XJIbTcRk) 
 | #20| October 09, 2024 10:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-economics/meetings/020-2024-10-09.md) | [Link](https://github.com/akash-network/community/blob/main/sig-economics/meetings/020-2024-10-09.md#transcript) |[Link](https://heto6ceypzwojxh56rfumjss6fsa3rhjrkrany22ap37qvorf6ba.arweave.net/OSbvCJh-bOTc_fRLRiZS8WQNxOmKogbjWgP3-FXRL4I) 
 | #21| November 6th, 2024 10:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-economics/meetings/021-2024-11-06.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-economics/meetings/021-2024-11-06.md#transcript) |[Link](https://spb2lgjfo22rkltiontajya63on7vc5jg4i77hnsngjdj5xyfkra.arweave.net/k8OlmSV2tRUuaHNmBOAe25v6i6k3Ef-dsmmSNPb4KqI)
-| #22| December, 2024 10:00 AM PT (Pacific Time) |  | |
-| #23| January, 2025 10:00 AM PT (Pacific Time) |  | |
+| #22| December 2nd, 2024 10:00 AM PT (Pacific Time) |  | |
+| #23| January 8th, 2025 10:00 AM PT (Pacific Time) |  | |
 
 
 ## Leadership
