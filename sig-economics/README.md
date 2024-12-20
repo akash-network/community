@@ -30,20 +30,18 @@ Meetings happen every [First Wednesday of the Month](https://calendar.google.com
 | #16| May 1st, 2024 10:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-economics/meetings/016-2024-05-01.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-economics/meetings/016-2024-05-01.md#transcript) |[Link](https://w6djeix4uozea7pt7fdzqmhenlvt6jf72c4x26cz3brkuboazjsa.arweave.net/t4aSIvyjskB98_lHmDDkaus_JL_QuX14WdhiqgXAymQ)
 | #17| June 18th, 2024 10:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-economics/meetings/017-2024-06-18.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-economics/meetings/017-2024-06-18.md#transcript) |[Link](https://camg45yyujtsslq5bwquh3pybr3ugqzi27rkdbhxfk3bgej5v5yq.arweave.net/EBhudxiiZykuHQ2hQ-34DHdDQyjX4qGE9yq2ExE9r3E)
 | #18| July 3rd, 2024 10:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-economics/meetings/018-2024-07-03.md)  | [Link](https://github.com/akash-network/community/blob/main/sig-economics/meetings/018-2024-07-03.md#transcript) |[Link](https://gtkqa2srpm2ve37fgnzh4bvk2ajdzxzdh5owwd3vaqvtg5pncdaa.arweave.net/NNUAalF7NVJv5TNyfgaq0BI83yM_XWsPdQQrM3XtEMA) 
-| #19| August, 2024 10:00 AM PT (Pacific Time) |  | |
-| #20| September, 2024 10:00 AM PT (Pacific Time) |  | |
-| #21| October 2024 10:00 AM PT (Pacific Time) |  | |
-| #22| November, 2024 10:00 AM PT (Pacific Time) |  | |
-| #23| December, 2024 10:00 AM PT (Pacific Time) |  | |
-| #24| January, 2025 10:00 AM PT (Pacific Time) |  | |
+| #19| August 07, 2024 10:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-economics/meetings/018-2024-08-07.md) | [Link](https://github.com/akash-network/community/blob/main/sig-economics/meetings/018-2024-08-07.md#transcript) |[Link](https://qextbwdkzexp6rjoxd43vbxe4gmojck4wartnjykb3lsjbwtoemq.arweave.net/gS8w2GrJLv9FLrj5uobk4ZjkiVywIzanCg7XJIbTcRk) 
+| #20| October 09, 2024 10:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-economics/meetings/020-2024-10-09.md) | [Link](https://github.com/akash-network/community/blob/main/sig-economics/meetings/020-2024-10-09.md#transcript) |[Link](https://heto6ceypzwojxh56rfumjss6fsa3rhjrkrany22ap37qvorf6ba.arweave.net/OSbvCJh-bOTc_fRLRiZS8WQNxOmKogbjWgP3-FXRL4I) 
+| #21| November 6th, 2024 10:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-economics/meetings/021-2024-11-06.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-economics/meetings/021-2024-11-06.md#transcript) |[Link](https://spb2lgjfo22rkltiontajya63on7vc5jg4i77hnsngjdj5xyfkra.arweave.net/k8OlmSV2tRUuaHNmBOAe25v6i6k3Ef-dsmmSNPb4KqI)
+| #22| December 2nd, 2024 10:00 AM PT (Pacific Time) |  | |
+| #23| January 8th, 2025 10:00 AM PT (Pacific Time) |  | |
 
 
 ## Leadership
 
 ### Project Leads
 
-* Greg Osuri, CEO Overclock Labs
-* Adam Bozanich, CTO Overclock Labs
+* Scott Hewitson, Director of Finance Overclock Labs
 * Cheng Wang, CFO Overclock Labs
 
 ## Contact
