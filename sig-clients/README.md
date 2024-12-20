@@ -49,9 +49,8 @@ The goal of this SIG is to foster a community around each of these clients that 
 | #15| April 24th, 2024 09:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/015-2024-04-24.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/015-2024-04-24.md#transcript) |[Link](https://j3gehsinfdsmtozvozl7ne3dv2w255mnewbmwe3unblpiayao3ya.arweave.net/TsxDyQ0o5Mm7NXZX9pNjrq2u9Y0lgssTdGhW9AMAdvA)
 | #16| June 25th, 2024 10:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/016-2024-06-25.md) |[Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/016-2024-06-25.md#transcript) |[Link](https://g4sync4igp5y56x5cxfhh45vo4elgdzmcptwja4z33gcjhzkkoqq.arweave.net/NyWGi4gz-476_RXKc_O1dwizDywT52SDmd7MJJ8qU6E)
 | #17| August 20th, 2024 10:30 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/017-2024-08-20.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/017-2024-08-20.md#transcript)  |[Link](https://4mgemilgnadqtihidt2lpu7ocnkirkq4voj2pabf64hw5zdlqh3a.arweave.net/4wxGIWZoBwmg6Bz0t9PuE1SIqhyrk6eAJfcPbuRrgfY) 
-| #18| October 2024 10:30 AM PT (Pacific Time) |  | |
-| #19| December, 2024 10:30 AM PT (Pacific Time) |  | |
-| #20| January, 2025 10:30 AM PT (Pacific Time) |  | |
+| #18| November 13th, 2024 10:30 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/018-2024-11-13.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/018-2024-11-13.md#transcript) |[Link](https://blzzgvq7wf74w6qjclppk66qbckfe7xzngfnrlozgwkdguub7u5q.arweave.net/CvOTVh-xf8t6CRLe9XvQCJRSfvlpitit2TWUM1KB_Ts)
+| #19| January, 2025 10:30 AM PT (Pacific Time) |  | |
 
 ## Leadership
 
