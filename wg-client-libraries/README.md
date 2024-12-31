@@ -28,7 +28,7 @@ This working group is responsible for the design, implementation, testing and do
 
 ## Goals
 
-- Define the common interface accross the different implementations
+- Define the common interface across the different implementations
 - Implement the clients in the following popular technologies: Java, Go, Python, C#, Javascript
 - Identify limitations on the Cosmos SDK and design solutions to achieve performant clients
 - Create documentation on the libraries' APIs
