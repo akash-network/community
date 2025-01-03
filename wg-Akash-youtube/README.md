@@ -20,7 +20,7 @@ This working group is responsible for managing and improving the Akash youtube C
 | #6 | Tuesday, September 3, 2024 8:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/wg-Akash-youtube/meetings/006-2024-09-03.md)  | [Link](https://github.com/akash-network/community/blob/main/wg-Akash-youtube/meetings/006-2024-09-03.md#transcript)  | [Link](https://57ao2jjfdga5witta4xaimiflj3cnwrmdmvrtxwhsdckbzyxy2kq.arweave.net/78DtJSUZgdsicwcuBDEFWnYm2iwbKxnex5DEoOcXxpU)
 | #7 | Tuesday, September 17, 2024 8:00 AM PT (Pacific Time) | coming soon | coming soon | coming soon 
 | #8 | Tuesday, October 1, 2024 8:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/wg-Akash-youtube/meetings/008-2024-10-01.md)  | [Link](https://github.com/akash-network/community/blob/main/wg-Akash-youtube/meetings/008-2024-10-01.md#transcript)  | [Link](https://pdul7rir4hfznhgpmdrmuzxiourbbjkehk343j7ssvg2ei2ywjya.arweave.net/eOi_xRHhy5acz2DiymbodSIQpUQ6t82n8pVNoiNYsnA) 
-
+| #9 | Wednesday, November 13, 2024 8:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/wg-Akash-youtube/meetings/009-2024-11-13.md)  | [Link](https://github.com/akash-network/community/blob/main/wg-Akash-youtube/meetings/009-2024-11-13.md#transcript)  | [Link](https://r7gzff726zfyboqwf6ymhi7mgpklwwiispyszrs5ef3px3lfzusq.arweave.net/j82Sl_r2S4C6Fi-ww6PsM9S7WQiT8SzGXSF2--1lzSU) 
 
 
 ## Leads
