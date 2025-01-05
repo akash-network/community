@@ -20,6 +20,14 @@ This working group is to discuss events to attend, year by year, and ways to enc
 | --- | --- | --- | --- | --- |
 | #1| Wednesday October 25, 2023 10:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/wg-events/meetings-2024/001-2023-10-25.md) | [Link](https://github.com/akash-network/community/blob/main/wg-events/meetings-2024/001-2023-10-25.md#transcript) | [Link](https://bts4wsldpu6iuvcvdvsbncztc7whshy4izdsugaho3j74nq2pcla.arweave.net/DOXLSWN9PIpUVR1kFoszF-x5HxxGRyoYB3bT_jYaeJY) 
 | #2| Friday November 03, 2023 10:00 AM PT (Pacific Time) |Coming Soon | Coming Soon | Coming Soon
+
+
+## wg-events 2025 Meetings
+| Meeting | Time | Notes | Transcript | Recording
+| --- | --- | --- | --- | --- |
+| #1| Wednesday November 20, 2024 10:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/wg-events/meeting-2025/wg-events-001-2024-11-20.md) | [Link](https://github.com/akash-network/community/blob/main/wg-events/meeting-2025/wg-events-001-2024-11-20.md#transcript) | [Link](https://hfwetu5tb3iet4fswdz5qgxrv35wupvtdjbmkkjk37ohxmthcmka.arweave.net/OWxJ07MO0EnwsrDz2BrxrvtqPrMaQsUpKt_ce7JnExQ) 
+
+
 ## Lead
 
 Adam Wozney (Overclock Labs)

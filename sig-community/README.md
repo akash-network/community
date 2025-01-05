@@ -36,7 +36,7 @@ This SIG (Special Interest Group) is designed for Akash community members to pro
 | #18| August 14, 2024 11:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/018-2024-08-14.md) | [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/018-2024-08-14.md#Transcript) | Coming Soon
 | #19| September 10, 2024 11:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/019-2024-09-10.md) |[Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/019-2024-09-10.md#Transcript) | [Link](https://7m4voozzewq7nnzhoteyc7zbeuvc72pb2fpou57f72etmypu7ulq.arweave.net/-zlXOzklofa3J3TJgX8hJSov6eHRXup35f6JNmH0_Rc) 
 | #20| October 08, 2024 11:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/020-2024-10-08.md) | [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/020-2024-10-08.md#Transcript) |[Link](https://7hbbbiaiqssx7redpnzevdfif3smtvixbsd6uahwjtqugqcndxia.arweave.net/-cIQoAiEpX_Eg3tySoyoLuTJ1RcMh-oA9kzhQ0BNHdA) 
-| #21| November, 2024 11:00 AM PT (Pacific Time) |  | |
+| #21| November, 2024 11:00 AM PT (Pacific Time) | Coming Soon |Coming Soon |Coming Soon
 | #22| December, 2024 11:00 AM PT (Pacific Time) |  | |
 | #23| January, 2025 11:00 AM PT (Pacific Time) |  | |
 
