@@ -39,7 +39,19 @@ date: 2023-1-09T00:19:20-08:00
 | #22| October 09 2024 08:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-design/meetings/022-2024-10-09.md)  | [Link](https://github.com/akash-network/community/blob/main/sig-design/meetings/022-2024-10-09.md#transcript) |[Link](https://7rym5lum2stjhqj4hpl76uucxinceiz4e4jfz5acixddrv2icwgq.arweave.net/_HDOrozUppPBPDvX_1KCuhoiIzwnElz0AkXGONdIFY0) 
 | #22| November 13, 2024 08:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-design/meetings/023-2024-11-13.md) |[Link](https://github.com/akash-network/community/blob/main/sig-design/meetings/023-2024-11-13.md#transcript) |[Link](https://ji5fpsj5wsui75zccj6ndnhl56hsuy5ygdcwrq4swjapnxdry4dq.arweave.net/SjpXyT20qI_3IhJ80bTr748qY7gwxWjDkrJA9txxxwc) 
 | #23| December, 2024 08:00 AM PT (Pacific Time) |  | |
-| #24| January, 2025 08:00 AM PT (Pacific Time) |  | |
+| #25| January, 2025 08:00 AM PT (Pacific Time) |  | |
+| #26| February, 2025 09:00 AM PT (Pacific Time) |  | |
+| #27| March, 2025 09:00 AM PT (Pacific Time) |  | |
+| #28| April, 2025 09:00 AM PT (Pacific Time) |  | |
+| #29| May, 2025 09:00 AM PT (Pacific Time) |  | |
+| #30| June, 2025 09:00 AM PT (Pacific Time) |  | |
+| #31| July, 2025 09:00 AM PT (Pacific Time) |  | |
+| #33| August, 2025 09:00 AM PT (Pacific Time) |  | |
+| #34| September, 2025 09:00 AM PT (Pacific Time) |  | |
+| #35| October, 2025 09:00 AM PT (Pacific Time) |  | |
+| #36| November, 2025 09:00 AM PT (Pacific Time) |  | |
+| #37| December, 2025 09:00 AM PT (Pacific Time) |  | |
+
 
 
 ## Leadership

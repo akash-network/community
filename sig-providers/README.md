@@ -40,6 +40,17 @@ Provider SIG covers everything pertinent to Providers on Akash Network. This inc
 | #23| November, 2024 08:00  AM PT (Pacific Time) |  | |
 | #24| December, 2024 08:00  AM PT (Pacific Time) |  | |
 | #25| January, 2025 08:00  AM PT (Pacific Time) |  | |
+| #26| February, 2025 09:00 AM PT (Pacific Time) |  | |
+| #27| March, 2025 09:00 AM PT (Pacific Time) |  | |
+| #28| April, 2025 09:00 AM PT (Pacific Time) |  | |
+| #29| May, 2025 09:00 AM PT (Pacific Time) |  | |
+| #30| June, 2025 09:00 AM PT (Pacific Time) |  | |
+| #31| July, 2025 09:00 AM PT (Pacific Time) |  | |
+| #32| August, 2025 09:00 AM PT (Pacific Time) |  | |
+| #33| September, 2025 09:00 AM PT (Pacific Time) |  | |
+| #34| October, 2025 09:00 AM PT (Pacific Time) |  | |
+| #35| November, 2025 09:00 AM PT (Pacific Time) |  | |
+| #36| December, 2025 09:00 AM PT (Pacific Time) |  | |
 
 ## Leadership
 

@@ -35,6 +35,17 @@ Meetings happen every [First Wednesday of the Month](https://calendar.google.com
 | #21| November 6th, 2024 10:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-economics/meetings/021-2024-11-06.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-economics/meetings/021-2024-11-06.md#transcript) |[Link](https://spb2lgjfo22rkltiontajya63on7vc5jg4i77hnsngjdj5xyfkra.arweave.net/k8OlmSV2tRUuaHNmBOAe25v6i6k3Ef-dsmmSNPb4KqI)
 | #22| December 2nd, 2024 10:00 AM PT (Pacific Time) |  | |
 | #23| January 8th, 2025 10:00 AM PT (Pacific Time) |  | |
+| #24| February, 2025 09:00 AM PT (Pacific Time) |  | |
+| #25| March, 2025 09:00 AM PT (Pacific Time) |  | |
+| #26| April, 2025 09:00 AM PT (Pacific Time) |  | |
+| #27| May, 2025 09:00 AM PT (Pacific Time) |  | |
+| #28| June, 2025 09:00 AM PT (Pacific Time) |  | |
+| #29| July, 2025 09:00 AM PT (Pacific Time) |  | |
+| #30| August, 2025 09:00 AM PT (Pacific Time) |  | |
+| #31| September, 2025 09:00 AM PT (Pacific Time) |  | |
+| #32| October, 2025 09:00 AM PT (Pacific Time) |  | |
+| #33| November, 2025 09:00 AM PT (Pacific Time) |  | |
+| #34| December, 2025 09:00 AM PT (Pacific Time) |  | |
 
 
 ## Leadership
