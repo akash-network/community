@@ -36,9 +36,20 @@ This SIG (Special Interest Group) is designed for Akash community members to pro
 | #18| August 14, 2024 11:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/018-2024-08-14.md) | [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/018-2024-08-14.md#Transcript) | Coming Soon
 | #19| September 10, 2024 11:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/019-2024-09-10.md) |[Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/019-2024-09-10.md#Transcript) | [Link](https://7m4voozzewq7nnzhoteyc7zbeuvc72pb2fpou57f72etmypu7ulq.arweave.net/-zlXOzklofa3J3TJgX8hJSov6eHRXup35f6JNmH0_Rc) 
 | #20| October 08, 2024 11:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/020-2024-10-08.md) | [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/020-2024-10-08.md#Transcript) |[Link](https://7hbbbiaiqssx7redpnzevdfif3smtvixbsd6uahwjtqugqcndxia.arweave.net/-cIQoAiEpX_Eg3tySoyoLuTJ1RcMh-oA9kzhQ0BNHdA) 
-| #21| November, 2024 11:00 AM PT (Pacific Time) | Coming Soon |Coming Soon |Coming Soon
-| #22| December, 2024 11:00 AM PT (Pacific Time) |  | |
+| #21| November 19, 2024 11:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/021-2024-11-19.md) |[Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/021-2024-11-19.md#Transcript) |[Link](https://uy4uyrve65i7vnxeprirtd4jfpgqqjmqr7qdt5qwwercdcf4liaq.arweave.net/pjlMRqT3Ufq25HxRGY-JK80IJZCP4Dn2FrEiIYi8WgE) 
+| #22| December 10, 2024 11:00 AM PT (Pacific Time) |  [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/022-2024-12-10.md) |[Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/022-2024-12-10.md#Transcript)  |[Link](https://nau5funxfwypo5dyiygfm4dar7qxpoomsh53vyqe7ngpc4zdv7rq.arweave.net/aCnS0bctsPd0eEYMVnBgj-F3ucyR-7riBPtM8XMjr-M) 
 | #23| January, 2025 11:00 AM PT (Pacific Time) |  | |
+| #24| February, 2025 09:00 AM PT (Pacific Time) |  | |
+| #25| March, 2025 09:00 AM PT (Pacific Time) |  | |
+| #26| April, 2025 09:00 AM PT (Pacific Time) |  | |
+| #27| May, 2025 09:00 AM PT (Pacific Time) |  | |
+| #28| June, 2025 09:00 AM PT (Pacific Time) |  | |
+| #29| July, 2025 09:00 AM PT (Pacific Time) |  | |
+| #30| August, 2025 09:00 AM PT (Pacific Time) |  | |
+| #31| September, 2025 09:00 AM PT (Pacific Time) |  | |
+| #32| October, 2025 09:00 AM PT (Pacific Time) |  | |
+| #33| November, 2025 09:00 AM PT (Pacific Time) |  | |
+| #34| December, 2025 09:00 AM PT (Pacific Time) |  | |
 
 
 

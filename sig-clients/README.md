@@ -51,6 +51,17 @@ The goal of this SIG is to foster a community around each of these clients that 
 | #17| August 20th, 2024 10:30 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/017-2024-08-20.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/017-2024-08-20.md#transcript)  |[Link](https://4mgemilgnadqtihidt2lpu7ocnkirkq4voj2pabf64hw5zdlqh3a.arweave.net/4wxGIWZoBwmg6Bz0t9PuE1SIqhyrk6eAJfcPbuRrgfY) 
 | #18| November 13th, 2024 10:30 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/018-2024-11-13.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/018-2024-11-13.md#transcript) |[Link](https://blzzgvq7wf74w6qjclppk66qbckfe7xzngfnrlozgwkdguub7u5q.arweave.net/CvOTVh-xf8t6CRLe9XvQCJRSfvlpitit2TWUM1KB_Ts)
 | #19| January, 2025 10:30 AM PT (Pacific Time) |  | |
+| #20| February, 2025 09:00 AM PT (Pacific Time) |  | |
+| #21| March, 2025 09:00 AM PT (Pacific Time) |  | |
+| #22| April, 2025 09:00 AM PT (Pacific Time) |  | |
+| #23| May, 2025 09:00 AM PT (Pacific Time) |  | |
+| #24| June, 2025 09:00 AM PT (Pacific Time) |  | |
+| #25| July, 2025 09:00 AM PT (Pacific Time) |  | |
+| #26| August, 2025 09:00 AM PT (Pacific Time) |  | |
+| #27| September, 2025 09:00 AM PT (Pacific Time) |  | |
+| #28| October, 2025 09:00 AM PT (Pacific Time) |  | |
+| #29| November, 2025 09:00 AM PT (Pacific Time) |  | |
+| #30| December, 2025 09:00 AM PT (Pacific Time) |  | |
 
 ## Leadership
 
