@@ -11,6 +11,7 @@ Provider SIG covers everything pertinent to Providers on Akash Network. This inc
 
 ### [4th Wednesday of every month at 8am Pacific Time](https://calendar.google.com/calendar/u/0?cid=Y18yNWU1ZTM3NDhlNGM0YWI3YTU1ZjQxZmJjNWViZWJjYzBhMDNiNDBmYjAyODc4NWYxNDE1OWJmYWViZWExMmUyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
+## Next Meeting: Janaury 22nd, 2025
 
 
 | Meeting | Time | Notes | Transcript | Recording
@@ -37,9 +38,9 @@ Provider SIG covers everything pertinent to Providers on Akash Network. This inc
 | #20| August 21, 2024 08:00  AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/020-2024-08-21.md) | [Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/020-2024-08-21.md#transcript) |[Link](https://eyppjrj4mhnx5sbrndju5rgjpdcmejx3c76cn4d7isytmkhceq7q.arweave.net/Jh70xTxh237IMWjTTsTJeMTCJvsX_Cbwf0SxNijiJD8) 
 | #21| September 25th, 2024 08:00  AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/021-2024-09-25.md)  |[Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/021-2024-09-25.md#transcript) |[Link](https://bkfs3bdq5725mjyqedqhdutacourrgdyaealobopsbierafcz4ba.arweave.net/CosthHDv9dYnECDgcdJgE6kYmHgBALcFz5BQSICizwI)
 | #22| October 30th, 2024 08:00  AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/022-2024-10-30.md)|[Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/022-2024-10-30.md#transcript) |[Link](https://efcdb25mxpxjedpogrnl4gcabiiqrsgfyikp3jxo5dxlucpzlnmq.arweave.net/IUQw66y77pIN7jRavhhAChEIyMXCFP2m7ujuugn5W1k)
-| #23| November, 2024 08:00  AM PT (Pacific Time) |  | |
-| #24| December, 2024 08:00  AM PT (Pacific Time) |  | |
-| #25| January, 2025 08:00  AM PT (Pacific Time) |  | |
+| #23| November 27th, 2024 08:00  AM PT (Pacific Time) |Coming Soon  |Coming Soon |[Link](https://mla7nunhtbjx4escdlbbz2smfjxbbn4p34d72rgom7cjaf3vwaxa.arweave.net/YsH20aeYU34SQhrCHOpMKm4Qt4_fB_1EzmfEkBd1sC4)
+| #24| December 18th, 2024 08:00  AM PT (Pacific Time) |Coming Soon  |Coming Soon |[Link](https://vuxw3crfaodaovauaiapkcemnmblclldcedlgp3vzukk7lnako7a.arweave.net/rS9tiiUDhgdUFAIA9QiMawKxLWMRBrM_dc0Ur62gU74)
+| #25| January 22nd, 2025 08:00  AM PT (Pacific Time) |  | |
 | #26| February, 2025 09:00 AM PT (Pacific Time) |  | |
 | #27| March, 2025 09:00 AM PT (Pacific Time) |  | |
 | #28| April, 2025 09:00 AM PT (Pacific Time) |  | |
