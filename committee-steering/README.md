@@ -10,7 +10,9 @@ The Steering Committee is a special SIG that periodically evaluates the list of 
 
 ## Meetings
 
-### Meetings usaully happen [on the last Thursday of each Month at 11am Pacific Time](https://calendar.google.com/calendar/u/0?cid=Y18yNWU1ZTM3NDhlNGM0YWI3YTU1ZjQxZmJjNWViZWJjYzBhMDNiNDBmYjAyODc4NWYxNDE1OWJmYWViZWExMmUyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+### Meetings usually happen [on the last Thursday of each Month at 11am Pacific Time](https://calendar.google.com/calendar/u/0?cid=Y18yNWU1ZTM3NDhlNGM0YWI3YTU1ZjQxZmJjNWViZWJjYzBhMDNiNDBmYjAyODc4NWYxNDE1OWJmYWViZWExMmUyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+
+### Next Meeting: January 30th, 2025
 
 | Time | Notes | Transcript | Recording
 | --- | --- | --- | --- |
