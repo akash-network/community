@@ -6,11 +6,13 @@ date: 2023-1-26T00:20:10-08:00
 
 # Akash Network - Steering Committee (SC)
 
-The Steering Committee is a special SIG that periodically evaluates the list of projects, prioritizes/adds/removes items and decides which SIG or WG is best suited to tackle the project. The Steering Committee also regularly meets to incorporate learnings to improve how the Akash Network community operates and will perform conflict resolution as necessary.
+The Akash Steering Committee serves as a key advisory body, regularly engaging with the community to evaluate ongoing projects, provide feedback, and align efforts with the Akash roadmap. It supports active discussions, AEPs, special interest groups, and working groups to ensure cohesive progress across various initiatives.
 
 ## Meetings
 
-### Meetings usaully happen [on the last Thursday of each Month at 11am Pacific Time](https://calendar.google.com/calendar/u/0?cid=Y18yNWU1ZTM3NDhlNGM0YWI3YTU1ZjQxZmJjNWViZWJjYzBhMDNiNDBmYjAyODc4NWYxNDE1OWJmYWViZWExMmUyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+### These are open community meetings, that usually happen [on the last Thursday of each Month at 11am Pacific Time / 7pm UTC](https://calendar.google.com/calendar/u/0?cid=Y18yNWU1ZTM3NDhlNGM0YWI3YTU1ZjQxZmJjNWViZWJjYzBhMDNiNDBmYjAyODc4NWYxNDE1OWJmYWViZWExMmUyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+
+### Next Meeting: January 30th, 2025
 
 | Time | Notes | Transcript | Recording
 | --- | --- | --- | --- |
@@ -35,10 +37,14 @@ The Steering Committee is a special SIG that periodically evaluates the list of 
 | Thursday, August 29, 2024 11:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/019-2024-08-29.md) | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/019-2024-08-29.md#transcript)|[Link](https://7rl44hv4pys2lipofrsxd22xmnvysihwvhfn3lttrx6w47u67w5q.arweave.net/_FfOHrx-JaWh7ixlcetXY2uJIPapyt2uc439bn6e_bs)
 | Thursday, September 26, 2024 11:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/020-2024-09-26.md)   |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/020-2024-09-26.md#transcript)  |[Link](https://otgpsa4db4kpmdhoccmt3giweyqevheemhwjovjfmva2vrsjgtsq.arweave.net/dMz5A4MPFPYM7hCZPZkWJiBKnIRh7JdVJWVBqsZJNOU)
 | Thursday, October 31, 2024 11:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/021-2024-10-31.md)   |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/021-2024-10-31.md#transcript)  |[Link](https://h5r73bah365pqfr4x62x5sdut5px4wpprsnd6lu2hcej3x42jkxa.arweave.net/P2P9hAffuvgWPL-1fsh0n19-We-Mmj8umjiInd-aSq4)
-| Thursday, December 05, 2024 11:00 AM PT (Pacific Time) |   |  |
-| Thursday, January 09, 2025 11:00 AM PT (Pacific Time) |   |  |
+| Thursday, December 05, 2024 11:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/022-2024-12-05.md)   |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/022-2024-12-05.md#transcript)  |[Link](https://xkr2kbywumiw7y7cclz2z7uorfwxdwm6gsx4kvqqt3uy4qeirjya.arweave.net/uqOlBxajEW_j4hLzrP6OiW1x2Z40r8VWEJ7pjkCIinA)
+| Thursday, January 09, 2025 11:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/023-2025-1-09.md)   |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/023-2025-1-09.md#transcript)  |[Link](https://kjr75weuxisrplpudutxpyrioof6353hwzpecxnift7y4e24ekdq.arweave.net/UmP-2JS6JRet9B0nd-Ioc4vt92e2XkFdqCz_jhNcIoc)
+| Thursday, January 30, 2025 11:00 AM PT (Pacific Time) |   |  |
+| Thursday, March 06, 2025 11:00 AM PT (Pacific Time) |   |  |
+| Thursday, March 27, 2025 11:00 AM PT (Pacific Time) |   |  |
 
-### Typical Agenda
+
+### Typical Akash Steering Committeee Meeting Agenda
 
 - Review/ discuss/ address any community feedback, greviances or conflicts.
 - Review [Akash Project Boards](https://github.com/orgs/akash-network/projects) and prioritize/ add/ remove if necessary.
@@ -52,9 +58,9 @@ The Steering Committee is a special SIG that periodically evaluates the list of 
 - Open up the floor to any other questions from the participants.
 - Look ahead at special interests groups (sigs) and working groups (wgs) for the following month. 
 
-## Steering Committee 
+## Akash Steering Committee
 
-The Steering Commitee is initially comprised of the following members who have the most familiarity with Akash Network but the meetings are public and anyone is welcome to attend and listen-in.
+The Steering Commitee is initially comprised of the following members who have the most familiarity with Akash Network.
 
 - Anil Murty, Overclock Labs
 - Artur Troian, Overclock Labs
