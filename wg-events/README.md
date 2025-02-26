@@ -26,6 +26,7 @@ This working group is to discuss events to attend, year by year, and ways to enc
 | Meeting | Time | Notes | Transcript | Recording
 | --- | --- | --- | --- | --- |
 | #1| Wednesday November 20, 2024 10:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/wg-events/meeting-2025/wg-events-001-2024-11-20.md) | [Link](https://github.com/akash-network/community/blob/main/wg-events/meeting-2025/wg-events-001-2024-11-20.md#transcript) | [Link](https://hfwetu5tb3iet4fswdz5qgxrv35wupvtdjbmkkjk37ohxmthcmka.arweave.net/OWxJ07MO0EnwsrDz2BrxrvtqPrMaQsUpKt_ce7JnExQ) 
+| #2| Wednesday January 29, 2025 10:00 AM PT (Pacific Time) | Coming Soon | Coming Soon  | Coming Soon 
 
 
 ## Lead
