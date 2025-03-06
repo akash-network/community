@@ -12,7 +12,7 @@ The Akash Steering Committee serves as a key advisory body, regularly engaging w
 
 ### These are open community meetings, that usually happen [on the last Thursday of each Month at 11am Pacific Time / 7pm UTC](https://calendar.google.com/calendar/u/0?cid=Y18yNWU1ZTM3NDhlNGM0YWI3YTU1ZjQxZmJjNWViZWJjYzBhMDNiNDBmYjAyODc4NWYxNDE1OWJmYWViZWExMmUyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
-### Next Meeting: January 30th, 2025
+### Next Meeting: March 6th, 2025
 
 | Time | Notes | Transcript | Recording
 | --- | --- | --- | --- |
