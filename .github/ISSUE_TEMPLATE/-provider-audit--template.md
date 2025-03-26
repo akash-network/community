@@ -3,7 +3,8 @@ name: "[Provider Audit] Template"
 about: This is for Akash users interested in having their providers audited by Akash
 title: "[Provider Audit] Template"
 labels: Provider Audit
-assignees: @akash-network/codeowners-devops
+assignees: 
+  - "@akash-network/codeowners-devops"
 
 ---
 ## Prerequisite Steps:
