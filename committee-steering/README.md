@@ -12,7 +12,7 @@ The Akash Steering Committee serves as a key advisory body, regularly engaging w
 
 ### These are open community meetings, that usually happen [on the last Thursday of each Month at 11am Pacific Time / 7pm UTC](https://calendar.google.com/calendar/u/0?cid=Y18yNWU1ZTM3NDhlNGM0YWI3YTU1ZjQxZmJjNWViZWJjYzBhMDNiNDBmYjAyODc4NWYxNDE1OWJmYWViZWExMmUyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
-### Next Meeting: January 30th, 2025
+### Next Meeting: March 6th, 2025
 
 | Time | Notes | Transcript | Recording
 | --- | --- | --- | --- |
@@ -39,8 +39,8 @@ The Akash Steering Committee serves as a key advisory body, regularly engaging w
 | Thursday, October 31, 2024 11:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/021-2024-10-31.md)   |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/021-2024-10-31.md#transcript)  |[Link](https://h5r73bah365pqfr4x62x5sdut5px4wpprsnd6lu2hcej3x42jkxa.arweave.net/P2P9hAffuvgWPL-1fsh0n19-We-Mmj8umjiInd-aSq4)
 | Thursday, December 05, 2024 11:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/022-2024-12-05.md)   |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/022-2024-12-05.md#transcript)  |[Link](https://xkr2kbywumiw7y7cclz2z7uorfwxdwm6gsx4kvqqt3uy4qeirjya.arweave.net/uqOlBxajEW_j4hLzrP6OiW1x2Z40r8VWEJ7pjkCIinA)
 | Thursday, January 09, 2025 11:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/023-2025-1-09.md)   |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/023-2025-1-09.md#transcript)  |[Link](https://kjr75weuxisrplpudutxpyrioof6353hwzpecxnift7y4e24ekdq.arweave.net/UmP-2JS6JRet9B0nd-Ioc4vt92e2XkFdqCz_jhNcIoc)
-| Thursday, January 30, 2025 11:00 AM PT (Pacific Time) |   |  |
-| Thursday, March 06, 2025 11:00 AM PT (Pacific Time) |   |  |
+| Thursday, January 30, 2025 11:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/024-2025-01-30.md)   |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/024-2025-01-30.md#transcript)  |[Link](https://xfakl3sxiruq3qgfrfcxc5mouukjob5sfbtqx2py2f2musni3gpq.arweave.net/uUCl7ldEaQ3AxYlFcXWOpRSXB7IoZwvp-NF0ykmo2Z8)
+| Thursday, March 06, 2025 11:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/025-2025-03-06.md)  | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/025-2025-03-06.md#transcript)  |[Link](https://j2z5ckslh4zlfjlkriqhyrsfyucg72odtkopm7sp4qruyyfgijsa.arweave.net/TrPRKks_MrKlaoogfEZFxQRv6cOanPZ-T-QjTGCmQmQ) 
 | Thursday, March 27, 2025 11:00 AM PT (Pacific Time) |   |  |
 
 
