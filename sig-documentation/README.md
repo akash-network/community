@@ -10,7 +10,7 @@ The goal of this SIG is to foster a community around the creation and maintenanc
 
 ## Meetings
 
-### [4th Tuesday of the Month at 7am Pacific Time](https://calendar.google.com/calendar/u/0?cid=Y18yNWU1ZTM3NDhlNGM0YWI3YTU1ZjQxZmJjNWViZWJjYzBhMDNiNDBmYjAyODc4NWYxNDE1OWJmYWViZWExMmUyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+### [This meeting is now held every four months, on the fourth Tuesday at 7:00 AM Pacific Time.](https://calendar.google.com/calendar/u/0?cid=Y18yNWU1ZTM3NDhlNGM0YWI3YTU1ZjQxZmJjNWViZWJjYzBhMDNiNDBmYjAyODc4NWYxNDE1OWJmYWViZWExMmUyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
 
 
@@ -31,7 +31,7 @@ The goal of this SIG is to foster a community around the creation and maintenanc
 | #13 | Tuesday, January 23, 2024 07:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/013-2024-01-23.md)   |[Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/013-2024-01-23.md#transcript)  |[Link](https://ggtsa72sjsvu3yph245qmj6zvpy7uyys7jerkj72heitmyoiv2na.arweave.net/Macgf1JMq03h59c7BifZq_H6YxL6SRUn-jkRNmHIrpo)
 | #14 | Tuesday February 27, 2024 07:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/014-2024-02-27.md) |[Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/014-2024-02-27.md#transcript)|Coming Soon
 | #15| March 26, 2024 07:00  AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/015-2024-03-26.md) |[Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/015-2024-03-26.md#transcript) |[Link](https://7lvvy6qbe6wq3tzg3zl2vbxvamshk5ibb3bi32m6fbt5vwdlonpa.arweave.net/-utcegEnrQ3PJt5Xqob1AyR1dQEOwo3pnihn2thrc14)
-| #16| April 23, 2024 07:00  AM PT (Pacific Time) | | |
+| #16| February 25, 2024 07:00  AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/016-2025-02-25.md)|[Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/016-2025-02-25.md#transcript) |[Link](https://bmjxysohixyuklj34nn4bkg6hklzkkkw7k4rgy6zqzfk3cfwka4q.arweave.net/CxN8ScdF8UUtO-NbwKjeOpeVKVb6uRNj2YZKrYi2UDk)
 | #17| May, 2024 07:00  AM PT (Pacific Time) |  | |
 | #18| June, 2024 07:00  AM PT (Pacific Time) |  | |
 | #19| July, 2024 07:00  AM PT (Pacific Time) |  | |
