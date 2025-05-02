@@ -41,7 +41,9 @@ The Akash Steering Committee serves as a key advisory body, regularly engaging w
 | Thursday, January 09, 2025 11:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/023-2025-1-09.md)   |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/023-2025-1-09.md#transcript)  |[Link](https://kjr75weuxisrplpudutxpyrioof6353hwzpecxnift7y4e24ekdq.arweave.net/UmP-2JS6JRet9B0nd-Ioc4vt92e2XkFdqCz_jhNcIoc)
 | Thursday, January 30, 2025 11:00 AM PT (Pacific Time) |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/024-2025-01-30.md)   |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/024-2025-01-30.md#transcript)  |[Link](https://xfakl3sxiruq3qgfrfcxc5mouukjob5sfbtqx2py2f2musni3gpq.arweave.net/uUCl7ldEaQ3AxYlFcXWOpRSXB7IoZwvp-NF0ykmo2Z8)
 | Thursday, March 06, 2025 11:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/025-2025-03-06.md)  | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/025-2025-03-06.md#transcript)  |[Link](https://j2z5ckslh4zlfjlkriqhyrsfyucg72odtkopm7sp4qruyyfgijsa.arweave.net/TrPRKks_MrKlaoogfEZFxQRv6cOanPZ-T-QjTGCmQmQ) 
-| Thursday, March 27, 2025 11:00 AM PT (Pacific Time) |   |  |
+| Thursday, March 27, 2025 11:00 AM PT (Pacific Time) |Coming Soon  | Coming Soon  | Coming Soon
+| Thursday, April 24, 2025 11:00 AM PT (Pacific Time) |   |  |
+| Thursday, May 29, 2025 11:00 AM PT (Pacific Time) |   |  |
 
 
 ### Typical Akash Steering Committeee Meeting Agenda

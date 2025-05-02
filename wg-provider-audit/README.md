@@ -1,25 +1,35 @@
 ---
 title: "Provider Audit Working Group"
 date: 2023-1-10T00:19:20-08:00
+description: This working group is for defining any specifications and scope of code changes for making it easy to monitor providers. Note that this working group does not deal with provider analytics but is considered with pure monitoring of the infrastructure (for improved uptime, SLA and such)
+
+category: working-groups
+
+meetings:
+  dateLabel: Calendar
+  link:
+    label: Subscribe to Calendar
+    link: "https://calendar.google.com/calendar/u/0?cid=Y18yNWU1ZTM3NDhlNGM0YWI3YTU1ZjQxZmJjNWViZWJjYzBhMDNiNDBmYjAyODc4NWYxNDE1OWJmYWViZWExMmUyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20"
+
+githubLink: "https://github.com/akash-network/community/tree/main/wg-provider-monitoring"
+
+discordLink: "https://discord.com/invite/akash"
 ---
 
 # Akash Network Provider Audit Working Group
 
-This working group is for developing an open source auditor tool for providers. The Pi3 team requested funds for building this open source tool, which passed on chain 
+This working group is for developing an open source auditor tool for providers. The Pi3 team requested funds for building this open source tool, which passed on chain
 
 ## Meetings
 
 [3rd Wednesday of Every Month](https://calendar.google.com/calendar/u/0?cid=Y18yNWU1ZTM3NDhlNGM0YWI3YTU1ZjQxZmJjNWViZWJjYzBhMDNiNDBmYjAyODc4NWYxNDE1OWJmYWViZWExMmUyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
-
-| Meeting | Time | Notes | Transcript | Recording
-| --- | --- | --- | --- | --- |
-| #1 | Wed, Feb 21, 2024 10:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/wg-provider-audit/001-2024-02-21.md) | [Link](https://github.com/akash-network/community/blob/main/wg-provider-audit/001-2024-02-21.md#transcript) | Coming Soon
-| #2 | Wed, May 1st, 2024 09:00 AM PT (Pacific Time) | No meeting  | No meeting   | No Meeting
-| #3 | Thursday, June 13, 2024 10:00 AM PT (Pacific Time) |  [Link](https://github.com/akash-network/community/blob/main/wg-provider-audit/meetings/002-2024-06-13.md) |   [Link](https://github.com/akash-network/community/blob/main/wg-provider-audit/meetings/002-2024-06-13.md#transcript)  | [Link](https://nergf5caumt4yjgrcif4bb6yxjrq6ftqaj52ge3l63ggj3qqlqaa.arweave.net/aSJi9ECjJ8wk0RILwIfYumMPFnACe6MTa_bMZO4QXAA) 
-| #4 | Wed, July 17, 2024 10:00 AM PT (Pacific Time) |   |   |  
-
-
+| Meeting | Time                                               | Notes                                                                                                     | Transcript                                                                                                           | Recording                                                                                                                    |
+| ------- | -------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| #1      | Wed, Feb 21, 2024 10:00 AM PT (Pacific Time)       | [Link](https://github.com/akash-network/community/blob/main/wg-provider-audit/001-2024-02-21.md)          | [Link](https://github.com/akash-network/community/blob/main/wg-provider-audit/001-2024-02-21.md#transcript)          | Coming Soon                                                                                                                  |
+| #2      | Wed, May 1st, 2024 09:00 AM PT (Pacific Time)      | No meeting                                                                                                | No meeting                                                                                                           | No Meeting                                                                                                                   |
+| #3      | Thursday, June 13, 2024 10:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/wg-provider-audit/meetings/002-2024-06-13.md) | [Link](https://github.com/akash-network/community/blob/main/wg-provider-audit/meetings/002-2024-06-13.md#transcript) | [Link](https://nergf5caumt4yjgrcif4bb6yxjrq6ftqaj52ge3l63ggj3qqlqaa.arweave.net/aSJi9ECjJ8wk0RILwIfYumMPFnACe6MTa_bMZO4QXAA) |
+| #4      | Wed, July 17, 2024 10:00 AM PT (Pacific Time)      |                                                                                                           |                                                                                                                      |
 
 ## Contacts
 
