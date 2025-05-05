@@ -74,7 +74,7 @@ This working group is responsible for managing and improving the Akash Network W
 
 - Triage [Akash Website issues](https://github.com/akash-network/website/issues)
 - Assign issues to working group members to improve the website on front end and back end.
-- Ideate and implement new website pages and features
+- Ideate and implement new website pages and features.
 
 ## PRDs and other documentation
 
