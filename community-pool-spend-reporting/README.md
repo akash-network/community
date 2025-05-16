@@ -8,6 +8,16 @@
 ## Community Pool Spend Reporting Table
 | Proposal Number | Pass Date | Name | Link to Discussions | Link to Proposal | Link to Report |
 | --- | --- | --- | --- | --- | --- |
+| 289 | April 28 2025 | Akash Accelerate 2025 | [Link](https://github.com/orgs/akash-network/discussions/855) | [Link](https://www.mintscan.io/akash/proposals/289/) | --- | 
+| 288 | April 16 2025 | AEP 32 - Provider Console | [Link](https://github.com/orgs/akash-network/discussions/825) | [Link](https://www.mintscan.io/akash/proposals/288/) | --- |
+| 287 | April 10 2025 | Akash Community Activities: Q2 2025 Proposal | [Link](https://github.com/orgs/akash-network/discussions/753) | [Link](https://www.mintscan.io/akash/proposals/287/) | --- | 
+| 286 | April 07 2025 | Akash Community Programs: Q2 2025 Proposal | [Link](https://github.com/orgs/akash-network/discussions/753) | [Link](https://www.mintscan.io/akash/proposals/286/) | --- |
+| 285 | April 02 2025 | 2025 Q2 Events Resourcing Proposal | [Link](https://github.com/orgs/akash-network/discussions/748) | [Link](https://www.mintscan.io/akash/proposals/285/) | --- |
+| 284 | March 19 2025 | Public Good Indexing, Analytics, and MCP integration | [Link](https://github.com/orgs/akash-network/discussions/776) | [Link](https://www.mintscan.io/akash/proposals/284/) | --- |
+| 280 | February 18 2025 | Enhancing Akash Network Market Liquidity and Depth | [Link](https://github.com/orgs/akash-network/discussions/797) | [Link](https://www.mintscan.io/akash/proposals/280/) | --- | 
+| 279 | January 22 2025 | 2025 Q1 Events Resourcing Proposal | [Link](https://github.com/orgs/akash-network/discussions/748) | [Link](https://www.mintscan.io/akash/proposals/279/) | --- | 
+| 278 | January 10 2025 | Akash Community Activities: Q1 2025 Proposal | [Link](https://github.com/orgs/akash-network/discussions/753) | [Link](https://www.mintscan.io/akash/proposals/278/) | --- |
+| 277 | January 10 2025 | Akash Community Programs: Q1 2025 Proposal | [Link](https://github.com/orgs/akash-network/discussions/753) | [Link](https://www.mintscan.io/akash/proposals/277/) | --- |
 | 274 | December 02 2024 | Developer Onboarding Funding Proposal 3 (Zealy) | [Link](https://github.com/orgs/akash-network/discussions/728) | [Link](https://www.mintscan.io/akash/proposals/274) | --- |
 | 273 | November 05 2024 | Akash Network Provider Incentives Pilot 02 | [Link](https://github.com/orgs/akash-network/discussions/696) | [Link](https://www.mintscan.io/akash/proposals/273) | [Link](https://lookerstudio.google.com/u/1/reporting/198bc72a-7925-4980-a542-74f782847858/page/BIUND) |
 | 272 | November 04 2024 | 2024 Q4 Events Resourcing Proposal | [Link](https://github.com/orgs/akash-network/discussions/380) | [Link](https://www.mintscan.io/akash/proposals/272) | [Link](https://lookerstudio.google.com/u/1/reporting/96c38594-7ec4-4a4f-9128-3feaf3b82ac8/page/BIUND) |
