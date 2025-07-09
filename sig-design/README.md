@@ -6,7 +6,7 @@ description: Design Special Interest Group is dedicated to defining and building
 category: special-interest-groups
 
 meetings:
-  dateLabel: Second Wednesday of every month
+  dateLabel: Bi-monthly, on the second Wednesday of each month
   link:
     label: Wednesday 8am-9am pacific time
     link: "https://calendar.google.com/calendar/u/0?cid=Y18yNWU1ZTM3NDhlNGM0YWI3YTU1ZjQxZmJjNWViZWJjYzBhMDNiNDBmYjAyODc4NWYxNDE1OWJmYWViZWExMmUyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20"
@@ -53,12 +53,9 @@ discordLink: "https://discord.com/invite/akash"
 | #24     | January 15, 2025 08:00 AM PT (Pacific Time)              | [Link](https://github.com/akash-network/community/blob/main/sig-design/meetings/024-2025-01-15.md) | [Link](https://github.com/akash-network/community/blob/main/sig-design/meetings/024-2025-01-15.md#transcript) | [Link](https://bhuhr4lobcaaatnlbtmtrbjbxsvg7irafhgvloy5pf4donay2gsa.arweave.net/Ceh48W4IgABNqwzZOIUhvKpvoiApzVW7HXl4NzQY0aQ) |
 | #25     | February, 2025 09:00 AM PT (Pacific Time)                | [Link](https://github.com/akash-network/community/blob/main/sig-design/meetings/025-2025-02-12.md) | [Link](https://github.com/akash-network/community/blob/main/sig-design/meetings/025-2025-02-12.md#transcript) | [Link](https://ko6p7gnqbdpk7mm7ugrsgz74rdm5xxvksfng3h7u7gdf5emzki6a.arweave.net/U7z_mbAI3q-xn6GjI2f8iNnb3qqRWm2f9PmGXpGZUjw) |
 | #26     | March 12, 2025 09:00 AM PT (Pacific Time)                | [Link](https://github.com/akash-network/community/blob/main/sig-design/meetings/026-2025-03-12.md) | [Link](https://github.com/akash-network/community/blob/main/sig-design/meetings/026-2025-03-12.md#transcript) | [Link](https://z7rufn6dnuutskgyo47ueab42sxnj6xwzag4c7cpw2cv5fjulcvq.arweave.net/z-NCt8NtKTko2Hc_QgA81K7U-vbIDcF8T7aFXpU0WKs) |
-| #27     | April, 2025 09:00 AM PT (Pacific Time) |  No meeting(Meetings is now bimonthly)    |      |
-| #28     | May, 2025 09:00 AM PT (Pacific Time)  | [Link](https://github.com/akash-network/community/blob/main/sig-design/meetings/027-2025-05-14.md) | [Link](https://github.com/akash-network/community/blob/main/sig-design/meetings/027-2025-05-14.md#transcript)| [Link](https://244ac3zpmmxe5h6bgbi5g5muew7lhlicldicjg5mxdamlbewcwua.arweave.net/1zgBby9jLk6fwTBR03WUJb6zrQJY0CSbrLjAxYSWFag)   
-| #29     | June, 2025 09:00 AM PT (Pacific Time)   | No meeting due to calender change   | |
-| #31     | July, 2025 09:00 AM PT (Pacific Time)                    |                                                                                                    |                                                                                                               |
-| #33     | August, 2025 09:00 AM PT (Pacific Time)                  |                                                                                                    |                                                                                                               |
-| #34     | September, 2025 09:00 AM PT (Pacific Time)               |                                                                                                    |                                                                                                               |
+| #27     | May, 2025 09:00 AM PT (Pacific Time)  | [Link](https://github.com/akash-network/community/blob/main/sig-design/meetings/027-2025-05-14.md) | [Link](https://github.com/akash-network/community/blob/main/sig-design/meetings/027-2025-05-14.md#transcript)| [Link](https://244ac3zpmmxe5h6bgbi5g5muew7lhlicldicjg5mxdamlbewcwua.arweave.net/1zgBby9jLk6fwTBR03WUJb6zrQJY0CSbrLjAxYSWFag)   
+| #28    | July, 2025 09:00 AM PT (Pacific Time)      |     Coming Soon      |   Coming Soon        | Coming Soon
+| #29     | September, 2025 09:00 AM PT (Pacific Time)               |                                                                                                    |                                                                                                               |
 | #35     | October, 2025 09:00 AM PT (Pacific Time)                 |                                                                                                    |                                                                                                               |
 | #36     | November, 2025 09:00 AM PT (Pacific Time)                |                                                                                                    |                                                                                                               |
 | #37     | December, 2025 09:00 AM PT (Pacific Time)                |                                                                                                    |                                                                                                               |

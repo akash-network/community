@@ -6,7 +6,7 @@ description: Analytics Special Interest Group is dedicated to defining and build
 category: special-interest-groups
 
 meetings:
-  dateLabel: Monthly on the second Thursday
+  dateLabel: Quarterly, on the second Thursday of each quarter
   link:
     label: Thursday 9am-10am pacific time
     link: "https://calendar.google.com/calendar/u/0?cid=Y18yNWU1ZTM3NDhlNGM0YWI3YTU1ZjQxZmJjNWViZWJjYzBhMDNiNDBmYjAyODc4NWYxNDE1OWJmYWViZWExMmUyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20"
@@ -46,7 +46,6 @@ Analytics Special Interest Group is dedicated to defining and building tools tha
 | #14     | August 15, 2024 09:00 AM PT (Pacific Time)              | [Link](https://github.com/akash-network/community/blob/main/sig-analytics/meetings/014-2024-08-15.md) | [Link](https://github.com/akash-network/community/blob/main/sig-analytics/meetings/014-2024-08-15.md#transcript) | [Link](https://j3ac6jsjcqd3hmfii6dophi4gunxiuqqxdeslkehhz6fpnvvgkta.arweave.net/TsAvJkkUB7OwqEeG550cNRt0UhC4ySWohz58V7a1MqY) |
 | #15     | October 17th, 2024 09:00 AM PT (Pacific Time)           | [Link](https://github.com/akash-network/community/blob/main/sig-analytics/meetings/015-2024-10-17.md) | [Link](https://github.com/akash-network/community/blob/main/sig-analytics/meetings/015-2024-10-17.md#transcript) | [Link](https://r42dbtac4ccmnthbcyiziw5brtbvhu3bprmx4kbzgimwxti5af3q.arweave.net/jzQwzALghMbM4RYRlFuhjMNT02F8WX4oOTIZa80dAXc) |
 | #16     | February 20, 2025 09:00 AM PT (Pacific Time)            | [Link](https://github.com/akash-network/community/blob/main/sig-analytics/meetings/016-2025-02-20.md) | [Link](https://github.com/akash-network/community/blob/main/sig-analytics/meetings/016-2025-02-20.md#transcript) | [Link](https://y6ufaqhiuerd5c5c644hmnos5zmfcpxexf6l5eekonmbjwas5pga.arweave.net/x6hQQOihIj6Lovc4djXS7lhRPuS5fL6QinNYFNgS68w) |
-| #    | March, 2025 09:00 AM PT (Pacific Time)  |  No meeting. Meeting is now quarterly |    |
 | #17     | July 02, 2025 09:00 AM PT (Pacific Time)   | [Link](https://github.com/akash-network/community/blob/main/sig-analytics/meetings/017-2025-02-20.md) | [Link](https://github.com/akash-network/community/blob/main/sig-analytics/meetings/017-2025-02-20.md#transcript) | [Link](https://st4fnop5yf5ejint2crddyd2ja52lppl4pxpgoriukncslqyjfwq.arweave.net/lPhWuf3BekShs9CiMeB6SDulvevj7vM6KKKaKS4YSW0) 
 | #18     | September, 2025 09:00 AM PT (Pacific Time)              |                                                                                                       |                                                                                                                  |
 | #26     | October, 2025 09:00 AM PT (Pacific Time)                |                                                                                                       |                                                                                                                  |
