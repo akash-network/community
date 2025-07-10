@@ -8,6 +8,12 @@
 ## Community Pool Spend Reporting Table
 | Proposal Number | Pass Date | Name | Link to Discussions | Link to Proposal | Link to Report |
 | --- | --- | --- | --- | --- | --- |
+| 296 | In Progress | Zealy 2025 Program Q3 | [Link](https://github.com/orgs/akash-network/discussions/943) | [Link](https://www.mintscan.io/akash/proposals/296) | --- |
+| 295 | In Progress | Akash Community Programs: Q3 2025 Proposal | [Link](https://github.com/orgs/akash-network/discussions/753) | [Link](https://www.mintscan.io/akash/proposals/295) | --- |
+| 293 | July 2 2025 | 2025 H2 Community Growth Marketing | [Link](https://github.com/orgs/akash-network/discussions/932) | [Link](https://www.mintscan.io/akash/proposals/293) | --- |
+| 292 | June 24 2025 | H1 2025 AEP Support Services | [Link](https://github.com/orgs/akash-network/discussions/930) | [Link](https://www.mintscan.io/akash/proposals/292) | --- |
+| 291 | June 18 2025 | De-AI Hub | --- | [Link](https://www.mintscan.io/akash/proposals/291) | --- | 
+| 290 | June 11 2025 | AEP 62, 63, & 64 - New Features and Quality of Life Improvements for the Akash Network | [Link](https://github.com/orgs/akash-network/discussions/914) | [Link](https://www.mintscan.io/akash/proposals/290) | --- |
 | 289 | April 28 2025 | Akash Accelerate 2025 | [Link](https://github.com/orgs/akash-network/discussions/855) | [Link](https://www.mintscan.io/akash/proposals/289/) | --- | 
 | 288 | April 16 2025 | AEP 32 - Provider Console | [Link](https://github.com/orgs/akash-network/discussions/825) | [Link](https://www.mintscan.io/akash/proposals/288/) | --- |
 | 287 | April 10 2025 | Akash Community Activities: Q2 2025 Proposal | [Link](https://github.com/orgs/akash-network/discussions/753) | [Link](https://www.mintscan.io/akash/proposals/287/) | --- | 
