@@ -8,8 +8,8 @@
 ## Community Pool Spend Reporting Table
 | Proposal Number | Pass Date | Name | Link to Discussions | Link to Proposal | Link to Report |
 | --- | --- | --- | --- | --- | --- |
-| 296 | In Progress | Zealy 2025 Program Q3 | [Link](https://github.com/orgs/akash-network/discussions/943) | [Link](https://www.mintscan.io/akash/proposals/296) | --- |
-| 295 | In Progress | Akash Community Programs: Q3 2025 Proposal | [Link](https://github.com/orgs/akash-network/discussions/753) | [Link](https://www.mintscan.io/akash/proposals/295) | --- |
+| 296 | July 11 2025 | Zealy 2025 Program Q3 | [Link](https://github.com/orgs/akash-network/discussions/943) | [Link](https://www.mintscan.io/akash/proposals/296) | --- |
+| 295 | July 10 2025 | Akash Community Programs: Q3 2025 Proposal | [Link](https://github.com/orgs/akash-network/discussions/753) | [Link](https://www.mintscan.io/akash/proposals/295) | --- |
 | 293 | July 2 2025 | 2025 H2 Community Growth Marketing | [Link](https://github.com/orgs/akash-network/discussions/932) | [Link](https://www.mintscan.io/akash/proposals/293) | --- |
 | 292 | June 24 2025 | H1 2025 AEP Support Services | [Link](https://github.com/orgs/akash-network/discussions/930) | [Link](https://www.mintscan.io/akash/proposals/292) | --- |
 | 291 | June 18 2025 | De-AI Hub | --- | [Link](https://www.mintscan.io/akash/proposals/291) | --- | 
