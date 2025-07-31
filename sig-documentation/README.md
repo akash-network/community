@@ -6,7 +6,7 @@ description: The goal of this SIG is to foster a community around the creation a
 category: special-interest-groups
 
 meetings:
-  dateLabel: 4th Tuesday of the Month
+  dateLabel: Quarterly, on the 4th Tuesday of each quarter
   link:
     label: Tuesday 7am pacific time
     link: "https://calendar.google.com/calendar/u/0?cid=Y18yNWU1ZTM3NDhlNGM0YWI3YTU1ZjQxZmJjNWViZWJjYzBhMDNiNDBmYjAyODc4NWYxNDE1OWJmYWViZWExMmUyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20"
@@ -42,11 +42,8 @@ The goal of this SIG is to foster a community around the creation and maintenanc
 | #14     | Tuesday February 27, 2024 07:00 AM PT (Pacific Time)   | [Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/014-2024-02-27.md) | [Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/014-2024-02-27.md#transcript) | Coming Soon                                                                                                                  |
 | #15     | March 26, 2024 07:00 AM PT (Pacific Time)              | [Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/015-2024-03-26.md) | [Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/015-2024-03-26.md#transcript) | [Link](https://7lvvy6qbe6wq3tzg3zl2vbxvamshk5ibb3bi32m6fbt5vwdlonpa.arweave.net/-utcegEnrQ3PJt5Xqob1AyR1dQEOwo3pnihn2thrc14) |
 | #16     | February 25, 2024 07:00 AM PT (Pacific Time)           | [Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/016-2025-02-25.md) | [Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/016-2025-02-25.md#transcript) | [Link](https://bmjxysohixyuklj34nn4bkg6hklzkkkw7k4rgy6zqzfk3cfwka4q.arweave.net/CxN8ScdF8UUtO-NbwKjeOpeVKVb6uRNj2YZKrYi2UDk) |
-| #17     | May, 2024 07:00 AM PT (Pacific Time) | No meeting in May. This meeting is  now quarterly   |  |
-| #18     | June 25, 2024 07:00 AM PT (Pacific Time)  | Coming Soon  | Coming Soon |Coming Soon 
-| #19     | July, 2024 07:00 AM PT (Pacific Time)                  |                                                                                                           |                                                                                                                      |
-| #20     | August, 2024 07:00 AM PT (Pacific Time)                |                                                                                                           |                                                                                                                      |
-| #21     | September, 2024 07:00 AM PT (Pacific Time)             |                                                                                                           |                                                                                                                      |
+| #17    | June 25, 2024 07:00 AM PT (Pacific Time)  | [Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/017-2025-06-25.md) | [Link](https://github.com/akash-network/community/blob/main/sig-documentation/meetings/017-2025-06-25.md#transcript)|[Link](https://q3m6usjreyhtwnhxjx3kuzsjrqnoekf7vuznjv5v4zkps4nnw64q.arweave.net/htnqSTEmDzs09032qmZJjBriKL-tMtTXteZU-XGtt7k)
+| #19     | September, 2024 07:00 AM PT (Pacific Time)             |                                                                                                           |                                                                                                                      |
 | #22     | October 2024 07:00 AM PT (Pacific Time)                |                                                                                                           |                                                                                                                      |
 | #23     | November, 2024 07:00 AM PT (Pacific Time)              |                                                                                                           |                                                                                                                      |
 | #24     | December, 2024 07:00 AM PT (Pacific Time)              |                                                                                                           |                                                                                                                      |
