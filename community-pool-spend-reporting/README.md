@@ -8,6 +8,7 @@
 ## Community Pool Spend Reporting Table
 | Proposal Number | Pass Date | Name | Link to Discussions | Link to Proposal | Link to Report |
 | --- | --- | --- | --- | --- | --- |
+| 297 | August 6 2025 | Akash Tenant Incentives Pilot | [Link](https://github.com/orgs/akash-network/discussions/978) | [Link](https://www.mintscan.io/akash/proposals/297/) | --- |
 | 296 | July 11 2025 | Zealy 2025 Program Q3 | [Link](https://github.com/orgs/akash-network/discussions/943) | [Link](https://www.mintscan.io/akash/proposals/296) | --- |
 | 295 | July 10 2025 | Akash Community Programs: Q3 2025 Proposal | [Link](https://github.com/orgs/akash-network/discussions/753) | [Link](https://www.mintscan.io/akash/proposals/295) | --- |
 | 293 | July 2 2025 | 2025 H2 Community Growth Marketing | [Link](https://github.com/orgs/akash-network/discussions/932) | [Link](https://www.mintscan.io/akash/proposals/293) | --- |
