@@ -22,7 +22,7 @@ TBD
 
 ## Goals
 
-- bulletted list
+- bulleted list
 - of goals for this WG
 
 
