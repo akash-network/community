@@ -15,6 +15,7 @@ githubLink: "https://github.com/akash-network/community/tree/main/sig-providers"
 
 discordLink: "https://discord.com/invite/akash"
 ---
+<img width="2000" height="500" alt="sig-providers" src="https://github.com/user-attachments/assets/316658df-bae9-4ea7-bb12-24d479672c9b" />
 
 # Akash Network - Providers Special Interest Group (SIG)
 
