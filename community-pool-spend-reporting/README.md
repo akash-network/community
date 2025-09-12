@@ -8,6 +8,9 @@
 ## Community Pool Spend Reporting Table
 | Proposal Number | Pass Date | Name | Link to Discussions | Link to Proposal | Link to Report |
 | --- | --- | --- | --- | --- | --- |
+| 303 | September 11 2025 | Provider Incentive Pilot 3 | [Link](https://github.com/orgs/akash-network/discussions/1007) | [Link](https://www.mintscan.io/akash/proposals/303) | --- | 
+| 301 | August 20 2025 | Blockworks Research: Akash Data-Dashboard | [Link](https://github.com/orgs/akash-network/discussions/957) | [Link](https://www.mintscan.io/akash/proposals/301) | --- | 
+| 300 | August 20 2025 | 2025 Q3 Events Resourcing Proposal | [Link](https://github.com/orgs/akash-network/discussions/748) | [Link](https://www.mintscan.io/akash/proposals/300) | --- |
 | 298 | August 15 2025 | Community Support for Akash Chat, Akash ChatAPI, and AkashGen | [Link](https://github.com/orgs/akash-network/discussions/982) | [Link](https://www.mintscan.io/akash/proposals/298/) | --- | 
 | 297 | August 6 2025 | Akash Tenant Incentives Pilot | [Link](https://github.com/orgs/akash-network/discussions/978) | [Link](https://www.mintscan.io/akash/proposals/297/) | --- |
 | 296 | July 11 2025 | Zealy 2025 Program Q3 | [Link](https://github.com/orgs/akash-network/discussions/943) | [Link](https://www.mintscan.io/akash/proposals/296) | --- |
