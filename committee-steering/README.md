@@ -16,6 +16,7 @@ githubLink: "https://github.com/akash-network/community/blob/main/committee-stee
 
 discordLink: "https://discord.com/invite/akash"
 ---
+<img width="2000" height="500" alt="steering-committee" src="https://github.com/user-attachments/assets/078d98c1-5499-4302-8ebe-914876ea37c7" />
 
 # Akash Network - Steering Committee (SC)
 
