@@ -15,6 +15,7 @@ githubLink: "https://github.com/akash-network/community/blob/main/wg-akash-websi
 
 discordLink: "https://discord.com/invite/akash"
 ---
+<img width="2000" height="500" alt="wg-akash-website" src="https://github.com/user-attachments/assets/6b92ed9f-7778-4107-aaa2-6d618ffc00ca" />
 
 # Akash Network Website Working Group
 
