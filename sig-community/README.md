@@ -15,6 +15,7 @@ githubLink: "https://github.com/akash-network/community/tree/main/sig-community"
 
 discordLink: "https://discord.com/invite/akash"
 ---
+<img width="2000" height="500" alt="sig-community" src="https://github.com/user-attachments/assets/10186e05-02e4-4d02-8eba-4f5bbe5c283a" />
 
 # Akash Network - Community Special Interest Group (SIG)
 

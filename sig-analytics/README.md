@@ -15,6 +15,7 @@ githubLink: "https://github.com/akash-network/community/tree/main/sig-analytics"
 
 discordLink: "https://discord.com/invite/akash"
 ---
+<img width="2000" height="500" alt="sig-analytics" src="https://github.com/user-attachments/assets/c14d8a26-183e-4d94-8d20-6bd48849266b" />
 
 # Akash Network - Analytics Special Interest Group (SIG)
 

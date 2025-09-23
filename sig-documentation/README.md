@@ -15,6 +15,7 @@ githubLink: "https://github.com/akash-network/community/tree/main/sig-documentat
 
 discordLink: "https://discord.akash.network/"
 ---
+<img width="2000" height="500" alt="sig-documentation" src="https://github.com/user-attachments/assets/69c38f85-3f18-476c-8184-9a1214da6bf3" />
 
 # Akash Network - Documentation Special Interest Group (SIG)
 

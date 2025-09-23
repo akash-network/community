@@ -15,6 +15,7 @@ githubLink: "https://github.com/akash-network/community/tree/main/wg-content-mod
 
 discordLink: "https://discord.com/invite/akash"
 ---
+<img width="2000" height="500" alt="wg-content-moderation" src="https://github.com/user-attachments/assets/2f1f88f1-b93d-4233-aa65-4ad5004e6366" />
 
 # Akash Network - Content Moderation Working Group
 
