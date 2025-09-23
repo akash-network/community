@@ -11,6 +11,7 @@ meetings:
 githubLink: "https://github.com/akash-network/community/blob/main/sig-chain"
 discordLink: "https://discord.com/invite/akash"
 ---
+<img width="2000" height="500" alt="sig-chain" src="https://github.com/user-attachments/assets/c2fd9b76-f7e8-41e4-b4e7-b828b05250b8" />
 
 # Akash Network - Chain Special Interest Group (SIG)
 
