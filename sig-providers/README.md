@@ -15,6 +15,7 @@ githubLink: "https://github.com/akash-network/community/tree/main/sig-providers"
 
 discordLink: "https://discord.com/invite/akash"
 ---
+<img width="2000" height="500" alt="sig-providers" src="https://github.com/user-attachments/assets/316658df-bae9-4ea7-bb12-24d479672c9b" />
 
 # Akash Network - Providers Special Interest Group (SIG)
 
@@ -58,7 +59,7 @@ Provider SIG covers everything pertinent to Providers on Akash Network. This inc
 | #28     | April 23, 2025 09:00 AM PT (Pacific Time)     | [Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/028-2025-04-23.md)| [Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/028-2025-04-23.md#transcript) |[Link](https://gg7jtun3ijn6w7v4nt773thcdk2lkokllwdybjz6x34gxxe7jovq.arweave.net/Mb6Z0btCW-t-vGz__cziGrS1OUtdh4CnPr74a9yfS6s)
 | #29     | May 28, 2025 09:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/029-2025-05-28.md)| [Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/029-2025-05-28.md#transcript) |[Link](https://brbroyl3eglrmslukmiguq4pqxk24lrlowoqdghxdwygyd3uy6ga.arweave.net/DEMXYXshlxZJdFMQakOPhdWuLit1nQGY9x2wbA90x4w)    
 | #30     | July 02, 2025 09:00 AM PT (Pacific Time)       |   [Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/030-2025-07-2.md)    |   [Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/030-2025-07-2.md#transcript)    | [Link](https://53tjhmxisjt7emble3ptryfcfoxq7s2n7rbruke7pbcxa52nsfna.arweave.net/7uaTsuiSZ_IwKybfOOCiK68Py038Qxoon3hFcHdNkVo) 
-| #31     | July, 2025 09:00 AM PT (Pacific Time)         |                                                                                                       |                                                                                                                  |
+| #31     | July 23, 2025 09:00 AM PT (Pacific Time)         | [Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/031-2025-07-23.md)  | [Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/031-2025-07-23.md#transcript)   |[Link](https://75p2qwe4ur67erja76vhe4ifd7rqu7sg7fenqp6to7tztmx7rxga.arweave.net/_1-oWJykffJFIP-qcnEFH-MKfkb5SNg_03fnmbL_jcw) 
 | #32     | August, 2025 09:00 AM PT (Pacific Time)       |                                                                                                       |                                                                                                                  |
 | #33     | September, 2025 09:00 AM PT (Pacific Time)    |                                                                                                       |                                                                                                                  |
 | #34     | October, 2025 09:00 AM PT (Pacific Time)      |                                                                                                       |                                                                                                                  |

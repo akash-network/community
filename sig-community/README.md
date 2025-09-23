@@ -15,6 +15,7 @@ githubLink: "https://github.com/akash-network/community/tree/main/sig-community"
 
 discordLink: "https://discord.com/invite/akash"
 ---
+<img width="2000" height="500" alt="sig-community" src="https://github.com/user-attachments/assets/10186e05-02e4-4d02-8eba-4f5bbe5c283a" />
 
 # Akash Network - Community Special Interest Group (SIG)
 
@@ -56,7 +57,7 @@ This SIG (Special Interest Group) is designed for Akash community members to pro
 | #26     | April 8, 2025 09:00 AM PT (Pacific Time)    | [Link]( https://github.com/akash-network/community/blob/main/sig-community/meetings/026-2025-04-08.md)| [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/026-2025-04-08.md#Transcript ) |[Link]( https://zrzz6j2ianqifdtb2tsbqzy52xoi3p6ejczs2mrax252mfozcula.arweave.net/zHOfJ0gDYIKOYdTkGGcd1dyNv8RIsy0yIL67phXZFRY)
 | #27     | May, 2025 09:00 AM PT (Pacific Time) | [Link]( https://github.com/akash-network/community/blob/main/sig-community/meetings/027-2025-05-13.md ) | [Link]( https://github.com/akash-network/community/blob/main/sig-community/meetings/027-2025-05-13.md#Transcript)|[Link]( https://y4f7t3xliruqay7syb2i2xfqm3gx7mu62usle4yibsvguamozo2q.arweave.net/xwv57utEaQBj8sB0jVywZs1_sp7VJLJzCAyqagGOy7U)
 | #28     | June, 2025 09:00 AM PT (Pacific Time)  | [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/028-2025-06-18.md) | [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/028-2025-06-18.md#Transcript) |[Link](https://d4rynkrp2lrnvoq7zbjjbskmtahwqndfxgczii4lolfayqponiuq.arweave.net/HyOGqi_S4tq6H8hSkMlMmA9oNGW5hZQji3LKDEHuaik) 
-| #29     | July , 2025 09:00 AM PT (Pacific Time)      | Coming Soon |  Coming Soon  | Coming Soon
+| #29     | July 08, 2025 09:00 AM PT (Pacific Time)      | [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/029-2025-07-8.md) |  [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/029-2025-07-8.md#Transcript)   | [Link](https://ik7oywijnc6zjozmhy3pnmapbzrwyel7zdzogfdm4j43tair7jaa.arweave.net/Qr7sWQlovZS7LD429rAPDmNsEX_I8uMUbOJ5uYER-kA) 
 | #30     | August, 2025 09:00 AM PT (Pacific Time)               |                                                                                                       |                                                                                                                  |
 | #31     | September, 2025 09:00 AM PT (Pacific Time)            |                                                                                                       |                                                                                                                  |
 | #32     | October, 2025 09:00 AM PT (Pacific Time)              |                                                                                                       |                                                                                                                  |
