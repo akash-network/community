@@ -23,7 +23,7 @@ The goal of this SIG is to ensure that AKT, the utility token of Akash Network, 
 
 Meetings happen every [First Wednesday of the Month](https://calendar.google.com/calendar/u/0?cid=Y18yNWU1ZTM3NDhlNGM0YWI3YTU1ZjQxZmJjNWViZWJjYzBhMDNiNDBmYjAyODc4NWYxNDE1OWJmYWViZWExMmUyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
-## Next Meeting: February 5th, 2025
+## Next Meeting: October 22nd, 2025
 
 | Meeting | Time                                                    | Notes                                                                                                 | Transcript                                                                                                       | Recording                                                                                                                    |
 | ------- | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -58,7 +58,7 @@ Meetings happen every [First Wednesday of the Month](https://calendar.google.com
 | #29     | July 09, 2025 09:00 AM PT (Pacific Time)    | [Link](https://github.com/akash-network/community/blob/main/sig-economics/meetings/029-2025-07-09.md) | [Link](https://github.com/akash-network/community/blob/main/sig-economics/meetings/029-2025-07-09.md#transcript)   |[Link](https://a73ixywfpjvmnmcddpd3mgee3amimpfojbdzhhnuenohlqa2wrla.arweave.net/B_aL4sV6asawQxvHthiE2BiGPK5IR5OdtCNcdcAatFY) 
 | #30     | August 06, 2025 09:00 AM PT (Pacific Time) | [Link](https://github.com/akash-network/community/blob/main/sig-economics/meetings/030-2025-08-06.md)  |  [Link](https://github.com/akash-network/community/blob/main/sig-economics/meetings/030-2025-08-06.md#transcript) |[Link](https://7q6b42az66vpcnyw5ppzag7bm3k2trtqeq5hiokyxxkgrk5aajpq.arweave.net/_DweaBn3qvE3FuvfkBvhZtWpxnAkOnQ5WL3UaKugAl8)  
 | #31     | September, 2025 09:00 AM PT (Pacific Time)  |  [Link](https://github.com/akash-network/community/blob/main/sig-economics/meetings/031-2025-09-03.md)   |   [Link](https://github.com/akash-network/community/blob/main/sig-economics/meetings/031-2025-09-03.md#transcript)   |[Link](https://4n52hef67b4x6azrqwtdrnw7jdfsitxoo73myjoyamamkdk7iweq.arweave.net/43ujkL74eX8DMYWmOLbfSMskTu539swl2AMAxQ1fRYk)  
-| #32     | October, 2025 09:00 AM PT (Pacific Time)                |                                                                                                       |                                                                                                                  |
+| #32     | October 22, 2025 09:00 AM PT (Pacific Time)                |                                                                                                       |                                                                                                                  |
 | #33     | November, 2025 09:00 AM PT (Pacific Time)               |                                                                                                       |                                                                                                                  |
 | #34     | December, 2025 09:00 AM PT (Pacific Time)               |                                                                                                       |                                                                                                                  |
 
@@ -66,7 +66,6 @@ Meetings happen every [First Wednesday of the Month](https://calendar.google.com
 
 ### Special Interest Group Meeting Leads:
 
-- Scott Hewitson, Director of Finance Overclock Labs
 - Cheng Wang, CFO Overclock Labs
 
 ## Contact
