@@ -43,6 +43,7 @@ This working group is to discuss events to attend, year by year, and ways to enc
 | #3      | Wednesday March 27, 2025 10:00 AM PT (Pacific Time)  | [Link](https://github.com/akash-network/community/blob/main/wg-events/meeting-2025/003-2025-03-27.md)   | [Link](https://github.com/akash-network/community/blob/main/wg-events/meeting-2025/003-2025-03-27.md#transcript) | [Link](https://okty77e3yjpo35riegowt4skzb2mjx7y7gxg74nuzqt7aibtmvfq.arweave.net/cqeP_JvCXu32KCGdafJKyHTE3_j5rm_xtMwn8CAzZUs)  |
 | #4      | Wednesday APril 27, 2025 10:00 AM PT (Pacific Time)  | Coming Soon| Coming Soon|| Coming Soon| |
 | #5      | Wednesday May 28, 2025 10:00 AM PT (Pacific Time)  | [Link](https://github.com/akash-network/community/blob/main/wg-events/meeting-2025/005-2025-05-28.md)   | [Link](https://github.com/akash-network/community/blob/main/wg-events/meeting-2025/005-2025-05-28.md#transcript) | [Link](https://iemn6dvbrq7mgifufl7vb2pwgpfjsrfx75tyzn3re4ls253zl67a.arweave.net/QRjfDqGMPsMgtCr_UOn2M8qZRLf_Z4y3cScXLXd5X74)  |
+| #6      | Wednesday October 10, 2025 10:00 AM PT (Pacific Time)  | [Link](https://github.com/akash-network/community/blob/main/wg-events/meeting-2025/009-2025-10-28.md)   | [Link](https://github.com/akash-network/community/blob/main/wg-events/meeting-2025/009-2025-10-28.md#transcript) | [Link](https://6qe34gkwg6ze7ugadgt3dpmkaca6nmr2z2pn3v54bm2vce6heqeq.arweave.net/9Am-GVY3sk_QwBmnsb2KAIHmsjrOnt3XvAs1URPHJAk)  |
 
 
 
