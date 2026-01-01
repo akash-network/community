@@ -63,6 +63,12 @@ This SIG (Special Interest Group) is designed for Akash community members to pro
 | #32     | October, 2025 09:00 AM PT (Pacific Time)      |  [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/032-2025-10-14.md)   | [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/032-2025-10-14.md#Transcript)   |[Link](https://ujmejk5nqhyq5na4vf3gdffxqichak4rrd6p6opqt4awpo7r4biq.arweave.net/olhEq62B8Q60HKl2YZS3ggRwK5GI_P858J8BZ7vx4FE) 
 | #33     | November, 2025 09:00 AM PT (Pacific Time)     |  [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/033-2025-11-12.md)     |     [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/033-2025-11-12.md#Transcript)      |[Link](https://3vgnej3s5uitaigszci7nm24njr33eqs4fuo35m5hsgzlm223jea.arweave.net/3UzSJ3LtETAg0siR9rNcamO9khLhaO31nTyNlbNa2kg) 
 | #34     | December, 2025 09:00 AM PT (Pacific Time)             |    [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/034-2025-12-09.md)    |      [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/034-2025-12-09.md#Transcript)     | [Link](https://ufn7cdv32d3pvemk7buqp7egj6hnjxlh3dilxk2swz2shwrtqgja.arweave.net/oVvxDrvQ9vqRivhpB_yGT47U3WfY0LurUrZ1I9ozgZI) 
+| #35     | January, 2026 09:00 AM PT (Pacific Time)               |                 |     |
+| #36     | February, 2026 09:00 AM PT (Pacific Time)               |                 |     |
+| #37     | March, 2026 09:00 AM PT (Pacific Time)               |                 |     |
+| #38     | April, 2026 09:00 AM PT (Pacific Time)               |                 |     |
+| #39     | May, 2026 09:00 AM PT (Pacific Time)               |                 |     |
+| #40     | June, 2026 09:00 AM PT (Pacific Time)               |                 |     |
 
 ## Leadership
 
