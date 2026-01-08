@@ -78,10 +78,16 @@ sig-support is responsible for defining mechanics of how support works at Akash 
 | #48     | September 24, 2025 09:00 AM PT (Pacific Time)         |  [Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/048-2025-09-24.md)   |  [Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/048-2025-09-24.md#transcript)  | [Link](https://mhdfnfbv7t72rsamldg3w5unmy5ti5xzzzmrrxnghoc3ivwlhjoa.arweave.net/YcZWlDX8_6jIDFjNu3aNZjs0dvnOWRjdpjuFtFbLOlw) 
 | #49     | October 22, 2025 09:00 AM PT (Pacific Time)           | [Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/049-2025-10-22.md)  |  [Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/049-2025-10-22.md#transcript)    |[Link](https://muftkznmfka5py3h6elugtu2n2veuf5ypteiiuobiwpah4vhebza.arweave.net/ZQs1ZawqgdfjZ_EXQ06abqpKF7h8yIRRwUWeA_KnIHI) 
 | #50     | November, 2025 09:00 AM PT (Pacific Time)          |  Coming Soon  |             |
-| #51     | December, 2025 09:00 AM PT (Pacific Time)          |                                                                                                     |                                                                                                                |
+| #51     | December, 2025 09:00 AM PT (Pacific Time)          |       Coming Soon                 |           |
+| #52     | January, 2026 09:00 AM PT (Pacific Time)          |                        |           |
+| #53     | February, 2026 09:00 AM PT (Pacific Time)          |                        |           |
+| #54     | March, 2026 09:00 AM PT (Pacific Time)          |                        |           |
+| #55     | April, 2026 09:00 AM PT (Pacific Time)          |                        |           |
+| #56     | May, 2026 09:00 AM PT (Pacific Time)          |                        |           |
+| #57     | June, 2026 09:00 AM PT (Pacific Time)          |                        |           |
+| #58     | July, 2026 09:00 AM PT (Pacific Time)          |                        |           |
 
 ## Leadership
-
 - Scott Carruthers, Overclock Labs
 - Artur Troian, Overclock Labs
 - Anil Murty, Overclock Labs
