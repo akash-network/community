@@ -62,9 +62,9 @@ The Akash Steering Committee serves as a key advisory body, regularly engaging w
 | Thursday, September 25th, 2025 11:00 AM PT (Pacific Time)       | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/032-2025-09-25.md) | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/032-2025-09-25.md#transcript)  |[Link](https://egpzre5lyyvv3t6zccybepnfsozyrlwsl4gaco4xzkaqkqdelmnq.arweave.net/IZ-Yk6vGK13P2RCwEj2lk7OIrtJfDAE7l8qBBUBkWxs) 
 | Thursday, October 30th, 2025 11:00 AM PT (Pacific Time)       | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/033-2025-10-30.md)  | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/033-2025-10-30.md#transcript)  |[Link](https://3fwjrrguifcnzncsrlwpzdjee3z7h43z63bhpedjbkljgigrx25q.arweave.net/2WyYxNRBRNy0Uors_I0kJvPz83n2wneQaQqWkyDRvrs) 
 | Thursday, December 4th, 2025 11:00 AM PT (Pacific Time)       | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/034-2025-12-04.md) |  [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/034-2025-12-04.md#transcript) |[Link](https://3da6tx65aum66ig4b4vm2zyprkectuzbxw7567ksn4dlxhx34jyq.arweave.net/2MHp390FGe8g3A8qzWcPiogp0yG9v999Um8Gu5774nE) 
-| Thursday, January 8th, 2026 11:00 AM PT (Pacific Time)       |  |  |
+| Thursday, January 8th, 2026 11:00 AM PT (Pacific Time)       |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/035-2026-01-08.md) | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/035-2026-01-08.md#transcript)  | [Link](https://bei2mvuhrfy7ywyp7dkrmzvo2tw52ame3ukhd4pkx22zwddpcp4q.arweave.net/CRGmVoeJcfxbD_jVFmau1O3dAYTdFHHx6r61mwxvE_k)
 | Thursday, January 29th, 2026 11:00 AM PT (Pacific Time)       |  |  |
-| Thursday, February, 2026 11:00 AM PT (Pacific Time)       |  |  |
+| Thursday, February 26th, 2026 11:00 AM PT (Pacific Time)       |  |  |
 | Thursday, March, 2026 11:00 AM PT (Pacific Time)       |  |  |
 | Thursday, April, 2026 11:00 AM PT (Pacific Time)       |  |  |
 | Thursday, May, 2026 11:00 AM PT (Pacific Time)       |  |  |
