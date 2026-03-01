@@ -8,6 +8,12 @@
 ## Community Pool Spend Reporting Table
 | Proposal Number | Pass Date | Name | Link to Discussions | Link to Proposal | Link to Report |
 | --- | --- | --- | --- | --- | --- |
+| 315 | February 3 2026 | PIP3.5 — GPU Capacity Maintenance via Provider Incentive Program | [Link](https://github.com/orgs/akash-network/discussions/1170) | [Link](https://www.mintscan.io/akash/proposals/315) | --- |
+| 314 | December 17 2025 | Akash Support Services - Q3 2025 - Funding Proposal | [Link](https://github.com/orgs/akash-network/discussions/1121) | [Link](https://www.mintscan.io/akash/proposals/314) | --- |
+| 313 | December 2 2025 | Akash Client Engineering - Q3 Funding Proposal | [Link](https://github.com/orgs/akash-network/discussions/1105) | [Link](https://www.mintscan.io/akash/proposals/313) | --- | 
+| 312 | December 2 2025 | Akash Core Engineering - Q3 [SDK53] - Funding Proposal | [Link](https://github.com/orgs/akash-network/discussions/1106) | [Link](https://www.mintscan.io/akash/proposals/312) | --- |
+| 310 | November 11 2025 | Zealy Q4 - Vote passed, distribution failed, bugged funds request | [Link](https://github.com/orgs/akash-network/discussions/1073) | [Link](https://www.mintscan.io/akash/proposals/310/) | --- |
+| 306 | October 20 2025 | Decentralized Cloud Foundation Operational Expenses | [Link](https://github.com/orgs/akash-network/discussions/1013) | [Link](https://www.mintscan.io/akash/proposals/306/) | --- |
 | 303 | September 11 2025 | Provider Incentive Pilot 3 | [Link](https://github.com/orgs/akash-network/discussions/1007) | [Link](https://www.mintscan.io/akash/proposals/303) | --- | 
 | 301 | August 20 2025 | Blockworks Research: Akash Data-Dashboard | [Link](https://github.com/orgs/akash-network/discussions/957) | [Link](https://www.mintscan.io/akash/proposals/301) | --- | 
 | 300 | August 20 2025 | 2025 Q3 Events Resourcing Proposal | [Link](https://github.com/orgs/akash-network/discussions/748) | [Link](https://www.mintscan.io/akash/proposals/300) | --- |
@@ -15,7 +21,7 @@
 | 297 | August 6 2025 | Akash Tenant Incentives Pilot | [Link](https://github.com/orgs/akash-network/discussions/978) | [Link](https://www.mintscan.io/akash/proposals/297/) | --- |
 | 296 | July 11 2025 | Zealy 2025 Program Q3 | [Link](https://github.com/orgs/akash-network/discussions/943) | [Link](https://www.mintscan.io/akash/proposals/296) | --- |
 | 295 | July 10 2025 | Akash Community Programs: Q3 2025 Proposal | [Link](https://github.com/orgs/akash-network/discussions/753) | [Link](https://www.mintscan.io/akash/proposals/295) | [Link](https://lookerstudio.google.com/u/0/reporting/e1f2e12c-98d7-4850-9d7d-e799f21d26e2/page/qxqKF) |
-| 293 | July 2 2025 | 2025 H2 Community Growth Marketing | [Link](https://github.com/orgs/akash-network/discussions/932) | [Link](https://www.mintscan.io/akash/proposals/293) | --- |
+| 293 | July 2 2025 | 2025 H2 Community Growth Marketing | [Link](https://github.com/orgs/akash-network/discussions/932) | [Link](https://www.mintscan.io/akash/proposals/293) | [Link](https://lookerstudio.google.com/reporting/356d2de8-904c-4350-8f26-8baeddb6f5f5/page/qxqKF)|
 | 292 | June 24 2025 | H1 2025 AEP Support Services | [Link](https://github.com/orgs/akash-network/discussions/930) | [Link](https://www.mintscan.io/akash/proposals/292) | [Link](https://lookerstudio.google.com/u/0/reporting/bf5f07f0-3c95-4cdb-94cb-3805e32e4587/page/aasRF/edit) |
 | 291 | June 18 2025 | De-AI Hub | --- | [Link](https://www.mintscan.io/akash/proposals/291) | [Link](https://lookerstudio.google.com/u/0/reporting/76e0294c-0dca-49bb-ade8-74b24d45701f/page/TulUF/edit) | 
 | 290 | June 11 2025 | AEP 62, 63, & 64 - New Features and Quality of Life Improvements for the Akash Network | [Link](https://github.com/orgs/akash-network/discussions/914) | [Link](https://www.mintscan.io/akash/proposals/290) | [Link](https://lookerstudio.google.com/u/0/reporting/deb1faf0-63cd-4666-b061-3b5f371cd02e/page/aasRF) |
