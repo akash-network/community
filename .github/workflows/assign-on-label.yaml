@@ -2,17 +2,16 @@ name: Assign team on label
 
 on:
   issues:
-    types: [labeled] # Trigger the workflow when an issue is labeled
+    types: [labeled]
 
 jobs:
   assign-team:
     runs-on: ubuntu-latest
     permissions:
-      issues: write # Necessary to modify issue assignees
-      pull-requests: write # Can be useful if the action supports PRs too
+      issues: write
+      pull-requests: write
     steps:
-      - name: "Assign team based on label"
-        uses: toshimaru/label-based-reviewer-auto-assign-action@v1 # Use the actual action version
+      - name: Assign team based on label
+        uses: kentaro-m/auto-assign-action@v1.2.5
         with:
           repo-token: "${{ secrets.GITHUB_TOKEN }}"
-          config-path: ".github/label-actions.yml"
