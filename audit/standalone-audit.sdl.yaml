@@ -10,7 +10,7 @@ version: "2.0"
 
 services:
   provider-audit:
-    image: zblocker64/overclock-test-deployment:0.3.0
+    image: zblocker64/overclock-test-deployment:0.3.1
     env:
       - AUDIT_STANDALONE_UI=1
       - AUDIT_HTTP_BIND=0.0.0.0
