@@ -65,8 +65,8 @@ The Akash Steering Committee serves as a key advisory body, regularly engaging w
 | Thursday, January 8th, 2026 11:00 AM PT (Pacific Time)       |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/035-2026-01-08.md) | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/035-2026-01-08.md#transcript)  | [Link](https://bei2mvuhrfy7ywyp7dkrmzvo2tw52ame3ukhd4pkx22zwddpcp4q.arweave.net/CRGmVoeJcfxbD_jVFmau1O3dAYTdFHHx6r61mwxvE_k)
 | Thursday, January 29th, 2026 11:00 AM PT (Pacific Time)       |[Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/036-2026-01-29.md)  | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/036-2026-01-29.md#transcript) |[Link](https://iwwi4gddwnj6zlohxn3aiwad4nl6rhgleq4bxpkurmn6luyluawq.arweave.net/RayOGGOzU-ytx7t2BFgD41fonMskOBu9VIsb5dMLoC0)
 | Thursday, February 26th, 2026 11:00 AM PT (Pacific Time)       | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/037-2026-02-26.md) |  [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/037-2026-02-26.md#transcript) | [Link](https://ned3qb33v265bnwylnnw5lzusntaa6snjdzwhu6ia7l45odtm5fq.arweave.net/aQe4B3uuvdC22Ftbbq80k2YAek1I82PTyAfXzrhzZ0s) 
-| Thursday, March, 2026 11:00 AM PT (Pacific Time)       |  |  |
-| Thursday, April, 2026 11:00 AM PT (Pacific Time)       |  |  |
+| Thursday, March 26th, 2026 11:00 AM PT (Pacific Time)       |  |  |
+| Thursday, April 30th, 2026 11:00 AM PT (Pacific Time)       |  |  |
 | Thursday, May, 2026 11:00 AM PT (Pacific Time)       |  |  |
 | Thursday, June, 2026 11:00 AM PT (Pacific Time)       |  |  |
 | Thursday, July 2026 11:00 AM PT (Pacific Time)       |  |  |
@@ -89,7 +89,6 @@ The Akash Steering Committee serves as a key advisory body, regularly engaging w
 
 The Steering Commitee is initially comprised of the following members who have the most familiarity with Akash Network.
 
-- Anil Murty, Overclock Labs
 - Artur Troian, Overclock Labs
 - Greg Osuri, Overclock Labs
 - Scott Caruthers, Overclock Labs
