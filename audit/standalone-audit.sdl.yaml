@@ -1,0 +1,75 @@
+# Akash SDL (validated against https://console.akash.network/sdl-schema.yaml)
+# Stack Definition Language v2 — shareable audit (app :8080, ingress :80, no S3).
+# Lives in this repo at audit/standalone-audit.sdl.yaml
+#
+# Tune: image tag, AUDIT_PROVIDER_ID, gpu model, resources, pricing, storage classes.
+# Mount paths for volumes are only under services.*.params.storage (not on profile storage items).
+
+---
+version: "2.0"
+
+services:
+  provider-audit:
+    image: zblocker64/overclock-test-deployment:0.3.0
+    env:
+      - AUDIT_STANDALONE_UI=1
+      - AUDIT_HTTP_BIND=0.0.0.0
+      - AUDIT_HTTP_PORT=8080
+      - AUDIT_PROVIDER_ID=akash1REPLACE_WITH_PROVIDER_OWNER
+      - AUDIT_TIMEOUT_SECONDS=3600
+      - AUDIT_PV_MOUNT_PATH=/data
+      - AUDIT_RAM_REQUIRED=true
+      - AUDIT_RAM_MOUNT_PATH=/dev/shm
+    params:
+      storage:
+        data:
+          mount: /data
+          readOnly: false
+        shm:
+          mount: /dev/shm
+    expose:
+      - port: 8080
+        as: 80
+        to:
+          - global: true
+
+profiles:
+  compute:
+    provider-audit:
+      resources:
+        cpu:
+          units: 8
+        memory:
+          size: 16Gi
+        storage:
+          - size: 100Gi
+          - name: data
+            size: 50Gi
+            attributes:
+              persistent: true
+              class: beta3
+          - name: shm
+            size: 10Gi
+            attributes:
+              persistent: false
+              class: ram
+        gpu:
+          units: 1
+          attributes:
+            vendor:
+              nvidia:
+  placement:
+    akash:
+      attributes:
+        host: akash
+      pricing:
+        provider-audit:
+          denom: uact
+          amount: 100000
+
+deployment:
+  provider-audit:
+    akash:
+      profile: provider-audit
+      count: 1
+

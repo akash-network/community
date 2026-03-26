@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This proposal is intended to be a starting point for discussion in the [sig-economics][sig-economics] to propose a working group to complete the design and implementation of ideas presented in this proposal after a rigourous review and feedback from the community. The proposal is not intended to be a final version of the Akash Network Economics 2.0, but rather a starting point.
+This proposal is intended to be a starting point for discussion in the [sig-economics][sig-economics] to propose a working group to complete the design and implementation of ideas presented in this proposal after a rigorous review and feedback from the community. The proposal is not intended to be a final version of the Akash Network Economics 2.0, but rather a starting point.
 
 ## Motivation
 
@@ -12,7 +12,7 @@ Limitations of the first version of Akash economics:
 
 * The Akash Network requires AKT to pay for hosting, and the price is determined by agreement between the provider and tenant when they begin the lease. This can be a problem if a workload like a website needs to run for a long time because AKT prices could differ significantly over its duration, leaving either the tenant or the provider paying too much or too little compared to what was initially agreed upon.
 
-* Akash Network is in its infancy with early Product Market Fit where with a growing demand but not yet suffcient for providers to commit large amounts of compute. 
+* Akash Network is in its infancy with early Product Market Fit where with a growing demand but not yet sufficient for providers to commit large amounts of compute. 
 * The community fund is too small to incentivize the growth of the Akash Network.
 * The AKT token needs to accrue value beyond incentives to ensure the security of the network.
 

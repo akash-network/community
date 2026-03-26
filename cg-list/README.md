@@ -54,7 +54,7 @@ Inactive groups are moved to akash-network/community/archive and groups without 
 
 ## Steering Committee (SC)
 
-### The [Steering Commitee](../committee-steering/README.md) is initially comprised of the following members who have the most familiarity with Akash Network. 
+### The [Steering Committee](../committee-steering/README.md) is initially comprised of the following members who have the most familiarity with Akash Network. 
 
 - Adam Bozanich, Overclock Labs
 - Anil Murty, Overclock Labs
@@ -62,4 +62,4 @@ Inactive groups are moved to akash-network/community/archive and groups without 
 - Greg Osuri, Overclock Labs
 - Scott Caruthers, Overclock Labs
 
-The Next Steering Committee meeting is Thursday, May 4th 26, 2023 from 11am-12pm pacific time. To listen in on future commitee meetings [Join here.](https://meet.google.com/iet-tdcf-ivh?authuser=0)
+The Next Steering Committee meeting is Thursday, May 4th 26, 2023 from 11am-12pm pacific time. To listen in on future committee meetings [Join here.](https://meet.google.com/iet-tdcf-ivh?authuser=0)

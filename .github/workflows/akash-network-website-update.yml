@@ -1,0 +1,22 @@
+name: Trigger Groups Update
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "sig-*/**"
+      - "wg-*/**"
+      - "committee-steering/**"
+  workflow_dispatch:
+
+jobs:
+  notify-changes:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Update Workflow
+        uses: peter-evans/repository-dispatch@v2
+        with:
+          token: ${{ secrets.WORKFLOW_PAT }}
+          repository: akash-network/website
+          event-type: community-groups-changed

@@ -79,7 +79,7 @@ These are data center providers that are NOT interested in crypto but have GPU c
 
 #### ML & AI Users
 
-There are mutiple subsegments when it comes to users building ML & AI applications
+There are multiple subsegments when it comes to users building ML & AI applications
 
 1. **Users training their own AI models**: These users will typically require very high performance GPUs that will be hard to source and typically they are part of large enough organizations (like OpenAI or Tesla or Google) and are unlikely to use Akash GPUs for training. This is NOT a user segment we want to target (at least initially).
 2. **Users tuning an existing (trained) AI model**: This *may* be a user segment we can target, depending on what the GPU types they need.
@@ -160,7 +160,7 @@ This is a starting poing that needs to be fleshed more:
 
 ## Kubernetes (and GPU vendor specific) Context
 
-This is additional research that is helpful to undertstand how we came up with the approach outlined in the initial part of this document
+This is additional research that is helpful to understand how we came up with the approach outlined in the initial part of this document
 
 Since our providers are essentially Kubernetes clusters and tenant workloads are Kubernetes deployments, it is important to understand the current state of GPU support in Kubernetes and its limitations, because we will essentially be inheriting those limitations in our GPU solution.
 
