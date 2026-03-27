@@ -2,7 +2,7 @@
 # Stack Definition Language v2 — shareable audit (app :8080, ingress :80, no S3).
 # Lives in this repo at audit/standalone-audit.sdl.yaml
 #
-# Tune: image tag, AUDIT_PROVIDER_ID, gpu model, resources, pricing, storage classes.
+# Tune: image tag, AUDIT_PROVIDER_ID, AUDIT_GPU_ENABLED (off by default; use auto or 1 for GPU), gpu model, resources, pricing, storage classes.
 # Mount paths for volumes are only under services.*.params.storage (not on profile storage items).
 
 ---
@@ -10,7 +10,7 @@ version: "2.0"
 
 services:
   provider-audit:
-    image: zblocker64/overclock-test-deployment:0.3.1
+    image: zblocker64/overclock-test-deployment:0.3.3
     env:
       - AUDIT_STANDALONE_UI=1
       - AUDIT_HTTP_BIND=0.0.0.0
@@ -20,6 +20,7 @@ services:
       - AUDIT_PV_MOUNT_PATH=/data
       - AUDIT_RAM_REQUIRED=true
       - AUDIT_RAM_MOUNT_PATH=/dev/shm
+      - AUDIT_GPU_ENABLED=true
     params:
       storage:
         data:
