@@ -5,8 +5,8 @@
 #
 # Required repository secret:
 #   WORKFLOW_PAT — a Personal Access Token with permission to send a
-#                  repository_dispatch to akash-network/website. See SECRETS.md
-#                  in this directory for rotation steps and scope details.
+#                  repository_dispatch to akash-network/website. See
+#                  ../SECRETS.md for rotation steps and scope details.
 #
 # If this step starts failing with "Bad credentials", the PAT has expired or
 # been revoked and must be rotated.

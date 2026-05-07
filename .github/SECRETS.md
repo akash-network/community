@@ -1,11 +1,11 @@
 # Workflow Secrets
 
-This file documents the repository secrets the workflows in this directory
-depend on, and how to rotate them when they expire.
+This file documents the repository secrets the GitHub Actions workflows in
+this repo depend on, and how to rotate them when they expire.
 
 ## `WORKFLOW_PAT`
 
-**Used by:** [`akash-network-website-update.yml`](./akash-network-website-update.yml)
+**Used by:** [`akash-network-website-update.yml`](./workflows/akash-network-website-update.yml)
 
 **Purpose:** Sends a `repository_dispatch` event to `akash-network/website`
 when SIG / WG / committee group docs change here, so the website's
