@@ -1,3 +1,16 @@
+# Notifies akash-network/website when SIG/WG/committee group docs change here,
+# so the website can pull the updated README.md files into its content collection.
+#
+# Receiving workflow: akash-network/website/.github/workflows/akash-community-groups.yml
+#
+# Required repository secret:
+#   WORKFLOW_PAT — a Personal Access Token with permission to send a
+#                  repository_dispatch to akash-network/website. See SECRETS.md
+#                  in this directory for rotation steps and scope details.
+#
+# If this step starts failing with "Bad credentials", the PAT has expired or
+# been revoked and must be rotated.
+
 name: Trigger Groups Update
 
 on:
@@ -15,8 +28,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Trigger Update Workflow
-        uses: peter-evans/repository-dispatch@v2
+        uses: peter-evans/repository-dispatch@v3
         with:
           token: ${{ secrets.WORKFLOW_PAT }}
           repository: akash-network/website
           event-type: community-groups-changed
+          client-payload: |
+            {
+              "source_repo": "${{ github.repository }}",
+              "source_sha": "${{ github.sha }}",
+              "source_ref": "${{ github.ref }}",
+              "actor": "${{ github.actor }}",
+              "run_id": "${{ github.run_id }}",
+              "run_url": "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+            }
