@@ -9,7 +9,7 @@
 | Proposal Number | Pass Date | Name | Link to Discussions | Link to Proposal | Link to Report |
 | --- | --- | --- | --- | --- | --- |
 | 315 | February 3 2026 | PIP3.5 — GPU Capacity Maintenance via Provider Incentive Program | [Link](https://github.com/orgs/akash-network/discussions/1170) | [Link](https://www.mintscan.io/akash/proposals/315) | --- |
-| 314 | December 17 2025 | Akash Support Services - Q3 2025 - Funding Proposal | [Link](https://github.com/orgs/akash-network/discussions/1121) | [Link](https://www.mintscan.io/akash/proposals/314) | --- |
+| 314 | December 17 2025 | Akash Support Services - Q3 2025 - Funding Proposal | [Link](https://github.com/orgs/akash-network/discussions/1121) | [Link](https://www.mintscan.io/akash/proposals/314) | [Link](https://datastudio.google.com/reporting/12f3ad9d-ea5c-4dcc-a365-a7180d8d9bfe/page/qxqKF) |
 | 313 | December 2 2025 | Akash Client Engineering - Q3 Funding Proposal | [Link](https://github.com/orgs/akash-network/discussions/1105) | [Link](https://www.mintscan.io/akash/proposals/313) | --- | 
 | 312 | December 2 2025 | Akash Core Engineering - Q3 [SDK53] - Funding Proposal | [Link](https://github.com/orgs/akash-network/discussions/1106) | [Link](https://www.mintscan.io/akash/proposals/312) | --- |
 | 310 | November 11 2025 | Zealy Q4 - Vote passed, distribution failed, bugged funds request | [Link](https://github.com/orgs/akash-network/discussions/1073) | [Link](https://www.mintscan.io/akash/proposals/310/) | --- |
