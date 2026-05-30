@@ -65,9 +65,9 @@ This SIG (Special Interest Group) is designed for Akash community members to pro
 | #34     | December, 2025 09:00 AM PT (Pacific Time)             |    [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/034-2025-12-09.md)    |      [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/034-2025-12-09.md#Transcript)     | [Link](https://ufn7cdv32d3pvemk7buqp7egj6hnjxlh3dilxk2swz2shwrtqgja.arweave.net/oVvxDrvQ9vqRivhpB_yGT47U3WfY0LurUrZ1I9ozgZI) 
 | #35     | January 20, 2026 09:00 AM PT (Pacific Time)               |   [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/035-2026-01-20.md) | [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/035-2026-01-20.md#Transcript)   |[Link](https://fvk3swixi7kqqkjp5x7axz6tllotb76ohku4auzvq3sepc54mzuq.arweave.net/LVW5WRdH1QgpL-3-C-fTWt0w_846qcBTNYbkR4u8Zmk) 
 | #36     | February 10, 2026 09:00 AM PT (Pacific Time)               |   [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/036-2026-02-10.md)    |  [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/036-2026-02-10.md#Transcript)   |[Link](https://ysn4zp3gxrlurjx3tlas2vjib2juh5yjssibazols54bxkm44vhq.arweave.net/xJvMv2a8V0im-5rBLVUoDpND9wmUkBBly5d4G6mc5U8)
-| #37     | March, 2026 09:00 AM PT (Pacific Time)               |   Coming Soon              |     |
-| #38     | April, 2026 09:00 AM PT (Pacific Time)               |                 |     |
-| #39     | May, 2026 09:00 AM PT (Pacific Time)               |                 |     |
+| #37     | March 10, 2026 09:00 AM PT (Pacific Time)               |   [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/037-2026-03-10.md)  | [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/037-2026-03-10.md#Transcript)     | coming Soon
+| #38     | April 14, 2026 09:00 AM PT (Pacific Time)               |  [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/038-2026-04-14.md)    | [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/038-2026-04-14.md#Transcript)    |[Link](https://gsztd7zs2ej3b75g54te46hl2fofs537w6dzxoedyxzsrhd7yrrq.arweave.net/NLMx_zLRE7D_pu8mTnjr0VxZd3-3h5u4g8XzKJx_xGM) 
+| #39     | May, 2026 09:00 AM PT (Pacific Time)       | Coming soon      |     |
 | #40     | June, 2026 09:00 AM PT (Pacific Time)               |                 |     |
 
 ## Leadership

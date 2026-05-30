@@ -53,8 +53,8 @@ discordLink: "https://discord.com/invite/akash"
 | #34     | October 21, 2025 09:00 AM PT (Pacific Time)       |    [Link](https://github.com/akash-network/community/blob/main/sig-chain/meetings/030-2025-10-21.md)     | [Link](https://github.com/akash-network/community/blob/main/sig-chain/meetings/030-2025-10-21.md#transcript)  | [Link](https://gn53mbvydcauoeuoop4cgvmho6bvric4ldff2iczebcom4dlzula.arweave.net/M3u2BrgYgUcSjnP4I1WHd4NYoFxYyl0gWSBE5nBrzRY)  
 | #35     | January 13, 2026 09:00 AM PT (Pacific Time)               |  [Link](https://github.com/akash-network/community/blob/main/sig-chain/meetings/031-2026-01-13.md)              |    [Link](https://github.com/akash-network/community/blob/main/sig-chain/meetings/031-2026-01-13.md#transcript)            |[Link](https://uhhbgtxcjtm5zf2fre4la2vc57b7vre7covcoofvnjvburfzlqja.arweave.net/oc4TTuJM2dyXRYk4sGqi78P6xJ8Tqic4tWpqGkS5XBI)   
 | #36     | February 17, 2026 09:00 AM PT (Pacific Time)               |    [Link](https://github.com/akash-network/community/blob/main/sig-chain/meetings/032-2026-02-17.md)  |  [Link](https://github.com/akash-network/community/blob/main/sig-chain/meetings/032-2026-02-17.md#transcript)     |[Link](https://o4zxsszzsdph3mntezvgakv7oprcxn53wv6lteouxz3nayl5ri6a.arweave.net/dzN5SzmQ3n2xsyZqYCq_c-Irt7u1fLmR1L520GF9ijw) 
-| #38    | March, 2026 09:00 AM PT (Pacific Time)               |      |      |
-| #39    | April, 2026 09:00 AM PT (Pacific Time)               |      |      |
+| #38    | March 10, 2026 09:00 AM PT (Pacific Time)     |  [Link](https://github.com/akash-network/community/blob/main/sig-chain/meetings/033-2026-03-10.md)    |    [Link](https://github.com/akash-network/community/blob/main/sig-chain/meetings/033-2026-03-10.md#transcript)  | Coming soon
+| #39    | April, 2026 09:00 AM PT (Pacific Time)               |  Coming Soon    |      |
 | #40   | May, 2026 09:00 AM PT (Pacific Time)               |      |      |
 | #41   | June, 2026 09:00 AM PT (Pacific Time)               |      |      |
 
