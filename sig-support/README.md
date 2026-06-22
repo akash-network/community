@@ -86,6 +86,11 @@ sig-support is responsible for defining mechanics of how support works at Akash 
 | #56     | May, 2026 09:00 AM PT (Pacific Time)          |      Coming Soon                  |           |
 | #57     | June, 2026 09:00 AM PT (Pacific Time)          |                        |           |
 | #58     | July, 2026 09:00 AM PT (Pacific Time)          |                        |           |
+| #59     | August, 2026 09:00 AM PT (Pacific Time)          |                        |           |
+| #60     | September, 2026 09:00 AM PT (Pacific Time)          |                        |           |
+| #61     | October, 2026 09:00 AM PT (Pacific Time)          |                        |           |
+| #62     | Novemebr, 2026 09:00 AM PT (Pacific Time)          |                        |           |
+| #63     | Decemebr, 2026 09:00 AM PT (Pacific Time)          |                        |           |
 
 ## Leadership
 - Scott Carruthers, Overclock Labs
