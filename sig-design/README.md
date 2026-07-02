@@ -62,6 +62,11 @@ discordLink: "https://discord.com/invite/akash"
 | #33    | May, 2026 09:00 AM PT (Pacific Time)                |      Coming soon      |   |
 | #34    | June, 2026 09:00 AM PT (Pacific Time)                |            |   |
 | #35    | July, 2026 09:00 AM PT (Pacific Time)                |            |   |
+| #36   | August, 2026 09:00 AM PT (Pacific Time)                |            |   |
+| #37    | September, 2026 09:00 AM PT (Pacific Time)                |            |   |
+| #38    | October, 2026 09:00 AM PT (Pacific Time)                |            |   |
+| #39    | Novemebr, 2026 09:00 AM PT (Pacific Time)                |            |   |
+| #40    | Decemebr, 2026 09:00 AM PT (Pacific Time)                |            |   |
 
 ## Leadership
 
