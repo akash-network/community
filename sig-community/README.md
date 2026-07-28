@@ -68,7 +68,13 @@ This SIG (Special Interest Group) is designed for Akash community members to pro
 | #37     | March 10, 2026 09:00 AM PT (Pacific Time)               |   [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/037-2026-03-10.md)  | [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/037-2026-03-10.md#Transcript)     | coming Soon
 | #38     | April 14, 2026 09:00 AM PT (Pacific Time)               |  [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/038-2026-04-14.md)    | [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/038-2026-04-14.md#Transcript)    |[Link](https://gsztd7zs2ej3b75g54te46hl2fofs537w6dzxoedyxzsrhd7yrrq.arweave.net/NLMx_zLRE7D_pu8mTnjr0VxZd3-3h5u4g8XzKJx_xGM) 
 | #39     | May, 2026 09:00 AM PT (Pacific Time)       | Coming soon      |     |
-| #40     | June, 2026 09:00 AM PT (Pacific Time)               |                 |     |
+| #40     | June, 2026 09:00 AM PT (Pacific Time)               |   Coming Soon               |     |
+| #41     | July, 2026 09:00 AM PT (Pacific Time)               |                 |     |
+| #42     | August, 2026 09:00 AM PT (Pacific Time)               |                 |     |
+| #43     | September, 2026 09:00 AM PT (Pacific Time)               |                 |     |
+| #44     | October, 2026 09:00 AM PT (Pacific Time)               |                 |     |
+| #45     | Novemebr, 2026 09:00 AM PT (Pacific Time)               |                 |     |
+| #46     | December, 2026 09:00 AM PT (Pacific Time)               |                 |     |
 
 ## Leadership
 
