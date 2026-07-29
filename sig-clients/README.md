@@ -68,11 +68,10 @@ The goal of this SIG is to foster a community around each of these clients that 
 | #23     | November 05, 2025 09:00 AM PT (Pacific Time)        |  [Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/023-2025-11-05.md)  |   [Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/023-2025-11-05.md#transcript)  | [Link](https://x7buirxvbe6ojmyje4xnegwaibur24sc2jktzyc6i3724eb4hrya.arweave.net/v8NERvUJPOSzCScu0hrAQGkdckLSVTzgXkb_rhA8PHA) 
 | #24     | December 16, 2025 09:00 AM PT (Pacific Time)                |   [Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/024-2025-12-16.md)   | [Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/024-2025-12-16.md#transcript)      | [Link](https://bygbbcdyxizstu4ksiorinpvtixgzongni5ghprdbl3jwnmvkrna.arweave.net/DgwQiHi6MynTipIdFDX1mi5suaZqOmO-Iwr2mzWVVFo) 
 | #25    | February, 2026 09:00 AM PT (Pacific Time)          | [Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/025-2026-02-24.md)    | [Link](https://github.com/akash-network/community/blob/main/sig-clients/meetings/025-2026-02-24.md#transcript)    |[Link](https://q7igq3pzjm7jp5mz55ugju4ex2g7yzyffa5ssx3e6codppowc5ka.arweave.net/h9BobflLPpf1me9oZNOEvo38ZwUoOylfZPCcN73WF1Q)  
-| #26     | March, 2026 09:00 AM PT (Pacific Time)          |                        |           |
-| #27     | April, 2026 09:00 AM PT (Pacific Time)          |                        |           |
-| #28     | May, 2026 09:00 AM PT (Pacific Time)          |                        |           |
-| #29     | June, 2026 09:00 AM PT (Pacific Time)          |                        |           |
-| #30     | July, 2026 09:00 AM PT (Pacific Time)          |                        |           |
+| #26    | April, 2026 09:00 AM PT (Pacific Time)          |     coming soon                   |           |
+| #27     | May, 2026 09:00 AM PT (Pacific Time)          |                        |           |
+| #28     | June, 2026 09:00 AM PT (Pacific Time)          |                        |           |
+| #29     | July, 2026 09:00 AM PT (Pacific Time)          |                        |           |
 
 
 ## Leadership
