@@ -86,8 +86,8 @@ sig-support is responsible for defining mechanics of how support works at Akash 
 | #56     | May 20, 2026 09:00 AM PT (Pacific Time)          |      [Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/056-2026-05-20.md)    |    [Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/056-2026-05-20.md#transcript)          |[Link](https://3a4fyb2wko7b5lfm645gs6owasj7dot22ifwocqyamz6u5p2vscq.arweave.net/2DhcB1ZTvh6srPc6aXnWBJPxunrSC2cKGAMz6nX6rIU)   
 | #57     | June 24, 2026 09:00 AM PT (Pacific Time)    |    [Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/057-2026-06-24.md)     |     [Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/057-2026-06-24.md#transcript)    | [Link](https://fdomsuqjjsenactrunnik7tfk67inq4hplcmoykjyf42vyel22wq.arweave.net/KNzJUglMiNAKcaNahX5lV76Gw4d6xMdhScF5quCL1q0) 
 | #58     | July 15, 2026 09:00 AM PT (Pacific Time)          |          [Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/058-2026-07-15.md)     |     [Link](https://github.com/akash-network/community/blob/main/sig-support/meetings/058-2026-07-15.md#transcript)         | Coming Soon  
-| #59     | August, 2026 09:00 AM PT (Pacific Time)          |                        |           |
-| #60     | September, 2026 09:00 AM PT (Pacific Time)          |                        |           |
+| #59     | August, 2026 09:00 AM PT (Pacific Time)          |     Coming Soon                   |           |
+| #60     | September, 2026 09:00 AM PT (Pacific Time)          | Coming Soon                       |           |
 | #61     | October, 2026 09:00 AM PT (Pacific Time)          |                        |           |
 | #62     | Novemebr, 2026 09:00 AM PT (Pacific Time)          |                        |           |
 | #63     | Decemebr, 2026 09:00 AM PT (Pacific Time)          |                        |           |

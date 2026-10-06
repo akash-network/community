@@ -70,8 +70,8 @@ This SIG (Special Interest Group) is designed for Akash community members to pro
 | #39     | May 12, 2026 09:00 AM PT (Pacific Time)       | [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/039-2026-05-12.md)      |  [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/039-2026-05-12.md#Transcript)    |[Link](https://viczpxiz27qiyt4ma5suurefqwhdzfurjnir6iw5ybwd54k2wyeq.arweave.net/qgWX3RnX4IxPjAdlSkSFhY48lpFLUR8i3cBsPvFatgk) 
 | #40     | June 09, 2026 09:00 AM PT (Pacific Time)               |   [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/040-2026-06-09.md)   | [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/040-2026-06-09.md#Transcript)     |[Link](https://7aezhfkz6xp4esvzzrl4ro2mrayuu2r6tci7ulbnjcrh72b3lokq.arweave.net/-AmTlVn138JKucxXyLtMiDFKaj6YkfosLUiif-g7W5U) 
 | #41     | July 14, 2026 09:00 AM PT (Pacific Time)               | [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/041-2026-07-14.md)     | [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/041-2026-07-09.md#Transcript)     | coming soon 
-| #42     | August, 2026 09:00 AM PT (Pacific Time)               |                 |     |
-| #43     | September, 2026 09:00 AM PT (Pacific Time)               |                 |     |
+| #42     | August 11, 2026 09:00 AM PT (Pacific Time)               |   [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/042-2026-08-11.md)              | [Link](https://github.com/akash-network/community/blob/main/sig-community/meetings/042-2026-08-11.md#transcript)       | Coming soon
+| #43     | September, 2026 09:00 AM PT (Pacific Time)               |   Coming soon    |     |
 | #44     | October, 2026 09:00 AM PT (Pacific Time)               |                 |     |
 | #45     | Novemebr, 2026 09:00 AM PT (Pacific Time)               |                 |     |
 | #46     | December, 2026 09:00 AM PT (Pacific Time)               |                 |     |
