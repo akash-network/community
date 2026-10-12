@@ -66,10 +66,9 @@ Meetings usually happens every [First Wednesday of the Month](https://calendar.g
 | #38     | June 17, 2026 09:00 AM PT (Pacific Time)               | [Link](https://github.com/akash-network/community/blob/main/sig-economics/meetings/038-2026-06-17.md)                |  [Link](https://github.com/akash-network/community/blob/main/sig-economics/meetings/038-2026-06-17.md#Transcript)     |[Link](https://cqxmdalinz2sh2zek5kfbnsl6c53ybslo4ldxgjgvg5pcjfeddya.arweave.net/FC7BgWhudSPrJFdUULZL8Lu8Bkt3FjuZJqm68SSkGPA)  
 | #39     | July, 2026 09:00 AM PT (Pacific Time)               |  [Link](https://github.com/akash-network/community/blob/main/sig-economics/meetings/039-2026-07-23.md)                |  [Link](https://github.com/akash-network/community/blob/main/sig-economics/meetings/039-2026-07-23.md#Transcript)    |[Link](https://2kgrxaeshjspm4b72vuh6uoy54wfg45xytgw535kyobik6y333ea.arweave.net/0o0bgJI6ZPZwP9Vof1HY7yxTc7fEzW7vqsOChXsb3sg) 
 | #40     | August 26th, 2026 09:00 AM PT (Pacific Time)               |                 |     |
-| #41     | September, 2026 09:00 AM PT (Pacific Time)               |                 |     |
-| #42     | October, 2026 09:00 AM PT (Pacific Time)               |                 |     |
-| #43     | Novemeber, 2026 09:00 AM PT (Pacific Time)               |                 |     |
-| #44     | December, 2026 09:00 AM PT (Pacific Time)               |                 |     |
+| #41     | October 8, 2026 09:00 AM PT (Pacific Time)               |                 |     |
+| #42     | Novemeber, 2026 09:00 AM PT (Pacific Time)               |                 |     |
+| #43     | December, 2026 09:00 AM PT (Pacific Time)               |                 |     |
 
 
 
