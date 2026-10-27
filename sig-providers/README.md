@@ -71,8 +71,8 @@ Provider SIG covers everything pertinent to Providers on Akash Network. This inc
 | #40     | April 22, 2026 09:00 AM PT (Pacific Time)    |  [Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/039-2026-04-22.md)      |   [Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/039-2026-04-22.md#Transcript)   |[Link](https://4zvi6qdyy3my6utk2z6akf5djktl4dqty4nyznpx42ez337mgfla.arweave.net/5mqPQHjG2Y9SatZ8BRejSqa-DhPHG4y19-aJne_sMVY)  
 | #41     | May, 2026 09:00 AM PT (Pacific Time)    |    Coming Soon    |           |
 | #42     | June, 2026 09:00 AM PT (Pacific Time)    |   coming Soon     |           |
-| #42     | July, 2026 09:00 AM PT (Pacific Time)    |        |           |
-| #42     | August, 2026 09:00 AM PT (Pacific Time)    |        |           |
+| #42     | July, 2026 09:00 AM PT (Pacific Time)    | [Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/042-2026-07-22.md)    | [Link](https://github.com/akash-network/community/blob/main/sig-providers/meetings/042-2026-07-22.md#transcript)   | Coming Soon 
+| #42     | August, 2026 09:00 AM PT (Pacific Time)    | Coming Soon       |           |
 | #42     | Septemebr, 2026 09:00 AM PT (Pacific Time)    |        |           |
 | #42     | October, 2026 09:00 AM PT (Pacific Time)    |        |           |
 | #42     | November, 2026 09:00 AM PT (Pacific Time)    |        |           |

@@ -61,11 +61,10 @@ discordLink: "https://discord.com/invite/akash"
 | #32     | March 18, 2026 09:00 AM PT (Pacific Time)      |  [Link](https://github.com/akash-network/community/blob/main/sig-design/meetings/032-2026-03-18.md)     |  [Link](https://github.com/akash-network/community/blob/main/sig-design/meetings/032-2026-03-18.md#transcript)   | Coming Soon
 | #33    | May 21, 2026 09:00 AM PT (Pacific Time)                |     [Link](https://github.com/akash-network/community/blob/main/sig-design/meetings/033-2026-05-21.md)     | [Link](https://github.com/akash-network/community/blob/main/sig-design/meetings/033-2026-05-21.md#transcript)   |[Link](https://g4cmydrp5zlgn6olnuki5d5viascoogsp5ogvvg23exgwhrgjrnq.arweave.net/NwTMDi_uVmb5y20Ujo-1QCQnONJ_XGrU2tkuax4mTFs) 
 | #34    | July, 2026 09:00 AM PT (Pacific Time)                | [Link](https://github.com/akash-network/community/blob/main/sig-design/meetings/034-2026-07-22.md)           | [Link](https://github.com/akash-network/community/blob/main/sig-design/meetings/034-2026-07-22.md#transcript)  | Coming Soon
-| #35   | August, 2026 09:00 AM PT (Pacific Time)                |            |   |
-| #36    | September, 2026 09:00 AM PT (Pacific Time)                |            |   |
-| #37    | October, 2026 09:00 AM PT (Pacific Time)                |            |   |
-| #38    | Novemebr, 2026 09:00 AM PT (Pacific Time)                |            |   |
-| #39    | Decemebr, 2026 09:00 AM PT (Pacific Time)                |            |   |
+| #35    | September, 2026 09:00 AM PT (Pacific Time)                |  Coming Soon          |   |
+| #36    | October, 2026 09:00 AM PT (Pacific Time)                |            |   |
+| #37    | Novemebr, 2026 09:00 AM PT (Pacific Time)                |            |   |
+| #38    | Decemebr, 2026 09:00 AM PT (Pacific Time)                |            |   |
 
 ## Leadership
 
