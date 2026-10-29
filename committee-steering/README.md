@@ -71,7 +71,7 @@ The Akash Steering Committee serves as a key advisory body, regularly engaging w
 | Thursday, July 9th, 2026 11:00 AM PT (Pacific Time)       | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/041-2026-07-09.md) | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/041-2026-07-09.md#transcript) | Coming Soon
 | Thursday, August 6th, 2026 11:00 AM PT (Pacific Time)       | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/042-2026-08-06.md)  | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/042-2026-08-06.md#transcript)   | [Link]() 
 | Thursday, September 3rd, 2026 11:00 AM PT (Pacific Time)       | Coming Soon  | Coming Soon  | Coming Soon
-| Thursday, October 22nd, 2026 11:00 AM PT (Pacific Time)       |  |  |
+| Thursday, October 29th, 2026 11:00 AM PT (Pacific Time)       |  |  |
 | Thursday, November 2026 11:00 AM PT (Pacific Time)       |  |  |
 | Thursday, Decmer 2026 11:00 AM PT (Pacific Time)       |  |  |
 
@@ -95,4 +95,4 @@ The Steering Commitee is initially comprised of the following members who have t
 
 - Artur Troian, Overclock Labs
 - Greg Osuri, Overclock Labs
-- Scott Caruthers, Overclock Labs
+- Cheng Wang, Overclock Labs
