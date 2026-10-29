@@ -70,7 +70,7 @@ The Akash Steering Committee serves as a key advisory body, regularly engaging w
 | Thursday, June 4th, 2026 11:00 AM PT (Pacific Time)       | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/040-2026-06-04.md) | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/040-2026-06-04.md#transcript) | [Link](https://6ij2namq2g4nfyvoelwawxwbxwwqftjo3jvmuexq66e2ihkuyd2q.arweave.net/8hOmgZDRuNLiriLsC17Bva0CzS7aasoS8PeJpB1UwPU)
 | Thursday, July 9th, 2026 11:00 AM PT (Pacific Time)       | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/041-2026-07-09.md) | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/041-2026-07-09.md#transcript) | Coming Soon
 | Thursday, August 6th, 2026 11:00 AM PT (Pacific Time)       | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/042-2026-08-06.md)  | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/042-2026-08-06.md#transcript)   | [Link]() 
-| Thursday, September 3rd, 2026 11:00 AM PT (Pacific Time)       | Coming Soon  | Coming Soon  | Coming Soon
+| Thursday, September 3rd, 2026 11:00 AM PT (Pacific Time)       | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/043-2026-09-03.md) | [Link](https://github.com/akash-network/community/blob/main/committee-steering/meetings/043-2026-09-03.md#transcript)  | Coming Soon
 | Thursday, October 29th, 2026 11:00 AM PT (Pacific Time)       |  |  |
 | Thursday, November 2026 11:00 AM PT (Pacific Time)       |  |  |
 | Thursday, Decmer 2026 11:00 AM PT (Pacific Time)       |  |  |
