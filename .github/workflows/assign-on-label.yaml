@@ -2,17 +2,22 @@ name: Assign team on label
 
 on:
   issues:
-    types: [labeled] # Trigger the workflow when an issue is labeled
+    types: [labeled]
 
 jobs:
-  assign-team:
+  notify-team:
+    if: contains(github.event.label.name, 'Provider Audit')
     runs-on: ubuntu-latest
     permissions:
-      issues: write # Necessary to modify issue assignees
-      pull-requests: write # Can be useful if the action supports PRs too
+      issues: write
     steps:
-      - name: "Assign team based on label"
-        uses: toshimaru/label-based-reviewer-auto-assign-action@v1 # Use the actual action version
+      - name: Comment to notify team
+        uses: actions/github-script@v7
         with:
-          repo-token: "${{ secrets.GITHUB_TOKEN }}"
-          config-path: ".github/label-actions.yml"
+          script: |
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: 'Please review this Provider Audit request. @akash-network/codeowners-devops'
+            })
