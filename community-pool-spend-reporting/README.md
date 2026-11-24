@@ -8,16 +8,16 @@
 ## Community Pool Spend Reporting Table
 | Proposal Number | Pass Date | Name | Link to Discussions | Link to Proposal | Link to Report |
 | --- | --- | --- | --- | --- | --- |
-| 333 | July 30 2026 | Core Engineering – Q2 2026 Funding Proposal | [Link](https://github.com/orgs/akash-network/discussions/1462) | [Link](https://www.mintscan.io/akash/proposals/333) | --- |
-| 332 | July 30 2026 | Client Engineering – Q2 2026 Funding Proposal | [Link](https://github.com/orgs/akash-network/discussions/1463) | [Link](https://www.mintscan.io/akash/proposals/332) | --- |
-| 331 | July 30 2026 | AEP Support Services – Q2 2026 Funding Proposal | [Link](https://github.com/orgs/akash-network/discussions/1464) | [Link](https://www.mintscan.io/akash/proposals/331) | --- |
+| 333 | July 30 2026 | Core Engineering – Q2 2026 Funding Proposal | [Link](https://github.com/orgs/akash-network/discussions/1462) | [Link](https://www.mintscan.io/akash/proposals/333) | [Link](props-331-333-liquidation-report.md) |
+| 332 | July 30 2026 | Client Engineering – Q2 2026 Funding Proposal | [Link](https://github.com/orgs/akash-network/discussions/1463) | [Link](https://www.mintscan.io/akash/proposals/332) | [Link](props-331-333-liquidation-report.md) |
+| 331 | July 30 2026 | AEP Support Services – Q2 2026 Funding Proposal | [Link](https://github.com/orgs/akash-network/discussions/1464) | [Link](https://www.mintscan.io/akash/proposals/331) | [Link](props-331-333-liquidation-report.md) |
 | 330 | June 25 2026 | Akash Events 2026 Proposal | [Link](https://github.com/orgs/akash-network/discussions/1356) | [Link](https://www.mintscan.io/akash/proposals/330) | --- |
-| 325 | May 18 2026 | AEP Support Services – Q4 2025 / Q1 2026 Funding Proposal Part II | [Link](https://github.com/orgs/akash-network/discussions/1335) | [Link](https://www.mintscan.io/akash/proposals/325) | --- |
-| 324 | May 18 2026 | Client Engineering – Q4 2025 / Q1 2026 Funding Proposal Part II | [Link](https://github.com/orgs/akash-network/discussions/1334) | [Link](https://www.mintscan.io/akash/proposals/324) | --- |
-| 323 | May 18 2026 | Core Engineering – Q4 2025 / Q1 2026 Funding Proposal Part II | [Link](https://github.com/orgs/akash-network/discussions/1333) | [Link](https://www.mintscan.io/akash/proposals/323) | --- |
-| 321 | March 26 2026 | AEP Support Services Q4 2025 / Q1 2026 Funding Proposal Part I | [Link](https://github.com/orgs/akash-network/discussions/1239) | [Link](https://www.mintscan.io/akash/proposals/321) | --- |
-| 320 | March 26 2026 | Client Engineering Q4 2025 / Q1 2026 Funding Proposal Part I | [Link](https://github.com/orgs/akash-network/discussions/1240) | [Link](https://www.mintscan.io/akash/proposals/320) | --- |
-| 319 | March 26 2026 | Core Engineering Q4 2025 / Q1 2026 Funding Proposal Part I | [Link](https://github.com/orgs/akash-network/discussions/1241) | [Link](https://www.mintscan.io/akash/proposals/319) | --- |
+| 325 | May 18 2026 | AEP Support Services – Q4 2025 / Q1 2026 Funding Proposal Part II | [Link](https://github.com/orgs/akash-network/discussions/1335) | [Link](https://www.mintscan.io/akash/proposals/325) | [Link](props-323-325-liquidation-report.md) |
+| 324 | May 18 2026 | Client Engineering – Q4 2025 / Q1 2026 Funding Proposal Part II | [Link](https://github.com/orgs/akash-network/discussions/1334) | [Link](https://www.mintscan.io/akash/proposals/324) | [Link](props-323-325-liquidation-report.md) |
+| 323 | May 18 2026 | Core Engineering – Q4 2025 / Q1 2026 Funding Proposal Part II | [Link](https://github.com/orgs/akash-network/discussions/1333) | [Link](https://www.mintscan.io/akash/proposals/323) | [Link](props-323-325-liquidation-report.md) |
+| 321 | March 26 2026 | AEP Support Services Q4 2025 / Q1 2026 Funding Proposal Part I | [Link](https://github.com/orgs/akash-network/discussions/1239) | [Link](https://www.mintscan.io/akash/proposals/321) | [Link](props-319-321-liquidation-report.md) |
+| 320 | March 26 2026 | Client Engineering Q4 2025 / Q1 2026 Funding Proposal Part I | [Link](https://github.com/orgs/akash-network/discussions/1240) | [Link](https://www.mintscan.io/akash/proposals/320) | [Link](props-319-321-liquidation-report.md) |
+| 319 | March 26 2026 | Core Engineering Q4 2025 / Q1 2026 Funding Proposal Part I | [Link](https://github.com/orgs/akash-network/discussions/1241) | [Link](https://www.mintscan.io/akash/proposals/319) | [Link](props-319-321-liquidation-report.md) |
 | 316 | March 6 2026 | Maintain Current Market Making Liquidity and Depth | [Link](https://github.com/orgs/akash-network/discussions/1204) | [Link](https://www.mintscan.io/akash/proposals/316) | --- |
 | 315 | February 3 2026 | PIP3.5 — GPU Capacity Maintenance via Provider Incentive Program | [Link](https://github.com/orgs/akash-network/discussions/1170) | [Link](https://www.mintscan.io/akash/proposals/315) | --- |
 | 314 | December 17 2025 | Akash Support Services - Q3 2025 - Funding Proposal | [Link](https://github.com/orgs/akash-network/discussions/1121) | [Link](https://www.mintscan.io/akash/proposals/314) | [Link](https://datastudio.google.com/reporting/12f3ad9d-ea5c-4dcc-a365-a7180d8d9bfe/page/qxqKF) |
